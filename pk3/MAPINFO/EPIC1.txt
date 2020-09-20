@@ -1,0 +1,63 @@
+
+map EPIC01 "A fool's paradise"
+{
+sky1 = "EPIC18"
+next = "EPIC02"
+music = "D_EP11"
+InterMusic = "D_EP16"
+ExitPic = "INTREPIC"
+EnterPic = "TTLEPIC1"
+titlepatch = "EPIC100"
+}
+
+map EPIC02 "Sand-storm"
+{
+sky1 = "EPIC18"
+next = "EPIC03"
+music = "D_EP12"
+InterMusic = "D_EP16"
+ExitPic = "INTREPIC"
+EnterPic = "TTLEPIC1"
+titlepatch = "EPIC101"
+}
+
+
+map EPIC03 "Arc of the pendulum"
+{
+sky1 = "EPIC18"
+next = "EPIC04"
+music = "D_EP15"
+InterMusic = "D_EP16"
+ExitPic = "INTREPIC"
+EnterPic = "TTLEPIC1"
+titlepatch = "EPIC102"
+nojump
+}
+
+
+map EPIC04 "The Helltrain"
+{
+sky1 = "EPIC18"
+next = "EPIC05"
+music = "D_EP14"
+InterMusic = "D_EP16"
+ExitPic = "INTREPIC"
+EnterPic = "TTLEPIC1"
+titlepatch = "EPIC103"
+allowjump
+}
+
+
+map EPIC05 "The Citadel"
+{
+sky1 = "EPIC18"
+next = "VR"
+music = "D_EP15"
+InterMusic = "D_EP17"
+ExitPic = "INTREPIC"
+EnterPic = "TTLEPIC1"
+titlepatch = "EPIC104"
+sucktime = 1337
+}
+
+

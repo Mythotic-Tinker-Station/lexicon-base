@@ -24,3 +24,9 @@
 // DOOM:README3		= "Page 3 of a readme file";				// (optional) Page 3
 // DOOM:README256	= "Page 256 of a readme file";				// (optional) (there can be a max of 256 pages for each mapset)
 
+EPIC:NAME			= "Epic";
+EPIC:DESCRIPTION	= "Epic is a five-level WAD released in October 2007";
+EPIC:CREDITS		= "Eternal";
+EPIC:MAPCOUNT		= "5";
+EPIC:STARTMAP		= "EPIC01";
+EPIC:THUMBNAIL		= "EPICTP";
