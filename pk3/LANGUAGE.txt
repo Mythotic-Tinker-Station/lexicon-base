@@ -1,0 +1,26 @@
+
+
+
+
+
+[default]
+// To add a mapset do add the following information for lexicon to gather for each mapset
+// format: <acronym>:<key>
+//
+// DOOM:NAME		= "DOOM 2";									// The name of the mapset
+// DOOM:DESCRIPTION = "The original Doom 2 maps.";				// A description of the mapset
+// DOOM:CREDITS		= "ID Software.";							// Who made the mapset
+// DOOM:MAPCOUNT	= "32";										// Number of maps this mapset has
+// DOOM:STARTMAP	= "MAP01";									// The name of the first map of this mapset
+// DOOM:THUMBNAIL	= "IMAGENAME";								// An image to display for the voting UI(still being worked on)
+//
+// DOOM:PREVIEW1	= "IMAGENAME";								// (optional) an image to display as a preview
+// DOOM:PREVIEW2	= "IMAGENAME";								// (optional) preview 2
+// DOOM:PREVIEW3	= "IMAGENAME";								// (optional) preview 3
+// DOOM:PREVIEW32	= "IMAGENAME";								// (optional) (there can be a max of 32 previews for each mapset)
+//
+// DOOM:README1		= "Page 1 of a readme file";				// (optional) Page 1 of a readme file
+// DOOM:README2		= "Page 2 of a readme file";				// (optional) Page 2
+// DOOM:README3		= "Page 3 of a readme file";				// (optional) Page 3
+// DOOM:README256	= "Page 256 of a readme file";				// (optional) (there can be a max of 256 pages for each mapset)
+
