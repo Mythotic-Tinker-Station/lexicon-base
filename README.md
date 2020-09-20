@@ -1,11 +1,11 @@
-# Project Name
-Information about the project
+# Lexicon Base Map Pack
+This Repo contains the main map pack to be used for lexicon. This set will only contain a subset of mapsets. This file is required to run along side lexicon itself
 
 ## How to build the pk3?
-Add info
+Will put info later
 
 ## Where can I play this?
-Add info
+Will put info later
 
 ## Credits
 
