@@ -1,15 +1,21 @@
 #import "../../compiler/lib/zcommon.bcs"
 #library "MAIN"
 
+#if 1
+#define ACRONYM_COUNT 1
 
+int acronym_list[ACRONYM_COUNT] =
+{
+	"MAYH"
+};
 
 // This script runs on map load(should have a unique name for each expansion set
 Script "LEXICON_BASE_EXPANSION" Open
 {
-	// only run on the hub map
-	if(GetLevelInfo(LEVELINFO_LEVELNUM) == 99)
+	for(int i = 0; i < ACRONYM_COUNT; i++)
 	{
-		// tell lexicon to add the mapset with acronym "DOOM"
-		ACS_NamedExecute("Lexicon_AddMapSet", 0, "EPIC");
+		ACS_NamedExecute("Lexicon_AddMapSet", 0, acronym_list[i]);
 	}
 }
+
+#endif

@@ -7,9 +7,11 @@
 // To add a mapset do add the following information for lexicon to gather for each mapset
 // format: <acronym>:<key>
 //
-EPIC_NAME			= "Epic";									// The name of the mapset
-EPIC_DESCRIPTION 	= "Epic Test mapset";						// A description of the mapset
-EPIC_CREDITS		= "Whoever Made Epic";						// Who made the mapset
-EPIC_MAPCOUNT		= "32";										// Number of maps this mapset has
-EPIC_STARTMAP		= "EPIC01";									// The name of the first map of this mapset
-EPIC_THUMBNAIL		= "IMAGENAME";								// An image to display for the voting UI(still being worked on)
+MAYH_NAME			= "Epic";									// The name of the mapset
+MAYH_DESCRIPTION 	= "Epic Test mapset";						// A description of the mapset
+MAYH_CREDITS		= "Whoever Made Epic";						// Who made the mapset
+MAYH_MAPCOUNT		= "32";										// Number of maps this mapset has
+MAYH_STARTMAP		= "EPIC01";									// The name of the first map of this mapset
+MAYH_THUMBNAIL		= "IMAGENAME";								// An image to display for the voting UI(still being worked on)
+
+MAYH_REPLACER0		= "ZombieMan:Archvile";
