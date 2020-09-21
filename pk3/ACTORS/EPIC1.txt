@@ -69,9 +69,6 @@ Actor Epic1A7 : DoomImp
 
 Actor Epic1A8 : ZombieMan
 {
-  SeeSound "epic2/grunt/sight"
-  DeathSound "epic2/grunt/death"
-  ActiveSound "epic2/grunt/active"
   States
   {
   Spawn:
@@ -111,9 +108,6 @@ Actor Epic1A8 : ZombieMan
 
 Actor Epic1A9 : ChaingunGuy
 {
-  SeeSound "epic2/grunt/sight"
-  DeathSound "epic2/grunt/death"
-  ActiveSound "epic2/grunt/active"
   States
   {
   Spawn:
@@ -196,9 +190,6 @@ Actor Epic1A10 : Revenant
 
 Actor Epic1A11 : ShotgunGuy
 {
-  SeeSound "epic2/grunt/sight"
-  DeathSound "epic2/grunt/death"
-  ActiveSound "epic2/grunt/active"
   States
   {
   Spawn:

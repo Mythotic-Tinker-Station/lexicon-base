@@ -30,3 +30,15 @@ EPIC:CREDITS		= "Eternal";
 EPIC:MAPCOUNT		= "5";
 EPIC:STARTMAP		= "EPIC01";
 EPIC:THUMBNAIL		= "EPICTP";
+
+EPIC_REPLACER0		= "GreenTorch:Epic1A1";
+EPIC_REPLACER1		= "TallGreenColumn:Epic1A2";
+EPIC_REPLACER2		= "ShortGreenColumn:Epic1A3";
+EPIC_REPLACER3		= "TallRedColumn:Epic1A4";
+EPIC_REPLACER4		= "ShortRedColumn:Epic1A5";
+EPIC_REPLACER5		= "SkullColumn:Epic1A6";
+EPIC_REPLACER6		= "DoomImp:Epic1A7";
+EPIC_REPLACER7		= "ZombieMan:Epic1A8";
+EPIC_REPLACER8		= "ChaingunGuy:Epic1A9";
+EPIC_REPLACER9		= "Revenant:Epic1A10";
+EPIC_REPLACER10		= "ShotgunGuy:Epic1A11";
