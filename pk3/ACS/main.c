@@ -6,7 +6,7 @@
 
 int acronym_list[ACRONYM_COUNT] =
 {
-	"MAYH"
+	"EPIC"
 };
 
 // This script runs on map load(should have a unique name for each expansion set
