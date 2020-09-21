@@ -164,7 +164,7 @@ Actor Epic1A10 : Revenant
   Missile:
     AAAW J 0 Bright A_FaceTarget
     AAAW J 10 Bright A_FaceTarget
-    AAAW K 10 A_SkelMissle
+    AAAW K 10 A_SkelMissile
     AAAW K 10 A_FaceTarget
     Goto See
   Pain:
