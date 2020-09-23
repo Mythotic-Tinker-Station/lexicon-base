@@ -1,0 +1,59 @@
+
+texture EPC20679 range EPC20686 tics 8
+texture EPC20767 range EPC20770 tics 8
+texture EPC21156 range EPC21157 tics 8
+texture EPC21159 range EPC21166 tics 8
+texture EPC21167 range EPC21169 tics 8
+texture EPC21170 range EPC21175 tics 8
+texture EPC21397 range EPC21399 tics 8 allowdecals
+texture EPC21415 range EPC21423 tics 8
+texture EPC22072 range EPC22075 tics 8
+flat EPC20488 range EPC20491 tics 8
+flat EPC20492 range EPC20495 tics 8
+flat EPC20496 range EPC20503 tics 8
+flat EPC20504 range EPC20509 tics 8
+flat EPC20510 range EPC20519 tics 8
+flat EPC20520 range EPC20527 tics 8
+flat EPC20528 range EPC20562 tics 8
+
+switch EPC21628 on pic EPC21668 tics 0
+switch EPC21629 on pic EPC21669 tics 0
+switch EPC21630 on pic EPC21670 tics 0
+switch EPC21631 on pic EPC21671 tics 0
+switch EPC21632 on pic EPC21672 tics 0
+switch EPC21633 on pic EPC21673 tics 0
+switch EPC21634 on pic EPC21674 tics 0
+switch EPC21635 on pic EPC21675 tics 0
+switch EPC21636 on pic EPC21676 tics 0
+switch EPC21637 on pic EPC21677 tics 0
+switch EPC21638 on pic EPC21678 tics 0
+switch EPC21639 on pic EPC21679 tics 0
+switch EPC21640 on pic EPC21680 tics 0
+switch EPC21641 on pic EPC21681 tics 0
+switch EPC21642 on pic EPC21682 tics 0
+switch EPC21643 on pic EPC21683 tics 0
+switch EPC21644 on pic EPC21684 tics 0
+switch EPC21645 on pic EPC21685 tics 0
+switch EPC21646 on pic EPC21686 tics 0
+switch EPC21647 on pic EPC21687 tics 0
+switch EPC21648 on pic EPC21688 tics 0
+switch EPC21649 on pic EPC21689 tics 0
+switch EPC21650 on pic EPC21690 tics 0
+switch EPC21651 on pic EPC21691 tics 0
+switch EPC21652 on pic EPC21692 tics 0
+switch EPC21653 on pic EPC21693 tics 0
+switch EPC21654 on pic EPC21694 tics 0
+switch EPC21655 on pic EPC21695 tics 0
+switch EPC21656 on pic EPC21696 tics 0
+switch EPC21657 on pic EPC21697 tics 0
+switch EPC21658 on pic EPC21698 tics 0
+switch EPC21659 on pic EPC21699 tics 0
+switch EPC21660 on pic EPC21700 tics 0
+switch EPC21661 on pic EPC21701 tics 0
+switch EPC21662 on pic EPC21702 tics 0
+switch EPC21663 on pic EPC21703 tics 0
+switch EPC21664 on pic EPC21704 tics 0
+switch EPC21665 on pic EPC21705 tics 0
+switch EPC21666 on pic EPC21706 tics 0
+switch EPC21667 on pic EPC21707 tics 0
+
