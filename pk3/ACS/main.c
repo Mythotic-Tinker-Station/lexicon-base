@@ -6,7 +6,8 @@
 
 int acronym_list[ACRONYM_COUNT] =
 {
-	"EPIC"
+	"EPIC",
+	"EPC2"
 };
 
 // This script runs on map load(should have a unique name for each expansion set
@@ -14,7 +15,8 @@ Script "LEXICON_BASE_EXPANSION" Open
 {
 	for(int i = 0; i < ACRONYM_COUNT; i++)
 	{
-		ACS_NamedExecute("Lexicon_AddMapSet", 0, acronym_list[i]);
+		ACS_NamedExecuteWithResult("Lexicon_AddMapSet", 0, acronym_list[i]);
+		ACS_NamedExecuteWithResult("Lexicon_AddMapSet", 1, acronym_list[i]);
 	}
 }
 
