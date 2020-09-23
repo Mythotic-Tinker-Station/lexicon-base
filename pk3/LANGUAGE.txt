@@ -35,6 +35,7 @@ EPIC_REPLACER7		= "ZombieMan:EpicZombieMan";
 EPIC_REPLACER8		= "ChaingunGuy:EpicChaingunGuy";
 EPIC_REPLACER9		= "Revenant:EpicRevenant";
 EPIC_REPLACER10		= "ShotgunGuy:EpicShotgunGuy";
+EPIC_REPLACER10		= "LostSoul:EpicLostSoul";
 
 // Epic2 Defs
 EPIC2_NAME			= "Epic 2";
