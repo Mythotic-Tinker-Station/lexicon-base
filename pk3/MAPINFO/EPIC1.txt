@@ -1,7 +1,7 @@
 
 map EPIC01 "A fool's paradise"
 {
-sky1 = "EPIC18"
+sky1 = "EPIC0559"
 next = "EPIC02"
 music = "D_EP11"
 InterMusic = "D_EP16"
@@ -12,7 +12,7 @@ titlepatch = "EPIC100"
 
 map EPIC02 "Sand-storm"
 {
-sky1 = "EPIC18"
+sky1 = "EPIC0559"
 next = "EPIC03"
 music = "D_EP12"
 InterMusic = "D_EP16"
@@ -24,7 +24,7 @@ titlepatch = "EPIC101"
 
 map EPIC03 "Arc of the pendulum"
 {
-sky1 = "EPIC18"
+sky1 = "EPIC0559"
 next = "EPIC04"
 music = "D_EP15"
 InterMusic = "D_EP16"
@@ -37,7 +37,7 @@ nojump
 
 map EPIC04 "The Helltrain"
 {
-sky1 = "EPIC18"
+sky1 = "EPIC0559"
 next = "EPIC05"
 music = "D_EP14"
 InterMusic = "D_EP16"
@@ -50,7 +50,7 @@ allowjump
 
 map EPIC05 "The Citadel"
 {
-sky1 = "EPIC18"
+sky1 = "EPIC0559"
 next = "VR"
 music = "D_EP15"
 InterMusic = "D_EP17"

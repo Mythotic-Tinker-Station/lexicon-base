@@ -49,4 +49,49 @@ EPC2_CREDITS		= "Eternal";
 EPC2_MAPCOUNT		= "32";
 EPC2_STARTMAP		= "EPC201";
 EPC2_THUMBNAIL		= "EPC2TP";
-// Need to define replacer info
+
+EPC2_REPLACER0		= "Revenant:EpicRevenant"; // epic1 and epic2's revs use the same sprites, no reason to duplicate
+EPC2_REPLACER1		= "RocketLauncher:Epic2RocketLauncher";
+EPC2_REPLACER2		= "Column:Epic2LightPole";
+EPC2_REPLACER3		= "ExplosiveBarrel:Epic2Barrel";
+EPC2_REPLACER4		= "TallGreenColumn:Epic2Artifact1";
+EPC2_REPLACER5		= "ShortGreenColumn:Epic2Artifact2";
+EPC2_REPLACER6		= "TallRedColumn:Epic2Artifact3";
+EPC2_REPLACER7		= "ShortRedColumn:Epic2Artifact4";
+EPC2_REPLACER8		= "HeadsOnAStick:Epic2Artifact5";
+EPC2_REPLACER9		= "HeadOnAStick:Epic2SkullOnAStick";
+EPC2_REPLACER10		= "SkullColumn:Epic2Statue1";
+EPC2_REPLACER11		= "DeadStick:Epic2Statue2";
+EPC2_REPLACER12		= "TechPillar:Epic2Tree";
+EPC2_REPLACER13		= "BurningBarrel:Epic2Torch";
+EPC2_REPLACER14		= "Meat3:Epic2HangingGore1";
+EPC2_REPLACER15		= "Meat5:Epic2HangingGore2";
+EPC2_REPLACER16		= "Meat4:Epic2CeilingLight";
+EPC2_REPLACER17		= "ShortBlueTorch:Epic2Crystal";
+EPC2_REPLACER18		= "ShortGreenTorch:Epic2ShortGreenTorch";
+EPC2_REPLACER19		= "Stalagtite:Epic2SmallPalmTree";
+EPC2_REPLACER20		= "ShortRedTorch:Epic2FacePotTorch";
+EPC2_REPLACER21		= "BlueTorch:Epic2WaterFountain";
+EPC2_REPLACER22		= "GreenTorch:Epic2SmallFire";
+EPC2_REPLACER23		= "TechLamp:Epic2BigFire";
+EPC2_REPLACER24		= "TechLamp2:Epic2Techlamp";
+EPC2_REPLACER25		= "TorchTree:Epic2Tree2";
+EPC2_REPLACER26		= "BigTree:Epic2Tree3";
+EPC2_REPLACER27		= "RedTorch:Epic2SmallTorch";
+EPC2_REPLACER28		= "Stimpack:Epic2Stimpack";
+EPC2_REPLACER29		= "Medikit:Epic2Medikit";
+EPC2_REPLACER30		= "HealthBonus:Epic2HealthBonus";
+EPC2_REPLACER31		= "ArmorBonus:Epic2ArmorBonus";
+EPC2_REPLACER32		= "Cell:Epic2Cell";
+EPC2_REPLACER33		= "CellPack:Epic2CellPack";
+EPC2_REPLACER34		= "Clip:Epic2Clip";
+EPC2_REPLACER35		= "AllMap:Epic2Map";
+EPC2_REPLACER36		= "PlasmaRifle:Epic2PlasmaRifle";
+EPC2_REPLACER37		= "RocketLauncher:Epic2RocketLauncher";
+EPC2_REPLACER38		= "DoomImp:Epic2Imp";
+EPC2_REPLACER39		= "PainElemental:Epic2PainElemental";
+EPC2_REPLACER40		= "WolfensteinSS:Epic2GhostThing";
+
+
+
+

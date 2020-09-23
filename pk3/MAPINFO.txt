@@ -2,3 +2,4 @@
 
 
 include "MAPINFO/EPIC1.TXT"
+include "MAPINFO/EPIC2.TXT"
