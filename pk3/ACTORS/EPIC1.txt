@@ -284,6 +284,16 @@ ACTOR EpicLostSoul : LostSoul
 }
 
 
-
-
+ACTOR EpicPainElemental : PainElemental
+{
+    States
+    {
+        Missile:
+            PAIN D 5 A_FaceTarget
+            PAIN E 5 A_FaceTarget
+            PAIN F 5 Bright A_FaceTarget
+            PAIN F 0 Bright A_PainAttack("EpicLostSoul")
+            Goto See
+    }
+}
 

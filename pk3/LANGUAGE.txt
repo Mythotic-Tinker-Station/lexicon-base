@@ -38,7 +38,7 @@ EPIC_REPLACER8		= "ChaingunGuy:EpicChaingunGuy";
 EPIC_REPLACER9		= "Revenant:EpicRevenant";
 EPIC_REPLACER10		= "ShotgunGuy:EpicShotgunGuy";
 EPIC_REPLACER11		= "LostSoul:EpicLostSoul";
-
+EPIC_REPLACER12		= "PainElemental:EpicPainElemental";
 
 /////////////////////////////////////////////////////////
 // Epic2 Defs
