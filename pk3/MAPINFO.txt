@@ -1,5 +1,6 @@
 
 
 
-include "MAPINFO/EPIC1.TXT"
-include "MAPINFO/EPIC2.TXT"
+include "MAPINFO/EPIC.TXT"
+include "MAPINFO/EPC2.TXT"
+include "MAPINFO/MAYH.TXT"

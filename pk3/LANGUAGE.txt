@@ -92,6 +92,15 @@ EPC2_REPLACER38		= "DoomImp:Epic2Imp";
 EPC2_REPLACER39		= "PainElemental:Epic2PainElemental";
 EPC2_REPLACER40		= "WolfensteinSS:Epic2GhostThing";
 
+/////////////////////////////////////////////////////////
+// Mayhem17 Defs
+/////////////////////////////////////////////////////////
 
+MAYH_NAME			= "Mayhem 17";
+MAYH_DESCRIPTION	= "Mayhem 17 is a 32-level Mario megawad.";
+MAYH_CREDITS		= "";
+MAYH_MAPCOUNT		= "32";
+MAYH_STARTMAP		= "MAYH01";
+MAYH_THUMBNAIL		= "MAYHTP";
 
 
