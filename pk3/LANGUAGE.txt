@@ -16,7 +16,9 @@
 
 //MAYH_REPLACER0		= "ZombieMan:Archvile";
 
+/////////////////////////////////////////////////////////
 // Epic Defs
+/////////////////////////////////////////////////////////
 EPIC_NAME			= "Epic";
 EPIC_DESCRIPTION	= "Epic is a five-level WAD released in October 2007";
 EPIC_CREDITS		= "Eternal";
@@ -37,11 +39,14 @@ EPIC_REPLACER9		= "Revenant:EpicRevenant";
 EPIC_REPLACER10		= "ShotgunGuy:EpicShotgunGuy";
 EPIC_REPLACER11		= "LostSoul:EpicLostSoul";
 
+
+/////////////////////////////////////////////////////////
 // Epic2 Defs
-EPIC2_NAME			= "Epic 2";
-EPIC2_DESCRIPTION	= "Epic 2 is a 32-level megawad released in November 2010. The mod features both "egyptian" and "alien" levels";
-EPIC2_CREDITS		= "Eternal";
-EPIC2_MAPCOUNT		= "32";
-EPIC2_STARTMAP		= "EPC201";
-EPIC2_THUMBNAIL		= "EPC2TP";
+/////////////////////////////////////////////////////////
+EPC2_NAME			= "Epic 2";
+EPC2_DESCRIPTION	= "Epic 2 is a 32-level megawad released in November 2010. The mod features both "egyptian" and "alien" levels";
+EPC2_CREDITS		= "Eternal";
+EPC2_MAPCOUNT		= "32";
+EPC2_STARTMAP		= "EPC201";
+EPC2_THUMBNAIL		= "EPC2TP";
 // Need to define replacer info

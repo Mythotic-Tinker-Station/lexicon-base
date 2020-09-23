@@ -2,7 +2,8 @@
 #library "MAIN"
 
 #if 1
-#define ACRONYM_COUNT 1
+
+#define ACRONYM_COUNT 2
 
 int acronym_list[ACRONYM_COUNT] =
 {
@@ -15,8 +16,7 @@ Script "LEXICON_BASE_EXPANSION" Open
 {
 	for(int i = 0; i < ACRONYM_COUNT; i++)
 	{
-		ACS_NamedExecuteWithResult("Lexicon_AddMapSet", 0, acronym_list[i]);
-		ACS_NamedExecuteWithResult("Lexicon_AddMapSet", 1, acronym_list[i]);
+		ACS_NamedExecuteWithResult("Lexicon_AddMapSet", acronym_list[i]);
 	}
 }
 
