@@ -2,31 +2,61 @@
 // Epic 1 //
 ////////////
 
-Actor Epic1A1 : GreenTorch 25094//GreenTorch 45
-{ States{ Spawn: AAAS RSTU 4 Bright
-Loop}}
+Actor EpicDemonFireStatue : GreenTorch
+{
+    States
+    {
+        Spawn: AAAS RSTU 4 Bright
+        Loop
+    }
+}
 
-Actor Epic1A2 : TallGreenColumn 25095//TallGreenColumn 30
-{ States{ Spawn: AAAS V -1
-Stop}}
+Actor EpicPillar : TallGreenColumn
+{
+    States
+    {
+        Spawn: AAAS V -1
+        Stop
+    }
+}
 
-Actor Epic1A3 : ShortGreenColumn 25096//ShortGreenColumn 31
-{ States{ Spawn: AAAS W -1
-Stop}}
+Actor EpicDemonSnakeStatue : ShortGreenColumn
+{
+    States
+    {
+        Spawn: AAAS W -1
+        Stop
+    }
+}
 
-Actor Epic1A4 : TallRedColumn 25097//TallRedColumn 32
-{ States{ Spawn: AAAS X -1
-Stop}}
+Actor EpicPalmTree : TallRedColumn
+{
+    States
+    {
+        Spawn: AAAS X -1
+        Stop
+    }
+}
 
-Actor Epic1A5 : ShortRedColumn 25098//ShortRedColumn 33
-{ States{ Spawn: AAAS Y -1
-Stop}}
+Actor EpicSmallPalmTree : ShortRedColumn
+{
+    States
+    {
+        Spawn: AAAS Y -1
+        Stop
+    }
+}
 
-Actor Epic1A6 : SkullColumn 25099//SkullColumn 37
-{ States{ Spawn: AAAS Z -1
-Stop}}
+Actor EpicTree : SkullColumn
+{
+    States
+    {
+        Spawn: AAAS Z -1
+        Stop
+    }
+}
 
-Actor Epic1A7 : DoomImp
+Actor EpicImp : DoomImp
 {
   States
   {
@@ -67,7 +97,7 @@ Actor Epic1A7 : DoomImp
   }
 }
 
-Actor Epic1A8 : ZombieMan
+Actor EpicZombieMan : ZombieMan
 {
   States
   {
@@ -106,7 +136,7 @@ Actor Epic1A8 : ZombieMan
   }
 }
 
-Actor Epic1A9 : ChaingunGuy
+Actor EpicChaingunGuy : ChaingunGuy
 {
   States
   {
@@ -145,7 +175,7 @@ Actor Epic1A9 : ChaingunGuy
   }
 }
 
-Actor Epic1A10 : Revenant
+Actor EpicRevenant : Revenant
 {
   States
   {
@@ -184,7 +214,7 @@ Actor Epic1A10 : Revenant
   }
 }
 
-Actor Epic1A11 : ShotgunGuy
+Actor EpicShotgunGuy : ShotgunGuy
 {
   States
   {
