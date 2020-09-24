@@ -1,0 +1,26 @@
+:MAYHDSDOROPN
+	play MAYH\DSDOROPN
+	nostopcutoff
+end
+
+:MAYHDSDORCLS
+	play MAYH\DSDORCLS
+	nostopcutoff
+end
+
+:MAYHDSBDOPN
+	play MAYH\DSBDOPN
+	nostopcutoff
+end
+
+:MAYHDSBDCLS
+	play MAYH\DSBDCLS
+	nostopcutoff
+end
+
+[MAYHDoor
+	0 MAYHDSDOROPN
+	1 MAYHDSDORCLS
+	2 MAYHDSBDOPN
+	3 MAYHDSBDCLS
+]
