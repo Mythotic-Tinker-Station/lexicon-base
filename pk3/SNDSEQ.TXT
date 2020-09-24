@@ -1,20 +1,20 @@
 :MAYHDSDOROPN
-	play MAYH\DSDOROPN
+	play MAYH/DSDOROPN
 	nostopcutoff
 end
 
 :MAYHDSDORCLS
-	play MAYH\DSDORCLS
+	play MAYH/DSDORCLS
 	nostopcutoff
 end
 
 :MAYHDSBDOPN
-	play MAYH\DSBDOPN
+	play MAYH/DSBDOPN
 	nostopcutoff
 end
 
 :MAYHDSBDCLS
-	play MAYH\DSBDCLS
+	play MAYH/DSBDCLS
 	nostopcutoff
 end
 
@@ -24,3 +24,17 @@ end
 	2 MAYHDSBDOPN
 	3 MAYHDSBDCLS
 ]
+
+:MAYHPlatform
+	playuntildone plats/pt1_strt
+	stopsound plats/pt1_stop
+end
+
+:MAYHFloor
+	playrepeat plats/pt1_mid
+	stopsound plats/pt1_stop
+end
+
+:MAYHCeiling
+	playrepeat plats/pt1_mid
+end
