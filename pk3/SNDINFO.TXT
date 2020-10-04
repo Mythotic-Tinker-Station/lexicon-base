@@ -9,7 +9,7 @@ EPC2/DSDOROPN				EPC20004 // Door1 Open
 EPC2/DSGETPOW				EPC20005 // Powerup pickup
 EPC2/DSITEMUP				EPC20006 // Item pickup
 EPC2/DSKEENDT				EPC20007 // Keen death sound
-EPC2/DSOOF				EPC20008 // Menu not available
+EPC2/DSOOF					EPC20008 // Menu not available
 EPC2/DSPISTOL				EPC20009 // Pistol/Chaingun Sound
 EPC2/DSPLASMA				EPC20010 // Plasma rifle sound
 EPC2/DSPODTH1				EPC20011 // Zombieman death
@@ -43,4 +43,4 @@ MAYH/DSKEENDT				MAYH0013 // Keen death sound
 MAYH/DSSSSIT				MAYH0014 // Wolfss Sight sound
 MAYH/DSKEENPN				MAYH0015 // Keen pain sound
 MAYH/DSSSDTH				MAYH0016 // Wolfss Death sound
-MAYH/WIND				MAYH0017 // Wind
+MAYH/WIND					MAYH0017 // Wind

@@ -21,7 +21,7 @@ Actor Mayhem17TurtleShell : WolfensteinSS
 		17EN ABCDEFGH 2 A_Chase
 		goto See
 	Pain:
-		TROO A -1 
+		TROO A -1
 		stop
 	Melee:
 		17EN A 0 A_SkelFist
@@ -29,16 +29,16 @@ Actor Mayhem17TurtleShell : WolfensteinSS
 		17EN ABCDEFGH 2 A_Chase
 		goto See
 	Missile:
-		TROO A -1 
+		TROO A -1
 		stop
 	Death:
 		17EN A 10 Bright A_PainAttack
 		goto Death
 	XDeath:
-		TROO A -1 
+		TROO A -1
 		stop
 	Raise:
-		TROO A -1 
+		TROO A -1
 		stop
 	}
 }
@@ -91,7 +91,7 @@ Actor MayhemBowser 25050
     }
 }
 
-Actor MayhemBowserCoop : MayhemBowser 25016
+Actor MayhemBowserCoop : MayhemBowser
 {
     Health 12000
 }
@@ -193,7 +193,7 @@ Actor Mayhem17BlueArmor : BlueArmor
   }
 }
 
-Actor Mayhem17BrainStem : BrainStem 25027 //81
+Actor Mayhem17BrainStem : BrainStem
 {
   States
   {
@@ -203,7 +203,7 @@ Actor Mayhem17BrainStem : BrainStem 25027 //81
   }
 }
 
-Actor Mayhem17EvilEye : EvilEye 25029 //41
+Actor Mayhem17EvilEye : EvilEye 25029
 {
   States
   {
@@ -213,7 +213,7 @@ Actor Mayhem17EvilEye : EvilEye 25029 //41
   }
 }
 
-Actor Mayhem17ShortGreenColumn : ShortGreenColumn 25030 //31
+Actor Mayhem17ShortGreenColumn : ShortGreenColumn
 {
   States
   {
@@ -223,7 +223,7 @@ Actor Mayhem17ShortGreenColumn : ShortGreenColumn 25030 //31
   }
 }
 
-Actor Mayhem17HeartColumn : HeartColumn 25031 //36
+Actor Mayhem17HeartColumn : HeartColumn
 {
   States
   {
@@ -233,7 +233,7 @@ Actor Mayhem17HeartColumn : HeartColumn 25031 //36
   }
 }
 
-Actor Mayhem17SkullColumn : SkullColumn 25032 //37
+Actor Mayhem17SkullColumn : SkullColumn
 {
   States
   {
@@ -243,7 +243,7 @@ Actor Mayhem17SkullColumn : SkullColumn 25032 //37
   }
 }
 
-Actor Mayhem17ShortRedColumn : ShortRedColumn 25033 //33
+Actor Mayhem17ShortRedColumn : ShortRedColumn
 {
   States
   {
@@ -253,7 +253,7 @@ Actor Mayhem17ShortRedColumn : ShortRedColumn 25033 //33
   }
 }
 
-Actor Mayhem17TallRedColumn : TallRedColumn 25034 //32
+Actor Mayhem17TallRedColumn : TallRedColumn
 {
   States
   {
@@ -263,7 +263,7 @@ Actor Mayhem17TallRedColumn : TallRedColumn 25034 //32
   }
 }
 
-Actor Mayhem17TallGreenColumn : TallGreenColumn 25035 //30
+Actor Mayhem17TallGreenColumn : TallGreenColumn
 {
   States
   {
@@ -273,7 +273,7 @@ Actor Mayhem17TallGreenColumn : TallGreenColumn 25035 //30
   }
 }
 
-Actor Mayhem17TechPillar : TechPillar 25036 //48
+Actor Mayhem17TechPillar : TechPillar
 {
   States
   {
@@ -283,7 +283,7 @@ Actor Mayhem17TechPillar : TechPillar 25036 //48
   }
 }
 
-Actor Mayhem17Torch : BloodyTwitch 25037 //49
+Actor Mayhem17Torch : BloodyTwitch
 {
   States
   {
@@ -296,7 +296,7 @@ Actor Mayhem17Torch : BloodyTwitch 25037 //49
   }
 }
 
-Actor Mayhem17TallPlant : ColonGibs 25038 //79
+Actor Mayhem17TallPlant : ColonGibs
 {
   States
   {
@@ -306,7 +306,7 @@ Actor Mayhem17TallPlant : ColonGibs 25038 //79
   }
 }
 
-Actor Mayhem17Pillar : HeadOnAStick 25039 //27
+Actor Mayhem17Pillar : HeadOnAStick
 {
   States
   {
@@ -316,7 +316,7 @@ Actor Mayhem17Pillar : HeadOnAStick 25039 //27
   }
 }
 
-Actor Mayhem17QBall : HeadsOnAStick 25040 //28
+Actor Mayhem17QBall : HeadsOnAStick
 {
   States
   {
@@ -326,7 +326,7 @@ Actor Mayhem17QBall : HeadsOnAStick 25040 //28
   }
 }
 
-Actor Mayhem17PlantTaller : DeadStick 25041 //25
+Actor Mayhem17PlantTaller : DeadStick
 {
   States
   {
@@ -336,7 +336,7 @@ Actor Mayhem17PlantTaller : DeadStick 25041 //25
   }
 }
 
-Actor Mayhem17ChomperThings : LiveStick 25042 //26
+Actor Mayhem17ChomperThings : LiveStick
 {
   States
   {
@@ -347,7 +347,7 @@ Actor Mayhem17ChomperThings : LiveStick 25042 //26
   }
 }
 
-Actor Mayhem17Stalagtite : Stalagtite 25044 //47
+Actor Mayhem17Stalagtite : Stalagtite
 {
   States
   {
@@ -357,7 +357,7 @@ Actor Mayhem17Stalagtite : Stalagtite 25044 //47
   }
 }
 
-Actor Mayhem17ShortRedTorch : ShortRedTorch 25045 //57
+Actor Mayhem17ShortRedTorch : ShortRedTorch
 {
   States
   {
@@ -367,7 +367,7 @@ Actor Mayhem17ShortRedTorch : ShortRedTorch 25045 //57
   }
 }
 
-Actor Mayhem17BigTree : BigTree 25046 //54
+Actor Mayhem17BigTree : BigTree
 {
   States
   {
@@ -377,7 +377,7 @@ Actor Mayhem17BigTree : BigTree 25046 //54
   }
 }
 
-Actor Mayhem17SmallTree : TorchTree 25047 //43
+Actor Mayhem17SmallTree : TorchTree
 {
   States
   {
@@ -387,7 +387,7 @@ Actor Mayhem17SmallTree : TorchTree 25047 //43
   }
 }
 
-Actor Mayhem17RedTorch : RedTorch 25048 //46
+Actor Mayhem17RedTorch : RedTorch
 {
   States
   {
@@ -448,7 +448,7 @@ Actor Mayhem17BlueKey : CustomInventory
   }
 }
 
-Actor Mayhem17RedCoin : Inventory 25017
+Actor Mayhem17RedCoin : Inventory
 {
   +INVENTORY.ALWAYSPICKUP
   +INVENTORY.AUTOACTIVATE

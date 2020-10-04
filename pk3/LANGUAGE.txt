@@ -103,4 +103,49 @@ MAYH_MAPCOUNT		= "32";
 MAYH_STARTMAP		= "MAYH01";
 MAYH_THUMBNAIL		= "MAYHTP";
 
+MAYH_REPLACER0		= "WolfensteinSS:Mayhem17TurtleShell";
+MAYH_REPLACER1		= "Soulsphere:Mayhem17Soulsphere";
+MAYH_REPLACER2		= "Megasphere:Mayhem17Megasphere";
+MAYH_REPLACER3		= "Berserk:Mayhem17Berserk";
+MAYH_REPLACER4		= "InvulnerabilitySphere:MayhemInvulnSphere";
+MAYH_REPLACER5		= "BlurSphere:Mayhem17BlurSphere";
+MAYH_REPLACER6		= "HealthBonus:Mayhem17HealthBonus";
+MAYH_REPLACER7		= "ArmorBonus:Mayhem17ArmorBonus";
+MAYH_REPLACER8		= "GreenArmor:Mayhem17GreenArmor";
+MAYH_REPLACER9		= "BlueArmor:Mayhem17BlueArmor";
+MAYH_REPLACER10		= "BrainStem:Mayhem17BrainStem";
+MAYH_REPLACER11		= "EvilEye:Mayhem17EvilEye";
+MAYH_REPLACER12		= "ShortGreenColumn:Mayhem17ShortGreenColumn";
+MAYH_REPLACER13		= "HeartColumn:Mayhem17HeartColumn";
+MAYH_REPLACER14		= "SkullColumn:Mayhem17SkullColumn";
+MAYH_REPLACER15		= "ShortRedColumn:Mayhem17ShortRedColumn";
+MAYH_REPLACER16		= "TallRedColumn:Mayhem17TallRedColumn";
+MAYH_REPLACER17		= "TallGreenColumn:Mayhem17TallGreenColumn";
+MAYH_REPLACER18		= "TechPillar:Mayhem17TechPillar";
+MAYH_REPLACER19		= "BloodyTwitch:Mayhem17Torch";
+MAYH_REPLACER20		= "ColonGibs:Mayhem17TallPlant";
+MAYH_REPLACER21		= "HeadOnAStick:Mayhem17Pillar";
+MAYH_REPLACER22		= "HeadsOnAStick:Mayhem17QBall";
+MAYH_REPLACER23		= "DeadStick:Mayhem17PlantTaller";
+MAYH_REPLACER24		= "LiveStick:Mayhem17ChomperThings";
+MAYH_REPLACER25		= "Stalagtite:Mayhem17Stalagtite";
+MAYH_REPLACER26		= "ShortRedTorch:Mayhem17ShortRedTorch";
+MAYH_REPLACER27		= "BigTree:Mayhem17BigTree";
+MAYH_REPLACER28		= "TorchTree:Mayhem17SmallTree";
+MAYH_REPLACER29		= "RedTorch:Mayhem17RedTorch";
+MAYH_REPLACER30		= "RedSkull:Mayhem17RedKey";
+MAYH_REPLACER31		= "YellowSkull:Mayhem17YellowKey";
+MAYH_REPLACER32		= "BlueSkull:Mayhem17BlueKey";
+MAYH_REPLACER33		= "RedCard:Mayhem17RedCoin";
+
+
+
+
+
+
+
+
+
+
+
 
