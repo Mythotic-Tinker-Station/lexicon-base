@@ -153,4 +153,4 @@ MAYH_REPLACER47		= "HellKnight:Mayhem17HellKnight";
 MAYH_REPLACER48		= "BlueTorch:Mayhem17BlueTorch";
 MAYH_REPLACER49		= "ShortBlueTorch:Mayhem17ShortBlueTorch";
 MAYH_REPLACER50		= "CommanderKeen:Mayhem17Bowser";
-
+MAYH_REPLACER51		= "ExplosiveBarrel:Mayhem17ExplosiveBarrel";

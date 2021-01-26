@@ -805,3 +805,22 @@ Actor Mayhem17ShortBlueTorch : ShortBlueTorch
 			Loop
 	}
 }
+
+Actor Mayhem17ExplosiveBarrel : ExplosiveBarrel
+{
+	States
+	{
+		Spawn:
+			M744 AB 6
+			Loop
+		Death:
+			M744 C 5 Bright
+			M744 D 5 Bright A_Scream
+			M744 E 5 Bright
+			M744 F 5 Bright A_Explode
+			M744 G 10 Bright
+			TNT1 A 1050 Bright A_BarrelDestroy
+			TNT1 A 5 A_Respawn
+			Wait
+	}
+}
