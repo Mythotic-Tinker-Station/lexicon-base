@@ -374,7 +374,7 @@ Actor Mayhem17Bowser
     }
 }
 
-Actor MayhemBowserCoop : MayhemBowser
+Actor Mayhem17BowserCoop : Mayhem17Bowser
 {
     Health 12000
 }
