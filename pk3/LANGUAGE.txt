@@ -103,49 +103,54 @@ MAYH_MAPCOUNT		= "32";
 MAYH_STARTMAP		= "MAYH01";
 MAYH_THUMBNAIL		= "MAYHTP";
 
-MAYH_REPLACER0		= "WolfensteinSS:Mayhem17TurtleShell";
-MAYH_REPLACER1		= "Soulsphere:Mayhem17Soulsphere";
-MAYH_REPLACER2		= "Megasphere:Mayhem17Megasphere";
-MAYH_REPLACER3		= "Berserk:Mayhem17Berserk";
-MAYH_REPLACER4		= "InvulnerabilitySphere:MayhemInvulnSphere";
-MAYH_REPLACER5		= "BlurSphere:Mayhem17BlurSphere";
-MAYH_REPLACER6		= "HealthBonus:Mayhem17HealthBonus";
-MAYH_REPLACER7		= "ArmorBonus:Mayhem17ArmorBonus";
-MAYH_REPLACER8		= "GreenArmor:Mayhem17GreenArmor";
-MAYH_REPLACER9		= "BlueArmor:Mayhem17BlueArmor";
-MAYH_REPLACER10		= "BrainStem:Mayhem17BrainStem";
-MAYH_REPLACER11		= "EvilEye:Mayhem17EvilEye";
-MAYH_REPLACER12		= "ShortGreenColumn:Mayhem17ShortGreenColumn";
-MAYH_REPLACER13		= "HeartColumn:Mayhem17HeartColumn";
-MAYH_REPLACER14		= "SkullColumn:Mayhem17SkullColumn";
-MAYH_REPLACER15		= "ShortRedColumn:Mayhem17ShortRedColumn";
-MAYH_REPLACER16		= "TallRedColumn:Mayhem17TallRedColumn";
-MAYH_REPLACER17		= "TallGreenColumn:Mayhem17TallGreenColumn";
-MAYH_REPLACER18		= "TechPillar:Mayhem17TechPillar";
-MAYH_REPLACER19		= "BloodyTwitch:Mayhem17Torch";
-MAYH_REPLACER20		= "ColonGibs:Mayhem17TallPlant";
-MAYH_REPLACER21		= "HeadOnAStick:Mayhem17Pillar";
-MAYH_REPLACER22		= "HeadsOnAStick:Mayhem17QBall";
-MAYH_REPLACER23		= "DeadStick:Mayhem17PlantTaller";
-MAYH_REPLACER24		= "LiveStick:Mayhem17ChomperThings";
-MAYH_REPLACER25		= "Stalagtite:Mayhem17Stalagtite";
-MAYH_REPLACER26		= "ShortRedTorch:Mayhem17ShortRedTorch";
-MAYH_REPLACER27		= "BigTree:Mayhem17BigTree";
-MAYH_REPLACER28		= "TorchTree:Mayhem17SmallTree";
-MAYH_REPLACER29		= "RedTorch:Mayhem17RedTorch";
-MAYH_REPLACER30		= "RedSkull:Mayhem17RedKey";
-MAYH_REPLACER31		= "YellowSkull:Mayhem17YellowKey";
-MAYH_REPLACER32		= "BlueSkull:Mayhem17BlueKey";
-MAYH_REPLACER33		= "RedCard:Mayhem17RedCoin";
-
-
-
-
-
-
-
-
-
-
-
+MAYH_REPLACER0		= "RocketAmmo:Mayhem17RocketAmmo";
+MAYH_REPLACER1		= "Soulsphere:Mayhem17RedMushroom";
+MAYH_REPLACER2		= "Megasphere:Mayhem17YellowMushroom";
+MAYH_REPLACER3		= "InvulnerabilitySphere:Mayhem17Star";
+MAYH_REPLACER4		= "Berserk:Mayhem17Berserk";
+MAYH_REPLACER5		= "RadSuit:Mayhem17RadSuit";
+MAYH_REPLACER6		= "BlurSphere:Mayhem17BlurSphere";
+MAYH_REPLACER7		= "HealthBonus:Mayhem17BlueCoin";
+MAYH_REPLACER9		= "ArmorBonus:Mayhem17Greencoin";
+MAYH_REPLACER10		= "RedCard:Mayhem17RedCoin";
+MAYH_REPLACER11		= "GreenArmor:Mayhem17GreenArmor";
+MAYH_REPLACER12		= "BlueArmor:Mayhem17BlueArmor";
+MAYH_REPLACER13		= "YellowSkull:Mayhem17YellowKey";
+MAYH_REPLACER14		= "BlueSkull:Mayhem17BlueKey";
+MAYH_REPLACER15		= "RedSkull:Mayhem17RedKey";
+MAYH_REPLACER16		= "Arachnotron:Mayhem17Arachnotron";
+MAYH_REPLACER17		= "Cyberdemon:Mayhem17Cyberdemon";
+MAYH_REPLACER18		= "BigTree:Mayhem17TallBush"
+MAYH_REPLACER19		= "TorchTree:Mayhem17TinyBush"
+MAYH_REPLACER20		= "Stalagtite:Mayhem17Rock"
+MAYH_REPLACER21		= "BrainStem:Mayhem17Plant"
+MAYH_REPLACER22		= "EvilEye:Mayhem17Pokey"
+MAYH_REPLACER23		= "TallGreenColumn:Mayhem17RedMushroomTree"
+MAYH_REPLACER24		= "ShortGreenColumn:Mayhem17GreenMushroomTree"
+MAYH_REPLACER25		= "TallRedColumn:Mayhem17TallBushSnowy"
+MAYH_REPLACER26		= "ShortRedColumn:Mayhem17Vase"
+MAYH_REPLACER27		= "HeartColumn:Mayhem17PalmTree"
+MAYH_REPLACER28		= "SkullColumn:Mayhem17TinyBushSnowy"
+MAYH_REPLACER29		= "TechPillar:Mayhem17StonePillar"
+MAYH_REPLACER30		= "ColonGibs:Mayhem17Vines"
+MAYH_REPLACER31		= "DeadStick:Mayhem17Cactus"
+MAYH_REPLACER32		= "HeadsOnAStick:Mayhem17QuestionSphere"
+MAYH_REPLACER33		= "HeadOnAStick:Mayhem17BowserPillar"
+MAYH_REPLACER34		= "LiveStick:Mayhem17Muncher"
+MAYH_REPLACER35		= "BloodyTwitch:Mayhem17HangingLantern"
+MAYH_REPLACER36		= "RedTorch:Mayhem17TallTorchPillar"
+MAYH_REPLACER37		= "ShortRedTorch:Mayhem17SmallTorchPillar"
+MAYH_REPLACER38		= "WolfensteinSS:Mayhem17TurtleShell";
+MAYH_REPLACER39		= "RocketLauncher:Mayhem17RocketLauncher";
+MAYH_REPLACER40		= "PlasmaRifle:Mayhem17PlasmaRifle";
+MAYH_REPLACER41		= "Pistol:Mayhem17Pistol";
+MAYH_REPLACER42		= "Shotgun:Mayhem17Shotgun";
+MAYH_REPLACER43		= "SuperShotgun:Mayhem17SuperShotgun";
+MAYH_REPLACER44		= "Chaingun:Mayhem17Chaingun";
+MAYH_REPLACER45		= "Chainsaw:Mayhem17Chainsaw";
+MAYH_REPLACER46		= "BaronOfHell:Mayhem17BaronOfHell";
+MAYH_REPLACER47		= "HellKnight:Mayhem17HellKnight";
+MAYH_REPLACER48		= "BlueTorch:Mayhem17BlueTorch";
+MAYH_REPLACER49		= "ShortBlueTorch:Mayhem17ShortBlueTorch";
+MAYH_REPLACER50		= "CommanderKeen:Mayhem17Bowser";
 
