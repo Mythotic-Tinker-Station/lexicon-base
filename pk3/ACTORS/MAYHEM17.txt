@@ -177,6 +177,7 @@ ACTOR Mayhem17BaronFireBall : BaronBall
 
 ACTOR Mayhem17FireBall : PlasmaBall
 {
+	SeeSound "MAYH/DSPLASMA";
 	States
 	{
 		Spawn:
@@ -190,6 +191,7 @@ ACTOR Mayhem17FireBall : PlasmaBall
 
 ACTOR Mayhem17BulletBill : Rocket
 {
+	SeeSound "MAYH/DSRLAUNC"
 	States
 	{
 		Spawn:
@@ -201,6 +203,7 @@ ACTOR Mayhem17BulletBill : Rocket
 
 ACTOR Mayhem17GreenFireBall : ArachnotronPlasma
 {
+	SeeSound "MAYH/DSPLASMA";
 	States
 	{
 		Spawn:
@@ -338,10 +341,10 @@ Actor Mayhem17Bowser
     +SOLID
     +SHOOTABLE
     +NOICEDEATH
-    SeeSound "mayhem17/bowssight"
-    AttackSound "mayhem17/bowsattack"
-    PainSound "mayhem17/bowspain"
-    DeathSound "mayhem17/bowsdeath"
+    SeeSound "MAYH/DSSSSIT"
+    AttackSound "MAYH/DSKEENDT"
+    PainSound "MAYH/DSKEENPN"
+    DeathSound "MAYH/DSSSDTH"
     Obituary "%o fell before King Koopa's might."
     States
     {
@@ -385,8 +388,8 @@ Actor Mayhem17BowserCoop : Mayhem17Bowser
 
 Actor Mayhem17RocketAmmo : RocketAmmo
 {
-	Inventory.PickupMessage "Bullet Bill!"
-	Inventory.PickupSound "mayhem17/p_pkup"
+	Inventory.PickupMessage "Bullet Bill"
+	Inventory.PickupSound "MAYH/DSGETPOW"
 	States
 	{
 		Spawn:
@@ -397,8 +400,8 @@ Actor Mayhem17RocketAmmo : RocketAmmo
 
 Actor Mayhem17RedMushroom : Soulsphere
 {
-	Inventory.PickupMessage "Super shroom!" // "Supercharge!"
-	Inventory.PickupSound "mayhem17/p_pkup"
+	Inventory.PickupMessage "Super Shroom" // "Supercharge!"
+	Inventory.PickupSound "MAYH/DSGETPOW"
 	States
 	{
 		Spawn:
@@ -409,8 +412,8 @@ Actor Mayhem17RedMushroom : Soulsphere
 
 Actor Mayhem17YellowMushroom : Megasphere
 {
-	Inventory.PickupMessage "Mega shroom!" // "MegaSphere!"
-	Inventory.PickupSound "mayhem17/p_pkup"
+	Inventory.PickupMessage "Mega Shroom" // "MegaSphere!"
+	Inventory.PickupSound "MAYH/DSGETPOW"
 	States
 	{
 		Spawn:
@@ -421,7 +424,8 @@ Actor Mayhem17YellowMushroom : Megasphere
 
 Actor Mayhem17Star : InvulnerabilitySphere
 {
-	Inventory.PickupSound "mayhem17/p_pkup"
+	Inventory.PickupMessage "Super Star"
+	Inventory.PickupSound "MAYH/DSGETPOW"
 	States
 	{
 		Spawn:
@@ -432,7 +436,8 @@ Actor Mayhem17Star : InvulnerabilitySphere
 
 Actor Mayhem17Berserk : Berserk
 {
-	Inventory.PickupSound "mayhem17/p_pkup"
+	Inventory.PickupMessage "Berserk"
+	Inventory.PickupSound "MAYH/DSGETPOW"
 	States
 	{
 		Spawn:
@@ -443,7 +448,8 @@ Actor Mayhem17Berserk : Berserk
 
 Actor Mayhem17RadSuit : RadSuit
 {
-	Inventory.PickupSound "mayhem17/p_pkup"
+	Inventory.PickupMessage "Tanooki Suit"
+	Inventory.PickupSound "MAYH/DSGETPOW"
 	States
 	{
 		Spawn:
@@ -454,7 +460,8 @@ Actor Mayhem17RadSuit : RadSuit
 
 Actor Mayhem17BlurSphere : BlurSphere
 {
-	Inventory.PickupSound "mayhem17/p_pkup"
+	Inventory.PickupMessage "Ghost Suit"
+	Inventory.PickupSound "MAYH/DSGETPOW"
 	States
 	{
 		Spawn:
@@ -465,8 +472,8 @@ Actor Mayhem17BlurSphere : BlurSphere
 
 Actor Mayhem17BlueCoin : HealthBonus
 {
-	Inventory.PickupMessage "Picked up a health coin."
-	Inventory.PickupSound "mayhem17/i_pkup"
+	Inventory.PickupMessage "Health Coin"
+	Inventory.PickupSound "MAYH/DSITEMUP"
 	States
 	{
 		Spawn:
@@ -477,8 +484,8 @@ Actor Mayhem17BlueCoin : HealthBonus
 
 Actor Mayhem17GreenCoin : ArmorBonus
 {
-	Inventory.PickupMessage "Picked up an armor coin." // "Picked up an armor bonus."
-	Inventory.PickupSound "mayhem17/i_pkup"
+	Inventory.PickupMessage "Armor Coin"
+	Inventory.PickupSound "MAYH/DSITEMUP"
 	States
 	{
 		Spawn:
@@ -494,7 +501,7 @@ Actor Mayhem17RedCoin : Inventory
 	+INVENTORY.NEVERRESPAWN
 	Inventory.MaxAmount 0
 	Inventory.PickupMessage "A mysterious red coin..."
-	Inventory.PickupSound "mayhem17/i_pkup"
+	Inventory.PickupSound "MAYH/DSITEMUP"
 	Inventory.UseSound ""
 	States
 	{
@@ -507,6 +514,8 @@ Actor Mayhem17RedCoin : Inventory
 
 Actor Mayhem17GreenArmor : GreenArmor
 {
+	Inventory.PickupMessage "Green Armor Shell."
+	Inventory.PickupSound "MAYH/DSITEMUP"
 	States
 	{
 		Spawn:
@@ -518,6 +527,8 @@ Actor Mayhem17GreenArmor : GreenArmor
 
 Actor Mayhem17BlueArmor : BlueArmor
 {
+	Inventory.PickupMessage "Blue Armor Shell."
+	Inventory.PickupSound "MAYH/DSITEMUP"
 	States
 	{
 		Spawn:
@@ -529,8 +540,8 @@ Actor Mayhem17BlueArmor : BlueArmor
 
 Actor Mayhem17YellowKey : CustomInventory
 {
-	Inventory.PickupMessage "Picked up a yellow key."
-	Inventory.PickupSound "mayhem17/i_pkup"
+	Inventory.PickupMessage "Yellow Key."
+	Inventory.PickupSound "MAYH/DSITEMUP"
 	+COUNTITEM
 	States
 	{
@@ -546,8 +557,8 @@ Actor Mayhem17YellowKey : CustomInventory
 
 Actor Mayhem17BlueKey : CustomInventory
 {
-	Inventory.PickupMessage "Picked up a blue key."
-	Inventory.PickupSound "mayhem17/i_pkup"
+	Inventory.PickupMessage "Blue Key."
+	Inventory.PickupSound "MAYH/DSITEMUP"
 	+COUNTITEM
 	States
 	{
@@ -563,8 +574,8 @@ Actor Mayhem17BlueKey : CustomInventory
 
 Actor Mayhem17RedKey : CustomInventory
 {
-	Inventory.PickupMessage "Picked up a red key."
-	Inventory.PickupSound "mayhem17/i_pkup"
+	Inventory.PickupMessage "Red Key."
+	Inventory.PickupSound "MAYH/DSITEMUP"
 	+COUNTITEM
 	States
 	{
@@ -811,14 +822,14 @@ Actor Mayhem17ExplosiveBarrel : ExplosiveBarrel
 	States
 	{
 		Spawn:
-			M744 AB 6
+			M745 AB 6
 			Loop
 		Death:
-			M744 C 5 Bright
-			M744 D 5 Bright A_Scream
-			M744 E 5 Bright
-			M744 F 5 Bright A_Explode
-			M744 G 10 Bright
+			M745 C 5 Bright
+			M745 D 5 Bright A_Scream
+			M745 E 5 Bright
+			M745 F 5 Bright A_Explode
+			M745 G 10 Bright
 			TNT1 A 1050 Bright A_BarrelDestroy
 			TNT1 A 5 A_Respawn
 			Wait
