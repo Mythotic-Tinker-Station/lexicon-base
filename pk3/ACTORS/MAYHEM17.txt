@@ -162,7 +162,7 @@ ACTOR Mayhem17PlasmaRifle : PlasmaRifle
 // Projectiles
 ////////////////////////////////////////////////////////////////////////////////
 
-ACTOR Mayhem17BaronFireBall : BaronBall
+ACTOR Mayhem17ImpFireBall : DoomImpBall
 {
 	States
 	{
@@ -177,7 +177,7 @@ ACTOR Mayhem17BaronFireBall : BaronBall
 
 ACTOR Mayhem17FireBall : PlasmaBall
 {
-	SeeSound "MAYH/DSPLASMA";
+	SeeSound "MAYH/DSPLASMA"
 	States
 	{
 		Spawn:
@@ -203,7 +203,7 @@ ACTOR Mayhem17BulletBill : Rocket
 
 ACTOR Mayhem17GreenFireBall : ArachnotronPlasma
 {
-	SeeSound "MAYH/DSPLASMA";
+	SeeSound "MAYH/DSPLASMA"
 	States
 	{
 		Spawn:
@@ -232,29 +232,18 @@ ACTOR Mayhem17Puff : BulletPuff
 // Enemies
 ////////////////////////////////////////////////////////////////////////////////
 
-ACTOR Mayhem17BaronOfHell : BaronOfHell
+ACTOR Mayhem17Imp : DoomImp
 {
 	States
 	{
 		Melee:
 		Missile:
-			BOSS EF 8 A_FaceTarget
-			BOSS G 8 A_CustomComboAttack("Mayhem17BaronFireBall", 32, 10 * random(1, 8), "baron/melee")
+			TROO EF 8 A_FaceTarget
+			TROO G 6 A_CustomComboAttack("Mayhem17ImpFireBall", 32, 3 * random(1, 8), "imp/melee")
 			Goto See
 	}
 }
 
-ACTOR Mayhem17HellKnight : HellKnight
-{
-	States
-	{
-		Melee:
-		Missile:
-			BOS2 EF 8 A_FaceTarget
-			BOS2 G 8 A_CustomComboAttack("Mayhem17BaronFireBall", 32, 10 * random(1, 8), "baron/melee")
-			Goto See
-	}
-}
 
 ACTOR Mayhem17Cyberdemon : Cyberdemon
 {
@@ -494,7 +483,7 @@ Actor Mayhem17GreenCoin : ArmorBonus
 	}
 }
 
-Actor Mayhem17RedCoin : Inventory
+Actor Mayhem17RedCoin : HealthBonus
 {
 	+INVENTORY.ALWAYSPICKUP
 	+INVENTORY.AUTOACTIVATE
