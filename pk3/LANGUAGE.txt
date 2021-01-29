@@ -5,6 +5,17 @@
 
 [default]
 /*
+
+	Thumbnail Making Process:
+		Res 1080p
+		Start first map of mapset
+		Hide hud, crosshair, ect
+		Press 1
+		Wait for pistol to fall completely off screen
+		Take screenshot
+		Scale screenshot to 10% (192x108)
+
+
 	To add a mapset do add the following information for lexicon to gather for each mapset
 
 	format: <acronym>_<key> = "string"
@@ -41,7 +52,7 @@ EPIC_DESCRIPTION	= "Epic is a five-level WAD released in October 2007";
 EPIC_CREDITS		= "Eternal";
 EPIC_MAPCOUNT		= "5";
 EPIC_STARTMAP		= "EPIC01";
-EPIC_THUMBNAIL		= "EPICTP";
+EPIC_THUMBNAIL		= "EPICTN";
 
 EPIC_REPLACER0		= "GreenTorch:EpicDemonFireStatue";
 EPIC_REPLACER1		= "TallGreenColumn:EpicPillar";
@@ -65,7 +76,7 @@ EPC2_DESCRIPTION	= "Epic 2 is a 32-level megawad released in November 2010. The 
 EPC2_CREDITS		= "Eternal";
 EPC2_MAPCOUNT		= "32";
 EPC2_STARTMAP		= "EPC201";
-EPC2_THUMBNAIL		= "EPC2TP";
+EPC2_THUMBNAIL		= "EPC2TN";
 
 EPC2_REPLACER0		= "Revenant:EpicRevenant"; // epic1 and epic2's revs use the same sprites, no reason to duplicate
 EPC2_REPLACER1		= "RocketLauncher:Epic2RocketLauncher";
@@ -118,7 +129,7 @@ MAYH_DESCRIPTION	= "Mayhem 17 is a 32-level Mario megawad.";
 MAYH_CREDITS		= "";
 MAYH_MAPCOUNT		= "32";
 MAYH_STARTMAP		= "MAYH01";
-MAYH_THUMBNAIL		= "MAYHTP";
+MAYH_THUMBNAIL		= "MAYHTN";
 
 MAYH_REPLACER0		= "RocketAmmo:Mayhem17RocketAmmo";
 MAYH_REPLACER1		= "Soulsphere:Mayhem17RedMushroom";
