@@ -102,9 +102,8 @@ MAYH_CREDITS		= "";
 MAYH_MAPCOUNT		= "32";
 MAYH_STARTMAP		= "MAYH01";
 MAYH_THUMBNAIL		= "MAYHTP";
-MAYH_PISTOL			= "Mayhem17Pistol"
-MAYH_FIST			= "Mayhem17Fist"
-
+MAYH_PISTOL			= "Mayhem17Pistol";
+MAYH_FIST			= "Mayhem17Fist";
 
 MAYH_REPLACER0		= "RocketAmmo:Mayhem17RocketAmmo";
 MAYH_REPLACER1		= "Soulsphere:Mayhem17RedMushroom";
