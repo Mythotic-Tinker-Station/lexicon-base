@@ -1,1 +1,1 @@
-..\pk3\acs\main.c:20: error: left operand (`raw`) does not support member access
+..\pk3\acs\main.c:18: error: right operand not a value

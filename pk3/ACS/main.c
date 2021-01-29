@@ -3,7 +3,7 @@
 
 #if 1
 
-int acronym_list[128] =
+int acronym_list[] =
 {
 	"EPIC",
 	"EPC2",
@@ -15,12 +15,8 @@ int acronym_list[128] =
 // you do not need to edit this script, only the variables above
 Script "LEXICON_BASE_EXPANSION" Open
 {
-	for(int i = 0; i < 128; i++)
+	for(int i = 0; i < acronym_list.length(); i++)
 	{
-		if(StrLen(acronym_list[i]) == 0)
-		{
-			terminate;
-		}
 		ACS_NamedExecuteWithResult("Lexicon_AddMapSet", acronym_list[i]);
 	}
 }
