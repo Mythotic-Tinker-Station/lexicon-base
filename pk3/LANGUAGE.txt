@@ -4,17 +4,34 @@
 
 
 [default]
-// To add a mapset do add the following information for lexicon to gather for each mapset
-// format: <acronym>:<key>
-//
-//MAYH_NAME			= "Epic";									// The name of the mapset
-//MAYH_DESCRIPTION 	= "Epic Test mapset";						// A description of the mapset
-//MAYH_CREDITS		= "Whoever Made Epic";						// Who made the mapset
-//MAYH_MAPCOUNT		= "32";										// Number of maps this mapset has
-//MAYH_STARTMAP		= "EPIC01";									// The name of the first map of this mapset
-//MAYH_THUMBNAIL		= "IMAGENAME";								// An image to display for the voting UI(still being worked on)
+/*
+	To add a mapset do add the following information for lexicon to gather for each mapset
 
-//MAYH_REPLACER0		= "ZombieMan:Archvile";
+	format: <acronym>_<key> = "string"
+
+	General information
+		ACRO_NAME				= "Woo Mapset";								// The name of the mapset
+		ACRO_DESCRIPTION 		= "Woo Mapset doesnt exist";				// A description of the mapset
+		ACRO_CREDITS			= "People";									// Who made the mapset
+		ACRO_MAPCOUNT			= "32";										// Number of maps this mapset has
+		ACRO_STARTMAP			= "ACRO01";									// The name of the first map of this mapset
+		ACRO_THUMBNAIL			= "IMAGENAME";								// An image to display for the voting UI(still being worked on)
+
+	Start Items:
+		ACRO_STARTITEM1			= "AcroFist:1";								// Players start with the 1 AcroFist
+		ACRO_STARTITEM2			= "AcroPistol:1";							// Players start with the 1 AcroPistol
+		...
+
+	Take Items:
+		ACRO_TAKEITEM1			= "Fist":1;									// Remove the Doom Fist from players as they spawn
+		ACRO_TAKEITEM2			= "Pistol":1;								// Remove the Doom Pistol from players as they spawn
+		...
+
+	Actor Replacers:
+		ACRO_REPLACER0			= "ZombieMan:Archvile";						// A replacement define, Archviles will spawn in the place of Zombiemen for all levels in this mapset.
+		ACRO_REPLACER1			= "ShotgunGuy:ChaingunGuy";					// ChaingunGuy will spawn in the place of ShotgunGuy for all levels in this mapset.
+		...
+*/
 
 /////////////////////////////////////////////////////////
 // Epic Defs
@@ -102,8 +119,12 @@ MAYH_CREDITS		= "";
 MAYH_MAPCOUNT		= "32";
 MAYH_STARTMAP		= "MAYH01";
 MAYH_THUMBNAIL		= "MAYHTP";
-MAYH_PISTOL			= "Mayhem17Pistol";
-MAYH_FIST			= "Mayhem17Fist";
+
+MAYH_TAKEITEM0		= "Pistol:1";
+MAYH_TAKEITEM1		= "Fist:1";
+
+MAYH_STARTITEM0		= "Mayhem17Pistol:1";
+MAYH_STARTITEM1		= "Mayhem17Fist:1";
 
 MAYH_REPLACER0		= "RocketAmmo:Mayhem17RocketAmmo";
 MAYH_REPLACER1		= "Soulsphere:Mayhem17RedMushroom";
