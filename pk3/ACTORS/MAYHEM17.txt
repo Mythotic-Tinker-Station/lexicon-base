@@ -276,21 +276,6 @@ ACTOR Mayhem17ChaingunGuy : ChaingunGuy
 	}
 }
 
-/*
-ACTOR Mayhem17Revenant : Revenant
-{
-	States
-	{
-		Missile:
-			SKEL J 0 Bright A_FaceTarget
-			SKEL J 10 Bright A_FaceTarget
-			SKEL K 10 A_SkelMissile
-			SKEL K 10 A_FaceTarget
-			Goto See
-	}
-}
-*/
-
 ACTOR Mayhem17Imp : DoomImp
 {
 	States
