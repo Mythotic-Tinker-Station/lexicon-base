@@ -177,7 +177,15 @@ MAYH_REPLACER43		= "ShortBlueTorch:Mayhem17ShortBlueTorch";
 MAYH_REPLACER44		= "CommanderKeen:Mayhem17Bowser";
 MAYH_REPLACER45		= "ExplosiveBarrel:Mayhem17ExplosiveBarrel";
 
+/////////////////////////////////////////////////////////
+// Khorus's Speedy Shit Defs
+/////////////////////////////////////////////////////////
 
-
+MAYH_NAME			= "Khorus's Speedy Shit";
+MAYH_DESCRIPTION	= "A Speedmapping megawad that was created in ";
+MAYH_CREDITS		= "Adam 'Khorus' Woodmansey";
+MAYH_MAPCOUNT		= "32";
+MAYH_STARTMAP		= "SHIT01";
+MAYH_THUMBNAIL		= "BLNKTN";
 
 

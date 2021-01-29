@@ -4,3 +4,4 @@
 include "MAPINFO/EPIC.TXT"
 include "MAPINFO/EPC2.TXT"
 include "MAPINFO/MAYH.TXT"
+include "MAPINFO/SHIT.TXT"
