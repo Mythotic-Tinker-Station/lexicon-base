@@ -181,11 +181,11 @@ MAYH_REPLACER45		= "ExplosiveBarrel:Mayhem17ExplosiveBarrel";
 // Khorus's Speedy Shit Defs
 /////////////////////////////////////////////////////////
 
-MAYH_NAME			= "Khorus's Speedy Shit";
-MAYH_DESCRIPTION	= "A Speedmapping megawad that was created in ";
-MAYH_CREDITS		= "Adam 'Khorus' Woodmansey";
-MAYH_MAPCOUNT		= "32";
-MAYH_STARTMAP		= "SHIT01";
-MAYH_THUMBNAIL		= "BLNKTN";
+SHIT_NAME			= "Khorus's Speedy Shit";
+SHIT_DESCRIPTION	= "A Speedmapping megawad that was created in ";
+SHIT_CREDITS		= "Adam 'Khorus' Woodmansey";
+SHIT_MAPCOUNT		= "32";
+SHIT_STARTMAP		= "SHIT01";
+SHIT_THUMBNAIL		= "BLNKTN";
 
 

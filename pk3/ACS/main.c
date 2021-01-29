@@ -3,7 +3,7 @@
 
 #if 1
 
-#define ACRONYM_COUNT 3
+#define ACRONYM_COUNT 4
 
 int acronym_list[ACRONYM_COUNT] =
 {
