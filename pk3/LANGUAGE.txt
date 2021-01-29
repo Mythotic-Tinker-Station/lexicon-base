@@ -156,3 +156,10 @@ MAYH_REPLACER47		= "BlueTorch:Mayhem17BlueTorch";
 MAYH_REPLACER48		= "ShortBlueTorch:Mayhem17ShortBlueTorch";
 MAYH_REPLACER49		= "CommanderKeen:Mayhem17Bowser";
 MAYH_REPLACER50		= "ExplosiveBarrel:Mayhem17ExplosiveBarrel";
+MAYH_REPLACER51		= "ZombieMan:Mayhem17ZombieMan";
+MAYH_REPLACER52		= "ShotgunGuy:Mayhem17ShotgunGuy";
+MAYH_REPLACER53		= "ChaingunGuy:Mayhem17ChaingunGuy";
+
+
+
+
