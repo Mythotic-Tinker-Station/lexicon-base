@@ -3,9 +3,7 @@
 
 #if 1
 
-#define ACRONYM_COUNT 4
-
-int acronym_list[ACRONYM_COUNT] =
+int acronym_list[128] =
 {
 	"EPIC",
 	"EPC2",
@@ -17,8 +15,12 @@ int acronym_list[ACRONYM_COUNT] =
 // you do not need to edit this script, only the variables above
 Script "LEXICON_BASE_EXPANSION" Open
 {
-	for(int i = 0; i < ACRONYM_COUNT; i++)
+	for(int i = 0; i < 128; i++)
 	{
+		if(StrLen(acronym_list[i]) == 0)
+		{
+			terminate;
+		}
 		ACS_NamedExecuteWithResult("Lexicon_AddMapSet", acronym_list[i]);
 	}
 }

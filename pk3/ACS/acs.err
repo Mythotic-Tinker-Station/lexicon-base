@@ -1,1 +1,1 @@
-..\pk3\acs\main.c:8: error: too many values in brace initializer
+..\pk3\acs\main.c:20: error: left operand (`raw`) does not support member access
