@@ -120,12 +120,6 @@ MAYH_MAPCOUNT		= "32";
 MAYH_STARTMAP		= "MAYH01";
 MAYH_THUMBNAIL		= "MAYHTP";
 
-MAYH_TAKEITEM0		= "Pistol:1";
-MAYH_TAKEITEM1		= "Fist:1";
-
-MAYH_STARTITEM0		= "Mayhem17Pistol:1";
-MAYH_STARTITEM1		= "Mayhem17Fist:1";
-
 MAYH_REPLACER0		= "RocketAmmo:Mayhem17RocketAmmo";
 MAYH_REPLACER1		= "Soulsphere:Mayhem17RedMushroom";
 MAYH_REPLACER2		= "Megasphere:Mayhem17YellowMushroom";
@@ -166,19 +160,12 @@ MAYH_REPLACER37		= "ShortRedTorch:Mayhem17SmallTorchPillar";
 MAYH_REPLACER38		= "WolfensteinSS:Mayhem17TurtleShell";
 MAYH_REPLACER39		= "RocketLauncher:Mayhem17RocketLauncher";
 MAYH_REPLACER40		= "PlasmaRifle:Mayhem17PlasmaRifle";
-MAYH_REPLACER41		= "Pistol:Mayhem17Pistol";
-MAYH_REPLACER42		= "Shotgun:Mayhem17Shotgun";
-MAYH_REPLACER43		= "SuperShotgun:Mayhem17SuperShotgun";
-MAYH_REPLACER44		= "Chaingun:Mayhem17Chaingun";
-MAYH_REPLACER45		= "Chainsaw:Mayhem17Chainsaw";
-MAYH_REPLACER46		= "DoomImp:Mayhem17Imp";
-MAYH_REPLACER47		= "BlueTorch:Mayhem17BlueTorch";
-MAYH_REPLACER48		= "ShortBlueTorch:Mayhem17ShortBlueTorch";
-MAYH_REPLACER49		= "CommanderKeen:Mayhem17Bowser";
-MAYH_REPLACER50		= "ExplosiveBarrel:Mayhem17ExplosiveBarrel";
-MAYH_REPLACER51		= "ZombieMan:Mayhem17ZombieMan";
-MAYH_REPLACER52		= "ShotgunGuy:Mayhem17ShotgunGuy";
-MAYH_REPLACER53		= "ChaingunGuy:Mayhem17ChaingunGuy";
+MAYH_REPLACER41		= "DoomImp:Mayhem17Imp";
+MAYH_REPLACER42		= "BlueTorch:Mayhem17BlueTorch";
+MAYH_REPLACER43		= "ShortBlueTorch:Mayhem17ShortBlueTorch";
+MAYH_REPLACER44		= "CommanderKeen:Mayhem17Bowser";
+MAYH_REPLACER45		= "ExplosiveBarrel:Mayhem17ExplosiveBarrel";
+
 
 
 
