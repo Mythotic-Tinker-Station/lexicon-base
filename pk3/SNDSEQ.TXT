@@ -40,10 +40,10 @@ end
 end
 
 [SHITDoor
-    0 DSDOROPN
-    1 DSDORCLS
-    2 DSBDOPN
-    3 DSBDCLS
+	0		DoorOpenNormal
+	1		DoorCloseNormal
+	2		DoorOpenBlazing
+	3		DoorCloseBlazing
 ]
 
 :SHITPlatform
