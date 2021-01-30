@@ -57,7 +57,7 @@ ACTOR Mayhem17ImpFireBall : DoomImpBall
 			M740 AB 4 Bright
 			Loop
 		Death:
-			M738 CDEFG 6 Bright
+			M738 CEF 6 Bright
 			Stop
 	}
 }
@@ -373,13 +373,9 @@ Actor Mayhem17GreenCoin : ArmorBonus
 
 Actor Mayhem17RedCoin : HealthBonus
 {
-	+INVENTORY.ALWAYSPICKUP
-	+INVENTORY.AUTOACTIVATE
 	+INVENTORY.NEVERRESPAWN
-	Inventory.MaxAmount 0
 	Inventory.PickupMessage "A mysterious red coin..."
 	Inventory.PickupSound "MAYH/DSITEMUP"
-	Inventory.UseSound ""
 	States
 	{
 		Spawn:
