@@ -186,6 +186,6 @@ SHIT_DESCRIPTION	= "A Speedmapping megawad that was created in ";
 SHIT_CREDITS		= "Adam 'Khorus' Woodmansey";
 SHIT_MAPCOUNT		= "32";
 SHIT_STARTMAP		= "SHIT01";
-SHIT_THUMBNAIL		= "BLNKTN";
+SHIT_THUMBNAIL		= "SHITTN";
 
 
