@@ -1,0 +1,49 @@
+
+texture CORE0070 range CORE0073 tics 8 allowdecals
+texture CORE0761 range CORE0764 tics 8
+texture CORE0776 range CORE0778 tics 8 allowdecals
+
+switch CORE0331 on pic CORE0371 tics 0
+switch CORE0332 on pic CORE0372 tics 0
+switch CORE0333 on pic CORE0707 tics 0
+switch CORE0334 on pic CORE0374 tics 0
+switch CORE0335 on pic CORE0375 tics 0
+switch CORE0336 on pic CORE0376 tics 0
+switch CORE0337 on pic CORE0377 tics 0
+switch CORE0338 on pic CORE0378 tics 0
+switch CORE0339 on pic CORE0379 tics 0
+switch CORE0340 on pic CORE0380 tics 0
+switch CORE0341 on pic CORE0708 tics 0
+switch CORE0342 on pic CORE0382 tics 0
+switch CORE0343 on pic CORE0383 tics 0
+switch CORE0344 on pic CORE0384 tics 0
+switch CORE0345 on pic CORE0385 tics 0
+switch CORE0346 on pic CORE0386 tics 0
+switch CORE0347 on pic CORE0387 tics 0
+switch CORE0348 on pic CORE0388 tics 0
+switch CORE0349 on pic CORE0389 tics 0
+switch CORE0350 on pic CORE0390 tics 0
+switch CORE0351 on pic CORE0391 tics 0
+switch CORE0352 on pic CORE0392 tics 0
+switch CORE0353 on pic CORE0393 tics 0
+switch CORE0354 on pic CORE0394 tics 0
+switch CORE0355 on pic CORE0395 tics 0
+switch CORE0356 on pic CORE0396 tics 0
+switch CORE0357 on pic CORE0397 tics 0
+switch CORE0358 on pic CORE0398 tics 0
+switch CORE0359 on pic CORE0399 tics 0
+switch CORE0360 on pic CORE0400 tics 0
+switch CORE0361 on pic CORE0401 tics 0
+switch CORE0362 on pic CORE0711 tics 0
+switch CORE0363 on pic CORE0403 tics 0
+switch CORE0364 on pic CORE0404 tics 0
+switch CORE0365 on pic CORE0405 tics 0
+switch CORE0366 on pic CORE0406 tics 0
+switch CORE0367 on pic CORE0407 tics 0
+switch CORE0368 on pic CORE0408 tics 0
+switch CORE0369 on pic CORE0409 tics 0
+switch CORE0370 on pic CORE0410 tics 0
+switch CORE0700 on pic CORE0707 tics 0
+switch CORE0701 on pic CORE0708 tics 0
+switch CORE0704 on pic CORE0711 tics 0
+

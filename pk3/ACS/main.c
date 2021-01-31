@@ -9,6 +9,7 @@ int acronym_list[] =
 	"EPC2",
 	"MAYH",
 	"SHIT",
+	"CORE",
 };
 
 // This script runs on map load(should have a unique name for each expansion set

@@ -188,4 +188,13 @@ SHIT_MAPCOUNT		= "32";
 SHIT_STARTMAP		= "SHIT01";
 SHIT_THUMBNAIL		= "SHITTN";
 
+/////////////////////////////////////////////////////////
+// Doom Core Defs
+/////////////////////////////////////////////////////////
 
+CORE_NAME			= "Doom Core Trilogy";
+CORE_DESCRIPTION	= "3 Projects in one! Contains the following megawads: Doom Core, Reverie and Eternally Yours";
+CORE_CREDITS		= "valkiriforce";
+CORE_MAPCOUNT		= "77";
+CORE_STARTMAP		= "CORE01";
+CORE_THUMBNAIL		= "BLNKTN";
