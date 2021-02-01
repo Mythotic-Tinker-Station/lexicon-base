@@ -1,0 +1,64 @@
+
+texture BTSX1454 range BTSX1461 tics 8 allowdecals
+texture BTSX1462 range BTSX1469 tics 8 allowdecals
+texture BTSX1661 range BTSX1668 tics 8
+texture BTSX1733 range BTSX1740 tics 8
+texture BTSX1741 range BTSX1748 tics 8
+texture BTSX1749 range BTSX1756 tics 8
+texture BTSX1757 range BTSX1764 tics 8
+texture BTSX1898 range BTSX1913 tics 8
+texture BTSX2009 range BTSX2016 tics 8
+texture BTSX2056 range BTSX2058 tics 8 allowdecals
+texture BTSX2467 range BTSX2482 tics 8 allowdecals
+texture BTSX2483 range BTSX2498 tics 8
+texture BTSX2506 range BTSX2509 tics 8 allowdecals
+flat BTSX0305 range BTSX0336 tics 8
+flat BTSX0337 range BTSX0368 tics 8
+flat BTSX0369 range BTSX0400 tics 8
+flat BTSX0401 range BTSX0432 tics 8
+flat BTSX0433 range BTSX0464 tics 8
+flat BTSX0465 range BTSX0496 tics 8
+flat BTSX0742 range BTSX0743 tics 8
+flat BTSX0745 range BTSX0759 tics 8
+
+switch BTSX0805 on pic BTSX0846 tics 0
+switch BTSX0806 on pic BTSX0847 tics 0
+switch BTSX0807 on pic BTSX0848 tics 0
+switch BTSX0808 on pic BTSX0849 tics 0
+switch BTSX0809 on pic BTSX0850 tics 0
+switch BTSX0810 on pic BTSX0851 tics 0
+switch BTSX0811 on pic BTSX0852 tics 0
+switch BTSX0812 on pic BTSX0853 tics 0
+switch BTSX0813 on pic BTSX0854 tics 0
+switch BTSX0814 on pic BTSX0855 tics 0
+switch BTSX0815 on pic BTSX0856 tics 0
+switch BTSX0816 on pic BTSX0857 tics 0
+switch BTSX0817 on pic BTSX0858 tics 0
+switch BTSX0818 on pic BTSX0859 tics 0
+switch BTSX0819 on pic BTSX0860 tics 0
+switch BTSX0820 on pic BTSX0861 tics 0
+switch BTSX0821 on pic BTSX0862 tics 0
+switch BTSX0822 on pic BTSX0863 tics 0
+switch BTSX0823 on pic BTSX0864 tics 0
+switch BTSX0824 on pic BTSX0865 tics 0
+switch BTSX0825 on pic BTSX0866 tics 0
+switch BTSX0826 on pic BTSX0867 tics 0
+switch BTSX0827 on pic BTSX0868 tics 0
+switch BTSX0828 on pic BTSX0869 tics 0
+switch BTSX0829 on pic BTSX0870 tics 0
+switch BTSX0830 on pic BTSX0871 tics 0
+switch BTSX0831 on pic BTSX0872 tics 0
+switch BTSX0832 on pic BTSX0873 tics 0
+switch BTSX0833 on pic BTSX0874 tics 0
+switch BTSX0834 on pic BTSX0875 tics 0
+switch BTSX0835 on pic BTSX0876 tics 0
+switch BTSX0836 on pic BTSX0877 tics 0
+switch BTSX0837 on pic BTSX0878 tics 0
+switch BTSX0838 on pic BTSX0879 tics 0
+switch BTSX0839 on pic BTSX0880 tics 0
+switch BTSX0840 on pic BTSX0881 tics 0
+switch BTSX0841 on pic BTSX0882 tics 0
+switch BTSX0842 on pic BTSX0844 tics 0
+switch BTSX0843 on pic BTSX0845 tics 0
+switch BTSX2378 on pic BTSX2379 tics 0
+

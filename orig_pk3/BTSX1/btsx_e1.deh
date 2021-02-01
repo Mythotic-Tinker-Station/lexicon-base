@@ -1,0 +1,157 @@
+Patch File for DeHackEd v3.0
+# Created with WhackEd4 1.1.2 BETA
+# Note: Use the pound sign ('#') to start comment lines.
+
+Doom version = 21
+Patch format = 6
+
+
+Text 405 404
+YOU HAVE ENTERED DEEPLY INTO THE INFESTED
+STARPORT. BUT SOMETHING IS WRONG. THE
+MONSTERS HAVE BROUGHT THEIR OWN REALITY
+WITH THEM, AND THE STARPORT'S TECHNOLOGY
+IS BEING SUBVERTED BY THEIR PRESENCE.
+
+AHEAD, YOU SEE AN OUTPOST OF HELL, A
+FORTIFIED ZONE. IF YOU CAN GET PAST IT,
+YOU CAN PENETRATE INTO THE HAUNTED HEART
+OF THE STARBASE AND FIND THE CONTROLLING
+SWITCH WHICH HOLDS EARTH'S POPULATION
+HOSTAGE.Much like the horrors trapped within, the
+once-dead station is teeming with life. The
+garrison lies in shambles, and all around
+the hunting ground, the dead are on
+display. A tenement filled with sideshow
+freaks with bloodshot eyes, razor sharp
+teeth, and hungry smiles.
+
+It all be damned, yet I still press on.
+Why can't a recon mission ever be simple?
+                                      
+           
+Text 617 616
+YOU HAVE WON! YOUR VICTORY HAS ENABLED
+HUMANKIND TO EVACUATE EARTH AND ESCAPE
+THE NIGHTMARE.  NOW YOU ARE THE ONLY
+HUMAN LEFT ON THE FACE OF THE PLANET.
+CANNIBAL MUTATIONS, CARNIVOROUS ALIENS,
+AND EVIL SPIRITS ARE YOUR ONLY NEIGHBORS.
+YOU SIT BACK AND WAIT FOR DEATH, CONTENT
+THAT YOU HAVE SAVED YOUR SPECIES.
+
+BUT THEN, EARTH CONTROL BEAMS DOWN A
+MESSAGE FROM SPACE: "SENSORS HAVE LOCATED
+THE SOURCE OF THE ALIEN INVASION. IF YOU
+GO THERE, YOU MAY BE ABLE TO BLOCK THEIR
+ENTRY.  THE ALIEN BASE IS IN THE HEART OF
+YOUR OWN HOME CITY, NOT FAR FROM THE
+STARPORT." SLOWLY AND PAINFULLY YOU GET
+UP AND RETURN TO THE FRAY.In the midst, I pause a moment to arrange
+the data thus far collected. The ghastly
+picture it paints is rife with failed
+experiments, culminating in a peak of
+mystery surrounding a shrouded project.
+Referenced by no name, the enigma on the
+dark side of Saturn X lives within ancient
+ruins and a sea of rust.
+
+It is all a tangent. The pressing threat
+of invasion demands my return. A counter-
+attack must be signaled, and when the
+colossus crawls west I shall make my
+escape. Sights set on the communication
+centre, I march forward.
+Gather these familiar shadows; I will
+take them on.                                 
+Text 312 312
+YOU ARE AT THE CORRUPT HEART OF THE CITY,
+SURROUNDED BY THE CORPSES OF YOUR ENEMIES.
+YOU SEE NO WAY TO DESTROY THE CREATURES'
+ENTRYWAY ON THIS SIDE, SO YOU CLENCH YOUR
+TEETH AND PLUNGE THROUGH IT.
+
+THERE MUST BE A WAY TO CLOSE IT ON THE
+OTHER SIDE. WHAT DO YOU CARE IF YOU'VE
+GOT TO GO THROUGH HELL TO GET TO IT?The comm station whirrs to life. I relay
+the hopeless cause, yet my reward is
+unsubstantial. I am instructed to secure
+transport to the far side and investigate.
+
+A vast expanse of ocean blocks my path.
+Luck withstanding, there should still be
+a ship in port somewhere.
+
+Last chance to escape...                 
+Text 164 164
+CONGRATULATIONS, YOU'VE FOUND THE SECRET
+LEVEL! LOOKS LIKE IT'S BEEN BUILT BY
+HUMANS, RATHER THAN DEMONS. YOU WONDER
+WHO THE INMATES OF THIS CORNER OF HELL
+WILL BE.Who thought it was a good idea to power
+a mainframe network with radiation from
+exposed waste? Isn't that taking
+efficiency too far?
+
+Now we play optical hopscotch!
+Text 92 84
+CONGRATULATIONS, YOU'VE FOUND THE
+SUPER SECRET LEVEL!  YOU'D BETTER
+BLAZE THROUGH THIS ONE!
+Roll of the dice, kick in the head!
+Guess I'm stuck doing everything the
+hard way...
+Text 17 17
+level 1: entrywayBTSX Radio Report
+Text 19 16
+level 2: underhallsPostal Blowfish 
+Text 20 21
+level 3: the gantletThe Room Taking Shape
+Text 18 18
+level 4: the focusA Good Flying Bird
+Text 26 24
+level 5: the waste tunnelsTotal Exposure          
+Text 20 20
+level 6: the crusherMix Up the Satellite
+Text 20 20
+level 7: dead simpleMetal Mothers       
+Text 25 24
+level 8: tricks and trapsGet Out Of My Stations  
+Text 16 16
+level 9: the pitDrilling Implied
+Text 24 26
+level 10: refueling baseProud and Booming Industry
+Text 29 28
+level 11: 'o' of destruction!The Colossus Crawls West    
+Text 21 23
+level 12: the factoryUnderground Initiations
+Text 18 16
+level 13: downtownI'll Replace You
+Text 25 27
+level 14: the inmost densBig Chief Chinese Resturant
+Text 25 24
+level 15: industrial zoneTricyclic Looper        
+Text 17 19
+level 16: suburbsGet Out/My Stations
+Text 19 19
+level 17: tenementsNavigating Flood R.
+Text 23 20
+level 18: the courtyardCyclone Utilities   
+Text 21 23
+level 19: the citadelBingo Pool Hall o Blood
+Text 17 19
+level 20: gotcha!U.S Mustard Company
+Text 17 16
+level 21: nirvanaTrashed Aircraft
+Text 23 23
+level 22: the catacombsGonna Never Have to Die
+Text 24 22
+level 23: barrels o' funGet Out Of My Stations
+Text 19 16
+level 24: the chasmTough Skin River
+Text 20 23
+level 25: bloodfalls                       
+Text 21 17
+level 31: wolfensteinOptical Hopscotch
+Text 16 12
+level 32: grosseThe Hard Way

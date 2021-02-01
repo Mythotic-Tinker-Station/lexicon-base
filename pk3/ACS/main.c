@@ -10,6 +10,7 @@ int acronym_list[] =
 	"MAYH",
 	"SHIT",
 	"CORE",
+	"BTSX",
 };
 
 // This script runs on map load(should have a unique name for each expansion set
