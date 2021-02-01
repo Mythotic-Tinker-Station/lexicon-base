@@ -214,7 +214,7 @@ BTSX_NAME			= "Back to Saturn X";
 BTSX_DESCRIPTION	= "Get Out Of My Stations is the first episode of Back to Saturn X, a three-episode partial conversion for Doom II.";
 BTSX_MAPCOUNT		= "32";
 BTSX_STARTMAP		= "BTSX01";
-//BTSX_THUMBNAIL		= "BTSXTN";
+BTSX_THUMBNAIL		= "BTSXTN";
 
 BTSX_CREDITS0		= "Artwork        : Sarah 'Esselfortium' Mancuso";
 BTSX_CREDITS1		= "Artwork        : Sven 'ptoing' Ruthner";
