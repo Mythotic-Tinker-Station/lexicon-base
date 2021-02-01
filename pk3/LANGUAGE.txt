@@ -23,10 +23,14 @@
 	General information
 		ACRO_NAME				= "Woo Mapset";								// The name of the mapset
 		ACRO_DESCRIPTION 		= "Woo Mapset doesnt exist";				// A description of the mapset
-		ACRO_CREDITS			= "People";									// Who made the mapset
 		ACRO_MAPCOUNT			= "32";										// Number of maps this mapset has
 		ACRO_STARTMAP			= "ACRO01";									// The name of the first map of this mapset
 		ACRO_THUMBNAIL			= "IMAGENAME";								// An image to display for the voting UI(still being worked on)
+
+	Credits:
+		ACRO_CREDITS0			= "Person1";								// Who made the mapset
+		ACRO_CREDITS1			= "Person2";								// Who made the mapset
+		...
 
 	Start Items:
 		ACRO_STARTITEM1			= "AcroFist:1";								// Players start with the 1 AcroFist
@@ -128,7 +132,6 @@ EPC2_REPLACER40		= "WolfensteinSS:Epic2GhostThing";
 
 MAYH_NAME			= "Mayhem 17";
 MAYH_DESCRIPTION	= "Mayhem 17 is a 32-level Mario megawad.";
-
 MAYH_MAPCOUNT		= "32";
 MAYH_STARTMAP		= "MAYH01";
 MAYH_THUMBNAIL		= "MAYHTN";
