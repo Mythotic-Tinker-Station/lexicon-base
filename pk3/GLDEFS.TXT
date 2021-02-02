@@ -158,78 +158,76 @@ object Mayhem17BulletBill
 }
 
 // Fireball
-pointlight MAYHEMFIREBALL
-{
-    color 1.0 1.0 0.1
-    size 56
-}
-
 flickerlight MAYHEMFIREBALL_X1
 {
-    color 1.2 1.2 0.0
-    size 64
-    secondarySize 72
-    chance 0.4
-}
-
-flickerlight MAYHEMFIREBALL_X2
-{
-    color 0.8 0.8 0.0
+    color 0.7 0.7 0.0
     size 80
     secondarySize 88
-    chance 0.4
-}
-
-flickerlight MAYHEMFIREBALL_X3
-{
-    color 0.5 0.5 0.0
-    size 64
-    secondarySize 72
-    chance 0.4
-}
-
-flickerlight MAYHEMFIREBALL_X4
-{
-    color 0.2 0.2 0.0
-    size 8
-    secondarySize 16
-    chance 0.4
+    chance 0.25
 }
 
 object Mayhem17FireBall
 {
-    frame M738A { light MAYHEMFIREBALL }
-    frame M738B { light MAYHEMFIREBALL }
+    frame M738A { light IMPBALL           }
+    frame M738B { light IMPBALL           }
 
     frame M738C { light MAYHEMFIREBALL_X1 }
-    frame M738D { light MAYHEMFIREBALL_X2 }
-    frame M738E { light MAYHEMFIREBALL_X2 }
-    frame M738F { light MAYHEMFIREBALL_X3 }
-    frame M738G { light MAYHEMFIREBALL_X4 }
+    frame M738D { light IMPBALL_X1        }
+    frame M738E { light IMPBALL_X2        }
+    frame M738F { light IMPBALL_X3        }
 }
 
 // Doom Imp Fireball
 object Mayhem17ImpFireBall
 {
-    frame M740A { light IMPBALL    }
-    frame M740B { light IMPBALL    }
+    frame M740A { light IMPBALL           }
+    frame M740B { light IMPBALL           }
 
-    frame M738C { light IMPBALL_X1 }
-    frame M738E { light IMPBALL_X2 }
-    frame M738F { light IMPBALL_X3 }
+    frame M738C { light MAYHEMFIREBALL_X1 }
+    frame M738E { light IMPBALL_X2        }
+    frame M738F { light IMPBALL_X3        }
 }
 
 // Arachnotron Fireball
+pointlight MAYHEMGREENFIREBALL
+{
+    color 0.6 1.0 0.0
+    size 64
+}
+
+flickerlight MAYHEMGREENFIREBALL_X1
+{
+    color 0.4 0.7 0.0
+    size 80
+    secondarySize 88
+    chance 0.25
+}
+
+flickerlight MAYHEMGREENFIREBALL_X2
+{
+    color 0.2 0.4 0.0
+    size 96
+    secondarySize 104
+    chance 0.25
+}
+
+flickerlight MAYHEMGREENFIREBALL_X3
+{
+    color 0.08 0.2 0.0
+    size 112
+    secondarySize 120
+    chance 0.25
+}
+
 object Mayhem17GreenFireBall
 {
-    frame M734A { light ARACHPLAS }
-    frame M734B { light ARACHPLAS }
+    frame M734A { light MAYHEMGREENFIREBALL    }
+    frame M734B { light MAYHEMGREENFIREBALL    }
 
-    frame M734C { light ARACHPLAS_X1 }
-    frame M734D { light ARACHPLAS_X2 }
-    frame M734E { light ARACHPLAS_X2 }
-    frame M734F { light ARACHPLAS_X3 }
-    frame M734G { light ARACHPLAS_X4 }
+    frame M734C { light MAYHEMFIREBALL_X1      }
+    frame M734D { light MAYHEMGREENFIREBALL_X1 }
+    frame M734E { light MAYHEMGREENFIREBALL_X2 }
+    frame M734F { light MAYHEMGREENFIREBALL_X3 }
 }
 
 // Short blue torch
