@@ -206,48 +206,6 @@ CORE_STARTMAP		= "CORE01";
 CORE_THUMBNAIL		= "CORETN";
 CORE_CREDITS0		= "valkiriforce";
 
-/////////////////////////////////////////////////////////
-// Back to Saturn X
-/////////////////////////////////////////////////////////
-
-BTSX_NAME			= "Back to Saturn X";
-BTSX_DESCRIPTION	= "Get Out Of My Stations is the first episode of Back to Saturn X, a three-episode partial conversion for Doom II.";
-BTSX_MAPCOUNT		= "32";
-BTSX_STARTMAP		= "BTSX01";
-BTSX_THUMBNAIL		= "BTSXTN";
-
-BTSX_CREDITS0		= "Artwork        : Sarah 'Esselfortium' Mancuso";
-BTSX_CREDITS1		= "Artwork        : Sven 'ptoing' Ruthner";
-BTSX_CREDITS2		= "Music          : James 'Jimmy' Paddock";
-BTSX_CREDITS3		= "Music          : Stuart 'Stewboy' Rynn";
-BTSX_CREDITS4		= "Music          : Sarah 'Esselfortium' Mancuso";
-BTSX_CREDITS5		= "Music          : Elric 'Darkhaven' Sullivan";
-BTSX_CREDITS6		= "Music          : Simon 'Sirjuddington' Judd";
-BTSX_CREDITS7		= "Music          : Xaser Acheron";
-BTSX_CREDITS8		= "Playtesting/QA : Boris 'dew' Klimes";
-BTSX_CREDITS9		= "Playtesting/QA : Robin 'hawkwind' Palmer";
-BTSX_CREDITS10		= "Story          : Heather 'Seele00TextOnly' Hathaway";
-BTSX_CREDITS11		= "Story          : James 'Phobus' Cresswell";
-BTSX_CREDITS12		= "Story          : 'Super' Jamie Bainbridge";
-BTSX_CREDITS13		= "Story          : William '[WH]-Wilou84' Huber";
-BTSX_CREDITS14		= "Story          : Michael 'Marcaek' Fraize";
-BTSX_CREDITS15		= "Story          : Shannon 'CSG' Freeman";
-BTSX_CREDITS16		= "Story          : Xaser Acheron";
-BTSX_CREDITS17		= "Level design   : Kim 'Torn' Bach";
-BTSX_CREDITS18		= "Level design   : Matt 'RottKing' Cibulas";
-BTSX_CREDITS19		= "Level design   : Ed Cripps";
-BTSX_CREDITS20		= "Level design   : Paul 'Skillsaw' DeBruyne";
-BTSX_CREDITS21		= "Level design   : Travers Dunne";
-BTSX_CREDITS22		= "Level design   : Matthew 'Foodles' Edwards";
-BTSX_CREDITS23		= "Level design   : Richard 'Tarnsman' Frei";
-BTSX_CREDITS24		= "Level design   : Brett 'Mechadon' Harrell";
-BTSX_CREDITS25		= "Level design   : Simon 'Sirjuddington' Judd";
-BTSX_CREDITS26		= "Level design   : Nick 'Hobomaster22' Laurent";
-BTSX_CREDITS27		= "Level design   : Sarah 'Esselfortium' Mancuso";
-BTSX_CREDITS28		= "Level design   : John 'Tango' Oksasoglu";
-BTSX_CREDITS29		= "Level design   : Bjorn 'Vader' Ostmann";
-BTSX_CREDITS30		= "Level design   : Trevor 'Iori' Primmett";
-BTSX_CREDITS31		= "Level design   : Walker 'Pavera' Wright";
 
 
 
