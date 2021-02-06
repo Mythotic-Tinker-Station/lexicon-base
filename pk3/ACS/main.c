@@ -10,6 +10,9 @@ int acronym_list[] =
 	"MAYH",
 	"SHIT",
 	"CORE",
+	"DBP1",
+	"DBP2",
+	"DBP3",
 };
 
 // This script runs on map load(should have a unique name for each expansion set
@@ -23,3 +26,5 @@ Script "LEXICON_BASE_EXPANSION" Open
 }
 
 #endif
+
+

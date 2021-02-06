@@ -1,3 +1,7 @@
+
+//////////////////////////////////////////////////////////////
+// Mayhem17
+//////////////////////////////////////////////////////////////
 :MAYHDSDOROPN
 	play MAYH/DSDOROPN
 	nostopcutoff
@@ -39,6 +43,10 @@ end
 	playrepeat plats/pt1_mid
 end
 
+//////////////////////////////////////////////////////////////
+// Korus's Speedy Shit
+// (This was a bug with the extractor, oops)
+//////////////////////////////////////////////////////////////
 [SHITDoor
 	0		DoorOpenNormal
 	1		DoorCloseNormal
@@ -58,4 +66,49 @@ end
 
 :SHITCeiling
     playrepeat plats/pt1_mid
+end
+
+
+//////////////////////////////////////////////////////////////
+// Doomer Board Project 2: Circle of Caina
+//////////////////////////////////////////////////////////////
+:DBP2DSBDOPN
+	play DBP2/DSBDOPN
+	nostopcutoff
+end
+
+:DBP2DSBDCLS
+	play DBP2/DSBDCLS
+	nostopcutoff
+end
+
+:DBP2DSDORCLS
+	play DBP2/DSDORCLS
+	nostopcutoff
+end
+
+:DBP2DSDOROPN
+	play DBP2/DSDOROPN
+	nostopcutoff
+end
+
+[DBP2Door
+	0 DBP2DSDOROPN
+	1 DBP2DSDORCLS
+	2 DBP2DSBDOPN
+	3 DBP2DSBDCLS
+]
+
+:DBP2Platform
+	playuntildone DBP2/DSPSTART
+	stopsound DBP2/DSPSTOP
+end
+
+:DBP2Floor
+	playrepeat DBP2/DSSTNMOV
+	stopsound DBP2/DSPSTOP
+end
+
+:DBP2Ceiling
+	playrepeat DBP2/DSSTNMOV
 end

@@ -206,10 +206,61 @@ CORE_STARTMAP		= "CORE01";
 CORE_THUMBNAIL		= "CORETN";
 CORE_CREDITS0		= "valkiriforce";
 
+/////////////////////////////////////////////////////////
+// Doomer Board Project 1: Monuments of Mars
+/////////////////////////////////////////////////////////
 
+DBP1_NAME			= "Monuments of Mars";
+DBP1_DESCRIPTION	= "A custom single player mapset by members of Doomer Boards (doomer.boards.net)";
+DBP1_MAPCOUNT		= "8";
+DBP1_STARTMAP		= "DBP101";
+//DBP1_THUMBNAIL	= "DBP1TN";
+DBP1_CREDITS0		= "Doomer Boards Community";
+DBP1_CREDITS1		= "MAP01 | 40oz        | MAP05 from sodfinal.wad | Breakout";
+DBP1_CREDITS2		= "MAP02 | 40oz        | E1M3 from heroes.wad | Mt. Orion";
+DBP1_CREDITS3		= "MAP03 | Phobus      | MAP12 from scythe2.wad | Ares Compound";
+DBP1_CREDITS4		= "MAP04 | 40oz        | MAP15 from pl2.wad | Drill Station";
+DBP1_CREDITS5		= "MAP05 | anonimvio   | MAP10 from pl2.wad | Mortar for Martyrs";
+DBP1_CREDITS6		= "MAP06 | Scotty      | MAP07 from sodfinal.wad | Steel Militia";
+DBP1_CREDITS7		= "MAP07 | noisyvelvet | MAP23 from av.wad | Geothermal Gymnastics";
 
+/////////////////////////////////////////////////////////
+// Doomer Board Project 2: Circle of Caina
+/////////////////////////////////////////////////////////
 
+DBP2_NAME			= "Circle of Caina";
+DBP2_DESCRIPTION	= "Your next shipment of maps have arrived, from your friends at the local mapfactory: Doomer Boards (doomer.boards.net)";
+DBP2_MAPCOUNT		= "8";
+DBP2_STARTMAP		= "DBP201";
+//DBP2_THUMBNAIL	= "DBP2TN";
+DBP2_CREDITS0		= "Doomer Boards Community";
+DBP2_CREDITS1		= "MAP01 | noisyvelvet         | MAP04 from tfa.wad      | The Chill Before The Thrill";
+DBP2_CREDITS2		= "MAP02 | 40oz                | MAP02 from mm2mus.wad   | Frostbite";
+DBP2_CREDITS3		= "MAP03 | 40oz                | MAP01 from massacre.wad | Some Other Circle";
+DBP2_CREDITS4		= "MAP04 | valkiriforce        | MAP01 from mikedmc1.wad | The Stairway";
+DBP2_CREDITS5		= "MAP05 | supercupcaketactics | MAP21 from scythe2.wad  | Frosty Cream Glade";
+DBP2_CREDITS6		= "MAP06 | 40oz                | MAP16 from hrmus.wad    | Cold Shoulder";
+DBP2_CREDITS7		= "MAP07 | 40oz                | MAP02 from c-shock2.wad | Below Zero";
+DBP2_CREDITS8		= "MAP08 | joe-ilya            | MAP01 from mikedmc1.wad | Hot Action In Cold Igloos";
 
+/////////////////////////////////////////////////////////
+// Doomer Board Project 3: Forest Swords
+/////////////////////////////////////////////////////////
+
+DBP3_NAME			= "Forest Swords";
+DBP3_DESCRIPTION	= "Some forest themed levels banged out by the best worst doomers you'll ever meet at Doomer Boards (doomer.boards.net)";
+DBP3_MAPCOUNT		= "8";
+DBP3_STARTMAP		= "DBP301";
+//DBP3_THUMBNAIL	= "DBP3TN";
+DBP3_CREDITS0		= "Doomer Boards Community";
+DBP3_CREDITS1		= "MAP01 | glenzinho    | MAP16 from icarus.wad    | Rocky Start";
+DBP3_CREDITS2		= "MAP02 | 40oz         | MAP01 from exodus.wad    | Canyon Crawl";
+DBP3_CREDITS3		= "MAP03 | 40oz         | MAP09 from lemmi35d.wad  | Guerilla Skeletons";
+DBP3_CREDITS4		= "MAP04 | 40oz         | MAP30 from bradco2.wad   | Forest Fort";
+DBP3_CREDITS5		= "MAP05 | TheMisterCat | E1L4 from Duke Nukem 3D  | The Valley";
+DBP3_CREDITS6		= "MAP06 | 40oz         | MAP10 from bloodrust.wad | Crisis Center";
+DBP3_CREDITS7		= "MAP07 | anonimvio    | MAP09 from pmb.wad       | It Doesn't Have A Name";
+DBP3_CREDITS8		= "MAP08 | valkiriforce | MAP20 from scythe.wad    | The Chapel";
 
 
 

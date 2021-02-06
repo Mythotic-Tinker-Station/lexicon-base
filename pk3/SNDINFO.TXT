@@ -1,7 +1,13 @@
 
+//////////////////////////////////////////////////////////////
+// Epic
+//////////////////////////////////////////////////////////////
 EPIC/DSSTNMOV				EPIC0001 // Platform Mid
 EPIC/DSSWTCHN				EPIC0002 // Normal Button sound
 
+//////////////////////////////////////////////////////////////
+// Epic 2
+//////////////////////////////////////////////////////////////
 EPC2/DSBDCLS				EPC20001 // doors/dr2_clos
 EPC2/DSBDOPN				EPC20002 // doors/dr2_open
 EPC2/DSDORCLS				EPC20003 // Door1 Close
@@ -27,6 +33,9 @@ EPC2/DSSWTCHN				EPC20022 // Normal Button sound
 EPC2/DSTELEPT				EPC20023 // Teleport sound
 EPC2/D_ROMER_				EPC20024 // Custom??
 
+//////////////////////////////////////////////////////////////
+// Mayhem17
+//////////////////////////////////////////////////////////////
 MAYH/DSTELEPT				MAYH0001 // Teleport sound
 MAYH/DSDOROPN				MAYH0002 // Door1 Open
 MAYH/DSDORCLS				MAYH0003 // Door1 Close
@@ -44,3 +53,15 @@ MAYH/DSSSSIT				MAYH0014 // Wolfss Sight sound
 MAYH/DSKEENPN				MAYH0015 // Keen pain sound
 MAYH/DSSSDTH				MAYH0016 // Wolfss Death sound
 MAYH/WIND					MAYH0017 // Wind
+
+//////////////////////////////////////////////////////////////
+// Doomer Board Project 2: Circle of Caina
+//////////////////////////////////////////////////////////////
+DBP2/DSBDOPN				DBP20001
+DBP2/DSBDCLS				DBP20002
+DBP2/DSDORCLS				DBP20003
+DBP2/DSDOROPN				DBP20004
+DBP2/DSPSTART				DBP20005
+DBP2/DSPSTOP				DBP20006
+DBP2/DSSTNMOV				DBP20007
+DBP2/DSSWTCHN				DBP20008
