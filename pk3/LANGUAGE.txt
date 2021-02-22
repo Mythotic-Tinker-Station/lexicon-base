@@ -262,7 +262,47 @@ DBP3_CREDITS6		= "MAP06 | 40oz         | MAP10 from bloodrust.wad | Crisis Cente
 DBP3_CREDITS7		= "MAP07 | anonimvio    | MAP09 from pmb.wad       | It Doesn't Have A Name";
 DBP3_CREDITS8		= "MAP08 | valkiriforce | MAP20 from scythe.wad    | The Chapel";
 
+/////////////////////////////////////////////////////////
+// Community Chest 4
+/////////////////////////////////////////////////////////
+CCH4_NAME			= "Community Chest 4";
+CCH4_DESCRIPTION	= "Community Chest 4 boasts 32 maps made by 20 different authors from the Doom community.";
+CCH4_MAPCOUNT		= "33";
+CCH4_STARTMAP		= "CCH401";
+//CCH4_THUMBNAIL		= "";
 
+CCH4_CREDITS0		= "MAP01: Renewed Faith 		| William Huber";
+CCH4_CREDITS1		= "MAP02: Slugfest 				| skillsaw";
+CCH4_CREDITS2		= "MAP03: Three is a Charm 		| James "Phobus" Cresswell";
+CCH4_CREDITS3		= "MAP04: Polluted Paths 		| Forty-Two";
+CCH4_CREDITS4		= "MAP05: Installation Decrepit | Alice Jameson";
+CCH4_CREDITS5		= "MAP06: Survival Instincts 	| Adam Windsor";
+CCH4_CREDITS6		= "MAP07: Hoedown 				| James "Phobus" Cresswell";
+CCH4_CREDITS7		= "MAP08: Cold Reception 		| Mithran Denizen";
+CCH4_CREDITS8		= "MAP09: Ochregerde 			| William Huber";
+CCH4_CREDITS9		= "MAP10: Inner Fear 			| Dutch Devil";
+CCH4_CREDITS10		= "MAP11: The Grotto 			| Christoph and Josh Sealy";
+CCH4_CREDITS11		= "MAP12: Nectar of the Gods 	| The Green Herring";
+CCH4_CREDITS12		= "MAP13: Viral Implant 		| James "Phobus" Cresswell";
+CCH4_CREDITS13		= "MAP14: Downriver 			| Processing Control";
+CCH4_CREDITS14		= "MAP15: Decomposition 		| Lord Z";
+CCH4_CREDITS15		= "MAP16: The Forgotten Base 	| Keeper of Jericho";
+CCH4_CREDITS16		= "MAP17: Metastasize 			| Andy Leaver";
+CCH4_CREDITS17		= "MAP18: Suburbia 				| James "Jimmy" Paddock (Mapping) and Brett "Mechadon" Harrell (Detailing)";
+CCH4_CREDITS18		= "MAP19: Technoprison			| Josh Sealy";
+CCH4_CREDITS19		= "MAP20: Interstellar Sickness | lupinx-Kassman";
+CCH4_CREDITS20		= "MAP21: Shaman's Device 		| lupinx-Kassman";
+CCH4_CREDITS21		= "MAP22: Hell's Limits 		| C30N9";
+CCH4_CREDITS22		= "MAP23: Melting Universe II 	| Walter Confalonieri";
+CCH4_CREDITS23		= "MAP24: Detachment 			| Shadow Dweller";
+CCH4_CREDITS24		= "MAP25: Nightmare Complex 	| Kim "Torn" Bach";
+CCH4_CREDITS25		= "MAP26: Reaper's Digest 		| Kristian Aro";
+CCH4_CREDITS26		= "MAP27: Vulcana II 			| Paul Corfiatis";
+CCH4_CREDITS27		= "MAP28: Crucifix Held Close 	| William Huber";
+CCH4_CREDITS28		= "MAP29: Spiritual Holocaust 	| Christian Lian";
+CCH4_CREDITS29		= "MAP30: Ragnarok 				| Josh "Joshy" Sealy";
+CCH4_CREDITS30		= "MAP31: Mortar Combat 		| Forty-Two";
+CCH4_CREDITS31		= "MAP32: Mutare 				| Jeffrey Nordin";
 
 
 

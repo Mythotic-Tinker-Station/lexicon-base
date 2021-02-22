@@ -112,3 +112,28 @@ end
 :DBP2Ceiling
 	playrepeat DBP2/DSSTNMOV
 end
+
+//////////////////////////////////////////////////////////////
+// Community Chest 4
+//////////////////////////////////////////////////////////////
+[CCH4Door
+	0 DSDOROPN
+	1 DSDORCLS
+	2 DSBDOPN
+	3 DSBDCLS
+]
+
+:CCH4Platform
+	playuntildone plats/pt1_strt
+	stopsound plats/pt1_stop
+end
+
+:CCH4Floor
+	playrepeat plats/pt1_mid
+	stopsound plats/pt1_stop
+end
+
+:CCH4Ceiling
+	playrepeat plats/pt1_mid
+end
+
