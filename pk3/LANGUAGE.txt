@@ -263,6 +263,48 @@ DBP3_CREDITS7		= "MAP07 | anonimvio    | MAP09 from pmb.wad       | It Doesn't H
 DBP3_CREDITS8		= "MAP08 | valkiriforce | MAP20 from scythe.wad    | The Chapel";
 
 /////////////////////////////////////////////////////////
+// Community Chest 2
+/////////////////////////////////////////////////////////
+CCH2_NAME			= "Community Chest 2";
+CCH2_DESCRIPTION	= "Community Chest 2 is a 32 map megawad including levels made by 26 different authors from the Doom Community.";
+CCH2_MAPCOUNT		= "32";
+CCH2_STARTMAP		= "CCH201";
+//CCH2_THUMBNAIL		= "";
+
+CCH2_CREDITS0		= "MAP01: The Furnace			 | Erik Alm";
+CCH2_CREDITS1		= "MAP02: Coolant Platform		 | Iori";
+CCH2_CREDITS2		= "MAP03: Slige Control			 | The Flange Peddler";
+CCH2_CREDITS3		= "MAP04: Deja Vu				 | Gene Bird";
+CCH2_CREDITS4		= "MAP05: Elixir				 | RjY";
+CCH2_CREDITS5		= "MAP06: The View				 | Lutrov71";
+CCH2_CREDITS6		= "MAP07: To Hell and Back		 | The Flange Peddler";
+CCH2_CREDITS7		= "MAP08: The Pit				 | Gene Bird";
+CCH2_CREDITS8		= "MAP09: The Transformer		 | Graf Zahl";
+CCH2_CREDITS9		= "MAP10: Intermission			 | Volteforce";
+CCH2_CREDITS10		= "MAP11: Beyond Pain			 | Exile";
+CCH2_CREDITS11		= "MAP12: Redemption			 | Gene Bird";
+CCH2_CREDITS12		= "MAP13: Annihilation Invention | Psyren";
+CCH2_CREDITS13		= "MAP14: Shadow of Evil		 | Mephisto";
+CCH2_CREDITS14		= "MAP15: City Heat				 | The Ultimate Doomer";
+CCH2_CREDITS15		= "MAP16: Spirit World - HQ		 | Gene Bird";
+CCH2_CREDITS16		= "MAP17: Through the Black		 | Andy Leaver";
+CCH2_CREDITS17		= "MAP18: Internal Reaches 3	 | Kaiser";
+CCH2_CREDITS18		= "MAP19: The Marbelous Three	 | Hirogen2";
+CCH2_CREDITS19		= "MAP20: Enigma				 | The Flange Peddler";
+CCH2_CREDITS20		= "MAP21: Undead Nation			 | Draconio";
+CCH2_CREDITS21		= "MAP22: Thematic Elements		 | Lutrov71 and Jimi";
+CCH2_CREDITS22		= "MAP23: Death Mountain		 | Cyber-Menace";
+CCH2_CREDITS23		= "MAP24: The Mucus Flow		 | B.P.R.D";
+CCH2_CREDITS24		= "MAP25: Desecration			 | Gene Bird";
+CCH2_CREDITS25		= "MAP26: Geist Halls			 | Dr. Zin";
+CCH2_CREDITS26		= "MAP27: Gethsemane			 | Use3D";
+CCH2_CREDITS27		= "MAP28: No Room				 | Linguica";
+CCH2_CREDITS28		= "MAP29: Event Horizon			 | Boris";
+CCH2_CREDITS29		= "MAP30: In Threes				 | Cyb";
+CCH2_CREDITS30		= "MAP31: Idee Fixe				 | Sarge Baldy";
+CCH2_CREDITS31		= "MAP32: Sodding Death			 | Chopkinsca";
+
+/////////////////////////////////////////////////////////
 // Community Chest 4
 /////////////////////////////////////////////////////////
 CCH4_NAME			= "Community Chest 4";
