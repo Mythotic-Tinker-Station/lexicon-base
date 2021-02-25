@@ -161,3 +161,28 @@ end
 	playrepeat plats/pt1_mid
 end
 
+//////////////////////////////////////////////////////////////
+// Doom 2 Reloaded
+//////////////////////////////////////////////////////////////
+[D2RLDoor
+	0 DSDOROPN
+	1 DSDORCLS
+	2 DSBDOPN
+	3 DSBDCLS
+]
+
+:D2RLPlatform
+	playuntildone plats/pt1_strt
+	stopsound plats/pt1_stop
+end
+
+:D2RLFloor
+	playrepeat plats/pt1_mid
+	stopsound plats/pt1_stop
+end
+
+:D2RLCeiling
+	playrepeat plats/pt1_mid
+end
+
+

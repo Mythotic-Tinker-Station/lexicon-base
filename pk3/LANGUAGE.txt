@@ -346,6 +346,16 @@ CCH4_CREDITS29		= "MAP30: Ragnarok 				| Josh "Joshy" Sealy";
 CCH4_CREDITS30		= "MAP31: Mortar Combat 		| Forty-Two";
 CCH4_CREDITS31		= "MAP32: Mutare 				| Jeffrey Nordin";
 
+/////////////////////////////////////////////////////////
+// Doom 2 Reloaded
+/////////////////////////////////////////////////////////
+D2RL_NAME			= "Doom 2 Reloaded";
+D2RL_DESCRIPTION	= "Doom 2 Reloaded is a 32-level megawad released in October 2009.";
+D2RL_MAPCOUNT		= "32";
+D2RL_STARTMAP		= "D2RL01";
+//D2RL_THUMBNAIL		= "";
+D2RL_CREDITS0		= "Andy Stewart";
+
 
 
 
