@@ -366,6 +366,48 @@ HEBO_STARTMAP		= "HEBO01";
 //HEBO_THUMBNAIL		= "";
 HEBO_CREDITS0		= "Zoltán Sófalvi (Z86)";
 
+/////////////////////////////////////////////////////////
+// Japanese Community Project
+/////////////////////////////////////////////////////////
+JPCP_NAME			= "Japanese Community Project";
+JPCP_DESCRIPTION	= "Japanese Community Project is a 32 level megawad made by Japanese Doomers, released in August 2016.";
+JPCP_MAPCOUNT		= "32";
+JPCP_STARTMAP		= "JPCP01";
+//JPCP_THUMBNAIL		= "";
+
+JPCP_CREDITS0		= "MAP01: First Assault                | Tatsurd-Cacocaco";
+JPCP_CREDITS1		= "MAP02: Rural Mini-Base              | Tatsurd-Cacocaco";
+JPCP_CREDITS2		= "MAP03: The Sign of Armageddon       | Masayan & SkullDemon (Re-edited by Tatsurd-Cacocaco)";
+JPCP_CREDITS3		= "MAP04: Thaumasia                    | burabojunior";
+JPCP_CREDITS4		= "MAP05: Woodexial                    | Toooooasty";
+JPCP_CREDITS5		= "MAP06: Riminshi Valley              | burabojunior";
+JPCP_CREDITS6		= "MAP07: Confused Arena               | Tatsurd-Cacocaco";
+JPCP_CREDITS7		= "MAP08: 54-pit                       | Toooooasty";
+JPCP_CREDITS8		= "MAP09: The Three World              | Tyousen121 (Re-edited by Tatsurd-Cacocaco)";
+JPCP_CREDITS9		= "MAP10: The Odd Encampment           | Yullie (Re-edited by Tatsurd-Cacocaco)";
+JPCP_CREDITS10		= "MAP11: My fav                       | Nanka Kurashiki";
+JPCP_CREDITS11		= "MAP12: Magnetic force apparatus     | burabojunior";
+JPCP_CREDITS12		= "MAP13: Bad Morning                  | Namsan (Re-edited by Tatsurd-Cacocaco)";
+JPCP_CREDITS13		= "MAP14: G_T_Factory                  | toMass (Re-edited by Tatsurd-Cacocaco)";
+JPCP_CREDITS14		= "MAP15: Nandeyanen                   | Nanka Kurashiki";
+JPCP_CREDITS15		= "MAP16: Forlorn Defense Line         | Tatsurd-Cacocaco";
+JPCP_CREDITS16		= "MAP17: UAC energy plant             | burabojunior";
+JPCP_CREDITS17		= "MAP18: Space Port Panik             | doom68k (Re-edited by Tatsurd-Cacocaco)";
+JPCP_CREDITS18		= "MAP19: Remind                       | Nanka Kurashiki";
+JPCP_CREDITS19		= "MAP20: Escape from UAC space base   | burabojunior";
+JPCP_CREDITS20		= "MAP21: Search and Destroy           | burabojunior";
+JPCP_CREDITS21		= "MAP22: A den of vice                | burabojunior";
+JPCP_CREDITS22		= "MAP23: Thermal disposal place       | Guna";
+JPCP_CREDITS23		= "MAP24: Probably Maybe Certainly     | Tyousen121 (Re-edited by Tatsurd-Cacocaco)";
+JPCP_CREDITS24		= "MAP25: Cakravartin's miscalculation | Nanka Kurashiki";
+JPCP_CREDITS25		= "MAP26: Embodiment of Maliciousness  | Yullie (Re-edited by Tatsurd-Cacocaco)";
+JPCP_CREDITS26		= "MAP27: A resplendent emerald green  | burabojunior";
+JPCP_CREDITS27		= "MAP28: HeLLport                     | Masa";
+JPCP_CREDITS28		= "MAP29: hazmat hazama                | Toooooasty";
+JPCP_CREDITS29		= "MAP30: Every beginning has an end   | burabojunior";
+JPCP_CREDITS30		= "MAP31: Manufacturing Plant          | Masayan (Re-edited by Tatsurd-Cacocaco)";
+JPCP_CREDITS31		= "MAP32: Blood Fund Gang              | Toooooasty";
+
 
 
 

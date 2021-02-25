@@ -209,5 +209,30 @@ end
 	playrepeat plats/pt1_mid
 end
 
+//////////////////////////////////////////////////////////////
+// Japanese Community Project
+//////////////////////////////////////////////////////////////
+[JPCPDoor
+	0 DSDOROPN
+	1 DSDORCLS
+	2 DSBDOPN
+	3 DSBDCLS
+]
+
+:JPCPPlatform
+	playuntildone plats/pt1_strt
+	stopsound plats/pt1_stop
+end
+
+:JPCPFloor
+	playrepeat plats/pt1_mid
+	stopsound plats/pt1_stop
+end
+
+:JPCPCeiling
+	playrepeat plats/pt1_mid
+end
+
+
 
 
