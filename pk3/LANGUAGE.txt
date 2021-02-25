@@ -356,6 +356,16 @@ D2RL_STARTMAP		= "D2RL01";
 //D2RL_THUMBNAIL		= "";
 D2RL_CREDITS0		= "Andy Stewart";
 
+/////////////////////////////////////////////////////////
+// Hellbound
+/////////////////////////////////////////////////////////
+HEBO_NAME			= "Hellbound";
+HEBO_DESCRIPTION	= "Hellbound is a 32-level megawad released in June 2013.";
+HEBO_MAPCOUNT		= "32";
+HEBO_STARTMAP		= "HEBO01";
+//HEBO_THUMBNAIL		= "";
+HEBO_CREDITS0		= "Zoltán Sófalvi (Z86)";
+
 
 
 
