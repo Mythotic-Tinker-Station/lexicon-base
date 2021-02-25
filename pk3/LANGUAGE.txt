@@ -263,6 +263,48 @@ DBP3_CREDITS7		= "MAP07 | anonimvio    | MAP09 from pmb.wad       | It Doesn't H
 DBP3_CREDITS8		= "MAP08 | valkiriforce | MAP20 from scythe.wad    | The Chapel";
 
 /////////////////////////////////////////////////////////
+// Community Chest 1
+/////////////////////////////////////////////////////////
+CCH1_NAME			= "The Community Chest Project";
+CCH1_DESCRIPTION	= "This is a compilation of levels from the Doom Community.";
+CCH1_MAPCOUNT		= "32";
+CCH1_STARTMAP		= "CCH101";
+//CCH1_THUMBNAIL		= "";
+
+CCH1_CREDITS0		= "MAP01: ... | ...";
+CCH1_CREDITS1		= "MAP02: ... | ...";
+CCH1_CREDITS2		= "MAP03: ... | ...";
+CCH1_CREDITS3		= "MAP04: ... | ...";
+CCH1_CREDITS4		= "MAP05: ... | ...";
+CCH1_CREDITS5		= "MAP06: ... | ...";
+CCH1_CREDITS6		= "MAP07: ... | ...";
+CCH1_CREDITS7		= "MAP08: ... | ...";
+CCH1_CREDITS8		= "MAP09: ... | ...";
+CCH1_CREDITS9		= "MAP10: ... | ...";
+CCH1_CREDITS10		= "MAP11: ... | ...";
+CCH1_CREDITS11		= "MAP12: ... | ...";
+CCH1_CREDITS12		= "MAP13: ... | ...";
+CCH1_CREDITS13		= "MAP14: ... | ...";
+CCH1_CREDITS14		= "MAP15: ... | ...";
+CCH1_CREDITS15		= "MAP16: ... | ...";
+CCH1_CREDITS16		= "MAP17: ... | ...";
+CCH1_CREDITS17		= "MAP18: ... | ...";
+CCH1_CREDITS18		= "MAP19: ... | ...";
+CCH1_CREDITS19		= "MAP20: ... | ...";
+CCH1_CREDITS20		= "MAP21: ... | ...";
+CCH1_CREDITS21		= "MAP22: ... | ...";
+CCH1_CREDITS22		= "MAP23: ... | ...";
+CCH1_CREDITS23		= "MAP24: ... | ...";
+CCH1_CREDITS24		= "MAP25: ... | ...";
+CCH1_CREDITS25		= "MAP26: ... | ...";
+CCH1_CREDITS26		= "MAP27: ... | ...";
+CCH1_CREDITS27		= "MAP28: ... | ...";
+CCH1_CREDITS28		= "MAP29: ... | ...";
+CCH1_CREDITS29		= "MAP30: ... | ...";
+CCH1_CREDITS30		= "MAP31: ... | ...";
+CCH1_CREDITS31		= "MAP32: ... | ...";
+
+/////////////////////////////////////////////////////////
 // Community Chest 2
 /////////////////////////////////////////////////////////
 CCH2_NAME			= "Community Chest 2";
@@ -303,6 +345,48 @@ CCH2_CREDITS28		= "MAP29: Event Horizon			 | Boris";
 CCH2_CREDITS29		= "MAP30: In Threes				 | Cyb";
 CCH2_CREDITS30		= "MAP31: Idee Fixe				 | Sarge Baldy";
 CCH2_CREDITS31		= "MAP32: Sodding Death			 | Chopkinsca";
+
+/////////////////////////////////////////////////////////
+// Community Chest 3
+/////////////////////////////////////////////////////////
+CCH3_NAME			= "Community Chest 3";
+CCH3_DESCRIPTION	= "Community Chest 3 boasts 32 maps made by 20 different authors from the Doom community.";
+CCH3_MAPCOUNT		= "32";
+CCH3_STARTMAP		= "CCH301";
+//CCH3_THUMBNAIL		= "";
+
+CCH3_CREDITS0		= "MAP01: Ventilator 			   | Use3d";
+CCH3_CREDITS1		= "MAP02: Ion Storm 			   | Dutch Devil";
+CCH3_CREDITS2		= "MAP03: Mineopoly 			   | BlackFish & Soap on a Rope";
+CCH3_CREDITS3		= "MAP04: UAC Checkpoint 	  	   | doom2day";
+CCH3_CREDITS4		= "MAP05: Living Hell		  	   | doom2day";
+CCH3_CREDITS5		= "MAP06: Foregone Destruction	   | Tormentor667";
+CCH3_CREDITS6		= "MAP07: Simple Complex		   | Matt Tropiano";
+CCH3_CREDITS7		= "MAP08: Impure Liquids		   | Andy Leaver & The Green Herring";
+CCH3_CREDITS8		= "MAP09: As the Doctor Sleeps	   | Paul Corfiatis";
+CCH3_CREDITS9		= "MAP10: Atlantis Rising		   | Will Hackney";
+CCH3_CREDITS10		= "MAP11: The Grieving Outpost	   | Kirby";
+CCH3_CREDITS11		= "MAP12: Black Rain			   | RottKing";
+CCH3_CREDITS12		= "MAP13: Welcome to the Machine   | Thomas van der Velden";
+CCH3_CREDITS13		= "MAP14: Mountains and Mortar	   | Soap on a Rope";
+CCH3_CREDITS14		= "MAP15: Clash of Galaxies		   | The Green Herring";
+CCH3_CREDITS15		= "MAP16: Hangman's Noose		   | Shadow Dweller & The Green Herring";
+CCH3_CREDITS16		= "MAP17: Mind's Prison			   | Andy Leaver";
+CCH3_CREDITS17		= "MAP18: Godforsaken Hole 		   | Phobus";
+CCH3_CREDITS18		= "MAP19: Subduction			   | Use3d";
+CCH3_CREDITS19		= "MAP20: Huitzilopochtli		   | Dr. Zin";
+CCH3_CREDITS20		= "MAP21: The Hero's Return		   | Thomas van der Velden";
+CCH3_CREDITS21		= "MAP22: Second Entry			   | Dutch Devil";
+CCH3_CREDITS22		= "MAP23: Hard Attack			   | Dutch Devil";
+CCH3_CREDITS23		= "MAP24: Amalgamation 		 	   | The Flange Peddler";
+CCH3_CREDITS24		= "MAP25: Fate in Blood 		   | Andy Leaver";
+CCH3_CREDITS25		= "MAP26: Hybrid Envy 			   | Dr. Zin";
+CCH3_CREDITS26		= "MAP27: Ruby Abyss 			   | The Green Herring";
+CCH3_CREDITS27		= "MAP28: Token Arch-Vile 		   | RjY";
+CCH3_CREDITS28		= "MAP29: For We Are Many 		   | Matt Tropiano";
+CCH3_CREDITS29		= "MAP30: Leviathan				   | Matt Tropiano";
+CCH3_CREDITS30		= "MAP31: Disarming the Mechanism  | lupinx-Kassman";
+CCH3_CREDITS31		= "MAP32: Installation 07 Warszawa | Shadow Dweller & The Green Herring";
 
 /////////////////////////////////////////////////////////
 // Community Chest 4
