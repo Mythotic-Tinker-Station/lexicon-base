@@ -13,7 +13,7 @@ int acronym_list[] =
 	"DBP1",
 	"DBP2",
 	"DBP3",
-	//"CCH1",
+	"CCH1",
 	"CCH2",
 	"CCH3",
 	"CCH4",
