@@ -1,0 +1,9 @@
+Actor DH_WolfensteinSS : WolfensteinSS replaces WolfensteinSS 84
+{
+	SeeSound "grunt/sight"
+	DeathSound "grunt/death"
+	States
+	{
+	}
+}
+

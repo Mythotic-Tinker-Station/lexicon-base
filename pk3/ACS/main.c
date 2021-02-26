@@ -20,6 +20,9 @@ int acronym_list[] =
 	"D2RL",
 	"HEBO",
 	"JPCP",
+	"3HA1",
+	"3HA2",
+	"3HA3",
 };
 
 // This script runs on map load(should have a unique name for each expansion set

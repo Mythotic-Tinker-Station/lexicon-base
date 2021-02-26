@@ -1,0 +1,7 @@
+
+texture 3HA10670 range 3HA10673 tics 8 allowdecals
+texture 3HA10676 range 3HA10187 tics 8
+texture 3HA10737 range 3HA10739 tics 8 allowdecals
+texture 3HA10747 range 3HA10750 tics 8
+
+

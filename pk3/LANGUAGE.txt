@@ -492,6 +492,132 @@ JPCP_CREDITS29		= "MAP30: Every beginning has an end   | burabojunior";
 JPCP_CREDITS30		= "MAP31: Manufacturing Plant          | Masayan (Re-edited by Tatsurd-Cacocaco)";
 JPCP_CREDITS31		= "MAP32: Blood Fund Gang              | Toooooasty";
 
+/////////////////////////////////////////////////////////
+// 3 Hours in Agony 1
+/////////////////////////////////////////////////////////
+3HA1_NAME			= "3 Hours in Agony";
+3HA1_DESCRIPTION	= "3 Heures d'agonie is a collection of 32 vanilla/limit-removing speedmaps designed by members of the French Doom Community.";
+3HA1_MAPCOUNT		= "32";
+3HA1_STARTMAP		= "3HA101";
+//3HA1_THUMBNAIL		= "";
+
+3HA1_CREDITS0		= "MAP01: Upsilon-Synth		   	| William Huber ([WH]-Wilou84)";
+3HA1_CREDITS1		= "MAP02: Unité de Traitement  	| Riad "ZyklonB" Cherigui";
+3HA1_CREDITS2		= "MAP03: Cubicombe			   	| franckFRAG";
+3HA1_CREDITS3		= "MAP04: Petite Mort		   	| Christophe "Necrotikflesh" Calamoneri";
+3HA1_CREDITS4		= "MAP05: Experience Interdite 	| Maxime Bisiaux (Datacore)";
+3HA1_CREDITS5		= "MAP06: Embuscades		   	| Gwenvael Le Bihan (subject_119)";
+3HA1_CREDITS6		= "MAP07: Chambre des supplices | Riad "ZyklonB" Cherigui";
+3HA1_CREDITS7		= "MAP08: Canyon			 	| JC";
+3HA1_CREDITS8		= "MAP09: Zone85				| Maxime Bisiaux (Datacore)";
+3HA1_CREDITS9		= "MAP10: Surchauffe			| JC";
+3HA1_CREDITS10		= "MAP11: Obscurite				| Maxime Bisiaux (Datacore)";
+3HA1_CREDITS11		= "MAP12: Fourbe				| franckFRAG";
+3HA1_CREDITS12		= "MAP13: Le Souterrain			| JC";
+3HA1_CREDITS13		= "MAP14: L'Arene de la Douleur | Maxime Bisiaux (Datacore)";
+3HA1_CREDITS14		= "MAP15: Secteur Delta			| JC";
+3HA1_CREDITS15		= "MAP16: Metalocauste			| franckFRAG";
+3HA1_CREDITS16		= "MAP17: Place Abandonnée		| Christophe "Necrotikflesh" Calamoneri";
+3HA1_CREDITS17		= "MAP18: Stupide Dilemme		| franckFRAG";
+3HA1_CREDITS18		= "MAP19: Terrible Technologies | Arnaud "Oxyde" Florian";
+3HA1_CREDITS19		= "MAP20: Archeologie			| JC";
+3HA1_CREDITS20		= "MAP21: On t'as eu!			| Maxime Bisiaux (Datacore)";
+3HA1_CREDITS21		= "MAP22: Désastre				| franckFRAG";
+3HA1_CREDITS22		= "MAP23: Après Les Restes		| Christophe "Necrotikflesh" Calamoneri";
+3HA1_CREDITS23		= "MAP24: Ruin-Tech				| JC";
+3HA1_CREDITS24		= "MAP25: Le "Q"				| franckFRAG";
+3HA1_CREDITS25		= "MAP26: Le Village Maudit		| Maxime Bisiaux (Datacore)";
+3HA1_CREDITS26		= "MAP27: Sang Innocent			| William Huber ([WH]-Wilou84)";
+3HA1_CREDITS27		= "MAP28: Impulsion				| Maxime Bisiaux (Datacore)";
+3HA1_CREDITS28		= "MAP29: Dernier Voeu			| Darkwave0000";
+3HA1_CREDITS29		= "MAP30: Quarante-deux			| JC";
+3HA1_CREDITS30		= "MAP31: Casemate				| Riad "ZyklonB" Cherigui";
+3HA1_CREDITS31		= "MAP32: Ta Mitralleuse		| Maxime Bisiaux (Datacore)";
+
+/////////////////////////////////////////////////////////
+// 3 Hours in Agony 2
+/////////////////////////////////////////////////////////
+3HA2_NAME			= "3 Hours in Agony 2";
+3HA2_DESCRIPTION	= "3 Heures d'agonie 2 is a collection of 32 vanilla speedmaps designed by members of the French Doom Community.";
+3HA2_MAPCOUNT		= "32";
+3HA2_STARTMAP		= "3HA201";
+//3HA2_THUMBNAIL		= "";
+
+3HA2_CREDITS0		= "MAP01: Crash                        | Ch0wW";
+3HA2_CREDITS1		= "MAP02: Malevolence                  | Subject_119";
+3HA2_CREDITS2		= "MAP03: Sombre Angoisse              | Datacore85";
+3HA2_CREDITS3		= "MAP04: Entraxe                      | franckFRAG";
+3HA2_CREDITS4		= "MAP05: Visions                      | Ch0wW";
+3HA2_CREDITS5		= "MAP06: Processus Logique            | [WH]-Wilou84";
+3HA2_CREDITS6		= "MAP07: Merciless Flow               | Memfis";
+3HA2_CREDITS7		= "MAP08: Simple souterrain            | Oxyde";
+3HA2_CREDITS8		= "MAP09: Generator Of Death           | Sid Zetmeck";
+3HA2_CREDITS9		= "MAP10: Culture et Confiture de Mobs | Jambon";
+3HA2_CREDITS10		= "MAP11: Cendres Humaines             | JC";
+3HA2_CREDITS11		= "MAP12: Wrong Address                | Memfis";
+3HA2_CREDITS12		= "MAP13: Traumateck                   | franckFRAG";
+3HA2_CREDITS13		= "MAP14: Sarcasmes Malsains           | Datacore85";
+3HA2_CREDITS14		= "MAP15: Les Comtes de la Crypte      | Jambon";
+3HA2_CREDITS15		= "MAP16: Vile Sombre                  | JC";
+3HA2_CREDITS16		= "MAP17: Infiltraction                | Ch0wW";
+3HA2_CREDITS17		= "MAP18: Somewhere in the Slime Ocean | Plut";
+3HA2_CREDITS18		= "MAP19: Brexin                       | [WH]-Wilou84";
+3HA2_CREDITS19		= "MAP20: Charnage                     | Ch0wW";
+3HA2_CREDITS20		= "MAP21: Diabolic Patterns            | Memfis";
+3HA2_CREDITS21		= "MAP22: Vaine Tentative              | NilsTheRed";
+3HA2_CREDITS22		= "MAP23: Enceinte infernale           | Oxyde";
+3HA2_CREDITS23		= "MAP24: Supplice Claustrophobe       | Datacore85";
+3HA2_CREDITS24		= "MAP25: Crise Infernale              | franckFRAG";
+3HA2_CREDITS25		= "MAP26: Pacte de Noirceur            | [WH]-Wilou84";
+3HA2_CREDITS26		= "MAP27: Passage a vide               | Oxyde";
+3HA2_CREDITS27		= "MAP28: Gutter Grave                 | Darkwave0000";
+3HA2_CREDITS28		= "MAP29: Chair brulante               | JC";
+3HA2_CREDITS29		= "MAP30: 3 Heures d'Agonie 2          | JC";
+3HA2_CREDITS30		= "MAP31: Dextromethorphane 84%        | [WH]-Wilou84";
+3HA2_CREDITS31		= "MAP32: Safe Zone                    | JC";
+
+/////////////////////////////////////////////////////////
+// 3 Hours in Agony 3
+/////////////////////////////////////////////////////////
+3HA3_NAME			= "3 Hours in Agony 3";
+3HA3_DESCRIPTION	= "3 Heures d'agonie 3 is a collection of 32 vanilla speedmaps designed by members of the French Doom Community.";
+3HA3_MAPCOUNT		= "32";
+3HA3_STARTMAP		= "3HA301";
+//3HA3_THUMBNAIL		= "";
+
+3HA3_CREDITS0		= "MAP01: Négligence                 | FranckFRAG";
+3HA3_CREDITS1		= "MAP02: Atterrissage               | Roofi";
+3HA3_CREDITS2		= "MAP03: Serena, reviens, on t'aime | Jambon";
+3HA3_CREDITS3		= "MAP04: Réacteur Chimique          | NilsTheRed";
+3HA3_CREDITS4		= "MAP05: Violently Imply            | Necrotikflesh";
+3HA3_CREDITS5		= "MAP06: Ombres Boueuses			 | Datacore";
+3HA3_CREDITS6		= "MAP07: Six Seulement				 | Oxyde";
+3HA3_CREDITS7		= "MAP08: Storm Warning				 | Memfis";
+3HA3_CREDITS8		= "MAP09: Entrepôt                   | JC";
+3HA3_CREDITS9		= "MAP10: Jessie                     | [WH]-Wilou84";
+3HA3_CREDITS10		= "MAP11: Ca tombe Satan s'en tape   | Jambon";
+3HA3_CREDITS11		= "MAP12: Spirale			 	     | Ch0wW";
+3HA3_CREDITS12		= "MAP13: Funeste Rendez-vous		 | FranckFRAG";
+3HA3_CREDITS13		= "MAP14: Epsilon indi		    	 | Datacore";
+3HA3_CREDITS14		= "MAP15: Ile paradisiaque	    	 | Roofi";
+3HA3_CREDITS15		= "MAP16: Infligeance		    	 | FranckFRAG";
+3HA3_CREDITS16		= "MAP17: Chlorophyll		    	 | Datacore";
+3HA3_CREDITS17		= "MAP18: Nassima		 	    	 | [WH]-Wilou84";
+3HA3_CREDITS18		= "MAP19: Deficience Aigue	    	 | FranckFRAG";
+3HA3_CREDITS19		= "MAP20: Donjon sanglant			 | JC";
+3HA3_CREDITS20		= "MAP21: Apero d'enfer			 	 | Roofi";
+3HA3_CREDITS21		= "MAP22: Autel Ecarlate			 | NilsTheRed";
+3HA3_CREDITS22		= "MAP23: Hemoglobin			     | Datacore";
+3HA3_CREDITS23		= "MAP24: Les terres de l'enfer	  	 | JC";
+3HA3_CREDITS24		= "MAP25: Helldoors		    	  	 | Ch0wW";
+3HA3_CREDITS25		= "MAP26: Empire of Dirt			 | Memfis";
+3HA3_CREDITS26		= "MAP27: La Géhenne Rouge	    	 | FranckFRAG";
+3HA3_CREDITS27		= "MAP28: Véro			        	 | [WH]-Wilou84";
+3HA3_CREDITS28		= "MAP29: Serment de Noirceur		 | Darkwave0000";
+3HA3_CREDITS29		= "MAP30: 3 Heures d'Agonie 3		 | Franck, JC, Wilou84";
+3HA3_CREDITS30		= "MAP31: Eau trouble		    	 | Roofi";
+3HA3_CREDITS31		= "MAP32: Doom deux		    	 	 | Oxyde";
+
 
 
 

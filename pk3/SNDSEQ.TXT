@@ -281,6 +281,79 @@ end
 	playrepeat plats/pt1_mid
 end
 
+//////////////////////////////////////////////////////////////
+// 3 Hours in Agony 1
+//////////////////////////////////////////////////////////////
+[3HA1Door
+	0 DSDOROPN
+	1 DSDORCLS
+	2 DSBDOPN
+	3 DSBDCLS
+]
+
+:3HA1Platform
+	playuntildone plats/pt1_strt
+	stopsound plats/pt1_stop
+end
+
+:3HA1Floor
+	playrepeat plats/pt1_mid
+	stopsound plats/pt1_stop
+end
+
+:3HA1Ceiling
+	playrepeat plats/pt1_mid
+end
+
+//////////////////////////////////////////////////////////////
+// 3 Hours in Agony 2
+//////////////////////////////////////////////////////////////
+[3HA2Door
+	0 DSDOROPN
+	1 DSDORCLS
+	2 DSBDOPN
+	3 DSBDCLS
+]
+
+:3HA2Platform
+	playuntildone plats/pt1_strt
+	stopsound plats/pt1_stop
+end
+
+:3HA2Floor
+	playrepeat plats/pt1_mid
+	stopsound plats/pt1_stop
+end
+
+:3HA2Ceiling
+	playrepeat plats/pt1_mid
+end
+
+//////////////////////////////////////////////////////////////
+// 3 Hours in Agony 3
+//////////////////////////////////////////////////////////////
+[3HA3Door
+	0 DSDOROPN
+	1 DSDORCLS
+	2 DSBDOPN
+	3 DSBDCLS
+]
+
+:3HA3Platform
+	playuntildone plats/pt1_strt
+	stopsound plats/pt1_stop
+end
+
+:3HA3Floor
+	playrepeat plats/pt1_mid
+	stopsound plats/pt1_stop
+end
+
+:3HA3Ceiling
+	playrepeat plats/pt1_mid
+end
+
+
 
 
 
