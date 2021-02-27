@@ -3,3 +3,4 @@
 #include "ACTORS/EPIC1.txt"
 #include "ACTORS/EPIC2.txt"
 #include "ACTORS/MAYHEM17.txt"
+#include "ACTORS/DPB2.txt"

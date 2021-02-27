@@ -243,6 +243,13 @@ DBP2_CREDITS6		= "MAP06 | 40oz                | MAP16 from hrmus.wad    | Cold S
 DBP2_CREDITS7		= "MAP07 | 40oz                | MAP02 from c-shock2.wad | Below Zero";
 DBP2_CREDITS8		= "MAP08 | joe-ilya            | MAP01 from mikedmc1.wad | Hot Action In Cold Igloos";
 
+DBP2_REPLACER0		= "Stalagtite:COCStalagtite";
+DBP2_REPLACER1		= "ShortGreenTorch:COCShortGreenTorch";
+DBP2_REPLACER2		= "SkullColumn:COCSkullColumn";
+DBP2_REPLACER3		= "TallGreenColumn:COCTallGreenColumn";
+DBP2_REPLACER4		= "ShortGreenColumn:COCShortGreenColumn";
+DBP2_REPLACER5		= "GreenTorch:COCGreenTorch";
+
 /////////////////////////////////////////////////////////
 // Doomer Board Project 3: Forest Swords
 /////////////////////////////////////////////////////////
