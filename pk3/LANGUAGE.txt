@@ -214,7 +214,8 @@ DBP1_NAME			= "Monuments of Mars";
 DBP1_DESCRIPTION	= "A custom single player mapset by members of Doomer Boards (doomer.boards.net)";
 DBP1_MAPCOUNT		= "8";
 DBP1_STARTMAP		= "DBP101";
-//DBP1_THUMBNAIL	= "DBP1TN";
+DBP1_THUMBNAIL		= "DBP1TN";
+
 DBP1_CREDITS0		= "Doomer Boards Community";
 DBP1_CREDITS1		= "MAP01 | 40oz        | MAP05 from sodfinal.wad | Breakout";
 DBP1_CREDITS2		= "MAP02 | 40oz        | E1M3 from heroes.wad | Mt. Orion";
@@ -232,7 +233,8 @@ DBP2_NAME			= "Circle of Caina";
 DBP2_DESCRIPTION	= "Your next shipment of maps have arrived, from your friends at the local mapfactory: Doomer Boards (doomer.boards.net)";
 DBP2_MAPCOUNT		= "8";
 DBP2_STARTMAP		= "DBP201";
-//DBP2_THUMBNAIL	= "DBP2TN";
+DBP2_THUMBNAIL		= "DBP2TN";
+
 DBP2_CREDITS0		= "Doomer Boards Community";
 DBP2_CREDITS1		= "MAP01 | noisyvelvet         | MAP04 from tfa.wad      | The Chill Before The Thrill";
 DBP2_CREDITS2		= "MAP02 | 40oz                | MAP02 from mm2mus.wad   | Frostbite";
@@ -258,7 +260,8 @@ DBP3_NAME			= "Forest Swords";
 DBP3_DESCRIPTION	= "Some forest themed levels banged out by the best worst doomers you'll ever meet at Doomer Boards (doomer.boards.net)";
 DBP3_MAPCOUNT		= "8";
 DBP3_STARTMAP		= "DBP301";
-//DBP3_THUMBNAIL	= "DBP3TN";
+DBP3_THUMBNAIL		= "DBP3TN";
+
 DBP3_CREDITS0		= "Doomer Boards Community";
 DBP3_CREDITS1		= "MAP01 | glenzinho    | MAP16 from icarus.wad    | Rocky Start";
 DBP3_CREDITS2		= "MAP02 | 40oz         | MAP01 from exodus.wad    | Canyon Crawl";
@@ -272,11 +275,11 @@ DBP3_CREDITS8		= "MAP08 | valkiriforce | MAP20 from scythe.wad    | The Chapel";
 /////////////////////////////////////////////////////////
 // Community Chest 1
 /////////////////////////////////////////////////////////
-CCH1_NAME			= "The Community Chest Project";
+CCH1_NAME			= "Community Chest";
 CCH1_DESCRIPTION	= "This is a compilation of levels from the Doom Community.";
 CCH1_MAPCOUNT		= "32";
 CCH1_STARTMAP		= "CCH101";
-//CCH1_THUMBNAIL		= "";
+CCH1_THUMBNAIL		= "CCH1TN";
 
 CCH1_CREDITS0		= "MAP01: Pistol Panic					  | The Ultimate Doomer ";
 CCH1_CREDITS1		= "MAP02: Nullth Precinct				  | Thomas van der Velden ";
@@ -318,7 +321,7 @@ CCH2_NAME			= "Community Chest 2";
 CCH2_DESCRIPTION	= "Community Chest 2 is a 32 map megawad including levels made by 26 different authors from the Doom Community.";
 CCH2_MAPCOUNT		= "32";
 CCH2_STARTMAP		= "CCH201";
-//CCH2_THUMBNAIL		= "";
+CCH2_THUMBNAIL		= "CCH2TN";
 
 CCH2_CREDITS0		= "MAP01: The Furnace			 | Erik Alm";
 CCH2_CREDITS1		= "MAP02: Coolant Platform		 | Iori";
@@ -360,7 +363,7 @@ CCH3_NAME			= "Community Chest 3";
 CCH3_DESCRIPTION	= "Community Chest 3 boasts 32 maps made by 20 different authors from the Doom community.";
 CCH3_MAPCOUNT		= "32";
 CCH3_STARTMAP		= "CCH301";
-//CCH3_THUMBNAIL		= "";
+CCH3_THUMBNAIL		= "CCH3TN";
 
 CCH3_CREDITS0		= "MAP01: Ventilator 			   | Use3d";
 CCH3_CREDITS1		= "MAP02: Ion Storm 			   | Dutch Devil";
@@ -402,7 +405,7 @@ CCH4_NAME			= "Community Chest 4";
 CCH4_DESCRIPTION	= "Community Chest 4 boasts 32 maps made by 20 different authors from the Doom community.";
 CCH4_MAPCOUNT		= "33";
 CCH4_STARTMAP		= "CCH401";
-//CCH4_THUMBNAIL		= "";
+CCH4_THUMBNAIL		= "CCH4TN";
 
 CCH4_CREDITS0		= "MAP01: Renewed Faith 		| William Huber";
 CCH4_CREDITS1		= "MAP02: Slugfest 				| skillsaw";
@@ -444,7 +447,7 @@ D2RL_NAME			= "Doom 2 Reloaded";
 D2RL_DESCRIPTION	= "Doom 2 Reloaded is a 32-level megawad released in October 2009.";
 D2RL_MAPCOUNT		= "32";
 D2RL_STARTMAP		= "D2RL01";
-//D2RL_THUMBNAIL		= "";
+D2RL_THUMBNAIL		= "D2RLTN";
 D2RL_CREDITS0		= "Andy Stewart";
 
 /////////////////////////////////////////////////////////
@@ -454,17 +457,17 @@ HEBO_NAME			= "Hellbound";
 HEBO_DESCRIPTION	= "Hellbound is a 32-level megawad released in June 2013.";
 HEBO_MAPCOUNT		= "32";
 HEBO_STARTMAP		= "HEBO01";
-//HEBO_THUMBNAIL		= "";
+HEBO_THUMBNAIL		= "HEBOTN";
 HEBO_CREDITS0		= "Zoltán Sófalvi (Z86)";
 
 /////////////////////////////////////////////////////////
 // Japanese Community Project
 /////////////////////////////////////////////////////////
-JPCP_NAME			= "Japanese Community Project";
+JPCP_NAME			= "Japanese Community";
 JPCP_DESCRIPTION	= "Japanese Community Project is a 32 level megawad made by Japanese Doomers, released in August 2016.";
 JPCP_MAPCOUNT		= "32";
 JPCP_STARTMAP		= "JPCP01";
-//JPCP_THUMBNAIL		= "";
+JPCP_THUMBNAIL		= "JPCPTN";
 
 JPCP_CREDITS0		= "MAP01: First Assault                | Tatsurd-Cacocaco";
 JPCP_CREDITS1		= "MAP02: Rural Mini-Base              | Tatsurd-Cacocaco";
@@ -506,7 +509,7 @@ JPCP_CREDITS31		= "MAP32: Blood Fund Gang              | Toooooasty";
 3HA1_DESCRIPTION	= "3 Heures d'agonie is a collection of 32 vanilla/limit-removing speedmaps designed by members of the French Doom Community.";
 3HA1_MAPCOUNT		= "32";
 3HA1_STARTMAP		= "3HA101";
-//3HA1_THUMBNAIL		= "";
+3HA1_THUMBNAIL		= "3HA1TN";
 
 3HA1_CREDITS0		= "MAP01: Upsilon-Synth		   	| William Huber ([WH]-Wilou84)";
 3HA1_CREDITS1		= "MAP02: Unité de Traitement  	| Riad "ZyklonB" Cherigui";
@@ -548,7 +551,7 @@ JPCP_CREDITS31		= "MAP32: Blood Fund Gang              | Toooooasty";
 3HA2_DESCRIPTION	= "3 Heures d'agonie 2 is a collection of 32 vanilla speedmaps designed by members of the French Doom Community.";
 3HA2_MAPCOUNT		= "32";
 3HA2_STARTMAP		= "3HA201";
-//3HA2_THUMBNAIL		= "";
+3HA2_THUMBNAIL		= "3HA2TN";
 
 3HA2_CREDITS0		= "MAP01: Crash                        | Ch0wW";
 3HA2_CREDITS1		= "MAP02: Malevolence                  | Subject_119";
@@ -590,7 +593,7 @@ JPCP_CREDITS31		= "MAP32: Blood Fund Gang              | Toooooasty";
 3HA3_DESCRIPTION	= "3 Heures d'agonie 3 is a collection of 32 vanilla speedmaps designed by members of the French Doom Community.";
 3HA3_MAPCOUNT		= "32";
 3HA3_STARTMAP		= "3HA301";
-//3HA3_THUMBNAIL		= "";
+3HA3_THUMBNAIL		= "3HA3TN";
 
 3HA3_CREDITS0		= "MAP01: Négligence                 | FranckFRAG";
 3HA3_CREDITS1		= "MAP02: Atterrissage               | Roofi";
