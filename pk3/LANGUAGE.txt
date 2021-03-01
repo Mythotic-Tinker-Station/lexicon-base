@@ -272,6 +272,15 @@ DBP3_CREDITS6		= "MAP06 | 40oz         | MAP10 from bloodrust.wad | Crisis Cente
 DBP3_CREDITS7		= "MAP07 | anonimvio    | MAP09 from pmb.wad       | It Doesn't Have A Name";
 DBP3_CREDITS8		= "MAP08 | valkiriforce | MAP20 from scythe.wad    | The Chapel";
 
+DBP3_REPLACER0		= "TallRedColumn:FSWTallRedColumn";
+DBP3_REPLACER1		= "SkullColumn:FSWSkullColumn";
+DBP3_REPLACER2		= "ShortRedColumn:FSWShortRedColumn";
+DBP3_REPLACER3		= "HangTLookingDown:FSWHangTLookingDown";
+DBP3_REPLACER4		= "HangTLookingUp:FSWHangTLookingUp";
+DBP3_REPLACER5		= "HangTSkull:FSWHangTSkull";
+DBP3_REPLACER6		= "DeadStick:FSWDeadStick";
+
+
 /////////////////////////////////////////////////////////
 // Community Chest 1
 /////////////////////////////////////////////////////////
