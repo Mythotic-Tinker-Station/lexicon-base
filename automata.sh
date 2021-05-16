@@ -44,4 +44,4 @@ mv ./${FILE_NAME}.pk3 ./${FILE_NAME}_beta_build_${BUILD_NUMBER}.pk3
 cp ./${FILE_NAME}_beta_build_${BUILD_NUMBER}.pk3 ~/.config/zandronum
 
 # Export varible to use in other scripts
-echo LEX_MAINFILE="${FILE_NAME}_beta_build_${BUILD_NUMBER}.pk3" >> lexmap_basefile
+echo LEX_BASEFILE="${FILE_NAME}_beta_build_${BUILD_NUMBER}.pk3" >> lexmap_basefile
