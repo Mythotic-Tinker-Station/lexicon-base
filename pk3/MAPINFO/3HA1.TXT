@@ -1,0 +1,504 @@
+map 3HA101 lookup "Niveau 1: Upsilon-Synth"
+{
+	titlepatch = "3HALV00"
+	next = "3HA102"
+	secretnext = "3HA102"
+	ExitPic = "3HAINT"
+	EnterPic = "3HAINT"
+	sky1 = "3HA10330"
+	par = 30
+	music = "D_3HA101"
+	sucktime = 1
+	
+	
+	
+}
+
+map 3HA102 lookup "Niveau 2: Unite de traitement"
+{
+	titlepatch = "3HALV01"
+	next = "3HA103"
+	secretnext = "3HA103"
+	sky1 = "3HA10330"
+	ExitPic = "3HAINT"
+	EnterPic = "3HAINT"
+	par = 90
+	music = "D_STALKS"
+	sucktime = 1
+	
+	
+	
+}
+
+map 3HA103 lookup "Niveau 3: Cubicombe"
+{
+	titlepatch = "3HALV02"
+	next = "3HA104"
+	secretnext = "3HA104"
+	ExitPic = "3HAINT"
+	EnterPic = "3HAINT"
+	sky1 = "3HA10330"
+	par = 120
+	music = "D_3HA103"
+	sucktime = 1
+	
+	
+	
+}
+
+map 3HA104 lookup "Niveau 4: Petite mort"
+{
+	titlepatch = "3HALV03"
+	next = "3HA105"
+	secretnext = "3HA105"
+	ExitPic = "3HAINT"
+	EnterPic = "3HAINT"
+	sky1 = "3HA10330"
+	par = 120
+	music = "D_3HA104"
+	sucktime = 1
+	
+	
+}
+
+map 3HA105 lookup "Niveau 5: Experience Interdite"
+{
+	titlepatch = "3HALV04"
+	next = "3HA106"
+	secretnext = "3HA106"
+	ExitPic = "3HAINT"
+	EnterPic = "3HAINT"
+	sky1 = "3HA10330"
+	par = 90
+	music = "D_DOOM"
+	sucktime = 1
+	
+	
+	
+}
+
+map 3HA106 lookup "Niveau 6: Embuscades"
+{
+	titlepatch = "3HALV05"
+	next = "3HA107"
+	secretnext = "3HA107"
+	ExitPic = "3HAINT"
+	EnterPic = "3HAINT"
+	sky1 = "3HA10330"
+	par = 150
+	sucktime = 1
+	music = "D_3HA106"
+	sucktime = 1
+	
+	
+	
+}
+
+map 3HA107 lookup "Niveau 7: Chambre des supplices"
+{
+	titlepatch = "3HALV06"
+	next = "3HA108"
+	secretnext = "3HA108"
+	ExitPic = "3HAINT"
+	EnterPic = "3HAINT"
+	sky1 = "3HA10330"
+	par = 120
+	map07special
+	music = "D_3HA107"
+	sucktime = 1
+	
+	
+}
+
+map 3HA108 lookup "Niveau 8: Canyon"
+{
+	titlepatch = "3HALV07"
+	next = "3HA109"
+	secretnext = "3HA109"
+	ExitPic = "3HAINT"
+	EnterPic = "3HAINT"
+	sky1 = "3HA10330"
+	par = 120
+	music = "D_3HA108"
+	sucktime = 1
+	
+	
+}
+
+map 3HA109 lookup "Niveau 9: Zone 85"
+{
+	titlepatch = "3HALV08"
+	next = "3HA110"
+	secretnext = "3HA110"
+	ExitPic = "3HAINT"
+	EnterPic = "3HAINT"
+	sky1 = "3HA10330"
+	par = 270
+	music = "D_IN_CIT"
+	sucktime = 1
+	
+	
+	
+}
+
+map 3HA110 lookup "Niveau 10: Surchauffe"
+{
+	titlepatch = "3HALV09"
+	next = "3HA111"
+	secretnext = "3HA111"
+	ExitPic = "3HAINT"
+	EnterPic = "3HAINT"
+	sky1 = "3HA10330"
+	par = 90
+	music = "D_3HA110"
+	sucktime = 1
+	
+	
+	
+}
+
+map 3HA111 lookup "Niveau 11: Obscurite"
+{
+	titlepatch = "3HALV10"
+	next = "3HA112"
+	secretnext = "3HA112"
+	ExitPic = "3HAINT"
+	EnterPic = "3HAINT"
+	sky1 = "3HA10330"
+	par = 210
+	music = "D_3HA111"
+	sucktime = 1
+	
+	
+	
+}
+
+map 3HA112 lookup "Niveau 12: Fourbe"
+{
+	titlepatch = "3HALV11"
+	next = "3HA113"
+	secretnext = "3HA113"
+	ExitPic = "3HAINT"
+	EnterPic = "3HAINT"
+	sky1 = "3HA10331"
+	par = 150
+	music = "D_3HA112"
+	sucktime = 1
+	
+	
+}
+
+map 3HA113 lookup "Niveau 13: Le Souterrain"
+{
+	titlepatch = "3HALV12"
+	next = "3HA114"
+	secretnext = "3HA114"
+	ExitPic = "3HAINT"
+	EnterPic = "3HAINT"
+	sky1 = "3HA10331"
+	par = 150
+	music = "D_3HA113"
+	sucktime = 1
+	
+	
+}
+
+map 3HA114 lookup "Niveau 14: L'Arene de la Douleur"
+{
+	titlepatch = "3HALV13"
+	next = "3HA115"
+	secretnext = "3HA115"
+	ExitPic = "3HAINT"
+	EnterPic = "3HAINT"
+	sky1 = "3HA10331"
+	par = 150
+	music = "D_3HA114"
+	sucktime = 1
+	
+	
+}
+
+map 3HA115 lookup "Niveau 15: Secteur Delta"
+{
+	titlepatch = "3HALV14"
+	next = "3HA116"
+	secretnext = "3HA131"
+	ExitPic = "3HAINT"
+	EnterPic = "3HAINT"
+	sky1 = "3HA10331"
+	par = 210
+	music = "D_3HA115"
+	sucktime = 1
+	
+	
+	
+}
+
+map 3HA116 lookup "Niveau 16: Metalocauste"
+{
+	titlepatch = "3HALV15"
+	next = "3HA117"
+	secretnext = "3HA117"
+	ExitPic = "3HAINT"
+	EnterPic = "3HAINT"
+	sky1 = "3HA10331"
+	par = 150
+	music = "D_3HA116"
+	sucktime = 1
+	
+	
+	
+}
+
+map 3HA117 lookup "Niveau 17: Place Abandonnee"
+{
+	titlepatch = "3HALV16"
+	next = "3HA118"
+	secretnext = "3HA118"
+	ExitPic = "3HAINT"
+	EnterPic = "3HAINT"
+	sky1 = "3HA10331"
+	par = 420
+	music = "D_3HA117"
+	sucktime = 1
+	
+	
+	
+}
+
+map 3HA118 lookup "Niveau 18: Stupide Dilemme"
+{
+	titlepatch = "3HALV17"
+	next = "3HA119"
+	secretnext = "3HA119"
+	ExitPic = "3HAINT"
+	EnterPic = "3HAINT"
+	sky1 = "3HA10331"
+	par = 150
+	music = "D_ROMERO"
+	sucktime = 1
+	
+	
+	
+}
+
+map 3HA119 lookup "Niveau 19: Terribles Technologies"
+{
+	titlepatch = "3HALV18"
+	next = "3HA120"
+	secretnext = "3HA120"
+	ExitPic = "3HAINT"
+	EnterPic = "3HAINT"
+	sky1 = "3HA10331"
+	par = 210
+	music = "D_3HA119"
+	sucktime = 1
+	
+	
+}
+
+map 3HA120 lookup "Niveau 20: Archeologie"
+{
+	titlepatch = "3HALV19"
+	next = "3HA121"
+	secretnext = "3HA121"
+	ExitPic = "3HAINT"
+	EnterPic = "3HAINT"
+	sky1 = "3HA10331"
+	par = 150
+	music = "D_3HA120"
+	sucktime = 1
+	
+	
+	
+}
+
+map 3HA121 lookup "Niveau 21: On t'a eu !"
+{
+	titlepatch = "3HALV20"
+	next = "3HA122"
+	secretnext = "3HA122"
+	ExitPic = "3HAINT"
+	EnterPic = "3HAINT"
+	sky1 = "3HA10332"
+	par = 240
+	music = "D_3HA121"
+	sucktime = 1
+	
+	
+	
+}
+
+map 3HA122 lookup "Niveau 22: Desastre"
+{
+	titlepatch = "3HALV21"
+	next = "3HA123"
+	secretnext = "3HA123"
+	ExitPic = "3HAINT"
+	EnterPic = "3HAINT"
+	sky1 = "3HA10332"
+	par = 150
+	music = "D_3HA122"
+	sucktime = 1
+	
+	
+	
+}
+
+map 3HA123 lookup "Niveau 23: Apres les restes"
+{
+	titlepatch = "3HALV22"
+	next = "3HA124"
+	secretnext = "3HA124"
+	ExitPic = "3HAINT"
+	EnterPic = "3HAINT"
+	sky1 = "3HA10332"
+	par = 180
+	music = "D_3HA123"
+	sucktime = 1
+	
+	
+	
+}
+
+map 3HA124 lookup "Niveau 24: Ruin-Tech"
+{
+	titlepatch = "3HALV23"
+	next = "3HA125"
+	secretnext = "3HA125"
+	ExitPic = "3HAINT"
+	EnterPic = "3HAINT"
+	sky1 = "3HA10332"
+	par = 150
+	music = "D_3HA124"
+	sucktime = 1
+	
+	
+	
+}
+
+map 3HA125 lookup "Niveau 25: Le Q"
+{
+	titlepatch = "3HALV24"
+	next = "3HA126"
+	secretnext = "3HA126"
+	ExitPic = "3HAINT"
+	EnterPic = "3HAINT"
+	sky1 = "3HA10332"
+	par = 150
+	music = "D_3HA125"
+	sucktime = 1
+	
+	
+	
+}
+
+map 3HA126 lookup "Niveau 26: Le Village Maudit"
+{
+	titlepatch = "3HALV25"
+	next = "3HA127"
+	secretnext = "3HA127"
+	ExitPic = "3HAINT"
+	EnterPic = "3HAINT"
+	sky1 = "3HA10332"
+	par = 300
+	music = "D_3HA126"
+	sucktime = 1
+	
+	
+	
+}
+
+map 3HA127 lookup "Niveau 27: Sang Innocent"
+{
+	titlepatch = "3HALV26"
+	next = "3HA128"
+	secretnext = "3HA128"
+	ExitPic = "3HAINT"
+	EnterPic = "3HAINT"
+	sky1 = "3HA10332"
+	par = 330
+	music = "D_3HA127"
+	sucktime = 1
+	
+	
+	
+}
+
+map 3HA128 lookup "Niveau 28: Impulsion"
+{
+	titlepatch = "3HALV27"
+	next = "3HA129"
+	secretnext = "3HA129"
+	ExitPic = "3HAINT"
+	EnterPic = "3HAINT"
+	sky1 = "3HA10332"
+	par = 420
+	music = "D_3HA128"
+	sucktime = 1
+	
+	
+	
+}
+
+map 3HA129 lookup "Niveau 29: Dernier Voeu"
+{
+	titlepatch = "3HALV28"
+	next = "3HA130"
+	secretnext = "3HA130"
+	ExitPic = "3HAINT"
+	EnterPic = "3HAINT"
+	sky1 = "3HA10332"
+	par = 300
+	music = "D_3HA129"
+	sucktime = 1
+	
+	
+	
+}
+
+map 3HA130 lookup "Niveau 30: Quarante-deux"
+{
+	titlepatch = "3HALV29"
+	next = "VR"
+	secretnext = "VR"
+	sky1 = "3HA10332"
+	ExitPic = "3HALV33"
+	EnterPic = "3HAINT"
+	par = 180
+	allowmonstertelefrags
+	music = "D_3HA130"
+	sucktime = 1337
+	
+	
+	
+}
+
+map 3HA131 lookup "Niveau 31: Casemate"
+{
+	titlepatch = "3HALV30"
+	next = "3HA116"
+	secretnext = "3HA132"
+	ExitPic = "3HAINT"
+	EnterPic = "3HAINT"
+	sky1 = "3HA10332"
+	par = 120
+	music = "D_3HA131"
+	sucktime = 1
+	
+	
+	
+}
+
+map 3HA132 lookup "Niveau 32: Ta Mitrailleuse"
+{
+	titlepatch = "3HALV31"
+	next = "3HA116"
+	secretnext = "3HA116"
+	ExitPic = "3HAINT"
+	EnterPic = "3HAINT"
+	sky1 = "3HA10332"
+	par = 30
+	music = "D_3HA132"
+	sucktime = 1
+}
