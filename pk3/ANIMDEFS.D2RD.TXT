@@ -1,0 +1,13 @@
+
+texture D2RD0326 range D2RD0329 tics 8 allowdecals
+texture D2RD0389 range D2RD0392 tics 8
+texture D2RD0414 range D2RD0417 tics 8 allowdecals
+texture D2RD0475 range D2RD0478 tics 8
+texture D2RD0492 range D2RD0493 tics 8
+texture D2RD0497 range D2RD0499 tics 8
+flat D2RD0010 range D2RD0013 tics 8
+
+switch D2RD0675 on pic D2RD0715 tics 0
+switch D2RD0680 on pic D2RD0720 tics 0
+switch D2RD0686 on pic D2RD0726 tics 0
+
