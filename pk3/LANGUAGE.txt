@@ -637,6 +637,44 @@ JPCP_CREDITS31		= "MAP32: Blood Fund Gang              | Toooooasty";
 3HA3_CREDITS30		= "MAP31: Eau trouble		    	 | Roofi";
 3HA3_CREDITS31		= "MAP32: Doom deux		    	 	 | Oxyde";
 
+/////////////////////////////////////////////////////////
+// Doom 2 Redux
+/////////////////////////////////////////////////////////
+D2RD_NAME			= "Doom 2 Redux";
+D2RD_DESCRIPTION	= "Doom 2 Redux is a community project aimed at re-creating, modernizing and re-imagining the vanilla Doom 2 levels.";
+D2RD_MAPCOUNT		= "32";
+D2RD_STARTMAP		= "D2RD01";
+D2RD_THUMBNAIL		= "D2RDTN";
 
-
-
+D2RD_CREDITS0		= "Map 01 - Trace of Spades";
+D2RD_CREDITS1		= "Map 02 - Trace of Spades";
+D2RD_CREDITS2		= "Map 03 - nxGangrel, Trace of Spades";
+D2RD_CREDITS3		= "Map 04 - Tactical Stiffy";
+D2RD_CREDITS4		= "Map 05 - Tactical Stiffy";
+D2RD_CREDITS5		= "Map 06 - ArchvileHunter";
+D2RD_CREDITS6		= "Map 07 - WildMajora, nxGangrel";
+D2RD_CREDITS7		= "Map 08 - Tactical Stiffy";
+D2RD_CREDITS8		= "Map 09 - Ninehills42";
+D2RD_CREDITS9		= "Map 10 - Muumi";
+D2RD_CREDITS10		= "Map 11 - Joe-ilya";
+D2RD_CREDITS11		= "Map 12 - SotaPoika";
+D2RD_CREDITS12		= "Map 13 - nxGangrel";
+D2RD_CREDITS13		= "Map 14 - nxGangrel";
+D2RD_CREDITS14		= "Map 15 - nxGangrel, 40oz";
+D2RD_CREDITS15		= "Map 16 - Tactical Stiffy";
+D2RD_CREDITS16		= "Map 17 - Scotty";
+D2RD_CREDITS17		= "Map 18 - Joe-ilya";
+D2RD_CREDITS18		= "Map 19 - SotaPoika";
+D2RD_CREDITS19		= "Map 20 - Tactical Stiffy";
+D2RD_CREDITS20		= "Map 21 - Joe-ilya";
+D2RD_CREDITS21		= "Map 22 - nxGangrel";
+D2RD_CREDITS22		= "Map 23 - Trace of Spades";
+D2RD_CREDITS23		= "Map 24 - Scotty";
+D2RD_CREDITS24		= "Map 25 - ArchvileHunter";
+D2RD_CREDITS25		= "Map 26 - ArchvileHunter, nxGangrel";
+D2RD_CREDITS26		= "Map 27 - Tactical Stiffy";
+D2RD_CREDITS27		= "Map 28 - Tactical Stiffy";
+D2RD_CREDITS28		= "Map 29 - nxGangrel";
+D2RD_CREDITS29		= "Map 30 - Trace of Spades, nxGangrel, Scotty";
+D2RD_CREDITS30		= "Map 31 - Tomato Ketchup";
+D2RD_CREDITS31		= "Map 32 - Supercupcaketactics";

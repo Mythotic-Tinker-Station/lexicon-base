@@ -23,6 +23,7 @@ int acronym_list[] =
 	"3HA1",
 	"3HA2",
 	"3HA3",
+	"D2RD",
 };
 
 // This script runs on map load(should have a unique name for each expansion set
