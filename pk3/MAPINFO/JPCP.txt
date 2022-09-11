@@ -4,8 +4,9 @@ secretnext = JPCP02
 sky1 = JPCP0408
 nojump
 nocrouch
-exitpic = JPCPIN
-enterpic = JPCPIN
+exitpic = JPCPINT
+enterpic = JPCPINT
+intermusic = D_JPCPIN
 par = 30
 sucktime = 1
 music = D_JPCP01
@@ -17,8 +18,9 @@ secretnext = JPCP03
 sky1 = JPCP0408
 nojump
 nocrouch
-exitpic = JPCPIN
-enterpic = JPCPIN
+exitpic = JPCPINT
+enterpic = JPCPINT
+intermusic = D_JPCPIN
 par = 90
 sucktime = 1
 music = D_JPCP02
@@ -30,8 +32,9 @@ secretnext = JPCP04
 sky1 = JPCP0408
 nojump
 nocrouch
-exitpic = JPCPIN
-enterpic = JPCPIN
+exitpic = JPCPINT
+enterpic = JPCPINT
+intermusic = D_JPCPIN
 par = 120
 sucktime = 1
 music = D_JPCP03
@@ -43,8 +46,9 @@ secretnext = JPCP05
 sky1 = JPCP0408
 nojump
 nocrouch
-exitpic = JPCPIN
-enterpic = JPCPIN
+exitpic = JPCPINT
+enterpic = JPCPINT
+intermusic = D_JPCPIN
 par = 120
 sucktime = 1
 music = D_JPCP04
@@ -56,8 +60,9 @@ secretnext = JPCP06
 sky1 = JPCP0408
 nojump
 nocrouch
-exitpic = JPCPIN
-enterpic = JPCPIN
+exitpic = JPCPINT
+enterpic = JPCPINT
+intermusic = D_JPCPIN
 par = 90
 sucktime = 1
 music = D_JPCP05
@@ -69,8 +74,9 @@ secretnext = JPCP07
 sky1 = JPCP0408
 nojump
 nocrouch
-exitpic = JPCPIN
-enterpic = JPCPIN
+exitpic = JPCPINT
+enterpic = JPCPINT
+intermusic = D_JPCPIN
 par = 150
 sucktime = 1
 music = D_JPCP06
@@ -82,8 +88,9 @@ secretnext = JPCP08
 sky1 = JPCP0408
 nojump
 nocrouch
-exitpic = JPCPIN
-enterpic = JPCPIN
+exitpic = JPCPINT
+enterpic = JPCPINT
+intermusic = D_JPCPIN
 par = 120
 sucktime = 1
 map07special
@@ -96,8 +103,9 @@ secretnext = JPCP09
 sky1 = JPCP0408
 nojump
 nocrouch
-exitpic = JPCPIN
-enterpic = JPCPIN
+exitpic = JPCPINT
+enterpic = JPCPINT
+intermusic = D_JPCPIN
 par = 120
 sucktime = 1
 music = D_JPCP08
@@ -109,8 +117,9 @@ secretnext = JPCP10
 sky1 = JPCP0408
 nojump
 nocrouch
-exitpic = JPCPIN
-enterpic = JPCPIN
+exitpic = JPCPINT
+enterpic = JPCPINT
+intermusic = D_JPCPIN
 par = 270
 sucktime = 1
 music = D_JPCP09
@@ -122,8 +131,9 @@ secretnext = JPCP11
 sky1 = JPCP0408
 nojump
 nocrouch
-exitpic = JPCPIN
-enterpic = JPCPIN
+exitpic = JPCPINT
+enterpic = JPCPINT
+intermusic = D_JPCPIN
 par = 90
 sucktime = 1
 music = D_JPCP10
@@ -135,8 +145,9 @@ secretnext = JPCP12
 sky1 = JPCP0408
 nojump
 nocrouch
-exitpic = JPCPIN
-enterpic = JPCPIN
+exitpic = JPCPINT
+enterpic = JPCPINT
+intermusic = D_JPCPIN
 par = 210
 sucktime = 1
 music = D_JPCP11
@@ -148,8 +159,9 @@ secretnext = JPCP13
 sky1 = JPCP0409
 nojump
 nocrouch
-exitpic = JPCPIN
-enterpic = JPCPIN
+exitpic = JPCPINT
+enterpic = JPCPINT
+intermusic = D_JPCPIN
 par = 150
 sucktime = 1
 music = D_JPCP12
@@ -161,8 +173,9 @@ secretnext = JPCP14
 sky1 = JPCP0409
 nojump
 nocrouch
-exitpic = JPCPIN
-enterpic = JPCPIN
+exitpic = JPCPINT
+enterpic = JPCPINT
+intermusic = D_JPCPIN
 par = 150
 sucktime = 1
 music = D_JPCP13
@@ -174,8 +187,9 @@ secretnext = JPCP15
 sky1 = JPCP0409
 nojump
 nocrouch
-exitpic = JPCPIN
-enterpic = JPCPIN
+exitpic = JPCPINT
+enterpic = JPCPINT
+intermusic = D_JPCPIN
 par = 150
 sucktime = 1
 music = D_JPCP14
@@ -187,8 +201,9 @@ secretnext = JPCP31
 sky1 = JPCP0409
 nojump
 nocrouch
-exitpic = JPCPIN
-enterpic = JPCPIN
+exitpic = JPCPINT
+enterpic = JPCPINT
+intermusic = D_JPCPIN
 par = 210
 sucktime = 1
 music = D_JPCP15
@@ -200,8 +215,9 @@ secretnext = JPCP17
 sky1 = JPCP0409
 nojump
 nocrouch
-exitpic = JPCPIN
-enterpic = JPCPIN
+exitpic = JPCPINT
+enterpic = JPCPINT
+intermusic = D_JPCPIN
 par = 150
 sucktime = 1
 music = D_JPCP16
@@ -213,8 +229,9 @@ secretnext = JPCP18
 sky1 = JPCP0409
 nojump
 nocrouch
-exitpic = JPCPIN
-enterpic = JPCPIN
+exitpic = JPCPINT
+enterpic = JPCPINT
+intermusic = D_JPCPIN
 par = 420
 sucktime = 1
 music = D_JPCP17
@@ -226,8 +243,9 @@ secretnext = JPCP19
 sky1 = JPCP0409
 nojump
 nocrouch
-exitpic = JPCPIN
-enterpic = JPCPIN
+exitpic = JPCPINT
+enterpic = JPCPINT
+intermusic = D_JPCPIN
 par = 150
 sucktime = 1
 music = D_JPCP18
@@ -239,8 +257,9 @@ secretnext = JPCP20
 sky1 = JPCP0409
 nojump
 nocrouch
-exitpic = JPCPIN
-enterpic = JPCPIN
+exitpic = JPCPINT
+enterpic = JPCPINT
+intermusic = D_JPCPIN
 par = 210
 sucktime = 1
 music = D_JPCP19
@@ -252,8 +271,9 @@ secretnext = JPCP21
 sky1 = JPCP0409
 nojump
 nocrouch
-exitpic = JPCPIN
-enterpic = JPCPIN
+exitpic = JPCPINT
+enterpic = JPCPINT
+intermusic = D_JPCPIN
 par = 150
 sucktime = 1
 music = D_JPCP20
@@ -265,8 +285,9 @@ secretnext = JPCP22
 sky1 = JPCP0410
 nojump
 nocrouch
-exitpic = JPCPIN
-enterpic = JPCPIN
+exitpic = JPCPINT
+enterpic = JPCPINT
+intermusic = D_JPCPIN
 par = 240
 sucktime = 1
 music = D_JPCP21
@@ -278,8 +299,9 @@ secretnext = JPCP23
 sky1 = JPCP0410
 nojump
 nocrouch
-exitpic = JPCPIN
-enterpic = JPCPIN
+exitpic = JPCPINT
+enterpic = JPCPINT
+intermusic = D_JPCPIN
 par = 150
 sucktime = 1
 music = D_JPCP22
@@ -291,8 +313,9 @@ secretnext = JPCP24
 sky1 = JPCP0410
 nojump
 nocrouch
-exitpic = JPCPIN
-enterpic = JPCPIN
+exitpic = JPCPINT
+enterpic = JPCPINT
+intermusic = D_JPCPIN
 par = 180
 sucktime = 1
 music = D_JPCP23
@@ -304,8 +327,9 @@ secretnext = JPCP25
 sky1 = JPCP0410
 nojump
 nocrouch
-exitpic = JPCPIN
-enterpic = JPCPIN
+exitpic = JPCPINT
+enterpic = JPCPINT
+intermusic = D_JPCPIN
 par = 150
 sucktime = 1
 music = D_JPCP24
@@ -317,8 +341,9 @@ secretnext = JPCP26
 sky1 = JPCP0410
 nojump
 nocrouch
-exitpic = JPCPIN
-enterpic = JPCPIN
+exitpic = JPCPINT
+enterpic = JPCPINT
+intermusic = D_JPCPIN
 par = 150
 sucktime = 1
 music = D_JPCP25
@@ -330,8 +355,9 @@ secretnext = JPCP27
 sky1 = JPCP0410
 nojump
 nocrouch
-exitpic = JPCPIN
-enterpic = JPCPIN
+exitpic = JPCPINT
+enterpic = JPCPINT
+intermusic = D_JPCPIN
 par = 300
 sucktime = 1
 music = D_JPCP26
@@ -343,8 +369,9 @@ secretnext = JPCP28
 sky1 = JPCP0410
 nojump
 nocrouch
-exitpic = JPCPIN
-enterpic = JPCPIN
+exitpic = JPCPINT
+enterpic = JPCPINT
+intermusic = D_JPCPIN
 par = 330
 sucktime = 1
 music = D_JPCP27
@@ -356,8 +383,9 @@ secretnext = JPCP29
 sky1 = JPCP0410
 nojump
 nocrouch
-exitpic = JPCPIN
-enterpic = JPCPIN
+exitpic = JPCPINT
+enterpic = JPCPINT
+intermusic = D_JPCPIN
 par = 420
 sucktime = 1
 music = D_JPCP28
@@ -369,8 +397,9 @@ secretnext = JPCP30
 sky1 = JPCP0410
 nojump
 nocrouch
-exitpic = JPCPIN
-enterpic = JPCPIN
+exitpic = JPCPINT
+enterpic = JPCPINT
+intermusic = D_JPCPIN
 par = 300
 sucktime = 1
 music = D_JPCP29
@@ -382,8 +411,9 @@ secretnext = EndGameC
 sky1 = JPCP0410
 nojump
 nocrouch
-exitpic = JPCPIN
-enterpic = JPCPIN
+exitpic = JPCPINT
+enterpic = JPCPINT
+intermusic = D_JPCPIN
 par = 180
 sucktime = 1
 music = D_JPCP30
@@ -395,8 +425,9 @@ secretnext = JPCP32
 sky1 = JPCP0410
 nojump
 nocrouch
-exitpic = JPCPIN
-enterpic = JPCPIN
+exitpic = JPCPINT
+enterpic = JPCPINT
+intermusic = D_JPCPIN
 par = 120
 sucktime = 1
 music = D_JPCP31
@@ -408,8 +439,9 @@ secretnext = JPCP16
 sky1 = JPCP0410
 nojump
 nocrouch
-exitpic = JPCPIN
-enterpic = JPCPIN
+exitpic = JPCPINT
+enterpic = JPCPINT
+intermusic = D_JPCPIN
 par = 30
 sucktime = 1
 music = D_JPCP32
