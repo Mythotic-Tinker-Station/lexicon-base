@@ -16,7 +16,7 @@ pipeline{
     stages{
         stage("Build on Branch") {
             when {
-                branch "dev | master"
+                branch "dev"
             }
             steps {
                 echo "=========Building PK3 File has started========="
