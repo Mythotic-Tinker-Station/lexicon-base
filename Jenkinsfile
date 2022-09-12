@@ -62,7 +62,7 @@ pipeline{
             }
             steps {
                 echo "=========Renaming PK3 File to ${FILE_NAME}_${BRANCH_NAME}_${BUILD_NUMBER}.pk3========="
-                sh 'mv ./${FILE_NAME}.pk3 ./${FILE_NAME}_${BRANCH_NAME}_${BUILD_NUMBER}.pk3'
+                sh 'mv -v ./${FILE_NAME}.pk3 ./${FILE_NAME}_${BRANCH_NAME}_${BUILD_NUMBER}.pk3'
                 withEnv(["FULL_FILENAME=${FILE_NAME}_${BRANCH_NAME}_${BUILD_NUMBER}.pk3"])
                 echo "=========Renaming Complete========="
             }
@@ -73,7 +73,7 @@ pipeline{
             }
             steps {
                 echo "=========Renaming PK3 File to ${FILE_NAME}_${TAG_NAME}.pk3========="
-                sh 'mv ./${FILE_NAME}.pk3 ./${FILE_NAME}_${TAG_NAME}.pk3'
+                sh 'mv -v ./${FILE_NAME}.pk3 ./${FILE_NAME}_${TAG_NAME}.pk3'
                 withEnv(["FULL_FILENAME=${FILE_NAME}_${TAG_NAME}.pk3"])
                 echo "=========Renaming Complete========="
             }
@@ -84,7 +84,7 @@ pipeline{
             }
             steps {
                 echo "=========Copying ${FULL_FILENAME} to dev build folder website========="
-                sh 'cp ./${FULL_FILENAME} ${SITE_LOCATION}/dev'
+                sh 'cp -v ./${FULL_FILENAME} ${SITE_LOCATION}/dev'
                 echo "=========Copying Complete========="
                 echo "=========Saving Artifacts========="
                 archiveArtifacts artifacts: env.FULL_FILENAME, followSymlinks: false, onlyIfSuccessful: true
@@ -97,7 +97,7 @@ pipeline{
             }
             steps {
                 echo "=========Copying ${FULL_FILENAME} to stable build folder website========="
-                sh 'cp ./${FULL_FILENAME} ${SITE_LOCATION}/stable'
+                sh 'cp -v ./${FULL_FILENAME} ${SITE_LOCATION}/stable'
                 echo "=========Copying Complete========="
                 echo "=========Saving Artifacts========="
                 archiveArtifacts artifacts: env.FULL_FILENAME, followSymlinks: false, onlyIfSuccessful: true
