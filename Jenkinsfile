@@ -20,7 +20,7 @@ pipeline{
                     description: 'Build' + env.BUILD_ID  + ":" + env.BRANCH_Name, 
                     footer: 'Lexicon Automata Cube',
                     customUsername: '.',
-                    customAvatarUrl: '.',
+                    customAvatarUrl: 'https://cdn.discordapp.com/attachments/677086996182859786/884703330734063656/mifu-cube.png',
                     showChangeset: true,
                     thumbnail: 'https://cdn.discordapp.com/attachments/677086996182859786/884703330734063656/mifu-cube.png'
                 )
