@@ -31,7 +31,9 @@ pipeline{
             }
         }
         stage("Rename PK3 File") {
-            echo "=========Renaming PK3 File to ${FILE_NAME}_${BRANCH_NAME}_${BUILD_NUMBER}.pk3========="
+            steps {
+                echo "=========Renaming PK3 File to ${FILE_NAME}_${BRANCH_NAME}_${BUILD_NUMBER}.pk3========="
+            }
         }
     }
     post{
