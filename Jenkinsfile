@@ -7,7 +7,7 @@ pipeline{
     }
 
     environment {
-        discordWebHookUrl = credentials('discord-web-hook')
+        discordWebHookUrl = credentials('efbc440a-0d19-4ca1-b9fa-5db6a8112071')
     }
     
     stages{
