@@ -17,10 +17,11 @@ pipeline{
                 discordSend(
                     webhookURL: discordWebHookUrl, 
                     title: 'Creation Magic has been invoked!', 
-                    description: 'Build' + env.BUILD_ID  + ":" + hash, 
+                    description: 'Build' + env.BUILD_ID  + ":" + env.BRANCH_Name, 
                     footer: 'Lexicon Automata Cube',
                     customUsername: '.',
                     customAvatarUrl: '.',
+                    showChangeset: true,
                     thumbnail: 'https://cdn.discordapp.com/attachments/677086996182859786/884703330734063656/mifu-cube.png'
                 )
                 sh './automata.sh'
