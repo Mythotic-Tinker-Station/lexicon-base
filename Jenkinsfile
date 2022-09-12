@@ -6,7 +6,7 @@ pipeline{
         disableConcurrentBuilds()
     }
 
-    env {
+    environment {
         discordWebHookUrl = credentials('discord-web-hook')
     }
     
