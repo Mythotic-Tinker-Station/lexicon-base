@@ -35,13 +35,4 @@ $COMPILE_PATH/bcc -acc-err-file -x bcs $GAME_PATH/ACS/main.c $GAME_PATH/ACS/main
 cd $GAME_PATH
 7za a -r -ssw -mx9 -tzip  ../${FILE_NAME}.pk3 ./*
 
-# Create proper Jenkins filenames
-cd ..
-mv ./${FILE_NAME}.pk3 ./${FILE_NAME}_beta_build_${BUILD_NUMBER}.pk3
-
-# Copy file to the lexicon zandronum folder for server use
-
-cp ./${FILE_NAME}_beta_build_${BUILD_NUMBER}.pk3 ~/.config/zandronum
-
-# Export varible to use in other scripts
-echo LEX_BASEFILE="${FILE_NAME}_beta_build_${BUILD_NUMBER}.pk3" >> lexmap_basefile
+echo "${FILE_NAME}.pk3"
