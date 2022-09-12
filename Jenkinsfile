@@ -23,9 +23,19 @@ pipeline{
                     customAvatarUrl: '.',
                     thumbnail: 'https://cdn.discordapp.com/attachments/677086996182859786/884703330734063656/mifu-cube.png'
                 )
-                sh ./automata.sh
+                sh './automata.sh'
             }
         }
     }
-    
+    post{
+        always{
+            echo "========always========"
+        }
+        success{
+            echo "========pipeline executed successfully ========"
+        }
+        failure{
+            echo "========pipeline execution failed========"
+        }
+    }
 }
