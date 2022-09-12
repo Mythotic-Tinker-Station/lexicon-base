@@ -24,7 +24,7 @@ pipeline{
                     showChangeset: true,
                     thumbnail: 'https://cdn.discordapp.com/attachments/677086996182859786/884703330734063656/mifu-cube.png'
                 )
-                sh './automata.sh'
+                sh 'chmod +x ./automata.sh && ./automata.sh'
             }
         }
     }
