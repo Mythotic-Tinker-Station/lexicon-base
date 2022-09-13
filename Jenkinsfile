@@ -1,6 +1,10 @@
 pipeline{
 
-    agent any
+    agent {
+        node {
+            label 'master'
+        }
+    }
 
     options {
         disableConcurrentBuilds()
@@ -10,7 +14,7 @@ pipeline{
         discordWebHookUrl = credentials('efbc440a-0d19-4ca1-b9fa-5db6a8112071')
         discordImg = 'https://cdn.discordapp.com/attachments/677086996182859786/884703330734063656/mifu-cube.png'
         FILE_NAME="Lexicon_basepack"
-        SITE_LOCATION="/var/www/mythotic.com/lexicon/builds/lexicon_base_pack/"
+        SITE_LOCATION="/var/www/mythotic.com/lexicon/builds/lexicon_base_pack"
     }
     
     stages{
@@ -33,11 +37,12 @@ pipeline{
                 )
                 sh 'chmod +x ./automata.sh && ./automata.sh'
                 echo "=========Building PK3 Complete========="
+                sh 'whoami'
             }
         }
         stage("Build on Tag") {
             when {
-                tag "v*"
+                buildingTag()
             }
             steps {
                 echo "=========Building PK3 File has started========="
@@ -62,20 +67,24 @@ pipeline{
             }
             steps {
                 echo "=========Renaming PK3 File to ${FILE_NAME}_${BRANCH_NAME}_${BUILD_NUMBER}.pk3========="
-                sh 'mv -v ./${FILE_NAME}.pk3 ./${FILE_NAME}_${BRANCH_NAME}_${BUILD_NUMBER}.pk3'
-                withEnv(["FULL_FILENAME=${FILE_NAME}_${BRANCH_NAME}_${BUILD_NUMBER}.pk3"])
+                sh "mv -v ./${FILE_NAME}.pk3 ./${FILE_NAME}_${BRANCH_NAME}_${BUILD_NUMBER}.pk3"
                 echo "=========Renaming Complete========="
+                script {
+                    FULL_FILENAME = "${FILE_NAME}_${BRANCH_NAME}_${BUILD_NUMBER}.pk3"
+                }
             }
         }
         stage("Rename Release PK3 File") {
             when {
-                tag "v*"
+                buildingTag()
             }
             steps {
                 echo "=========Renaming PK3 File to ${FILE_NAME}_${TAG_NAME}.pk3========="
-                sh 'mv -v ./${FILE_NAME}.pk3 ./${FILE_NAME}_${TAG_NAME}.pk3'
-                withEnv(["FULL_FILENAME=${FILE_NAME}_${TAG_NAME}.pk3"])
+                sh "mv -v ./${FILE_NAME}.pk3 ./${FILE_NAME}_${TAG_NAME}.pk3"
                 echo "=========Renaming Complete========="
+                script {
+                    FULL_FILENAME = "${FILE_NAME}_${TAG_NAME}.pk3"
+                }
             }
         }
         stage("Deploy Dev File to Web Server Dev Folder") {
@@ -84,23 +93,23 @@ pipeline{
             }
             steps {
                 echo "=========Copying ${FULL_FILENAME} to dev build folder website========="
-                sh 'cp -v ./${FULL_FILENAME} ${SITE_LOCATION}/dev'
+                sh "cp -v ./${FULL_FILENAME} ${SITE_LOCATION}/dev"
                 echo "=========Copying Complete========="
                 echo "=========Saving Artifacts========="
-                archiveArtifacts artifacts: env.FULL_FILENAME, followSymlinks: false, onlyIfSuccessful: true
+                archiveArtifacts artifacts: FULL_FILENAME, followSymlinks: false, onlyIfSuccessful: true
                 
             }
         }
         stage("Deploy Release to Web Server Stable Folder") {
             when {
-                tag "v*"
+                buildingTag()
             }
             steps {
                 echo "=========Copying ${FULL_FILENAME} to stable build folder website========="
-                sh 'cp -v ./${FULL_FILENAME} ${SITE_LOCATION}/stable'
+                sh "cp -v ./${FULL_FILENAME} ${SITE_LOCATION}/stable"
                 echo "=========Copying Complete========="
                 echo "=========Saving Artifacts========="
-                archiveArtifacts artifacts: env.FULL_FILENAME, followSymlinks: false, onlyIfSuccessful: true
+                archiveArtifacts artifacts: FULL_FILENAME, followSymlinks: false, onlyIfSuccessful: true
             }
         }
     }
@@ -112,7 +121,7 @@ pipeline{
                     webhookURL: discordWebHookUrl, 
                     title: 'Creation Complete!',
                     link: env.BUILD_URL, 
-                    description: 'Lexicon Base Map Pack Build Complete with filename ' + env.FULL_FILENAME, 
+                    description: 'Lexicon Base Map Pack Build Complete with filename ' + FULL_FILENAME, 
                     footer: 'Lexicon Automata Cube',
                     customUsername: "Afina's Lexicon Creation Cube",
                     customAvatarUrl: discordImg,
@@ -128,7 +137,7 @@ pipeline{
                     webhookURL: discordWebHookUrl, 
                     title: 'Afina ran out of Mana!',
                     link: env.BUILD_URL, 
-                    description: 'Lexicon Base Map Pack Build failed with filename ' + env.FULL_FILENAME + '. Please check the jobs logs to determine failure', 
+                    description: 'Lexicon Base Map Pack Build failed with filename ' + FULL_FILENAME + '. Please check the jobs logs to determine failure', 
                     footer: 'Lexicon Automata Cube',
                     customUsername: "Afina's Lexicon Creation Cube",
                     customAvatarUrl: discordImg,
