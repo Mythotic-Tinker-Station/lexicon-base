@@ -1,0 +1,381 @@
+
+//////////////////////////////////////////////////////////////
+// Mayhem17
+//////////////////////////////////////////////////////////////
+:MAYHDSDOROPN
+	play MAYH/DSDOROPN
+	nostopcutoff
+end
+
+:MAYHDSDORCLS
+	play MAYH/DSDORCLS
+	nostopcutoff
+end
+
+:MAYHDSBDOPN
+	play MAYH/DSBDOPN
+	nostopcutoff
+end
+
+:MAYHDSBDCLS
+	play MAYH/DSBDCLS
+	nostopcutoff
+end
+
+[MAYHDoor
+	0 MAYHDSDOROPN
+	1 MAYHDSDORCLS
+	2 MAYHDSBDOPN
+	3 MAYHDSBDCLS
+]
+
+:MAYHPlatform
+	playuntildone plats/pt1_strt
+	stopsound plats/pt1_stop
+end
+
+:MAYHFloor
+	playrepeat plats/pt1_mid
+	stopsound plats/pt1_stop
+end
+
+:MAYHCeiling
+	playrepeat plats/pt1_mid
+end
+
+//////////////////////////////////////////////////////////////
+// Korus's Speedy Shit
+// (This was a bug with the extractor, oops)
+//////////////////////////////////////////////////////////////
+[SHITDoor
+	0		DoorOpenNormal
+	1		DoorCloseNormal
+	2		DoorOpenBlazing
+	3		DoorCloseBlazing
+]
+
+:SHITPlatform
+    playuntildone plats/pt1_strt
+    stopsound plats/pt1_stop
+end
+
+:SHITFloor
+    playrepeat plats/pt1_mid
+    stopsound plats/pt1_stop
+end
+
+:SHITCeiling
+    playrepeat plats/pt1_mid
+end
+
+
+//////////////////////////////////////////////////////////////
+// Doomer Board Project 2: Circle of Caina
+//////////////////////////////////////////////////////////////
+:DBP2DSBDOPN
+	play DBP2/DSBDOPN
+	nostopcutoff
+end
+
+:DBP2DSBDCLS
+	play DBP2/DSBDCLS
+	nostopcutoff
+end
+
+:DBP2DSDORCLS
+	play DBP2/DSDORCLS
+	nostopcutoff
+end
+
+:DBP2DSDOROPN
+	play DBP2/DSDOROPN
+	nostopcutoff
+end
+
+[DBP2Door
+	0 DBP2DSDOROPN
+	1 DBP2DSDORCLS
+	2 DBP2DSBDOPN
+	3 DBP2DSBDCLS
+]
+
+:DBP2Platform
+	playuntildone DBP2/DSPSTART
+	stopsound DBP2/DSPSTOP
+end
+
+:DBP2Floor
+	playrepeat DBP2/DSSTNMOV
+	stopsound DBP2/DSPSTOP
+end
+
+:DBP2Ceiling
+	playrepeat DBP2/DSSTNMOV
+end
+
+//////////////////////////////////////////////////////////////
+// Community Chest 1
+//////////////////////////////////////////////////////////////
+[CCH1Door
+	0 DSDOROPN
+	1 DSDORCLS
+	2 DSBDOPN
+	3 DSBDCLS
+]
+
+:CCH1Platform
+	playuntildone plats/pt1_strt
+	stopsound plats/pt1_stop
+end
+
+:CCH1Floor
+	playrepeat plats/pt1_mid
+	stopsound plats/pt1_stop
+end
+
+:CCH1Ceiling
+	playrepeat plats/pt1_mid
+end
+
+//////////////////////////////////////////////////////////////
+// Community Chest 2
+//////////////////////////////////////////////////////////////
+[CCH2Door
+	0 DSDOROPN
+	1 DSDORCLS
+	2 DSBDOPN
+	3 DSBDCLS
+]
+
+:CCH2Platform
+	playuntildone plats/pt1_strt
+	stopsound plats/pt1_stop
+end
+
+:CCH2Floor
+	playrepeat plats/pt1_mid
+	stopsound plats/pt1_stop
+end
+
+:CCH2Ceiling
+	playrepeat plats/pt1_mid
+end
+
+//////////////////////////////////////////////////////////////
+// Community Chest 3
+//////////////////////////////////////////////////////////////
+[CCH3Door
+	0 DSDOROPN
+	1 DSDORCLS
+	2 DSBDOPN
+	3 DSBDCLS
+]
+
+:CCH3Platform
+	playuntildone plats/pt1_strt
+	stopsound plats/pt1_stop
+end
+
+:CCH3Floor
+	playrepeat plats/pt1_mid
+	stopsound plats/pt1_stop
+end
+
+:CCH3Ceiling
+	playrepeat plats/pt1_mid
+end
+
+//////////////////////////////////////////////////////////////
+// Community Chest 4
+//////////////////////////////////////////////////////////////
+[CCH4Door
+	0 DSDOROPN
+	1 DSDORCLS
+	2 DSBDOPN
+	3 DSBDCLS
+]
+
+:CCH4Platform
+	playuntildone plats/pt1_strt
+	stopsound plats/pt1_stop
+end
+
+:CCH4Floor
+	playrepeat plats/pt1_mid
+	stopsound plats/pt1_stop
+end
+
+:CCH4Ceiling
+	playrepeat plats/pt1_mid
+end
+
+//////////////////////////////////////////////////////////////
+// Doom 2 Reloaded
+//////////////////////////////////////////////////////////////
+[D2RLDoor
+	0 DSDOROPN
+	1 DSDORCLS
+	2 DSBDOPN
+	3 DSBDCLS
+]
+
+:D2RLPlatform
+	playuntildone plats/pt1_strt
+	stopsound plats/pt1_stop
+end
+
+:D2RLFloor
+	playrepeat plats/pt1_mid
+	stopsound plats/pt1_stop
+end
+
+:D2RLCeiling
+	playrepeat plats/pt1_mid
+end
+
+//////////////////////////////////////////////////////////////
+// Hellbound
+//////////////////////////////////////////////////////////////
+[HEBODoor
+	0 DSDOROPN
+	1 DSDORCLS
+	2 DSBDOPN
+	3 DSBDCLS
+]
+
+:HEBOPlatform
+	playuntildone plats/pt1_strt
+	stopsound plats/pt1_stop
+end
+
+:HEBOFloor
+	playrepeat plats/pt1_mid
+	stopsound plats/pt1_stop
+end
+
+:HEBOCeiling
+	playrepeat plats/pt1_mid
+end
+
+//////////////////////////////////////////////////////////////
+// Japanese Community Project
+//////////////////////////////////////////////////////////////
+[JPCPDoor
+	0 DSDOROPN
+	1 DSDORCLS
+	2 DSBDOPN
+	3 DSBDCLS
+]
+
+:JPCPPlatform
+	playuntildone plats/pt1_strt
+	stopsound plats/pt1_stop
+end
+
+:JPCPFloor
+	playrepeat plats/pt1_mid
+	stopsound plats/pt1_stop
+end
+
+:JPCPCeiling
+	playrepeat plats/pt1_mid
+end
+
+//////////////////////////////////////////////////////////////
+// 3 Hours in Agony 1
+//////////////////////////////////////////////////////////////
+[3HA1Door
+	0 DSDOROPN
+	1 DSDORCLS
+	2 DSBDOPN
+	3 DSBDCLS
+]
+
+:3HA1Platform
+	playuntildone plats/pt1_strt
+	stopsound plats/pt1_stop
+end
+
+:3HA1Floor
+	playrepeat plats/pt1_mid
+	stopsound plats/pt1_stop
+end
+
+:3HA1Ceiling
+	playrepeat plats/pt1_mid
+end
+
+//////////////////////////////////////////////////////////////
+// 3 Hours in Agony 2
+//////////////////////////////////////////////////////////////
+[3HA2Door
+	0 DSDOROPN
+	1 DSDORCLS
+	2 DSBDOPN
+	3 DSBDCLS
+]
+
+:3HA2Platform
+	playuntildone plats/pt1_strt
+	stopsound plats/pt1_stop
+end
+
+:3HA2Floor
+	playrepeat plats/pt1_mid
+	stopsound plats/pt1_stop
+end
+
+:3HA2Ceiling
+	playrepeat plats/pt1_mid
+end
+
+//////////////////////////////////////////////////////////////
+// 3 Hours in Agony 3
+//////////////////////////////////////////////////////////////
+[3HA3Door
+	0 DSDOROPN
+	1 DSDORCLS
+	2 DSBDOPN
+	3 DSBDCLS
+]
+
+:3HA3Platform
+	playuntildone plats/pt1_strt
+	stopsound plats/pt1_stop
+end
+
+:3HA3Floor
+	playrepeat plats/pt1_mid
+	stopsound plats/pt1_stop
+end
+
+:3HA3Ceiling
+	playrepeat plats/pt1_mid
+end
+
+//////////////////////////////////////////////////////////////
+// Doom 2 Redux
+//////////////////////////////////////////////////////////////
+[D2RDDoor
+	0 DSDOROPN
+	1 DSDORCLS
+	2 DSBDOPN
+	3 DSBDCLS
+]
+
+:D2RDPlatform
+	playuntildone plats/pt1_strt
+	stopsound plats/pt1_stop
+end
+
+:D2RDFloor
+	playrepeat plats/pt1_mid
+	stopsound plats/pt1_stop
+end
+
+:D2RDCeiling
+	playrepeat plats/pt1_mid
+end
+
+
+

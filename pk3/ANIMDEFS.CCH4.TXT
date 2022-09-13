@@ -1,0 +1,36 @@
+
+texture CCH40943 range CCH40946 tics 8
+texture CCH41519 range CCH41522 tics 8
+texture CCH41627 range CCH41630 tics 8
+texture CCH41631 range CCH41634 tics 8
+texture CCH41658 range CCH41661 tics 8
+texture CCH41675 range CCH41684 tics 8
+texture CCH41687 range CCH41696 tics 8
+texture CCH41809 range CCH41812 tics 8
+texture CCH41862 range CCH41867 tics 8
+texture CCH41917 range CCH41920 tics 8
+texture CCH42034 range CCH42037 tics 8
+texture CCH42040 range CCH42043 tics 8
+texture CCH42046 range CCH42048 tics 8
+texture CCH42128 range CCH42131 tics 8
+texture CCH42184 range CCH42187 tics 8
+flat CCH40298 range CCH40301 tics 8
+flat CCH40361 range CCH40364 tics 8
+flat CCH40389 range CCH40390 tics 8
+flat CCH40424 range CCH40427 tics 8
+flat CCH40428 range CCH40431 tics 8
+
+switch CCH40762 on pic CCH40797 tics 0
+switch CCH40766 on pic CCH40802 tics 0
+switch CCH40771 on pic CCH40807 tics 0
+switch CCH40777 on pic CCH40813 tics 0
+switch CCH40913 on pic CCH40918 tics 0
+switch CCH40914 on pic CCH40798 tics 0
+switch CCH40917 on pic CCH40921 tics 0
+switch CCH41635 on pic CCH41636 tics 0
+switch CCH41637 on pic CCH41638 tics 0
+switch CCH41852 on pic CCH41853 tics 0
+switch CCH42061 on pic CCH42062 tics 0
+switch CCH42227 on pic CCH42228 tics 0
+switch CCH42229 on pic CCH42230 tics 0
+

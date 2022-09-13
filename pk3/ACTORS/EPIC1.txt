@@ -1,0 +1,300 @@
+////////////
+// Epic 1 //
+////////////
+
+Actor EpicDemonFireStatue : GreenTorch
+{
+    States
+    {
+        Spawn: E110 ABCD 4 Bright
+        Loop
+    }
+}
+
+Actor EpicPillar : TallGreenColumn
+{
+    States
+    {
+        Spawn: E100 A -1
+        Stop
+    }
+}
+
+Actor EpicDemonSnakeStatue : ShortGreenColumn
+{
+    States
+    {
+        Spawn: E101 A -1
+        Stop
+    }
+}
+
+Actor EpicPalmTree : TallRedColumn
+{
+    States
+    {
+        Spawn: E102 A -1
+        Stop
+    }
+}
+
+Actor EpicSmallPalmTree : ShortRedColumn
+{
+    States
+    {
+        Spawn: E103 A -1
+        Stop
+    }
+}
+
+Actor EpicPlant : SkullColumn
+{
+    States
+    {
+        Spawn: E104 A -1
+        Stop
+    }
+}
+
+Actor EpicImp : DoomImp
+{
+  States
+  {
+  Spawn:
+    E111 AB 10 A_Look
+    Loop
+  See:
+    E111 AABBCCDD 3 A_Chase
+    Loop
+  Melee:
+  Missile:
+    E111 EF 8 A_FaceTarget
+    E111 G 6 A_TroopAttack
+    Goto See
+  Pain:
+    E111 H 2
+    E111 H 2 A_Pain
+    Goto See
+  Death:
+    E111 I 8
+    E111 J 8 A_Scream
+    E111 K 6
+    E111 L 6 A_NoBlocking
+    E111 M -1
+    Stop
+  XDeath:
+    E111 N 5
+    E111 O 5 A_XScream
+    E111 P 5
+    E111 Q 5 A_NoBlocking
+    E111 RST 5
+    E111 U -1
+    Stop
+  Raise:
+    E111 ML 8
+    E111 KJI 6
+    Goto See
+  }
+}
+
+Actor EpicZombieMan : ZombieMan
+{
+  States
+  {
+  Spawn:
+    E106 AB 10 A_Look
+    Loop
+  See:
+    E106 AABBCCDD 4 A_Chase
+    Loop
+  Missile:
+    E106 E 10 A_FaceTarget
+    E106 F 8 A_PosAttack
+    E106 E 8
+    Goto See
+  Pain:
+    E106 G 3
+    E106 G 3 A_Pain
+    Goto See
+  Death:
+    E106 H 5
+    E106 I 5 A_Scream
+    E106 J 5 A_NoBlocking
+    E106 K 5
+    E106 L -1
+    Stop
+  XDeath:
+    E106 M 5
+    E106 N 5 A_XScream
+    E106 O 5 A_NoBlocking
+    E106 PQRST 5
+    E106 U -1
+    Stop
+  Raise:
+    E106 KJIH 5
+    Goto See
+  }
+}
+
+Actor EpicChaingunGuy : ChaingunGuy
+{
+  States
+  {
+  Spawn:
+    E105 AB 10 A_Look
+    Loop
+  See:
+    E105 AABBCCDD 3 A_Chase
+    Loop
+  Missile:
+    E105 E 10 A_FaceTarget
+    E105 FE 4 Bright A_CPosAttack
+    E105 F 1 A_CPosRefire
+    Goto Missile+1
+  Pain:
+    E105 G 3
+    E105 G 3 A_Pain
+    Goto See
+  Death:
+    E105 H 5
+    E105 I 5 A_Scream
+    E105 J 5 A_NoBlocking
+    E105 KLM 5
+    E105 N -1
+    Stop
+  XDeath:
+    E105 O 5
+    E105 P 5 A_XScream
+    E105 Q 5 A_NoBlocking
+    E105 RS 5
+    E105 T -1
+    Stop
+  Raise:
+    E105 NMLKJIH 5
+    Goto See
+  }
+}
+
+Actor EpicRevenant : Revenant
+{
+  States
+  {
+  Spawn:
+    E107 AB 10 A_Look
+    Loop
+  See:
+    E107 AABBCCDDEEFF 2 A_Chase
+    Loop
+  Melee:
+    E107 G 0 A_FaceTarget
+    E107 G 6 A_SkelWhoosh
+    E107 H 6 A_FaceTarget
+    E107 I 6 A_SkelFist
+    Goto See
+  Missile:
+    E107 J 0 Bright A_FaceTarget
+    E107 J 10 Bright A_FaceTarget
+    E107 K 10 A_SkelMissile
+    E107 K 10 A_FaceTarget
+    Goto See
+  Pain:
+    E107 L 5
+    E107 L 5 A_Pain
+    Goto See
+  Death:
+    E107 LM 7
+    E107 N 7 A_Scream
+    E107 O 7 A_NoBlocking
+    E107 P 7
+    E107 Q -1
+    Stop
+  Raise:
+    E107 QPONML 5
+    Goto See
+  }
+}
+
+Actor EpicShotgunGuy : ShotgunGuy
+{
+  States
+  {
+  Spawn:
+    E109 AB 10 A_Look
+    Loop
+  See:
+    E109 AABBCCDD 3 A_Chase
+    Loop
+  Missile:
+    E109 E 10 A_FaceTarget
+    E109 F 10 Bright A_SPosAttackUseAtkSound
+    E109 E 10
+    Goto See
+  Pain:
+    E109 G 3
+    E109 G 3 A_Pain
+    Goto See
+  Death:
+    E109 H 5
+    E109 I 5 A_Scream
+    E109 J 5 A_NoBlocking
+    E109 K 5
+    E109 L -1
+    Stop
+  XDeath:
+    E109 M 5
+    E109 N 5 A_XScream
+    E109 O 5 A_NoBlocking
+    E109 PQRST 5
+    E109 U -1
+    Stop
+  Raise:
+    E109 LKJIH 5
+    Goto See
+  }
+}
+
+ACTOR EpicLostSoul : LostSoul
+{
+  States
+  {
+  Spawn:
+    E108 AB 10 Bright A_Look
+    Loop
+  See:
+    E108 AB 6 Bright A_Chase
+    Loop
+  Missile:
+    E108 C 10 Bright A_FaceTarget
+    E108 D 4 Bright A_SkullAttack
+    E108 CD 4 Bright
+    Goto Missile+2
+  Pain:
+    E108 E 3 Bright
+    E108 E 3 Bright A_Pain
+    Goto See
+  Death:
+    E108 F 6 Bright
+    E108 G 6 Bright A_Scream
+    E108 H 6 Bright
+    E108 I 6 Bright A_NoBlocking
+    E108 J 6
+    E108 K 6
+    Stop
+  }
+}
+
+
+ACTOR EpicPainElemental : PainElemental
+{
+    States
+    {
+        Missile:
+            PAIN D 5 A_FaceTarget
+            PAIN E 5 A_FaceTarget
+            PAIN F 5 Bright A_FaceTarget
+            PAIN F 0 Bright A_PainAttack("EpicLostSoul")
+            Goto See
+    }
+}
+
+

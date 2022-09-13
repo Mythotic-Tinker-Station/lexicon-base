@@ -1,0 +1,19 @@
+
+texture CCH30225 range CCH30228 tics 8
+texture CCH30519 range CCH30522 tics 8
+texture CCH30748 range CCH30750 tics 8 allowdecals
+texture CCH30923 range CCH30925 tics 8
+texture CCH30926 range CCH30928 tics 8
+texture CCH30931 range CCH30939 tics 8
+texture CCH30940 range CCH30941 tics 8
+texture CCH30947 range CCH30948 tics 8
+texture CCH30994 range CCH30997 tics 8
+flat CCH30086 range CCH30087 tics 8
+flat CCH30101 range CCH30104 tics 8
+flat CCH30138 range CCH30145 tics 8
+
+switch CCH30821 on pic CCH30865 tics 0
+switch CCH30822 on pic CCH30866 tics 0
+switch CCH30833 on pic CCH30877 tics 0
+switch CCH30835 on pic CCH30879 tics 0
+

@@ -1,0 +1,298 @@
+Patch File for DeHackEd v3.0
+
+# Note: Use the pound sign ('#') to start comment lines.
+
+Doom version = 21
+Patch format = 6
+
+
+Thing 25 (Trooper NoAmmo)
+Initial frame = 174
+Hit points = 20
+First moving frame = 176
+Alert sound = 36
+Attack sound = 1
+Injury frame = 187
+Pain chance = 200
+Pain sound = 27
+Far attack frame = 184
+Death frame = 189
+Exploding frame = 194
+Death sound = 59
+Speed = 8
+Width = 1310720
+Height = 3670016
+Mass = 100
+Action sound = 75
+Bits = 4194310
+Respawn frame = 203
+
+Thing 26 (DEAD_BRAINS)
+Hit points = 1
+Injury frame = 778
+Pain sound = 0
+Death frame = 782
+Death sound = 0
+
+Thing 109 (One-legged body 2)
+Height = 5505024
+
+Thing 116 (DEADSPLOSION)
+Initial frame = 781
+Hit points = 1
+Death frame = 887
+Bits = 6
+
+Thing 129 (Hanging body 1)
+Bits = 768
+
+Thing 130 (Hanging body 2)
+Bits = 768
+
+Thing 131 (Hanging body 3)
+Bits = 768
+
+Thing 132 (Hanging body 4)
+Bits = 768
+
+Thing 133 (Hanging body 5)
+Bits = 768
+
+Thing 134 (Hanging body 6)
+Bits = 768
+
+Thing 135 (Pool of blood 1)
+Bits = 0
+
+Thing 136 (Pool of blood 2)
+Bits = 0
+
+Thing 137 (Brain)
+Bits = 0
+
+Frame 778
+Sprite number = 1
+Sprite subnumber = 0
+
+Frame 779
+Duration = 1
+Next frame = 0
+Sprite number = 1
+Sprite subnumber = 0
+
+Frame 780
+Duration = 1
+Next frame = 0
+Sprite number = 1
+Sprite subnumber = 0
+
+Frame 781
+Duration = -1
+Next frame = 0
+Sprite number = 1
+Sprite subnumber = 0
+
+Frame 782
+Duration = 1
+Sprite number = 1
+Sprite subnumber = 0
+
+Frame 783
+Sprite number = 1
+Sprite subnumber = 0
+
+Frame 887
+Duration = 1
+Next frame = 779
+Sprite number = 1
+Sprite subnumber = 0
+
+Pointer 427 (Frame 779)
+Codep Frame = 127
+
+Text 405 406
+YOU HAVE ENTERED DEEPLY INTO THE INFESTED
+STARPORT. BUT SOMETHING IS WRONG. THE
+MONSTERS HAVE BROUGHT THEIR OWN REALITY
+WITH THEM, AND THE STARPORT'S TECHNOLOGY
+IS BEING SUBVERTED BY THEIR PRESENCE.
+
+AHEAD, YOU SEE AN OUTPOST OF HELL, A
+FORTIFIED ZONE. IF YOU CAN GET PAST IT,
+YOU CAN PENETRATE INTO THE HAUNTED HEART
+OF THE STARBASE AND FIND THE CONTROLLING
+SWITCH WHICH HOLDS EARTH'S POPULATION
+HOSTAGE.THE DARK COLONY OF SATURN X REMAINS -
+AN ERRATIC BACKWATER CONSTELLATION OF
+CRUMBLING RUINS AND VANISHING TECHNOLOGY.
+YET HERE IN THE COLD AND FILTHY CHASM,
+WHERE LIGHT-REVEALING HOLY GRAILS STILL
+WAR WITH THE GOD OF SHADOWS, A HIDDEN
+TOWER IS SEALED BENEATH A STILL AND
+FESTERING MOON. THE STUDDED CROWN ON A
+DYING PLANET. THE THIEF OF SOULS.
+
+THIS GAME WE PLAY. I DON'T KNOW IF IT'S
+A MIRACLE OR A CURSE.
+
+Text 617 616
+YOU HAVE WON! YOUR VICTORY HAS ENABLED
+HUMANKIND TO EVACUATE EARTH AND ESCAPE
+THE NIGHTMARE.  NOW YOU ARE THE ONLY
+HUMAN LEFT ON THE FACE OF THE PLANET.
+CANNIBAL MUTATIONS, CARNIVOROUS ALIENS,
+AND EVIL SPIRITS ARE YOUR ONLY NEIGHBORS.
+YOU SIT BACK AND WAIT FOR DEATH, CONTENT
+THAT YOU HAVE SAVED YOUR SPECIES.
+
+BUT THEN, EARTH CONTROL BEAMS DOWN A
+MESSAGE FROM SPACE: "SENSORS HAVE LOCATED
+THE SOURCE OF THE ALIEN INVASION. IF YOU
+GO THERE, YOU MAY BE ABLE TO BLOCK THEIR
+ENTRY.  THE ALIEN BASE IS IN THE HEART OF
+YOUR OWN HOME CITY, NOT FAR FROM THE
+STARPORT." SLOWLY AND PAINFULLY YOU GET
+UP AND RETURN TO THE FRAY.I HAD ALMOST FORGOTTEN THE MALICE, BUT
+IT HAD NOT FORGOTTEN ME. WHAT IS THIS
+CONTRAPTION?
+THE FOG OF NIGHTMARE DISSIPATES TO REVEAL
+A HORRIBLE REALITY, WHERE STREAKS OF
+MOCKING LIGHT IMPALE THE SKY, AND BROKEN
+CITIES SWOLLEN WITH THE CRAWL OF EVIL LURK.
+THE DEMONS ARE REAL NOW. THEY HAD MOVED
+AROUND AS VESTIGES UNDER THE VEIL OF
+SHADOW, BUT NOW THEY WILL SCRATCH AND
+CLAW AND HATE UNTIL THE END, WITH ME AS
+THEIR WITNESS. IT'S TIME TO DRAW A LINE.
+
+AHEAD IS ANOTHER PATH - A LONELY MILE -
+TAKING ME DEEPER INTO THE LABYRINTH OF THE
+TWISTED MECHANISM. THE FOUNTAIN OF FIRE
+LIES DORMANT, WAITING FOR THE SPARK.      
+
+Text 312 313
+YOU ARE AT THE CORRUPT HEART OF THE CITY,
+SURROUNDED BY THE CORPSES OF YOUR ENEMIES.
+YOU SEE NO WAY TO DESTROY THE CREATURES'
+ENTRYWAY ON THIS SIDE, SO YOU CLENCH YOUR
+TEETH AND PLUNGE THROUGH IT.
+
+THERE MUST BE A WAY TO CLOSE IT ON THE
+OTHER SIDE. WHAT DO YOU CARE IF YOU'VE
+GOT TO GO THROUGH HELL TO GET TO IT?IT IS AN INCINERATION. THE PLANET IS PRIMED
+TO BURN BENEATH THE LOOM, AND THE PORTAL IS
+THE ONLY WAY OFF IT. BUT STARING OUT FROM
+OTHERWORLDLY WINDOWS, THE TASK THAT LIES
+BEFORE ME IS NOW MORE REAL THAN DEATH, AND
+I KNOW THERE IS NO TURNING BACK.
+
+THE WAY IS NOW OPEN. THE GHOSTS OF A
+DIFFERENT DREAM ARE WAITING.
+
+Text 164 166
+CONGRATULATIONS, YOU'VE FOUND THE SECRET
+LEVEL! LOOKS LIKE IT'S BEEN BUILT BY
+HUMANS, RATHER THAN DEMONS. YOU WONDER
+WHO THE INMATES OF THIS CORNER OF HELL
+WILL BE.PERHAPS YOU HAD READ IT, ONCE. WRITTEN IN
+BLOOD PASSED DOWN THROUGH AGES. BUT DEEP
+DOWN INSIDE, YOU KNOW YOU WILL BURN FOR
+THIS...
+
+ENJOY YOUR FATE, YOU SINISTER COD!
+
+Text 17 16
+level 1: entrywayShadow Port     
+
+Text 19 19
+level 2: underhallsUnderwater Explosio
+
+Text 20 20
+level 3: the gantletWings of Thorn      
+
+Text 18 16
+level 4: the focusDirty Water     
+
+Text 26 24
+level 5: the waste tunnelsTower in the Fountain   
+
+Text 20 20
+level 6: the crusherUseless Inventions  
+
+Text 20 21
+level 7: dead simpleShrine to the Dynamic
+
+Text 25 24
+level 8: tricks and trapsA Blue Shadow           
+
+Text 16 16
+level 9: the pitAdverse Wind    
+
+Text 24 24
+level 10: refueling baseEureka Signs            
+
+Text 29 31
+level 11: 'o' of destruction!Tower in the Fountain of Sparks
+
+Text 21 20
+level 12: the factoryDemons Are Real     
+
+Text 18 16
+level 13: downtownNation Gone Dry 
+
+Text 25 24
+level 14: the inmost densShocker in Gloomtown    
+
+Text 25 24
+level 15: industrial zoneTheory of Broken Circles
+
+Text 17 18
+level 16: suburbsTower in the Fount
+
+Text 19 17
+level 17: tenementsSteeple of Knives
+
+Text 23 22
+level 18: the courtyardOptional Bases Opposed
+
+Text 21 23
+level 19: the citadelVicar of Scorched Earth
+
+Text 17 16
+level 20: gotcha!Speedtraps      
+
+Text 17 16
+level 21: nirvanaBulldog Skin    
+
+Text 23 20
+level 22: the catacombsBite                
+
+Text 24 24
+level 23: barrels o' funTower in the Fountain   
+
+Text 19 19
+level 24: the chasmPerhaps Now Vulture
+
+Text 20 20
+level 25: bloodfallsUnstable Journey    
+
+Text 29 28
+level 26: the abandoned minesBeneath a Festering Moon    
+
+Text 23 20
+level 27: monster condo                    
+
+Text 26 24
+level 28: the spirit world                        
+
+Text 24 24
+level 29: the living end                        
+
+Text 21 20
+level 30: icon of sin                    
+
+Text 21 22
+level 31: wolfensteinFireking Says No Cheat
+
+Text 16 16
+level 32: grosse                

@@ -1,0 +1,6 @@
+
+texture CCH20494 range CCH20497 tics 8
+texture CCH20502 range CCH20505 tics 8
+texture CCH20524 range CCH20526 tics 8 allowdecals
+
+

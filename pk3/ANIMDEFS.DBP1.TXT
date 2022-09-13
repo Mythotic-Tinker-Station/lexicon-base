@@ -1,0 +1,4 @@
+
+texture DBP10119 range DBP10122 tics 8
+
+
