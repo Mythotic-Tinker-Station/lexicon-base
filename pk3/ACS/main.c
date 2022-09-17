@@ -36,12 +36,15 @@ Script "LEXICON_EXPANSION_SV" Open
 	}
 }
 
-Script "LEXICON_EXPANSION_CL" Enter
+Script "LEXICON_EXPANSION_CL" Enter Clientside
 {
-	for(int i = 0; i < acronym_list.length(); i++)
-	{
-        ACS_NamedExecuteWithResult("Lexicon_AddMapSet_CL", acronym_list[i]);
-	}
+    if(IsNetworkGame())
+    {
+        for(int i = 0; i < acronym_list.length(); i++)
+        {
+            ACS_NamedExecuteWithResult("Lexicon_AddMapSet_CL", acronym_list[i]);
+        }
+    }
 }
 
 
