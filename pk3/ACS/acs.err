@@ -1,1 +1,1 @@
-..\pk3\acs\main.c:18: error: right operand not a value
+..\pk3\acs\main.c:37: error: `mapset_count` not found

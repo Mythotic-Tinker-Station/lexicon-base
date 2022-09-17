@@ -28,13 +28,17 @@ int acronym_list[] =
 
 // This script runs on map load(should have a unique name for each expansion set
 // you do not need to edit this script, only the variables above
-Script "LEXICON_BASE_EXPANSION" Open
+Script "LEXICON_EXPANSION_SV" Open
 {
 	for(int i = 0; i < acronym_list.length(); i++)
 	{
 		ACS_NamedExecuteWithResult("Lexicon_AddMapSet", acronym_list[i]);
+        ACS_NamedExecuteWithResult("Lexicon_AddMapSet_CL", acronym_list[i]);
 	}
 }
+
+
+
 
 #endif
 
