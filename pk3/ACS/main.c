@@ -33,11 +33,16 @@ Script "LEXICON_EXPANSION_SV" Open
 	for(int i = 0; i < acronym_list.length(); i++)
 	{
 		ACS_NamedExecuteWithResult("Lexicon_AddMapSet", acronym_list[i]);
-        ACS_NamedExecuteWithResult("Lexicon_AddMapSet_CL", acronym_list[i]);
 	}
 }
 
-
+Script "LEXICON_EXPANSION_CL" Enter
+{
+	for(int i = 0; i < acronym_list.length(); i++)
+	{
+        ACS_NamedExecuteWithResult("Lexicon_AddMapSet_CL", acronym_list[i]);
+	}
+}
 
 
 #endif
