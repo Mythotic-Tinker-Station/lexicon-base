@@ -1,4 +1,17 @@
-map	D2RD01 lookup "HUSTR_1"  { titlepatch = D2RDLV00  next = D2RD02    secretnext = D2RD02      ExitPic = D2RDIN       EnterPic = D2RDIN      sky1 = D2RD0621      music =	"D_D2RD01"     InterMusic = D_D2RDIN    sucktime = 1        par	= 0 }
+map	D2RD01 lookup "HUSTR_1"  
+{ 
+    titlepatch = D2RDLV00  
+    next = D2RD02    
+    secretnext = D2RD02      
+    ExitPic = D2RDIN       
+    EnterPic = D2RDIN      
+    sky1 = D2RD0621      
+    music =	D_D2RD01
+    InterMusic = D_D2RDIN   
+    sucktime = 1        
+    par = 0 
+}
+
 map	D2RD02 lookup "HUSTR_2"  { titlepatch = D2RDLV01  next = D2RD03    secretnext = D2RD03      ExitPic	= D2RDIN	    EnterPic = D2RDIN      sky1 = D2RD0621      music = "D_D2RD02"     InterMusic = D_D2RDIN    sucktime = 1        par	= 0 }
 map	D2RD03 lookup "HUSTR_3"  { titlepatch = D2RDLV02  next = D2RD04    secretnext = D2RD04      ExitPic	= D2RDIN	    EnterPic = D2RDIN      sky1 = D2RD0621      music = "D_D2RD03"     InterMusic = D_D2RDIN    sucktime = 1        par	= 0 }
 map	D2RD04 lookup "HUSTR_4"  { titlepatch = D2RDLV03  next = D2RD05    secretnext = D2RD05      ExitPic	= D2RDIN	    EnterPic = D2RDIN      sky1 = D2RD0621      music = "D_D2RD04"     InterMusic = D_D2RDIN    sucktime = 1        par	= 0 }
