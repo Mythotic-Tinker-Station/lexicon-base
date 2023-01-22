@@ -30,7 +30,7 @@ int acronym_list[] =
 // you do not need to edit this script, only the variables above
 Script "LEXICON_BASE_EXPANSION" Open
 {
-	for(int i = 0; i < acronym_list.length(); i++)
+	for(int i = 0; i < lengthof(acronym_list); i++)
 	{
 		ACS_NamedExecuteWithResult("Lexicon_AddMapSet", acronym_list[i]);
 	}
