@@ -1,0 +1,33 @@
+// ---------------------
+// -- Circle of Caina --
+// ---------------------
+
+// Tall white torch
+flickerlight2 CIRCLEOFCAINABIGTORCH
+{
+    color 1.0 1.0 1.0
+    size 64
+    secondarySize 72
+    interval 0.1
+    offset 0 60 0
+}
+
+object COCGreenTorch
+{
+    frame CCRN { light CIRCLEOFCAINABIGTORCH }
+}
+
+// Small white torch
+flickerlight2 CIRCLEOFCAINASMALLTORCH
+{
+    color 1.0 1.0 1.0
+    size 48
+    secondarySize 54
+    interval 0.1
+    offset 0 35 0
+}
+
+object COCShortGreenTorch
+{
+    frame CCGT { light CIRCLEOFCAINASMALLTORCH }
+}

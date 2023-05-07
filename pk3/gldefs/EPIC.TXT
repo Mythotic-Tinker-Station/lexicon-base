@@ -1,0 +1,46 @@
+
+// ------------
+// -- Epic 1 --
+// ------------
+
+// Demon fire statue
+object EpicDemonFireStatue
+{
+    frame E110 { light FIREBARREL }
+}
+
+// ZombieMan
+object EpicZombieMan
+{
+    frame E106F { light ZOMBIEATK }
+}
+
+// Shotgun Guy
+object EpicShotgunGuy
+{
+    frame E109F { light ZOMBIEATK }
+}
+
+// Chaingun Guy
+object EpicChaingunGuy
+{
+    frame E105E { light ZOMBIEATK }
+    frame E105F { light ZOMBIEATK }
+}
+
+// Lost Soul
+object EpicLostSoul
+{
+    frame E108A { light LOSTSOUL    }
+    frame E108B { light LOSTSOUL    }
+    frame E108C { light LOSTSOUL    }
+    frame E108D { light LOSTSOUL    }
+    frame E108E { light LOSTSOUL    }
+    frame E108F { light LOSTSOUL    }
+    frame E108G { light LOSTSOUL    }
+
+    frame E108H { light LOSTSOUL_X1 }
+    frame E108I { light LOSTSOUL_X2 }
+    frame E108J { light LOSTSOUL_X3 }
+    frame E108K { light LOSTSOUL_X4 }
+}

@@ -1,0 +1,104 @@
+map DBP201 "The Chill Before The Thrill"
+	{
+	next = "DBP202"
+	enterpic = "COCINT"
+	exitpic = "COCINT"
+	intermusic = "D_MOMINT"
+	music = "D_COC01"
+	titlepatch = "COCLV00"
+	sky1 = "COCSKY"
+	nojump
+	nocrouch
+	}
+	
+map DBP202 "Frostbite"
+	{
+	next = "DBP203"
+	enterpic = "COCINT"
+	exitpic = "COCINT"
+	intermusic = "D_MOMINT"
+	music = "D_COC02"
+	titlepatch = "COCLV01"
+	sky1 = "COCSKY"
+	nojump
+	nocrouch
+	}
+	
+map DBP203 "Some Other Circle"
+	{
+	next = "DBP204"
+	enterpic = "COCINT"
+	exitpic = "COCINT"
+	intermusic = "D_MOMINT"
+	music = "D_COC03"
+	titlepatch = "COCLV02"
+	sky1 = "COCSKY"
+	nojump
+	nocrouch
+	}
+	
+map DBP204 "The Stairway"
+	{
+	next = "DBP205"
+	enterpic = "COCINT"
+	exitpic = "COCINT"
+	intermusic = "D_MOMINT"
+	music = "D_COC04"
+	titlepatch = "COCLV03"
+	sky1 = "COCSKY"
+	nojump
+	nocrouch
+	}
+	
+map DBP205 "Frosty Cream Glade"
+	{
+	next = "DBP206"
+	enterpic = "COCINT"
+	exitpic = "COCINT"
+	intermusic = "D_MOMINT"
+	music = "D_COC05"
+	titlepatch = "COCLV04"
+	sky1 = "COCSKY"
+	nojump
+	nocrouch
+	}
+	
+map DBP206 "Cold Shoulder"
+	{
+	next = "DBP207"
+	enterpic = "COCINT"
+	exitpic = "COCINT"
+	intermusic = "D_MOMINT"
+	music = "D_COC06"
+	titlepatch = "COCLV05"
+	sky1 = "COCSKY"
+	nojump
+	nocrouch
+	}
+	
+map DBP207 "Below Zero"
+	{
+	next = "DBP208"
+	enterpic = "COCINT"
+	exitpic = "COCINT"
+	intermusic = "D_MOMINT"
+	music = "D_COC07"
+	titlepatch = "COCLV06"
+	sky1 = "COCSKY"
+	nojump
+	nocrouch
+	}
+	
+map DBP208 "Hot Action In Cold Igloos"
+	{
+	next = "VR"
+	enterpic = "COCINT"
+	exitpic = "COCINT"
+	intermusic = "D_MOMINT"
+	music = "D_COC08"
+	titlepatch = "COCLV07"
+	sky1 = "COCSKY"
+	nojump
+	nocrouch
+    SuckTime = 1337
+	}

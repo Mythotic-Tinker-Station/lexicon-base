@@ -1,0 +1,281 @@
+// ---------------
+// -- Mayhem 17 --
+// ---------------
+
+// Bullet puff
+object Mayhem17Puff
+{
+    frame M739A { light BPUFF1 }
+}
+
+// Bullet bill
+object Mayhem17BulletBill
+{
+    frame M735A { light ROCKET    }
+
+    frame MISLB { light ROCKET_X1 }
+    frame MISLC { light ROCKET_X2 }
+    frame MISLD { light ROCKET_X3 }
+}
+
+// Fireball
+flickerlight MAYHEMFIREBALL_X1
+{
+    color 0.7 0.7 0.0
+    size 80
+    secondarySize 88
+    chance 0.25
+}
+
+object Mayhem17FireBall
+{
+    frame M738A { light IMPBALL           }
+    frame M738B { light IMPBALL           }
+
+    frame M738C { light MAYHEMFIREBALL_X1 }
+    frame M738D { light IMPBALL_X1        }
+    frame M738E { light IMPBALL_X2        }
+    frame M738F { light IMPBALL_X3        }
+}
+
+// Doom Imp Fireball
+object Mayhem17ImpFireBall
+{
+    frame M740A { light IMPBALL           }
+    frame M740B { light IMPBALL           }
+
+    frame M738C { light MAYHEMFIREBALL_X1 }
+    frame M738E { light IMPBALL_X2        }
+    frame M738F { light IMPBALL_X3        }
+}
+
+// Arachnotron Fireball
+pointlight MAYHEMGREENFIREBALL
+{
+    color 0.6 1.0 0.0
+    size 64
+}
+
+flickerlight MAYHEMGREENFIREBALL_X1
+{
+    color 0.4 0.7 0.0
+    size 80
+    secondarySize 88
+    chance 0.25
+}
+
+flickerlight MAYHEMGREENFIREBALL_X2
+{
+    color 0.2 0.4 0.0
+    size 96
+    secondarySize 104
+    chance 0.25
+}
+
+flickerlight MAYHEMGREENFIREBALL_X3
+{
+    color 0.08 0.2 0.0
+    size 112
+    secondarySize 120
+    chance 0.25
+}
+
+object Mayhem17GreenFireBall
+{
+    frame M734A { light MAYHEMGREENFIREBALL    }
+    frame M734B { light MAYHEMGREENFIREBALL    }
+
+    frame M734C { light MAYHEMFIREBALL_X1      }
+    frame M734D { light MAYHEMGREENFIREBALL_X1 }
+    frame M734E { light MAYHEMGREENFIREBALL_X2 }
+    frame M734F { light MAYHEMGREENFIREBALL_X3 }
+}
+
+// Short blue torch
+object Mayhem17ShortBlueTorch
+{
+    frame M742 { light SMALLBLUETORCH }
+}
+
+// Tall blue torch
+object Mayhem17BlueTorch
+{
+    frame M741 { light BIGBLUETORCH }
+}
+
+// Short torch
+object Mayhem17SmallTorchPillar
+{
+    frame M733 { light FIREBARREL }
+}
+
+// Tall torch
+flickerlight2 MAYHEMTALLTORCH
+{
+    color 1.0 0.9 0.0
+    size 64
+    secondarySize 72
+    interval 0.1
+    offset 0 60 0
+}
+
+object Mayhem17TallTorchPillar
+{
+    frame M732 { light MAYHEMTALLTORCH }
+}
+
+// Hanging lantern
+flickerlight2 MAYHEMHANGINGLANTERN
+{
+    color 1.0 0.9 0.0
+    size 48
+    secondarySize 54
+    interval 0.1
+}
+
+object Mayhem17HangingLantern
+{
+    frame M731 { light MAYHEMHANGINGLANTERN }
+}
+
+// Super mushroom
+pulselight MAYHEMSUPERMUSHROOM
+{
+    color 0.8 0.5 0.5
+    size 40
+    secondarySize 42
+    interval 2.0
+    offset 0 16 0
+}
+
+object Mayhem17RedMushroom
+{
+    frame M700 { light MAYHEMSUPERMUSHROOM }
+}
+
+// Mega mushroom
+pointlight MAYHEMEGAMUSHROOM1
+{
+    color 0.7 0.7 0.2
+    size 40
+    offset 0 16 0
+}
+
+pointlight MAYHEMEGAMUSHROOM2
+{
+    color 0.7 0.7 0.2
+    size 32
+    offset 0 16 0
+}
+
+pointlight MAYHEMEGAMUSHROOM3
+{
+    color 0.7 0.7 0.2
+    size 24
+    offset 0 16 0
+}
+
+pointlight MAYHEMEGAMUSHROOM4
+{
+    color 0.7 0.7 0.2
+    size 16
+    offset 0 16 0
+}
+
+object Mayhem17YellowMushroom
+{
+    frame M701A { light MAYHEMEGAMUSHROOM1 }
+    frame M701B { light MAYHEMEGAMUSHROOM2 }
+    frame M701C { light MAYHEMEGAMUSHROOM3 }
+    frame M701D { light MAYHEMEGAMUSHROOM4 }
+}
+
+// Super star
+pulselight MAYHEMSUPERSTAR1
+{
+    color 1.0 1.0 0.3
+    size 40
+    secondarySize 42
+    interval 2.0
+    offset 0 16 0
+}
+
+pulselight MAYHEMSUPERSTAR2
+{
+    color 0.3 0.3 1.0
+    size 40
+    secondarySize 42
+    interval 2.0
+    offset 0 16 0
+}
+
+object Mayhem17Star
+{
+    frame M702A { light MAYHEMSUPERSTAR1 }
+    frame M702B { light MAYHEMSUPERSTAR2 }
+    frame M702C { light MAYHEMSUPERSTAR2 }
+    frame M702D { light MAYHEMSUPERSTAR1 }
+}
+
+// Ghost suit
+pointlight MAYHEMGHOSTSUIT
+{
+    color 0.5 0.5 0.5
+    size 40
+    offset 0 16 0
+}
+
+object Mayhem17BlurSphere
+{
+    frame M705 { light MAYHEMGHOSTSUIT }
+}
+
+// Health coin
+object Mayhem17BlueCoin
+{
+    frame M706 { light HEALTHPOTION }
+}
+
+// Armor coin
+object Mayhem17GreenCoin
+{
+    frame M707 { light ARMORBONUS }
+}
+
+// Red coin
+object Mayhem17RedCoin
+{
+    frame M708 { light REDKEY }
+}
+
+// Green armour
+object Mayhem17GreenArmor
+{
+    frame M709A { light GREENARMOR1 }
+    frame M709B { light GREENARMOR2 }
+}
+
+// Blue armour
+object Mayhem17BlueArmor
+{
+    frame M710A { light BLUEARMOR1 }
+    frame M710B { light BLUEARMOR2 }
+}
+
+// Yellow key
+object Mayhem17YellowKey
+{
+    frame M711 { light YELLOWKEY }
+}
+
+// Blue key
+object Mayhem17BlueKey
+{
+    frame M712 { light HEALTHPOTION }
+}
+
+// Red key
+object Mayhem17RedKey
+{
+    frame M713 { light REDKEY }
+}

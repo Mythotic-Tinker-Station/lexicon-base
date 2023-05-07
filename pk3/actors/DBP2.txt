@@ -1,0 +1,63 @@
+/////////////////////
+// Circle of Caina //
+/////////////////////
+
+Actor COCStalagtite : Stalagtite
+{
+  States
+  {
+  Spawn:
+    COCT A -1
+    Stop
+  }
+}
+
+Actor COCShortGreenTorch : ShortGreenTorch 
+{
+  States
+  {
+  Spawn:
+    CCGT ABCD 4 Bright
+    Loop
+  }
+}
+
+Actor COCSkullColumn : SkullColumn
+{
+  States
+  {
+  Spawn:
+    CCL6 A -1
+    Stop
+  }
+}
+
+Actor COCTallGreenColumn : TallGreenColumn
+{
+  States
+  {
+  Spawn:
+    CCL1 A -1
+    Stop
+  }
+}
+
+Actor COCShortGreenColumn : ShortGreenColumn
+{
+  States
+  {
+  Spawn:
+    CCL2 A -1
+    Stop
+  }
+}
+
+Actor COCGreenTorch : GreenTorch
+{
+  States
+  {
+  Spawn:
+    CCRN ABCD 4 Bright
+    Loop
+  }
+}
