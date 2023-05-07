@@ -4,7 +4,7 @@ set FileName=EssentialPack
 
 echo Step 1: ACS
 	cd compiler
-	bcc -acc-err-file -x bcs ..\pk3\acs\main.c ..\pk3\acs\main.o
+	bcc -acc-err-file -acc-stats -x bcs ..\pk3\acs\main.c ..\pk3\acs\main.o
 	if not exist ..\pk3\acs\acs.err goto 20
 	del ..\pk3\acs\acs.err
 

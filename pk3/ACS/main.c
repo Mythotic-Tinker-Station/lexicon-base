@@ -3,7 +3,8 @@
 
 #if 1
 
-int acronym_list[] =
+#define MODCOUNT 19
+int acronym_list[MODCOUNT] =
 {
 	"EPIC",
 	"EPC2",
@@ -30,7 +31,7 @@ int acronym_list[] =
 // you do not need to edit this script, only the variables above
 Script "LEXICON_BASE_EXPANSION" Open
 {
-	for(int i = 0; i < lengthof(acronym_list); i++)
+	for(int i = 0; i < MODCOUNT; i++)
 	{
 		ACS_NamedExecuteWithResult("Lexicon_AddMapSet", acronym_list[i]);
 	}
