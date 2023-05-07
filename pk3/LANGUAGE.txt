@@ -26,6 +26,7 @@
 		ACRO_MAPCOUNT			= "32";										// Number of maps this mapset has
 		ACRO_STARTMAP			= "ACRO01";									// The name of the first map of this mapset
 		ACRO_THUMBNAIL			= "IMAGENAME";								// An image to display for the voting UI(still being worked on)
+                                                                            // thumbnails are 192x108
 
 	Credits:
 		ACRO_CREDITS0			= "Person1";								// Who made the mapset
