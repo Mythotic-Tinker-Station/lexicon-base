@@ -679,3 +679,15 @@ D2RD_CREDITS28		= "Map 29 - nxGangrel";
 D2RD_CREDITS29		= "Map 30 - Trace of Spades, nxGangrel, Scotty";
 D2RD_CREDITS30		= "Map 31 - Tomato Ketchup";
 D2RD_CREDITS31		= "Map 32 - Supercupcaketactics";
+
+/////////////////////////////////////////////////////////
+// Pizza Steve Defs
+/////////////////////////////////////////////////////////
+
+PIZ_NAME			= "Pizza Steve";
+PIZ_DESCRIPTION	= "Pizza Steve is a 32-level slaughterwad.";
+PIZ_MAPCOUNT		= "32";
+PIZ_STARTMAP		= "PIZ01";
+PIZ_THUMBNAIL		= "PIZTN";
+
+PIZ_CREDITS0		= "Fernando Sanchez M.";

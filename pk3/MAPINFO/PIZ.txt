@@ -1,0 +1,387 @@
+map PIZ01 "One"
+	{
+	next = "PIZ02"
+	sky1 = SKY1
+	titlepatch = CLILV00
+	enterpic = INTERPIC
+	exitpic = INTERPIC
+	music = d_runnin
+	nocrouch
+	nojump
+	}
+	
+map PIZ02 "Two"
+	{
+	next = "PIZ03"
+	sky1 = SKY1
+	titlepatch = CLILV01
+	enterpic = INTERPIC
+	exitpic = INTERPIC
+	music = d_stalks
+	nocrouch
+	nojump
+	}
+	
+map PIZ03 "Three"
+	{
+	next = "PIZ04"
+	sky1 = SKY1
+	titlepatch = CLILV02
+	enterpic = INTERPIC
+	exitpic = INTERPIC
+	music = d_countd
+	nocrouch
+	nojump
+	}
+	
+map PIZ04 "Four"
+	{
+	next = "PIZ05"
+	sky1 = SKY1
+	titlepatch = CLILV03
+	enterpic = INTERPIC
+	exitpic = INTERPIC
+	music = d_betwee
+	nocrouch
+	nojump
+	}
+	
+map PIZ05 "Five"
+	{
+	next = "PIZ06"
+	sky1 = SKY1
+	titlepatch = CLILV04
+	enterpic = INTERPIC
+	exitpic = INTERPIC
+	music = d_doom
+	nocrouch
+	nojump
+	}
+	
+map PIZ06 "Six"
+	{
+	next = "PIZ07"
+	sky1 = SKY1
+	titlepatch = CLILV05
+	enterpic = INTERPIC
+	exitpic = INTERPIC
+	music = d_the_da
+	nocrouch
+	nojump
+	}
+	
+map PIZ07 "Seven"
+	{
+	next = "PIZ08"
+	map07special
+	sky1 = SKY1
+	titlepatch = CLILV06
+	enterpic = INTERPIC
+	exitpic = INTERPIC
+	music = d_shawn	
+	nocrouch
+	nojump
+	}
+	
+map PIZ08 "Eight"
+	{
+	next = "PIZ09"
+	sky1 = SKY1
+	titlepatch = CLILV07
+	enterpic = INTERPIC
+	exitpic = INTERPIC
+	music = d_ddtblu
+	nocrouch
+	nojump
+	}
+	
+map PIZ09 "Nine"
+	{
+	next = "PIZ10"
+	sky1 = SKY1
+	titlepatch = CLILV08
+	enterpic = INTERPIC
+	exitpic = INTERPIC
+	music = d_in_cit
+	nocrouch
+	nojump
+	}
+	
+map PIZ10 "Ten"
+	{
+	next = "PIZ11"
+	sky1 = SKY1
+	titlepatch = CLILV09
+	enterpic = INTERPIC
+	exitpic = INTERPIC
+	music = d_dead	
+	nocrouch
+	nojump
+	}
+	
+map PIZ11 "Eleven"
+	{
+	next = "PIZ12"
+	sky1 = SKY1
+	titlepatch = CLILV10
+	enterpic = INTERPIC
+	exitpic = INTERPIC
+	music = d_stlks2
+	nocrouch
+	nojump
+	}
+	
+map PIZ12 "Twelve"
+	{
+	next = "PIZ13"
+	sky1 = SKY2
+	titlepatch = CLILV11
+	enterpic = INTERPIC
+	exitpic = INTERPIC
+	music = d_theda2
+	nocrouch
+	nojump
+	}
+	
+map PIZ13 "Thirteen"
+	{
+	next = "PIZ14"
+	sky1 = SKY2
+	titlepatch = CLILV12
+	enterpic = INTERPIC
+	exitpic = INTERPIC
+	music = d_doom2
+	nocrouch
+	nojump
+	}
+	
+map PIZ14 "Fourteen"
+	{
+	next = "PIZ15"
+	sky1 = SKY2
+	titlepatch = CLILV13
+	enterpic = INTERPIC
+	exitpic = INTERPIC
+	music = d_ddtbl2
+	nocrouch
+	nojump
+	}
+	
+map PIZ15 "Fifthteen"
+	{
+	next = "PIZ16"
+	secretnext = "PIZ31"
+	sky1 = SKY2
+	titlepatch = CLILV14
+	enterpic = INTERPIC
+	exitpic = INTERPIC
+	music = d_runni2
+	nocrouch
+	nojump
+	}
+	
+map PIZ16 "Sixteen"
+	{
+	next = "PIZ17"
+	sky1 = SKY2
+	titlepatch = CLILV15
+	enterpic = INTERPIC
+	exitpic = INTERPIC
+	music = d_dead2
+	nocrouch
+	nojump
+	}
+	
+map PIZ17 "Seventeen"
+	{
+	next = "PIZ18"
+	sky1 = SKY2
+	titlepatch = CLILV16
+	enterpic = INTERPIC
+	exitpic = INTERPIC
+	music = d_stlks3
+	nocrouch
+	nojump
+	}
+	
+map PIZ18 "Eighteen"
+	{
+	next = "PIZ19"
+	sky1 = SKY2
+	titlepatch = CLILV17
+	enterpic = INTERPIC
+	exitpic = INTERPIC
+	music = d_romero
+	nocrouch
+	nojump
+	}
+	
+map PIZ19 "Nineteen"
+	{
+	next = "PIZ20"
+	sky1 = SKY2
+	titlepatch = CLILV18
+	enterpic = INTERPIC
+	exitpic = INTERPIC
+	music = d_shawn2
+	nocrouch
+	nojump
+	}
+	
+map PIZ20 "Twenty"
+	{
+	next = "PIZ21"
+	sky1 = SKY3
+	titlepatch = CLILV19
+	enterpic = INTERPIC
+	exitpic = INTERPIC
+	music = d_messag
+	nocrouch
+	nojump
+	}
+	
+map PIZ21 "Twenty-One"
+	{
+	next = "PIZ22"
+	sky1 = SKY3
+	titlepatch = CLILV20
+	enterpic = INTERPIC
+	exitpic = INTERPIC
+	music = d_count2
+	nocrouch
+	nojump
+	}
+	
+map PIZ22 "Twenty-Two"
+	{
+	next = "PIZ23"
+	sky1 = SKY3
+	titlepatch = CLILV21
+	enterpic = INTERPIC
+	exitpic = INTERPIC
+	music = d_ddtbl3
+	nocrouch
+	nojump
+	}
+	
+map PIZ23 "Twenty-Three"
+	{
+	next = "PIZ24"
+	sky1 = SKY3
+	titlepatch = CLILV22
+	enterpic = INTERPIC
+	exitpic = INTERPIC
+	music = d_ampie
+	nocrouch
+	nojump
+	}
+	
+map PIZ24 "Twenty-Four"
+	{
+	next = "PIZ25"
+	sky1 = SKY3
+	titlepatch = CLILV23
+	enterpic = INTERPIC
+	exitpic = INTERPIC
+	music = d_theda3
+	nocrouch
+	nojump
+	}
+	
+map PIZ25 "Twenty-Five"
+	{
+	next = "PIZ26"
+	sky1 = SKY3
+	titlepatch = CLILV24
+	enterpic = INTERPIC
+	exitpic = INTERPIC
+	music = d_adrian
+	nocrouch
+	nojump
+	}
+	
+map PIZ26 "Twenty-Six"
+	{
+	next = "PIZ27"
+	sky1 = SKY3
+	titlepatch = CLILV25
+	enterpic = INTERPIC
+	exitpic = INTERPIC
+	music = d_messg2
+	nocrouch
+	nojump
+	}
+	
+map PIZ27 "Twenty-Seven"
+	{
+	next = "PIZ28"
+	sky1 = SKY3
+	titlepatch = CLILV26
+	enterpic = INTERPIC
+	exitpic = INTERPIC
+	music = d_romer2
+	nocrouch
+	nojump
+	}
+	
+map PIZ28 "Twenty-Eight"
+	{
+	next = "PIZ29"
+	sky1 = SKY3
+	titlepatch = CLILV27
+	enterpic = INTERPIC
+	exitpic = INTERPIC
+	music = d_tense
+	nocrouch
+	nojump
+	}
+	
+map PIZ29 "Twenty-Nine"
+	{
+	next = "PIZ30"
+	sky1 = SKY3
+	titlepatch = CLILV28
+	enterpic = INTERPIC
+	exitpic = INTERPIC
+	music = d_shawn3
+	nocrouch
+	nojump
+	}
+	
+map PIZ30 "Thirty"
+	{
+	next = "HUB"
+	sky1 = SKY3
+	titlepatch = CLILV29
+	enterpic = INTERPIC
+	exitpic = INTERPIC
+	music = d_openin
+	nocrouch
+	nojump
+    SuckTime = 1337
+	}
+	
+map PIZ31 "Secret One"
+	{
+	next = "PIZ16"
+	secretnext = "PIZ32"
+	sky1 = SKY3
+	titlepatch = CLILV30
+	enterpic = INTERPIC
+	exitpic = INTERPIC
+	music = d_evil
+	nocrouch
+	nojump
+	}
+	
+map PIZ32 "Secret Two"
+	{
+	next = "PIZ16"
+	sky1 = SKY3
+	titlepatch = CLILV31
+	enterpic = INTERPIC
+	exitpic = INTERPIC
+	music = d_ultima
+	nocrouch
+	nojump
+	}

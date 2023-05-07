@@ -377,5 +377,29 @@ end
 	playrepeat plats/pt1_mid
 end
 
+//////////////////////////////////////////////////////////////
+// Pizza Steve
+//////////////////////////////////////////////////////////////
+[PIZDoor
+	0 DSDOROPN
+	1 DSDORCLS
+	2 DSBDOPN
+	3 DSBDCLS
+]
+
+:PIZPlatform
+	playuntildone plats/pt1_strt
+	stopsound plats/pt1_stop
+end
+
+:PIZFloor
+	playrepeat plats/pt1_mid
+	stopsound plats/pt1_stop
+end
+
+:PIZCeiling
+	playrepeat plats/pt1_mid
+end
+
 
 
