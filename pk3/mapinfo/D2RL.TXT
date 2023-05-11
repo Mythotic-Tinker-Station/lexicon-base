@@ -1,0 +1,320 @@
+map D2RL01 "Infestation" {
+titlepatch = D2RLV00
+next = D2RL02
+secretnext = D2RL02
+sky1 = SKY1
+music = D_RUNNIN
+par = 360
+sucktime = 1
+}
+
+map D2RL02 "Return to UAC" {
+titlepatch = D2RLV01
+next = D2RL03
+secretnext = D2RL03
+sky1 = SKY1
+music = D_STALKS
+par = 465
+sucktime = 1
+}
+
+map D2RL03 "Phobos Overdrive" {
+titlepatch = D2RLV02
+next = D2RL04
+secretnext = D2RL04
+sky1 = SKY1
+music = D_COUNTD
+par = 435
+sucktime = 1
+}
+
+map D2RL04 "Alpha Base" {
+titlepatch = D2RLV03
+next = D2RL05
+secretnext = D2RL05
+sky1 = SKY1
+music = D_BETWEE
+par = 390
+sucktime = 1
+}
+
+map D2RL05 "Lockdown" {
+titlepatch = D2RLV04
+next = D2RL06
+secretnext = D2RL06
+sky1 = SKY1
+music = D_DOOM
+par = 435
+sucktime = 1
+}
+
+map D2RL06 "Comms Station" {
+titlepatch = D2RLV05
+next = D2RL07
+secretnext = D2RL07
+sky1 = SKY1
+music = D_THE_DA
+par = 510
+sucktime = 1
+}
+
+map D2RL07 "Witch Space" {
+titlepatch = D2RLV06
+next = D2RL08
+secretnext = D2RL08
+sky1 = SKY1
+music = D_SHAWN
+map07special
+par = 180
+sucktime = 1
+}
+
+map D2RL08 "Waste Processing" {
+titlepatch = D2RLV07
+next = D2RL09
+secretnext = D2RL09
+sky1 = SKY1
+music = D_DDTBLU
+par = 540
+sucktime = 1
+}
+
+map D2RL09 "Phobos Subversion" {
+titlepatch = D2RLV08
+next = D2RL10
+secretnext = D2RL10
+sky1 = SKY1
+music = D_IN_CIT
+par = 420
+sucktime = 1
+}
+
+map D2RL10 "Administration" {
+titlepatch = D2RLV09
+next = D2RL11
+secretnext = D2RL11
+sky1 = SKY1
+music = D_DEAD
+par = 375
+sucktime = 1
+}
+
+map D2RL11 "Phobos Lab" {
+titlepatch = D2RLV10
+next = D2RL12
+secretnext = D2RL12
+sky1 = SKY1
+music = D_STLKS2
+par = 420
+sucktime = 1
+}
+
+map D2RL12 "Return to Earth" {    
+titlepatch = D2RLV11
+next = D2RL13
+secretnext = D2RL13
+sky1 = SKY2
+music = D_THEDA2
+par = 285
+sucktime = 1
+}
+
+map D2RL13 "Slimefalls" {
+titlepatch = D2RLV12
+next = D2RL14
+secretnext = D2RL14
+sky1 = SKY2
+music = D_DOOM2
+par = 405
+sucktime = 1
+}
+
+map D2RL14 "Underground" {
+titlepatch = D2RLV13
+next = D2RL15
+secretnext = D2RL15
+sky1 = SKY2
+music = D_DDTBL2
+par = 360
+sucktime = 1
+}
+
+map D2RL15 "South Central" {
+titlepatch = D2RLV14
+next = D2RL16
+secretnext = D2RL31
+sky1 = SKY2
+music = D_RUNNI2
+par = 555
+sucktime = 1
+}
+
+map D2RL16 "Research Facility" {
+titlepatch = D2RLV15
+next = D2RL17
+secretnext = D2RL17
+sky1 = SKY2
+music = D_DEAD2
+par = 450
+sucktime = 1
+}
+
+map D2RL17 "Downtown" {
+titlepatch = D2RLV16
+next = D2RL18
+secretnext = D2RL18
+sky1 = SKY2
+music = D_STLKS3
+par = 735
+sucktime = 1
+}
+
+map D2RL18 "Warehouse Siege" {
+titlepatch = D2RLV17
+next = D2RL19
+secretnext = D2RL19
+sky1 = SKY2
+music = D_ROMERO
+par = 420
+sucktime = 1
+}
+
+map D2RL19 "Void Complex" {
+titlepatch = D2RLV18
+next = D2RL20
+secretnext = D2RL20
+sky1 = SKY2
+music = D_SHAWN2
+par = 510
+sucktime = 1
+}
+
+map D2RL20 "Revelations" {
+titlepatch = D2RLV19
+next = D2RL21
+secretnext = D2RL21
+sky1 = SKY2
+music = D_MESSAG
+par = 840
+sucktime = 1
+}
+
+map D2RL21 "Limbo" {
+titlepatch = D2RLV20
+next = D2RL22
+secretnext = D2RL22
+sky1 = D2RL0334
+music = D_COUNT2
+par = 450
+sucktime = 1
+}
+
+map D2RL22 "River Styx" {
+titlepatch = D2RLV21
+next = D2RL23
+secretnext = D2RL23
+sky1 = D2RL0334
+music = D_DDTBL3
+par = 375
+sucktime = 1
+}
+
+map D2RL23 "Elysian Plains" {
+titlepatch = D2RLV22
+next = D2RL24
+secretnext = D2RL24
+sky1 = D2RL0334
+music = D_AMPIE
+par = 450
+sucktime = 1
+}
+
+map D2RL24 "Necromanteion" {
+titlepatch = D2RLV23
+next = D2RL25
+secretnext = D2RL25
+sky1 = D2RL0334
+music = D_THEDA3
+par = 465
+sucktime = 1
+}
+
+map D2RL25 "Hell's Gate" {
+titlepatch = D2RLV24
+next = D2RL26
+secretnext = D2RL26
+sky1 = D2RL0334
+music = D_ADRIAN
+par = 735
+sucktime = 1
+}
+
+map D2RL26 "Acheron" {
+titlepatch = D2RLV25
+next = D2RL27
+secretnext = D2RL27
+sky1 = D2RL0334
+music = D_MESSG2
+par = 585
+sucktime = 1
+}
+
+map D2RL27 "Phlegethon" {
+titlepatch = D2RLV26
+next = D2RL28
+secretnext = D2RL28
+sky1 = D2RL0334
+music = D_ROMER2
+par = 420
+sucktime = 1
+}
+
+map D2RL28 "The Underworld" {
+titlepatch = D2RLV27
+next = D2RL29
+secretnext = D2RL29
+sky1 = D2RL0334
+music = D_TENSE
+par = 900
+sucktime = 1
+}
+
+map D2RL29 "Cocytus" {
+titlepatch = D2RLV28
+next = D2RL30
+secretnext = D2RL30
+sky1 = D2RL0334
+music = D_SHAWN3
+par = 1305
+sucktime = 1
+}
+
+map D2RL30 "The Final Conflict" {
+titlepatch = D2RLV29
+next = EndGameC
+secretnext = EndGameC
+sky1 = D2RL0334
+music = D_OPENIN
+par = 345
+sucktime = 1
+}
+
+map D2RL31 "Entryway Reloaded" {
+titlepatch = D2RLV30
+next = D2RL16
+secretnext = D2RL32
+sky1 = D2RL0334
+music = D_EVIL
+par = 120
+sucktime = 1
+}
+
+map D2RL32 "The Super Secret Level" {
+titlepatch = D2RLV31
+next = D2RL16
+secretnext = D2RL16
+sky1 = D2RL0334
+music = D_ULTIMA
+par = 1170
+sucktime = 1
+}

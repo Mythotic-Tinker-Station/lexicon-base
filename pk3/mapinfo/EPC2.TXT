@@ -1,0 +1,548 @@
+
+
+map EPC201 "Entrance"
+{
+	titlepatch = "EPC2LV00"
+	next = "EPC202"
+	secretnext = "EPC202"
+	ExitPic = "EPC2LV32"
+	EnterPic = "EPC2LV32"
+	sky1 = "EPC21445"
+	par = 30
+	music = "D_EPC201"
+	InterMusic = "D_EPC233"
+	sucktime = 1
+	compat_trace
+	nojump
+	nocrouch
+}
+
+map EPC202 "Voodoo"
+{
+	titlepatch = "EPC2LV01"
+	next = "EPC203"
+	secretnext = "EPC203"
+	sky1 = "EPC21445"
+	ExitPic = "EPC2LV33"
+	EnterPic = "EPC2LV33"
+	par = 90
+	music = "D_EPC202"
+	InterMusic = "D_EPC234"
+	sucktime = 1
+	compat_trace
+	nojump
+	nocrouch
+}
+
+map EPC203 "Black magic"
+{
+	titlepatch = "EPC2LV02"
+	next = "EPC204"
+	secretnext = "EPC204"
+	ExitPic = "EPC2LV33"
+	EnterPic = "EPC2LV33"
+	sky1 = "EPC21445"
+	par = 120
+	music = "D_EPC203"
+	InterMusic = "D_EPC234"
+	sucktime = 1
+	compat_trace
+	nojump
+	nocrouch
+}
+
+map EPC204 "Sarcophagus"
+{
+	titlepatch = "EPC2LV03"
+	next = "EPC205"
+	secretnext = "EPC205"
+	ExitPic = "EPC2LV33"
+	EnterPic = "EPC2LV33"
+	sky1 = "EPC21445"
+	par = 120
+	music = "D_EPC204"
+	InterMusic = "D_EPC234"
+	sucktime = 1
+	compat_trace
+	nojump
+	nocrouch
+}
+
+map EPC205 "Abu Gurab"
+{
+	titlepatch = "EPC2LV04"
+	next = "EPC206"
+	secretnext = "EPC206"
+	ExitPic = "EPC2LV33"
+	EnterPic = "EPC2LV33"
+	sky1 = "EPC21445"
+	par = 90
+	music = "D_EPC205"
+	InterMusic = "D_EPC234"
+	sucktime = 1
+	compat_trace
+	nojump
+	nocrouch
+}
+
+map EPC206 "Revived bones"
+{
+	titlepatch = "EPC2LV05"
+	next = "EPC207"
+	secretnext = "EPC207"
+	ExitPic = "EPC2LV33"
+	EnterPic = "EPC2LV33"
+	sky1 = "EPC21445"
+	par = 150
+	sucktime = 1
+	music = "D_EPC206"
+	InterMusic = "D_EPC234"
+	sucktime = 1
+	compat_trace
+	nojump
+	nocrouch
+}
+
+map EPC207 "Hell guard"
+{
+	titlepatch = "EPC2LV06"
+	next = "EPC208"
+	secretnext = "EPC208"
+	ExitPic = "EPC2LV33"
+	EnterPic = "EPC2LV33"
+	sky1 = "EPC21445"
+	par = 120
+	map07special
+	music = "D_EPC207"
+	InterMusic = "D_EPC234"
+	sucktime = 1
+	compat_trace
+	nojump
+	nocrouch
+}
+
+map EPC208 "Karnak temple"
+{
+	titlepatch = "EPC2LV07"
+	next = "EPC209"
+	secretnext = "EPC209"
+	ExitPic = "EPC2LV33"
+	EnterPic = "EPC2LV33"
+	sky1 = "EPC21445"
+	par = 120
+	music = "D_EPC208"
+	InterMusic = "D_EPC234"
+	sucktime = 1
+	compat_trace
+	nojump
+	nocrouch
+}
+
+map EPC209 "Mystery"
+{
+	titlepatch = "EPC2LV08"
+	next = "EPC210"
+	secretnext = "EPC210"
+	ExitPic = "EPC2LV33"
+	EnterPic = "EPC2LV33"
+	sky1 = "EPC21445"
+	par = 270
+	music = "D_EPC209"
+	InterMusic = "D_EPC234"
+	sucktime = 1
+	compat_trace
+	nojump
+	nocrouch
+}
+
+map EPC210 "Goldmine"
+{
+	titlepatch = "EPC2LV09"
+	next = "EPC211"
+	secretnext = "EPC211"
+	ExitPic = "EPC2LV33"
+	EnterPic = "EPC2LV33"
+	sky1 = "EPC21445"
+	par = 90
+	music = "D_EPC210"
+	InterMusic = "D_EPC234"
+	sucktime = 1
+	compat_trace
+	nojump
+	nocrouch
+}
+
+map EPC211 "The Tower"
+{
+	titlepatch = "EPC2LV10"
+	next = "EPC212"
+	secretnext = "EPC212"
+	ExitPic = "EPC2LV33"
+	EnterPic = "EPC2LV33"
+	sky1 = "EPC21445"
+	par = 210
+	music = "D_EPC211"
+	InterMusic = "D_EPC234"
+	sucktime = 1
+	compat_trace
+	nojump
+	nocrouch
+}
+
+map EPC212 "Alien ship"
+{
+	titlepatch = "EPC2LV11"
+	next = "EPC213"
+	secretnext = "EPC213"
+	ExitPic = "EPC2LV33"
+	EnterPic = "EPC2LV33"
+	sky1 = "EPC21446"
+	par = 150
+	music = "D_EPC212"
+	InterMusic = "D_EPC234"
+	sucktime = 1
+	compat_trace
+	nojump
+	nocrouch
+}
+
+map EPC213 "Mebius"
+{
+	titlepatch = "EPC2LV12"
+	next = "EPC214"
+	secretnext = "EPC214"
+	ExitPic = "EPC2LV33"
+	EnterPic = "EPC2LV33"
+	sky1 = "EPC21446"
+	par = 150
+	music = "D_EPC213"
+	InterMusic = "D_EPC234"
+	sucktime = 1
+	compat_trace
+	nojump
+	nocrouch
+}
+
+map EPC214 "Orion's Belt"
+{
+	titlepatch = "EPC2LV13"
+	next = "EPC215"
+	secretnext = "EPC215"
+	ExitPic = "EPC2LV33"
+	EnterPic = "EPC2LV33"
+	sky1 = "EPC21446"
+	par = 150
+	music = "D_EPC214"
+	InterMusic = "D_EPC234"
+	sucktime = 1
+	compat_trace
+	nojump
+	nocrouch
+}
+
+map EPC215 "Astral base"
+{
+	titlepatch = "EPC2LV14"
+	next = "EPC216"
+	secretnext = "EPC231"
+	ExitPic = "EPC2LV33"
+	EnterPic = "EPC2LV33"
+	sky1 = "EPC21446"
+	par = 210
+	music = "D_EPC215"
+	InterMusic = "D_EPC234"
+	sucktime = 1
+	compat_trace
+	nojump
+	nocrouch
+}
+
+map EPC216 "DNA replicate"
+{
+	titlepatch = "EPC2LV15"
+	next = "EPC217"
+	secretnext = "EPC217"
+	ExitPic = "EPC2LV33"
+	EnterPic = "EPC2LV33"
+	sky1 = "EPC21446"
+	par = 150
+	music = "D_EPC216"
+	InterMusic = "D_EPC234"
+	sucktime = 1
+	compat_trace
+	nojump
+	nocrouch
+}
+
+map EPC217 "Hologram"
+{
+	titlepatch = "EPC2LV16"
+	next = "EPC218"
+	secretnext = "EPC218"
+	ExitPic = "EPC2LV33"
+	EnterPic = "EPC2LV33"
+	sky1 = "EPC21446"
+	par = 420
+	music = "D_EPC217"
+	InterMusic = "D_EPC234"
+	sucktime = 1
+	compat_trace
+	nojump
+	nocrouch
+}
+
+map EPC218 "Gunman"
+{
+	titlepatch = "EPC2LV17"
+	next = "EPC219"
+	secretnext = "EPC219"
+	ExitPic = "EPC2LV33"
+	EnterPic = "EPC2LV33"
+	sky1 = "EPC21446"
+	par = 150
+	music = "D_EPC218"
+	InterMusic = "D_EPC234"
+	sucktime = 1
+	compat_trace
+	nojump
+	nocrouch
+}
+
+map EPC219 "Escape"
+{
+	titlepatch = "EPC2LV18"
+	next = "EPC220"
+	secretnext = "EPC220"
+	ExitPic = "EPC2LV33"
+	EnterPic = "EPC2LV33"
+	sky1 = "EPC21446"
+	par = 210
+	music = "D_EPC219"
+	InterMusic = "D_EPC234"
+	sucktime = 1
+	compat_trace
+	nojump
+	nocrouch
+}
+
+map EPC220 "Anomaly zone"
+{
+	titlepatch = "EPC2LV19"
+	next = "EPC221"
+	secretnext = "EPC221"
+	ExitPic = "EPC2LV33"
+	EnterPic = "EPC2LV33"
+	sky1 = "EPC21446"
+	par = 150
+	music = "D_EPC220"
+	InterMusic = "D_EPC234"
+	sucktime = 1
+	compat_trace
+	nojump
+	nocrouch
+}
+
+map EPC221 "Shore dream"
+{
+	titlepatch = "EPC2LV20"
+	next = "EPC222"
+	secretnext = "EPC222"
+	ExitPic = "EPC2LV33"
+	EnterPic = "EPC2LV33"
+	sky1 = "EPC21447"
+	par = 240
+	music = "D_EPC221"
+	InterMusic = "D_EPC234"
+	sucktime = 1
+	compat_trace
+	nojump
+	nocrouch
+}
+
+map EPC222 "Mummy tomb"
+{
+	titlepatch = "EPC2LV21"
+	next = "EPC223"
+	secretnext = "EPC223"
+	ExitPic = "EPC2LV33"
+	EnterPic = "EPC2LV33"
+	sky1 = "EPC21447"
+	par = 150
+	music = "D_EPC222"
+	InterMusic = "D_EPC234"
+	sucktime = 1
+	compat_trace
+	nojump
+	nocrouch
+}
+
+map EPC223 "Oasis"
+{
+	titlepatch = "EPC2LV22"
+	next = "EPC224"
+	secretnext = "EPC224"
+	ExitPic = "EPC2LV33"
+	EnterPic = "EPC2LV33"
+	sky1 = "EPC21447"
+	par = 180
+	music = "D_EPC223"
+	InterMusic = "D_EPC234"
+	sucktime = 1
+	compat_trace
+	nojump
+	nocrouch
+}
+
+map EPC224 "Hentiamenti"
+{
+	titlepatch = "EPC2LV23"
+	next = "EPC225"
+	secretnext = "EPC225"
+	ExitPic = "EPC2LV33"
+	EnterPic = "EPC2LV33"
+	sky1 = "EPC21447"
+	par = 150
+	music = "D_EPC224"
+	InterMusic = "D_EPC234"
+	sucktime = 1
+	compat_trace
+	nojump
+	nocrouch
+}
+
+map EPC225 "Per Nefer"
+{
+	titlepatch = "EPC2LV24"
+	next = "EPC226"
+	secretnext = "EPC226"
+	ExitPic = "EPC2LV33"
+	EnterPic = "EPC2LV33"
+	sky1 = "EPC21447"
+	par = 150
+	music = "D_EPC225"
+	InterMusic = "D_EPC234"
+	sucktime = 1
+	compat_trace
+	nojump
+	nocrouch
+}
+
+map EPC226 "Luxor"
+{
+	titlepatch = "EPC2LV25"
+	next = "EPC227"
+	secretnext = "EPC227"
+	ExitPic = "EPC2LV33"
+	EnterPic = "EPC2LV33"
+	sky1 = "EPC21447"
+	par = 300
+	music = "D_EPC226"
+	InterMusic = "D_EPC234"
+	sucktime = 1
+	compat_trace
+	nojump
+	nocrouch
+}
+
+map EPC227 "Ammut"
+{
+	titlepatch = "EPC2LV26"
+	next = "EPC228"
+	secretnext = "EPC228"
+	ExitPic = "EPC2LV33"
+	EnterPic = "EPC2LV33"
+	sky1 = "EPC21447"
+	par = 330
+	music = "D_EPC227"
+	InterMusic = "D_EPC234"
+	sucktime = 1
+	compat_trace
+	nojump
+	nocrouch
+}
+
+map EPC228 "Ogdoad"
+{
+	titlepatch = "EPC2LV27"
+	next = "EPC229"
+	secretnext = "EPC229"
+	ExitPic = "EPC2LV33"
+	EnterPic = "EPC2LV33"
+	sky1 = "EPC21447"
+	par = 420
+	music = "D_EPC228"
+	InterMusic = "D_EPC234"
+	sucktime = 1
+	compat_trace
+	nojump
+	nocrouch
+}
+
+map EPC229 "Mortuary"
+{
+	titlepatch = "EPC2LV28"
+	next = "EPC230"
+	secretnext = "EPC230"
+	ExitPic = "EPC2LV33"
+	EnterPic = "EPC2LV33"
+	sky1 = "EPC21447"
+	par = 300
+	music = "D_EPC229"
+	InterMusic = "D_EPC234"
+	sucktime = 1
+	compat_trace
+	nojump
+	nocrouch
+}
+
+map EPC230 "Amenthes"
+{
+	titlepatch = "EPC2LV29"
+	next = "VR"
+	secretnext = "VR"
+	sky1 = "EPC21447"
+	ExitPic = "EPC2LV32"
+	EnterPic = "EPC2LV32"
+	par = 180
+	allowmonstertelefrags
+	music = "D_EPC230"
+	InterMusic = "D_EPC235"
+	sucktime = 1337
+	compat_trace
+	nojump
+	nocrouch
+}
+
+map EPC231 "Osirion"
+{
+	titlepatch = "EPC2LV30"
+	next = "EPC216"
+	secretnext = "EPC232"
+	ExitPic = "EPC2LV33"
+	EnterPic = "EPC2LV33"
+	sky1 = "EPC21447"
+	par = 120
+	music = "D_EPC231"
+	InterMusic = "D_EPC234"
+	sucktime = 1
+	compat_trace
+	nojump
+	nocrouch
+}
+
+map EPC232 "The Harbour"
+{
+	titlepatch = "EPC2LV31"
+	next = "EPC216"
+	secretnext = "EPC216"
+	ExitPic = "EPC2LV33"
+	EnterPic = "EPC2LV33"
+	sky1 = "EPC21447"
+	par = 30
+	music = "D_EPC232"
+	InterMusic = "D_EPC234"
+	sucktime = 1
+	compat_trace
+	nojump
+	nocrouch
+}

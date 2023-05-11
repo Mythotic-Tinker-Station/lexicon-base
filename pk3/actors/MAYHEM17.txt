@@ -1,0 +1,710 @@
+
+////////////////////////////////////////////////////////////////////////////////
+// Guns
+////////////////////////////////////////////////////////////////////////////////
+
+actor Mayhem17RocketLauncher : RocketLauncher
+{
+	Weapon.SlotNumber 5
+	States
+	{
+		Fire:
+			MISG B 8 A_GunFlash
+			MISG B 12 A_FireCustomMissile("Mayhem17BulletBill")
+			MISG B 0 A_ReFire
+			Goto Ready
+	}
+}
+
+ACTOR Mayhem17PlasmaRifle : PlasmaRifle
+{
+	Weapon.SlotNumber 6
+	States
+	{
+		Fire:
+			PLSG A 0 A_Jump(127, "Fire2")
+			PLSG A 0 A_GunFlash
+			PLSG A 3 A_FireCustomMissile("Mayhem17FireBall")
+			PLSG B 20 A_ReFire
+			Goto Ready
+
+		Fire2:
+			PLSG A 0 A_GunFlash("Flash2")
+			PLSG A 3 A_FireCustomMissile("Mayhem17FireBall")
+			PLSG B 20 A_ReFire
+			Goto Ready
+
+		Flash:
+			M737 A 4 Bright A_Light1
+			Goto LightDone
+
+		Flash2:
+			M737 B 4 Bright A_Light1
+			Goto LightDone
+	}
+}
+
+
+////////////////////////////////////////////////////////////////////////////////
+// Projectiles
+////////////////////////////////////////////////////////////////////////////////
+
+ACTOR Mayhem17ImpFireBall : DoomImpBall
+{
+	States
+	{
+		Spawn:
+			M740 AB 4 Bright
+			Loop
+		Death:
+			M738 CEF 6 Bright
+			Stop
+	}
+}
+
+ACTOR Mayhem17FireBall : PlasmaBall
+{
+	SeeSound "MAYH/DSPLASMA"
+	States
+	{
+		Spawn:
+			M738 AB 6 Bright
+			Loop
+		Death:
+			M738 CDEFG 4 Bright
+			Stop
+	}
+}
+
+ACTOR Mayhem17BulletBill : Rocket
+{
+	SeeSound "MAYH/DSRLAUNC"
+	States
+	{
+		Spawn:
+			M735 A 1 Bright
+			Loop
+	}
+}
+
+
+ACTOR Mayhem17GreenFireBall : ArachnotronPlasma
+{
+	SeeSound "MAYH/DSPLASMA"
+	States
+	{
+		Spawn:
+			M734 AB 5 Bright
+			Loop
+		Death:
+			M734 CDEFG 5 Bright
+			Stop
+	}
+}
+
+ACTOR Mayhem17Puff : BulletPuff
+{
+	States
+	{
+		Spawn:
+			M739 A 4 Bright
+			M739 B 4
+		Melee:
+			M739 CD 4
+			Stop
+	}
+}
+
+////////////////////////////////////////////////////////////////////////////////
+// Enemies
+////////////////////////////////////////////////////////////////////////////////
+
+
+ACTOR Mayhem17Imp : DoomImp
+{
+	States
+	{
+		Melee:
+		Missile:
+			TROO EF 8 A_FaceTarget
+			TROO G 6 A_CustomComboAttack("Mayhem17ImpFireBall", 32, 3 * random(1, 8), "imp/melee")
+			Goto See
+	}
+}
+
+
+ACTOR Mayhem17Cyberdemon : Cyberdemon
+{
+	States
+	{
+		Missile:
+			CYBR E 6 A_FaceTarget
+			CYBR F 12 A_CustomMissile("Mayhem17BulletBill")
+			CYBR E 12 A_FaceTarget
+			CYBR F 12 A_CustomMissile("Mayhem17BulletBill")
+			CYBR E 12 A_FaceTarget
+			CYBR F 12 A_CustomMissile("Mayhem17BulletBill")
+			Goto See
+	}
+}
+
+ACTOR Mayhem17Arachnotron : Arachnotron
+{
+	States
+	{
+		Missile:
+			BSPI A 20 Bright A_FaceTarget
+			BSPI G 4 Bright A_CustomMissile("Mayhem17GreenFireBall", 20)
+			BSPI H 4 Bright
+			BSPI H 1 Bright A_SpidRefire
+			Goto Missile+1
+	}
+}
+
+Actor Mayhem17TurtleShell : WolfensteinSS
+{
+	Health 999999
+	Speed 25
+	Radius 30
+	Height 64
+	PainChance 0
+	Mass 300
+	+NOBLOOD
+	-COUNTKILL
+	SeeSound ""
+	PainSound ""
+	DeathSound ""
+	ActiveSound ""
+	States
+	{
+	Spawn:
+		M744 A 1 A_Look
+		goto Spawn
+	See:
+		M744 ABCDEFGH 2 A_Chase
+		goto See
+	Pain:
+		TROO A -1
+		stop
+	Melee:
+		M744 A 0 A_SkelFist
+		M744 A 1 A_SkelFist
+		M744 ABCDEFGH 2 A_Chase
+		goto See
+	Missile:
+		TROO A -1
+		stop
+	Death:
+		M744 A 10 Bright A_PainAttack
+		goto Death
+	XDeath:
+		TROO A -1
+		stop
+	Raise:
+		TROO A -1
+		stop
+	}
+}
+
+Actor Mayhem17Bowser
+{
+    Health 8000
+    Speed 16
+    Radius 48
+    Height 96
+    PainChance 5
+    Mass 1000
+    +COUNTKILL
+    +SOLID
+    +SHOOTABLE
+    +NOICEDEATH
+    SeeSound "MAYH/DSSSSIT"
+    AttackSound "MAYH/DSKEENDT"
+    PainSound "MAYH/DSKEENPN"
+    DeathSound "MAYH/DSSSDTH"
+    Obituary "%o fell before King Koopa's might."
+    States
+    {
+    Spawn:
+        M743 A 10 A_Look
+        Loop
+    See:
+        M743 ABCDEFGH 3 A_Chase
+        Loop
+    Pain:
+        M743 Q 8 A_Pain
+        Goto See
+    Melee:
+        M743 L 6 A_SkelWhoosh
+        M743 MN 6 A_FaceTarget
+        M743 O 0 A_SkelFist
+        M743 P 6 A_SkelFist
+    Missile:
+        M743 IJ 6 A_FaceTarget
+        M743 K 6 Bright A_FatAttack1
+        M743 K 6 Bright A_FatAttack2
+        M743 K 6 Bright A_FatAttack3
+        M743 K 1 A_SpidRefire
+        Goto Missile+2
+    Death:
+        M743 RSTUV 8
+        M743 W 8 A_KeenDie
+        M743 X -1
+        Stop
+    }
+}
+
+Actor Mayhem17BowserCoop : Mayhem17Bowser
+{
+    Health 12000
+}
+
+////////////////////////////////////////////////////////////////////////////////
+// Items
+////////////////////////////////////////////////////////////////////////////////
+
+Actor Mayhem17RocketAmmo : RocketAmmo
+{
+	Inventory.PickupMessage "Bullet Bill"
+	Inventory.PickupSound "MAYH/DSGETPOW"
+	States
+	{
+		Spawn:
+			M736 A -1
+			Stop
+	}
+}
+
+Actor Mayhem17RedMushroom : Soulsphere
+{
+	Inventory.PickupMessage "Super Shroom" // "Supercharge!"
+	Inventory.PickupSound "MAYH/DSGETPOW"
+	States
+	{
+		Spawn:
+			M700 ABCDCB 6 Bright
+			Loop
+	}
+}
+
+Actor Mayhem17YellowMushroom : Megasphere
+{
+	Inventory.PickupMessage "Mega Shroom" // "MegaSphere!"
+	Inventory.PickupSound "MAYH/DSGETPOW"
+	States
+	{
+		Spawn:
+			M701 ABCD 6 Bright
+			Loop
+	}
+}
+
+Actor Mayhem17Star : InvulnerabilitySphere
+{
+	Inventory.PickupMessage "Super Star"
+	Inventory.PickupSound "MAYH/DSGETPOW"
+	States
+	{
+		Spawn:
+			M702 ABCD 6 Bright
+			Loop
+	}
+}
+
+Actor Mayhem17Berserk : Berserk
+{
+	Inventory.PickupMessage "Berserk"
+	Inventory.PickupSound "MAYH/DSGETPOW"
+	States
+	{
+		Spawn:
+			M703 A -1 Bright
+			Stop
+  }
+}
+
+Actor Mayhem17RadSuit : RadSuit
+{
+	Inventory.PickupMessage "Tanooki Suit"
+	Inventory.PickupSound "MAYH/DSGETPOW"
+	States
+	{
+		Spawn:
+			M704 A -1 Bright
+			Stop
+	}
+}
+
+Actor Mayhem17BlurSphere : BlurSphere
+{
+	Inventory.PickupMessage "Ghost Suit"
+	Inventory.PickupSound "MAYH/DSGETPOW"
+	States
+	{
+		Spawn:
+			M705 ABCD 6 Bright
+			Loop
+	}
+}
+
+Actor Mayhem17BlueCoin : HealthBonus
+{
+	Inventory.PickupMessage "Health Coin"
+	Inventory.PickupSound "MAYH/DSITEMUP"
+	States
+	{
+		Spawn:
+			M706 ABCDCB 6
+			Loop
+	}
+}
+
+Actor Mayhem17GreenCoin : ArmorBonus
+{
+	Inventory.PickupMessage "Armor Coin"
+	Inventory.PickupSound "MAYH/DSITEMUP"
+	States
+	{
+		Spawn:
+			M707 ABCDCB 6
+			Loop
+	}
+}
+
+Actor Mayhem17RedCoin : HealthBonus
+{
+	+INVENTORY.NEVERRESPAWN
+	Inventory.PickupMessage "A mysterious red coin..."
+	Inventory.PickupSound "MAYH/DSITEMUP"
+	States
+	{
+		Spawn:
+			M708 A 10
+			M708 B 10 Bright
+			Loop
+	}
+}
+
+Actor Mayhem17GreenArmor : GreenArmor
+{
+	Inventory.PickupMessage "Green Armor Shell."
+	Inventory.PickupSound "MAYH/DSITEMUP"
+	States
+	{
+		Spawn:
+			M709 A 6
+			M709 B 6 Bright
+			Loop
+	}
+}
+
+Actor Mayhem17BlueArmor : BlueArmor
+{
+	Inventory.PickupMessage "Blue Armor Shell."
+	Inventory.PickupSound "MAYH/DSITEMUP"
+	States
+	{
+		Spawn:
+			M710 A 6
+			M710 B 6 Bright
+			Loop
+	}
+}
+
+Actor Mayhem17YellowKey : CustomInventory
+{
+	Inventory.PickupMessage "Yellow Key."
+	Inventory.PickupSound "MAYH/DSITEMUP"
+	+COUNTITEM
+	States
+	{
+		Spawn:
+			M711 A 10
+			M711 B 10 Bright
+			Loop
+		Pickup:
+			TNT1 A 0 ACS_NamedExecute("SharedKey_Pickup", 0, 1, 1)
+			Stop
+	}
+}
+
+Actor Mayhem17BlueKey : CustomInventory
+{
+	Inventory.PickupMessage "Blue Key."
+	Inventory.PickupSound "MAYH/DSITEMUP"
+	+COUNTITEM
+	States
+	{
+		Spawn:
+			M712 A 10
+			M712 B 10 Bright
+			Loop
+		Pickup:
+			TNT1 A 0 ACS_NamedExecute("SharedKey_Pickup", 0, 2, 1)
+			Stop
+	}
+}
+
+Actor Mayhem17RedKey : CustomInventory
+{
+	Inventory.PickupMessage "Red Key."
+	Inventory.PickupSound "MAYH/DSITEMUP"
+	+COUNTITEM
+	States
+	{
+		Spawn:
+			M713 A 10
+			M713 B 10 Bright
+			Loop
+		Pickup:
+			TNT1 A 0 ACS_NamedExecute("SharedKey_Pickup", 0, 0, 1)
+			Stop
+	}
+}
+
+////////////////////////////////////////////////////////////////////////////////
+// Decoration
+////////////////////////////////////////////////////////////////////////////////
+
+Actor Mayhem17TallBush : BigTree
+{
+	States
+	{
+		Spawn:
+			M714 A -1
+			Stop
+	}
+}
+
+Actor Mayhem17TinyBush : TorchTree
+{
+	States
+	{
+		Spawn:
+			M715 A -1
+			Stop
+	}
+}
+
+Actor Mayhem17Rock : Stalagtite
+{
+	States
+	{
+		Spawn:
+			M716 A -1
+			Stop
+	}
+}
+
+Actor Mayhem17Plant : BrainStem
+{
+	States
+	{
+		Spawn:
+			M717 A -1
+			Stop
+	}
+}
+
+Actor Mayhem17Pokey : EvilEye
+{
+	States
+	{
+		Spawn:
+			M718 ABCB 6 Bright
+			Loop
+	}
+}
+
+Actor Mayhem17RedMushroomTree : TallGreenColumn
+{
+	States
+	{
+		Spawn:
+			M719 A -1
+			Stop
+	}
+}
+
+Actor Mayhem17GreenMushroomTree : ShortGreenColumn
+{
+	States
+	{
+		Spawn:
+			M720 A -1
+			Stop
+	}
+}
+
+Actor Mayhem17TallBushSnowy : TallRedColumn
+{
+	States
+	{
+		Spawn:
+			M721 A -1
+			Stop
+	}
+}
+
+Actor Mayhem17Vase : ShortRedColumn
+{
+	States
+	{
+		Spawn:
+			M722 A -1
+			Stop
+	}
+}
+
+Actor Mayhem17PalmTree : HeartColumn
+{
+	States
+	{
+		Spawn:
+			M723 AB 14
+			Loop
+	}
+}
+
+Actor Mayhem17TinyBushSnowy : SkullColumn
+{
+	States
+	{
+		Spawn:
+			M724 A -1
+			Stop
+	}
+}
+
+Actor Mayhem17StonePillar : TechPillar
+{
+	States
+	{
+		Spawn:
+			M725 A -1
+			Stop
+	}
+}
+
+Actor Mayhem17Vines : ColonGibs
+{
+	States
+	{
+		Spawn:
+			M726 A -1
+			Stop
+	}
+}
+
+Actor Mayhem17Cactus : DeadStick
+{
+	States
+	{
+		Spawn:
+			M727 A -1
+			Stop
+	}
+}
+
+Actor Mayhem17QuestionSphere : HeadsOnAStick
+{
+	States
+	{
+		Spawn:
+			M728 A -1
+			Stop
+	}
+}
+
+Actor Mayhem17BowserPillar : HeadOnAStick
+{
+	States
+	{
+		Spawn:
+			M729 A -1
+			Stop
+	}
+}
+
+Actor Mayhem17Muncher : LiveStick
+{
+	States
+	{
+		Spawn:
+			M730 A 6
+			M730 B 8
+			Loop
+	}
+}
+
+Actor Mayhem17HangingLantern : BloodyTwitch
+{
+	States
+	{
+		Spawn:
+			M731 A 10
+			M731 B 15
+			M731 C 8
+			M731 B 6
+			Loop
+	}
+}
+
+Actor Mayhem17TallTorchPillar : RedTorch
+{
+	States
+	{
+		Spawn:
+			M732 ABCD 4 Bright
+			Loop
+	}
+}
+
+Actor Mayhem17SmallTorchPillar : ShortRedTorch
+{
+	States
+	{
+		Spawn:
+			M733 ABCD 4 Bright
+			Loop
+	}
+}
+
+Actor Mayhem17BlueTorch : BlueTorch
+{
+	States
+	{
+		Spawn:
+			M741 ABCD 4 Bright
+			Loop
+	}
+}
+
+Actor Mayhem17ShortBlueTorch : ShortBlueTorch
+{
+	States
+	{
+		Spawn:
+			M742 ABCD 4 Bright
+			Loop
+	}
+}
+
+Actor Mayhem17ExplosiveBarrel : ExplosiveBarrel
+{
+	States
+	{
+		Spawn:
+			M745 AB 6
+			Loop
+		Death:
+			M745 C 5 Bright
+			M745 D 5 Bright A_Scream
+			M745 E 5 Bright
+			M745 F 5 Bright A_Explode
+			M745 G 10 Bright
+			TNT1 A 1050 Bright A_BarrelDestroy
+			TNT1 A 5 A_Respawn
+			Wait
+	}
+}

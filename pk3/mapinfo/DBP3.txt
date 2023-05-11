@@ -1,0 +1,104 @@
+map DBP301 "Rocky Start"
+	{
+	next = "DBP302"
+	enterpic = "FSWINT"
+	exitpic = "FSWINT"
+	intermusic = "D_MOMINT"
+	music = "D_FSW01"
+	titlepatch = "FSWLV00"
+	sky1 = "DBP30276"
+	nojump
+	nocrouch
+	}
+	
+map DBP302 "Canyon Crawl"
+	{
+	next = "DBP303"
+	enterpic = "FSWINT"
+	exitpic = "FSWINT"
+	intermusic = "D_MOMINT"
+	music = "D_FSW02"
+	titlepatch = "FSWLV01"
+	sky1 = "DBP30276"
+	nojump
+	nocrouch
+	}
+	
+map DBP303 "Guerilla Skeletons"
+	{
+	next = "DBP304"
+	enterpic = "FSWINT"
+	exitpic = "FSWINT"
+	intermusic = "D_MOMINT"
+	music = "D_FSW03"
+	titlepatch = "FSWLV02"
+	sky1 = "DBP30276"
+	nojump
+	nocrouch
+	}
+	
+map DBP304 "Forest Fort"
+	{
+	next = "DBP305"
+	enterpic = "FSWINT"
+	exitpic = "FSWINT"
+	intermusic = "D_MOMINT"
+	music = "D_FSW04"
+	titlepatch = "FSWLV03"
+	sky1 = "DBP30276"
+	nojump
+	nocrouch
+	}
+	
+map DBP305 "The Valley"
+	{
+	next = "DBP306"
+	enterpic = "FSWINT"
+	exitpic = "FSWINT"
+	intermusic = "D_MOMINT"
+	music = "D_FSW05"
+	titlepatch = "FSWLV04"
+	sky1 = "DBP30276"
+	nojump
+	nocrouch
+	}
+	
+map DBP306 "Crisis Center"
+	{
+	next = "DBP307"
+	enterpic = "FSWINT"
+	exitpic = "FSWINT"
+	intermusic = "D_MOMINT"
+	music = "D_FSW06"
+	titlepatch = "FSWLV05"
+	sky1 = "DBP30276"
+	nojump
+	nocrouch
+	}
+	
+map DBP307 "It Doesn't Have A Name"
+	{
+	next = "DBP308"
+	enterpic = "FSWINT"
+	exitpic = "FSWINT"
+	intermusic = "D_MOMINT"
+	music = "D_FSW07"
+	titlepatch = "FSWLV06"
+	sky1 = "DBP30276"
+	nojump
+	nocrouch
+	}
+	
+map DBP308 "The Chapel"
+	{
+	next = "VR"
+	enterpic = "FSWINT"
+	exitpic = "FSWINT"
+	intermusic = "D_MOMINT"
+	music = "D_FSW08"
+	titlepatch = "FSWLV07"
+	sky1 = "DBP30276"
+	nojump
+	nocrouch
+    SuckTime = 1337
+	}
