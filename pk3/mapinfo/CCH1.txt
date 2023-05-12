@@ -6,9 +6,7 @@ map CCH101 lookup "pistol panic"
 	ExitPic = "CC1LV32"
 	EnterPic = "CC1LV32"
 	sky1 = "SKY1"
-	par = 30
 	music = "D_RUNNIN"
-	sucktime = 1
 	
 	
 	
@@ -22,9 +20,7 @@ map CCH102 lookup "nullth precinct"
 	sky1 = "SKY1"
 	ExitPic = "CC1LV32"
 	EnterPic = "CC1LV32"
-	par = 90
 	music = "D_STALKS"
-	sucktime = 1
 	
 	
 	
@@ -38,9 +34,7 @@ map CCH103 lookup "ground floor"
 	ExitPic = "CC1LV32"
 	EnterPic = "CC1LV32"
 	sky1 = "SKY1"
-	par = 120
 	music = "D_COUNTD"
-	sucktime = 1
 	
 	
 	
@@ -54,9 +48,7 @@ map CCH104 lookup "outer base"
 	ExitPic = "CC1LV32"
 	EnterPic = "CC1LV32"
 	sky1 = "SKY1"
-	par = 120
 	music = "D_BETWEE"
-	sucktime = 1
 	
 	
 }
@@ -69,9 +61,7 @@ map CCH105 lookup "the forgotten prison"
 	ExitPic = "CC1LV32"
 	EnterPic = "CC1LV32"
 	sky1 = "SKY1"
-	par = 90
 	music = "D_DOOM"
-	sucktime = 1
 	
 	
 	
@@ -85,10 +75,7 @@ map CCH106 lookup "goin' down"
 	ExitPic = "CC1LV32"
 	EnterPic = "CC1LV32"
 	sky1 = "SKY1"
-	par = 150
-	sucktime = 1
 	music = "D_THE_DA"
-	sucktime = 1
 	
 	
 	
@@ -102,10 +89,8 @@ map CCH107 lookup "the boardwalk"
 	ExitPic = "CC1LV32"
 	EnterPic = "CC1LV32"
 	sky1 = "SKY1"
-	par = 120
 	map07special
 	music = "D_SHAWN"
-	sucktime = 1
 	
 	
 }
@@ -118,9 +103,7 @@ map CCH108 lookup "battery"
 	ExitPic = "CC1LV32"
 	EnterPic = "CC1LV32"
 	sky1 = "SKY1"
-	par = 120
 	music = "D_DDTBLU"
-	sucktime = 1
 	
 	
 }
@@ -133,9 +116,7 @@ map CCH109 lookup "flow"
 	ExitPic = "CC1LV32"
 	EnterPic = "CC1LV32"
 	sky1 = "SKY1"
-	par = 270
 	music = "D_IN_CIT"
-	sucktime = 1
 	
 	
 	
@@ -149,9 +130,7 @@ map CCH110 lookup "termination center"
 	ExitPic = "CC1LV32"
 	EnterPic = "CC1LV32"
 	sky1 = "SKY1"
-	par = 90
 	music = "D_DEAD"
-	sucktime = 1
 	
 	
 	
@@ -165,9 +144,7 @@ map CCH111 lookup "mandrel"
 	ExitPic = "CC1LV32"
 	EnterPic = "CC1LV32"
 	sky1 = "SKY1"
-	par = 210
 	music = "D_STLKS2"
-	sucktime = 1
 	
 	
 	
@@ -181,9 +158,7 @@ map CCH112 lookup "no tomorrow"
 	ExitPic = "CC1LV32"
 	EnterPic = "CC1LV32"
 	sky1 = "SKY2"
-	par = 150
 	music = "D_THEDA2"
-	sucktime = 1
 	
 	
 }
@@ -196,9 +171,7 @@ map CCH113 lookup "another dead hero"
 	ExitPic = "CC1LV32"
 	EnterPic = "CC1LV32"
 	sky1 = "SKY2"
-	par = 150
 	music = "D_DOOM2"
-	sucktime = 1
 	
 	
 }
@@ -211,9 +184,7 @@ map CCH114 lookup "substation"
 	ExitPic = "CC1LV32"
 	EnterPic = "CC1LV32"
 	sky1 = "SKY2"
-	par = 150
 	music = "D_DDTBL2"
-	sucktime = 1
 	
 	
 }
@@ -226,9 +197,7 @@ map CCH115 lookup "internal reaches"
 	ExitPic = "CC1LV32"
 	EnterPic = "CC1LV32"
 	sky1 = "SKY2"
-	par = 210
 	music = "D_RUNNI2"
-	sucktime = 1
 	
 	
 	
@@ -242,9 +211,7 @@ map CCH116 lookup "methods of fear"
 	ExitPic = "CC1LV32"
 	EnterPic = "CC1LV32"
 	sky1 = "SKY2"
-	par = 150
 	music = "D_DEAD2"
-	sucktime = 1
 	
 	
 	
@@ -258,9 +225,7 @@ map CCH117 lookup "infliction of hate"
 	ExitPic = "CC1LV32"
 	EnterPic = "CC1LV32"
 	sky1 = "SKY2"
-	par = 420
 	music = "D_STLKS3"
-	sucktime = 1
 	
 	
 	
@@ -274,9 +239,7 @@ map CCH118 lookup "sudden death"
 	ExitPic = "CC1LV32"
 	EnterPic = "CC1LV32"
 	sky1 = "SKY2"
-	par = 150
 	music = "D_ROMERO"
-	sucktime = 1
 	
 	
 	
@@ -290,9 +253,7 @@ map CCH119 lookup "monster mansion"
 	ExitPic = "CC1LV32"
 	EnterPic = "CC1LV32"
 	sky1 = "SKY2"
-	par = 210
 	music = "D_SHAWN2"
-	sucktime = 1
 	
 	
 }
@@ -305,9 +266,7 @@ map CCH120 lookup "technodrome"
 	ExitPic = "CC1LV32"
 	EnterPic = "CC1LV32"
 	sky1 = "SKY2"
-	par = 150
 	music = "D_MESSAG"
-	sucktime = 1
 	
 	
 	
@@ -321,9 +280,7 @@ map CCH121 lookup "avenger"
 	ExitPic = "CC1LV32"
 	EnterPic = "CC1LV32"
 	sky1 = "CCH10232"
-	par = 240
-	music = "D_CC121"
-	sucktime = 1
+	music = "D_CCH121"
 	
 	
 	
@@ -337,9 +294,7 @@ map CCH122 lookup "future grave"
 	ExitPic = "CC1LV32"
 	EnterPic = "CC1LV32"
 	sky1 = "CCH10232"
-	par = 150
 	music = "D_DDTBL3"
-	sucktime = 1
 	
 	
 	
@@ -353,9 +308,7 @@ map CCH123 lookup "blood runners"
 	ExitPic = "CC1LV32"
 	EnterPic = "CC1LV32"
 	sky1 = "CCH10232"
-	par = 180
-	music = "D_CC123"
-	sucktime = 1
+	music = "D_CCH123"
 	
 	
 	
@@ -369,9 +322,7 @@ map CCH124 lookup "bring evil upon thee"
 	ExitPic = "CC1LV32"
 	EnterPic = "CC1LV32"
 	sky1 = "CCH10232"
-	par = 150
-	music = "D_CC124"
-	sucktime = 1
+	music = "D_CCH124"
 	
 	
 	
@@ -385,9 +336,7 @@ map CCH125 lookup "blood demesne"
 	ExitPic = "CC1LV32"
 	EnterPic = "CC1LV32"
 	sky1 = "CCH10232"
-	par = 150
-	music = "D_CC125"
-	sucktime = 1
+	music = "D_CCH125"
 	
 	
 	
@@ -401,9 +350,7 @@ map CCH126 lookup "breakout"
 	ExitPic = "CC1LV32"
 	EnterPic = "CC1LV32"
 	sky1 = "CCH10232"
-	par = 300
-	music = "D_CC126"
-	sucktime = 1
+	music = "D_CCH126"
 	
 	
 	
@@ -417,9 +364,7 @@ map CCH127 lookup "afterlife"
 	ExitPic = "CC1LV32"
 	EnterPic = "CC1LV32"
 	sky1 = "CCH10232"
-	par = 330
-	music = "D_CC127"
-	sucktime = 1
+	music = "D_CCH127"
 	
 	
 	
@@ -433,9 +378,7 @@ map CCH128 lookup "necrophobia"
 	ExitPic = "CC1LV32"
 	EnterPic = "CC1LV32"
 	sky1 = "CCH10232"
-	par = 420
 	music = "D_TENSE"
-	sucktime = 1
 	
 	
 	
@@ -449,9 +392,7 @@ map CCH129 lookup "citadel at the edge of eternity"
 	ExitPic = "CC1LV32"
 	EnterPic = "CC1LV32"
 	sky1 = "CCH10232"
-	par = 300
 	music = "D_SHAWN3"
-	sucktime = 1
 	
 	
 	
@@ -465,10 +406,8 @@ map CCH130 lookup "evil itself"
 	sky1 = "CCH10232"
 	ExitPic = "CC1LV33"
 	EnterPic = "CC1LV32"
-	par = 180
 	allowmonstertelefrags
 	music = "D_OPENIN"
-	sucktime = 1337
 	
 	
 	
@@ -482,9 +421,7 @@ map CCH131 lookup "mt. chaos"
 	ExitPic = "CC1LV32"
 	EnterPic = "CC1LV32"
 	sky1 = "CCH10232"
-	par = 120
 	music = "D_EVIL"
-	sucktime = 1
 	
 	
 	
@@ -498,9 +435,7 @@ map CCH132 lookup "the citadel"
 	ExitPic = "CC1LV32"
 	EnterPic = "CC1LV32"
 	sky1 = "CCH10232"
-	par = 30
 	music = "D_ULTIMA"
-	sucktime = 1
 	
 	
 	
