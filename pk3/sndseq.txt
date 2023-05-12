@@ -380,24 +380,24 @@ end
 //////////////////////////////////////////////////////////////
 // Pizza Steve
 //////////////////////////////////////////////////////////////
-[PIZDoor
+[PIZZDoor
 	0 DSDOROPN
 	1 DSDORCLS
 	2 DSBDOPN
 	3 DSBDCLS
 ]
 
-:PIZPlatform
+:PIZZPlatform
 	playuntildone plats/pt1_strt
 	stopsound plats/pt1_stop
 end
 
-:PIZFloor
+:PIZZFloor
 	playrepeat plats/pt1_mid
 	stopsound plats/pt1_stop
 end
 
-:PIZCeiling
+:PIZZCeiling
 	playrepeat plats/pt1_mid
 end
 
