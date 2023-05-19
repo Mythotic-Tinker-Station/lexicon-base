@@ -7,9 +7,8 @@ map CCH101 lookup "pistol panic"
 	EnterPic = "CC1LV32"
 	sky1 = "SKY1"
 	music = "D_RUNNIN"
-	
-	
-	
+	nocrouch
+	nojump
 }
 
 map CCH102 lookup "nullth precinct"
@@ -21,9 +20,8 @@ map CCH102 lookup "nullth precinct"
 	ExitPic = "CC1LV32"
 	EnterPic = "CC1LV32"
 	music = "D_STALKS"
-	
-	
-	
+	nocrouch
+	nojump
 }
 
 map CCH103 lookup "ground floor"
@@ -35,9 +33,8 @@ map CCH103 lookup "ground floor"
 	EnterPic = "CC1LV32"
 	sky1 = "SKY1"
 	music = "D_COUNTD"
-	
-	
-	
+	nocrouch
+	nojump
 }
 
 map CCH104 lookup "outer base"
@@ -49,8 +46,8 @@ map CCH104 lookup "outer base"
 	EnterPic = "CC1LV32"
 	sky1 = "SKY1"
 	music = "D_BETWEE"
-	
-	
+	nocrouch
+	nojump
 }
 
 map CCH105 lookup "the forgotten prison"
@@ -62,9 +59,8 @@ map CCH105 lookup "the forgotten prison"
 	EnterPic = "CC1LV32"
 	sky1 = "SKY1"
 	music = "D_DOOM"
-	
-	
-	
+	nocrouch
+	nojump
 }
 
 map CCH106 lookup "goin' down"
@@ -76,9 +72,8 @@ map CCH106 lookup "goin' down"
 	EnterPic = "CC1LV32"
 	sky1 = "SKY1"
 	music = "D_THE_DA"
-	
-	
-	
+	nocrouch
+	nojump
 }
 
 map CCH107 lookup "the boardwalk"
@@ -89,10 +84,10 @@ map CCH107 lookup "the boardwalk"
 	ExitPic = "CC1LV32"
 	EnterPic = "CC1LV32"
 	sky1 = "SKY1"
-	map07special
 	music = "D_SHAWN"
-	
-	
+	map07special
+	nocrouch
+	nojump
 }
 
 map CCH108 lookup "battery"
@@ -104,8 +99,8 @@ map CCH108 lookup "battery"
 	EnterPic = "CC1LV32"
 	sky1 = "SKY1"
 	music = "D_DDTBLU"
-	
-	
+	nocrouch
+	nojump
 }
 
 map CCH109 lookup "flow"
@@ -117,9 +112,8 @@ map CCH109 lookup "flow"
 	EnterPic = "CC1LV32"
 	sky1 = "SKY1"
 	music = "D_IN_CIT"
-	
-	
-	
+	nocrouch
+	nojump
 }
 
 map CCH110 lookup "termination center"
@@ -131,9 +125,8 @@ map CCH110 lookup "termination center"
 	EnterPic = "CC1LV32"
 	sky1 = "SKY1"
 	music = "D_DEAD"
-	
-	
-	
+	nocrouch
+	nojump
 }
 
 map CCH111 lookup "mandrel"
@@ -145,9 +138,8 @@ map CCH111 lookup "mandrel"
 	EnterPic = "CC1LV32"
 	sky1 = "SKY1"
 	music = "D_STLKS2"
-	
-	
-	
+	nocrouch
+	nojump
 }
 
 map CCH112 lookup "no tomorrow"
@@ -159,8 +151,8 @@ map CCH112 lookup "no tomorrow"
 	EnterPic = "CC1LV32"
 	sky1 = "SKY2"
 	music = "D_THEDA2"
-	
-	
+	nocrouch
+	nojump
 }
 
 map CCH113 lookup "another dead hero"
@@ -172,8 +164,8 @@ map CCH113 lookup "another dead hero"
 	EnterPic = "CC1LV32"
 	sky1 = "SKY2"
 	music = "D_DOOM2"
-	
-	
+	nocrouch
+	nojump
 }
 
 map CCH114 lookup "substation"
@@ -185,8 +177,8 @@ map CCH114 lookup "substation"
 	EnterPic = "CC1LV32"
 	sky1 = "SKY2"
 	music = "D_DDTBL2"
-	
-	
+	nocrouch
+	nojump
 }
 
 map CCH115 lookup "internal reaches"
@@ -198,9 +190,8 @@ map CCH115 lookup "internal reaches"
 	EnterPic = "CC1LV32"
 	sky1 = "SKY2"
 	music = "D_RUNNI2"
-	
-	
-	
+	nocrouch
+	nojump
 }
 
 map CCH116 lookup "methods of fear"
@@ -212,9 +203,8 @@ map CCH116 lookup "methods of fear"
 	EnterPic = "CC1LV32"
 	sky1 = "SKY2"
 	music = "D_DEAD2"
-	
-	
-	
+	nocrouch
+	nojump
 }
 
 map CCH117 lookup "infliction of hate"
@@ -226,9 +216,8 @@ map CCH117 lookup "infliction of hate"
 	EnterPic = "CC1LV32"
 	sky1 = "SKY2"
 	music = "D_STLKS3"
-	
-	
-	
+	nocrouch
+	nojump
 }
 
 map CCH118 lookup "sudden death"
@@ -240,9 +229,8 @@ map CCH118 lookup "sudden death"
 	EnterPic = "CC1LV32"
 	sky1 = "SKY2"
 	music = "D_ROMERO"
-	
-	
-	
+	nocrouch
+	nojump
 }
 
 map CCH119 lookup "monster mansion"
@@ -254,8 +242,8 @@ map CCH119 lookup "monster mansion"
 	EnterPic = "CC1LV32"
 	sky1 = "SKY2"
 	music = "D_SHAWN2"
-	
-	
+	nocrouch
+	nojump
 }
 
 map CCH120 lookup "technodrome"
@@ -267,9 +255,8 @@ map CCH120 lookup "technodrome"
 	EnterPic = "CC1LV32"
 	sky1 = "SKY2"
 	music = "D_MESSAG"
-	
-	
-	
+	nocrouch
+	nojump
 }
 
 map CCH121 lookup "avenger"
@@ -281,9 +268,8 @@ map CCH121 lookup "avenger"
 	EnterPic = "CC1LV32"
 	sky1 = "CCH10232"
 	music = "D_CCH121"
-	
-	
-	
+	nocrouch
+	nojump
 }
 
 map CCH122 lookup "future grave"
@@ -295,9 +281,8 @@ map CCH122 lookup "future grave"
 	EnterPic = "CC1LV32"
 	sky1 = "CCH10232"
 	music = "D_DDTBL3"
-	
-	
-	
+	nocrouch
+	nojump
 }
 
 map CCH123 lookup "blood runners"
@@ -309,9 +294,8 @@ map CCH123 lookup "blood runners"
 	EnterPic = "CC1LV32"
 	sky1 = "CCH10232"
 	music = "D_CCH123"
-	
-	
-	
+	nocrouch
+	nojump
 }
 
 map CCH124 lookup "bring evil upon thee"
@@ -323,9 +307,8 @@ map CCH124 lookup "bring evil upon thee"
 	EnterPic = "CC1LV32"
 	sky1 = "CCH10232"
 	music = "D_CCH124"
-	
-	
-	
+	nocrouch
+	nojump
 }
 
 map CCH125 lookup "blood demesne"
@@ -337,9 +320,8 @@ map CCH125 lookup "blood demesne"
 	EnterPic = "CC1LV32"
 	sky1 = "CCH10232"
 	music = "D_CCH125"
-	
-	
-	
+	nocrouch
+	nojump
 }
 
 map CCH126 lookup "breakout"
@@ -351,9 +333,8 @@ map CCH126 lookup "breakout"
 	EnterPic = "CC1LV32"
 	sky1 = "CCH10232"
 	music = "D_CCH126"
-	
-	
-	
+	nocrouch
+	nojump
 }
 
 map CCH127 lookup "afterlife"
@@ -365,9 +346,8 @@ map CCH127 lookup "afterlife"
 	EnterPic = "CC1LV32"
 	sky1 = "CCH10232"
 	music = "D_CCH127"
-	
-	
-	
+	nocrouch
+	nojump
 }
 
 map CCH128 lookup "necrophobia"
@@ -379,9 +359,8 @@ map CCH128 lookup "necrophobia"
 	EnterPic = "CC1LV32"
 	sky1 = "CCH10232"
 	music = "D_TENSE"
-	
-	
-	
+	nocrouch
+	nojump
 }
 
 map CCH129 lookup "citadel at the edge of eternity"
@@ -393,9 +372,8 @@ map CCH129 lookup "citadel at the edge of eternity"
 	EnterPic = "CC1LV32"
 	sky1 = "CCH10232"
 	music = "D_SHAWN3"
-	
-	
-	
+	nocrouch
+	nojump
 }
 
 map CCH130 lookup "evil itself"
@@ -408,9 +386,8 @@ map CCH130 lookup "evil itself"
 	EnterPic = "CC1LV32"
 	allowmonstertelefrags
 	music = "D_OPENIN"
-	
-	
-	
+	nocrouch
+	nojump
 }
 
 map CCH131 lookup "mt. chaos"
@@ -422,9 +399,8 @@ map CCH131 lookup "mt. chaos"
 	EnterPic = "CC1LV32"
 	sky1 = "CCH10232"
 	music = "D_EVIL"
-	
-	
-	
+	nocrouch
+	nojump
 }
 
 map CCH132 lookup "the citadel"
@@ -436,7 +412,6 @@ map CCH132 lookup "the citadel"
 	EnterPic = "CC1LV32"
 	sky1 = "CCH10232"
 	music = "D_ULTIMA"
-	
-	
-	
+	nocrouch
+	nojump
 }
