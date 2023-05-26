@@ -1,0 +1,48 @@
+Patch File for DeHackEd v3.0
+# Created with WhackEd2 0.60 build 212
+
+# General version information
+Doom version = 21
+Patch format = 6
+
+# Info for WhackEd2
+Engine config = boom.cfg
+IWAD = c:\games\doom\doom2.wad
+
+
+
+
+[STRINGS]
+HUSTR_1 = level 1: The Furnace
+HUSTR_2 = level 2: Coolant Platform
+HUSTR_3 = level 3: Slige Control
+HUSTR_4 = level 4: Deja Vu
+HUSTR_5 = level 5: Elixir
+HUSTR_6 = level 6: The View
+HUSTR_7 = level 7: To Hell and Back
+HUSTR_8 = level 8: The Pit
+HUSTR_9 = level 9: The Transformer
+HUSTR_10 = level 10: Intermission
+HUSTR_11 = level 11: Beyond Pain
+HUSTR_12 = level 12: Redemption
+HUSTR_13 = level 13: Annihilation Invention
+HUSTR_14 = level 14: Shadow of Evil
+HUSTR_15 = level 15: City Heat
+HUSTR_16 = level 16: Spirit World - Headquarters
+HUSTR_17 = level 17: Through the Black
+HUSTR_18 = level 18: Internal Reaches
+HUSTR_19 = level 19: The Marbelous Three
+HUSTR_20 = level 20: Enigma
+HUSTR_21 = level 21: Undead Nation
+HUSTR_22 = level 22: Thematic Elements
+HUSTR_23 = level 23: Death Mountain
+HUSTR_24 = level 24: The Mucus Flow
+HUSTR_25 = level 25: Desecration
+HUSTR_26 = level 26: Geist Halls
+HUSTR_27 = level 27: Gethsemane
+HUSTR_28 = level 28: No Room
+HUSTR_29 = level 29: Event Horizon
+HUSTR_30 = level 30: In Threes
+HUSTR_31 = level 31: Idee Fixe
+HUSTR_32 = level 32: Sodding Death
+

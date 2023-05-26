@@ -1,0 +1,417 @@
+map CCH201 lookup "level 1: The Furnace"
+{
+	titlepatch = "CC2LV00"
+	next = "CCH202"
+	secretnext = "CCH202"
+	ExitPic = "INTERPIC"
+	EnterPic = "INTERPIC"
+	sky1 = "SKY1"
+	music = "D_CCH201"
+	nocrouch
+	nojump
+}
+
+map CCH202 lookup "level 2: Coolant Platform"
+{
+	titlepatch = "CC2LV01"
+	next = "CCH203"
+	secretnext = "CCH203"
+	sky1 = "SKY1"
+	ExitPic = "INTERPIC"
+	EnterPic = "INTERPIC"
+	music = "D_STALKS"
+	nocrouch
+	nojump
+}
+
+map CCH203 lookup "level 3: Slige Control"
+{
+	titlepatch = "CC2LV02"
+	next = "CCH204"
+	secretnext = "CCH204"
+	ExitPic = "INTERPIC"
+	EnterPic = "INTERPIC"
+	sky1 = "SKY1"
+	music = "D_COUNTD"
+	nocrouch
+	nojump
+}
+
+map CCH204 lookup "level 4: Deja Vu"
+{
+	titlepatch = "CC2LV03"
+	next = "CCH205"
+	secretnext = "CCH205"
+	ExitPic = "INTERPIC"
+	EnterPic = "INTERPIC"
+	sky1 = "SKY1"
+	music = "D_BETWEE"
+	nocrouch
+	nojump
+}
+
+map CCH205 lookup "level 5: Elixir"
+{
+	titlepatch = "CC2LV04"
+	next = "CCH206"
+	secretnext = "CCH206"
+	ExitPic = "INTERPIC"
+	EnterPic = "INTERPIC"
+	sky1 = "SKY1"
+	music = "D_DOOM"
+	nocrouch
+	nojump
+}
+
+map CCH206 lookup "level 6: The View"
+{
+	titlepatch = "CC2LV05"
+	next = "CCH207"
+	secretnext = "CCH207"
+	ExitPic = "INTERPIC"
+	EnterPic = "INTERPIC"
+	sky1 = "SKY1"
+	music = "D_CCH206"
+	nocrouch
+	nojump
+}
+
+map CCH207 lookup "level 7: To Hell and Back"
+{
+	titlepatch = "CC2LV06"
+	next = "CCH208"
+	secretnext = "CCH208"
+	ExitPic = "INTERPIC"
+	EnterPic = "INTERPIC"
+	sky1 = "SKY1"
+	music = "D_SHAWN"
+	map07special
+	nocrouch
+	nojump
+}
+
+map CCH208 lookup "level 8: The Pit"
+{
+	titlepatch = "CC2LV07"
+	next = "CCH209"
+	secretnext = "CCH209"
+	ExitPic = "INTERPIC"
+	EnterPic = "INTERPIC"
+	sky1 = "SKY1"
+	music = "D_DDTBLU"
+	nocrouch
+	nojump
+}
+
+map CCH209 lookup "level 9: The Transformer"
+{
+	titlepatch = "CC2LV08"
+	next = "CCH210"
+	secretnext = "CCH210"
+	ExitPic = "INTERPIC"
+	EnterPic = "INTERPIC"
+	sky1 = "SKY1"
+	music = "D_IN_CIT"
+	nocrouch
+	nojump
+}
+
+map CCH210 lookup "level 10: Intermission"
+{
+	titlepatch = "CC2LV09"
+	next = "CCH211"
+	secretnext = "CCH211"
+	ExitPic = "INTERPIC"
+	EnterPic = "INTERPIC"
+	sky1 = "SKY1"
+	music = "D_DEAD"
+	nocrouch
+	nojump
+}
+
+map CCH211 lookup "level 11: Beyond Pain"
+{
+	titlepatch = "CC2LV10"
+	next = "CCH212"
+	secretnext = "CCH212"
+	ExitPic = "INTERPIC"
+	EnterPic = "INTERPIC"
+	sky1 = "SKY1"
+	music = "D_STLKS2"
+	nocrouch
+	nojump
+}
+
+map CCH212 lookup "level 12: Redemption"
+{
+	titlepatch = "CC2LV11"
+	next = "CCH213"
+	secretnext = "CCH213"
+	ExitPic = "INTERPIC"
+	EnterPic = "INTERPIC"
+	sky1 = "SKY2"
+	music = "D_THEDA2"
+	nocrouch
+	nojump
+}
+
+map CCH213 lookup "level 13: Annihilation Invention"
+{
+	titlepatch = "CC2LV12"
+	next = "CCH214"
+	secretnext = "CCH214"
+	ExitPic = "INTERPIC"
+	EnterPic = "INTERPIC"
+	sky1 = "SKY2"
+	music = "D_DOOM2"
+	nocrouch
+	nojump
+}
+
+map CCH214 lookup "level 14: Shadow of Evil"
+{
+	titlepatch = "CC2LV13"
+	next = "CCH215"
+	secretnext = "CCH215"
+	ExitPic = "INTERPIC"
+	EnterPic = "INTERPIC"
+	sky1 = "SKY2"
+	music = "D_CCH214"
+	nocrouch
+	nojump
+}
+
+map CCH215 lookup "level 15: City Heat"
+{
+	titlepatch = "CC2LV14"
+	next = "CCH216"
+	secretnext = "CCH231"
+	ExitPic = "INTERPIC"
+	EnterPic = "INTERPIC"
+	sky1 = "SKY2"
+	music = "D_CCH215"
+	nocrouch
+	nojump
+}
+
+map CCH216 lookup "level 16: Spirit World - Headquarters"
+{
+	titlepatch = "CC2LV15"
+	next = "CCH217"
+	secretnext = "CCH217"
+	ExitPic = "INTERPIC"
+	EnterPic = "INTERPIC"
+	sky1 = "SKY2"
+	music = "D_DEAD2"
+	nocrouch
+	nojump
+}
+
+map CCH217 lookup "level 17: Through the Black"
+{
+	titlepatch = "CC2LV16"
+	next = "CCH218"
+	secretnext = "CCH218"
+	ExitPic = "INTERPIC"
+	EnterPic = "INTERPIC"
+	sky1 = "SKY2"
+	music = "D_CCH217"
+	nocrouch
+	nojump
+}
+
+map CCH218 lookup "level 18: Internal Reaches"
+{
+	titlepatch = "CC2LV17"
+	next = "CCH219"
+	secretnext = "CCH219"
+	ExitPic = "INTERPIC"
+	EnterPic = "INTERPIC"
+	sky1 = "SKY2"
+	music = "D_CCH218"
+	nocrouch
+	nojump
+}
+
+map CCH219 lookup "level 19: The Marbelous Three"
+{
+	titlepatch = "CC2LV18"
+	next = "CCH220"
+	secretnext = "CCH220"
+	ExitPic = "INTERPIC"
+	EnterPic = "INTERPIC"
+	sky1 = "SKY2"
+	music = "D_SHAWN2"
+	nocrouch
+	nojump
+}
+
+map CCH220 lookup "level 20: Enigma"
+{
+	titlepatch = "CC2LV19"
+	next = "CCH221"
+	secretnext = "CCH221"
+	ExitPic = "INTERPIC"
+	EnterPic = "INTERPIC"
+	sky1 = "SKY2"
+	music = "D_CCH220"
+	nocrouch
+	nojump
+}
+
+map CCH221 lookup "level 21: Undead Nation"
+{
+	titlepatch = "CC2LV20"
+	next = "CCH222"
+	secretnext = "CCH222"
+	ExitPic = "INTERPIC"
+	EnterPic = "INTERPIC"
+	sky1 = "SKY3"
+	music = "D_CCH221"
+	nocrouch
+	nojump
+}
+
+map CCH222 lookup "level 22: Thematic Elements"
+{
+	titlepatch = "CC2LV21"
+	next = "CCH223"
+	secretnext = "CCH223"
+	ExitPic = "INTERPIC"
+	EnterPic = "INTERPIC"
+	sky1 = "SKY3"
+	music = "D_CCH222"
+	nocrouch
+	nojump
+}
+
+map CCH223 lookup "level 23: Death Mountain"
+{
+	titlepatch = "CC2LV22"
+	next = "CCH224"
+	secretnext = "CCH224"
+	ExitPic = "INTERPIC"
+	EnterPic = "INTERPIC"
+	sky1 = "SKY3"
+	music = "D_CCH223"
+	nocrouch
+	nojump
+}
+
+map CCH224 lookup "level 24: The Mucus Flow"
+{
+	titlepatch = "CC2LV23"
+	next = "CCH225"
+	secretnext = "CCH225"
+	ExitPic = "INTERPIC"
+	EnterPic = "INTERPIC"
+	sky1 = "SKY3"
+	music = "D_CCH224"
+	nocrouch
+	nojump
+}
+
+map CCH225 lookup "level 25: Desecration"
+{
+	titlepatch = "CC2LV24"
+	next = "CCH226"
+	secretnext = "CCH226"
+	ExitPic = "INTERPIC"
+	EnterPic = "INTERPIC"
+	sky1 = "SKY3"
+	music = "D_ADRIAN"
+	nocrouch
+	nojump
+}
+
+map CCH226 lookup "level 26: Geist Halls"
+{
+	titlepatch = "CC2LV25"
+	next = "CCH227"
+	secretnext = "CCH227"
+	ExitPic = "INTERPIC"
+	EnterPic = "INTERPIC"
+	sky1 = "SKY3"
+	music = "D_CCH226"
+	nocrouch
+	nojump
+}
+
+map CCH227 lookup "level 27: Gethsemane"
+{
+	titlepatch = "CC2LV26"
+	next = "CCH228"
+	secretnext = "CCH228"
+	ExitPic = "INTERPIC"
+	EnterPic = "INTERPIC"
+	sky1 = "SKY3"
+	music = "D_CCH227"
+	nocrouch
+	nojump
+}
+
+map CCH228 lookup "level 28: No Room"
+{
+	titlepatch = "CC2LV27"
+	next = "CCH229"
+	secretnext = "CCH229"
+	ExitPic = "INTERPIC"
+	EnterPic = "INTERPIC"
+	sky1 = "SKY3"
+	music = "D_CCH228"
+	nocrouch
+	nojump
+}
+
+map CCH229 lookup "level 29: Event Horizon"
+{
+	titlepatch = "CC2LV28"
+	next = "CCH230"
+	secretnext = "CCH230"
+	ExitPic = "INTERPIC"
+	EnterPic = "INTERPIC"
+	sky1 = "SKY3"
+	music = "D_SHAWN3"
+	nocrouch
+	nojump
+}
+
+map CCH230 lookup "level 30: In Threes"
+{
+	titlepatch = "CC2LV29"
+	next = "VR"
+	secretnext = "VR"
+	sky1 = "SKY3"
+	ExitPic = "INTERPIC"
+	EnterPic = "INTERPIC"
+	allowmonstertelefrags
+	music = "D_CCH230"
+	nocrouch
+	nojump
+}
+
+map CCH231 lookup "level 31: Idee Fixe"
+{
+	titlepatch = "CC2LV30"
+	next = "CCH216"
+	secretnext = "CCH232"
+	ExitPic = "INTERPIC"
+	EnterPic = "INTERPIC"
+	sky1 = "SKY3"
+	music = "D_CCH231"
+	nocrouch
+	nojump
+}
+
+map CCH232 lookup "level 32: Sodding Death"
+{
+	titlepatch = "CC2LV31"
+	next = "CCH216"
+	secretnext = "CCH216"
+	ExitPic = "INTERPIC"
+	EnterPic = "INTERPIC"
+	sky1 = "SKY3"
+	music = "D_CCH232"
+	nocrouch
+	nojump
+}
