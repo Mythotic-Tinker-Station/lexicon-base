@@ -1,4 +1,4 @@
-Actor DH_WolfensteinSS : WolfensteinSS replaces WolfensteinSS 84
+Actor GoingDownWolfensteinSS : WolfensteinSS
 {
 	Health 12000
 	Speed 16
@@ -57,7 +57,7 @@ Actor DH_WolfensteinSS : WolfensteinSS replaces WolfensteinSS 84
 	}
 }
 
-Actor DH_CommanderKeen : CommanderKeen replaces CommanderKeen 72
+Actor GoingDownCommanderKeen : CommanderKeen
 {
 	-SOLID
 	States
@@ -65,7 +65,7 @@ Actor DH_CommanderKeen : CommanderKeen replaces CommanderKeen 72
 	}
 }
 
-Actor DH_ShortBlueTorch : ShortBlueTorch replaces ShortBlueTorch 55
+Actor GoingDownShortBlueTorch : ShortBlueTorch
 {
 	Health 10
 	-SOLID
