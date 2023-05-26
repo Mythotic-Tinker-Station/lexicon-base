@@ -1,4 +1,4 @@
-map CCH201 lookup "level 1: The Furnace"
+map CCH201 lookup "The Furnace"
 {
 	titlepatch = "CC2LV00"
 	next = "CCH202"
@@ -11,7 +11,7 @@ map CCH201 lookup "level 1: The Furnace"
 	nojump
 }
 
-map CCH202 lookup "level 2: Coolant Platform"
+map CCH202 lookup "Coolant Platform"
 {
 	titlepatch = "CC2LV01"
 	next = "CCH203"
@@ -24,7 +24,7 @@ map CCH202 lookup "level 2: Coolant Platform"
 	nojump
 }
 
-map CCH203 lookup "level 3: Slige Control"
+map CCH203 lookup "Slige Control"
 {
 	titlepatch = "CC2LV02"
 	next = "CCH204"
@@ -37,7 +37,7 @@ map CCH203 lookup "level 3: Slige Control"
 	nojump
 }
 
-map CCH204 lookup "level 4: Deja Vu"
+map CCH204 lookup "Deja Vu"
 {
 	titlepatch = "CC2LV03"
 	next = "CCH205"
@@ -50,7 +50,7 @@ map CCH204 lookup "level 4: Deja Vu"
 	nojump
 }
 
-map CCH205 lookup "level 5: Elixir"
+map CCH205 lookup "Elixir"
 {
 	titlepatch = "CC2LV04"
 	next = "CCH206"
@@ -63,7 +63,7 @@ map CCH205 lookup "level 5: Elixir"
 	nojump
 }
 
-map CCH206 lookup "level 6: The View"
+map CCH206 lookup "The View"
 {
 	titlepatch = "CC2LV05"
 	next = "CCH207"
@@ -76,7 +76,7 @@ map CCH206 lookup "level 6: The View"
 	nojump
 }
 
-map CCH207 lookup "level 7: To Hell and Back"
+map CCH207 lookup "To Hell and Back"
 {
 	titlepatch = "CC2LV06"
 	next = "CCH208"
@@ -90,7 +90,7 @@ map CCH207 lookup "level 7: To Hell and Back"
 	nojump
 }
 
-map CCH208 lookup "level 8: The Pit"
+map CCH208 lookup "The Pit"
 {
 	titlepatch = "CC2LV07"
 	next = "CCH209"
@@ -103,7 +103,7 @@ map CCH208 lookup "level 8: The Pit"
 	nojump
 }
 
-map CCH209 lookup "level 9: The Transformer"
+map CCH209 lookup "The Transformer"
 {
 	titlepatch = "CC2LV08"
 	next = "CCH210"
@@ -116,7 +116,7 @@ map CCH209 lookup "level 9: The Transformer"
 	nojump
 }
 
-map CCH210 lookup "level 10: Intermission"
+map CCH210 lookup "Intermission"
 {
 	titlepatch = "CC2LV09"
 	next = "CCH211"
@@ -129,7 +129,7 @@ map CCH210 lookup "level 10: Intermission"
 	nojump
 }
 
-map CCH211 lookup "level 11: Beyond Pain"
+map CCH211 lookup "Beyond Pain"
 {
 	titlepatch = "CC2LV10"
 	next = "CCH212"
@@ -142,7 +142,7 @@ map CCH211 lookup "level 11: Beyond Pain"
 	nojump
 }
 
-map CCH212 lookup "level 12: Redemption"
+map CCH212 lookup "Redemption"
 {
 	titlepatch = "CC2LV11"
 	next = "CCH213"
@@ -155,7 +155,7 @@ map CCH212 lookup "level 12: Redemption"
 	nojump
 }
 
-map CCH213 lookup "level 13: Annihilation Invention"
+map CCH213 lookup "Annihilation Invention"
 {
 	titlepatch = "CC2LV12"
 	next = "CCH214"
@@ -168,7 +168,7 @@ map CCH213 lookup "level 13: Annihilation Invention"
 	nojump
 }
 
-map CCH214 lookup "level 14: Shadow of Evil"
+map CCH214 lookup "Shadow of Evil"
 {
 	titlepatch = "CC2LV13"
 	next = "CCH215"
@@ -181,7 +181,7 @@ map CCH214 lookup "level 14: Shadow of Evil"
 	nojump
 }
 
-map CCH215 lookup "level 15: City Heat"
+map CCH215 lookup "City Heat"
 {
 	titlepatch = "CC2LV14"
 	next = "CCH216"
@@ -194,7 +194,7 @@ map CCH215 lookup "level 15: City Heat"
 	nojump
 }
 
-map CCH216 lookup "level 16: Spirit World - Headquarters"
+map CCH216 lookup "Spirit World - Headquarters"
 {
 	titlepatch = "CC2LV15"
 	next = "CCH217"
@@ -207,7 +207,7 @@ map CCH216 lookup "level 16: Spirit World - Headquarters"
 	nojump
 }
 
-map CCH217 lookup "level 17: Through the Black"
+map CCH217 lookup "Through the Black"
 {
 	titlepatch = "CC2LV16"
 	next = "CCH218"
@@ -220,7 +220,7 @@ map CCH217 lookup "level 17: Through the Black"
 	nojump
 }
 
-map CCH218 lookup "level 18: Internal Reaches"
+map CCH218 lookup "Internal Reaches"
 {
 	titlepatch = "CC2LV17"
 	next = "CCH219"
@@ -233,7 +233,7 @@ map CCH218 lookup "level 18: Internal Reaches"
 	nojump
 }
 
-map CCH219 lookup "level 19: The Marbelous Three"
+map CCH219 lookup "The Marbelous Three"
 {
 	titlepatch = "CC2LV18"
 	next = "CCH220"
@@ -246,7 +246,7 @@ map CCH219 lookup "level 19: The Marbelous Three"
 	nojump
 }
 
-map CCH220 lookup "level 20: Enigma"
+map CCH220 lookup "Enigma"
 {
 	titlepatch = "CC2LV19"
 	next = "CCH221"
@@ -259,7 +259,7 @@ map CCH220 lookup "level 20: Enigma"
 	nojump
 }
 
-map CCH221 lookup "level 21: Undead Nation"
+map CCH221 lookup "Undead Nation"
 {
 	titlepatch = "CC2LV20"
 	next = "CCH222"
@@ -272,7 +272,7 @@ map CCH221 lookup "level 21: Undead Nation"
 	nojump
 }
 
-map CCH222 lookup "level 22: Thematic Elements"
+map CCH222 lookup "Thematic Elements"
 {
 	titlepatch = "CC2LV21"
 	next = "CCH223"
@@ -285,7 +285,7 @@ map CCH222 lookup "level 22: Thematic Elements"
 	nojump
 }
 
-map CCH223 lookup "level 23: Death Mountain"
+map CCH223 lookup "Death Mountain"
 {
 	titlepatch = "CC2LV22"
 	next = "CCH224"
@@ -298,7 +298,7 @@ map CCH223 lookup "level 23: Death Mountain"
 	nojump
 }
 
-map CCH224 lookup "level 24: The Mucus Flow"
+map CCH224 lookup "The Mucus Flow"
 {
 	titlepatch = "CC2LV23"
 	next = "CCH225"
@@ -311,7 +311,7 @@ map CCH224 lookup "level 24: The Mucus Flow"
 	nojump
 }
 
-map CCH225 lookup "level 25: Desecration"
+map CCH225 lookup "Desecration"
 {
 	titlepatch = "CC2LV24"
 	next = "CCH226"
@@ -324,7 +324,7 @@ map CCH225 lookup "level 25: Desecration"
 	nojump
 }
 
-map CCH226 lookup "level 26: Geist Halls"
+map CCH226 lookup "Geist Halls"
 {
 	titlepatch = "CC2LV25"
 	next = "CCH227"
@@ -337,7 +337,7 @@ map CCH226 lookup "level 26: Geist Halls"
 	nojump
 }
 
-map CCH227 lookup "level 27: Gethsemane"
+map CCH227 lookup "Gethsemane"
 {
 	titlepatch = "CC2LV26"
 	next = "CCH228"
@@ -350,7 +350,7 @@ map CCH227 lookup "level 27: Gethsemane"
 	nojump
 }
 
-map CCH228 lookup "level 28: No Room"
+map CCH228 lookup "No Room"
 {
 	titlepatch = "CC2LV27"
 	next = "CCH229"
@@ -363,7 +363,7 @@ map CCH228 lookup "level 28: No Room"
 	nojump
 }
 
-map CCH229 lookup "level 29: Event Horizon"
+map CCH229 lookup "Event Horizon"
 {
 	titlepatch = "CC2LV28"
 	next = "CCH230"
@@ -376,7 +376,7 @@ map CCH229 lookup "level 29: Event Horizon"
 	nojump
 }
 
-map CCH230 lookup "level 30: In Threes"
+map CCH230 lookup "In Threes"
 {
 	titlepatch = "CC2LV29"
 	next = "VR"
@@ -390,7 +390,7 @@ map CCH230 lookup "level 30: In Threes"
 	nojump
 }
 
-map CCH231 lookup "level 31: Idee Fixe"
+map CCH231 lookup "Idee Fixe"
 {
 	titlepatch = "CC2LV30"
 	next = "CCH216"
@@ -403,7 +403,7 @@ map CCH231 lookup "level 31: Idee Fixe"
 	nojump
 }
 
-map CCH232 lookup "level 32: Sodding Death"
+map CCH232 lookup "Sodding Death"
 {
 	titlepatch = "CC2LV31"
 	next = "CCH216"
