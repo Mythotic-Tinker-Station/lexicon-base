@@ -382,7 +382,7 @@ map CCH230 lookup "In Threes"
 	next = "VR"
 	secretnext = "VR"
 	sky1 = "SKY3"
-	ExitPic = "INTERPIC"
+	ExitPic = "CC2LV33"
 	EnterPic = "INTERPIC"
 	allowmonstertelefrags
 	music = "D_CCH230"
