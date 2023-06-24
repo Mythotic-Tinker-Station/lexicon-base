@@ -1,0 +1,417 @@
+map CCH301 lookup "ventilator"
+{
+	titlepatch = "CC3LV00"
+	next = "CCH302"
+	secretnext = "CCH302"
+	ExitPic = "CC3LV32"
+	EnterPic = "CC3LV32"
+	sky1 = "CCH30744"
+	music = "D_CCH301"
+	nocrouch
+	nojump
+}
+
+map CCH302 lookup "ion storm"
+{
+	titlepatch = "CC3LV01"
+	next = "CCH303"
+	secretnext = "CCH303"
+	sky1 = "CCH30744"
+	ExitPic = "CC3LV32"
+	EnterPic = "CC3LV32"
+	music = "D_CCH302"
+	nocrouch
+	nojump
+}
+
+map CCH303 lookup "mineopoly"
+{
+	titlepatch = "CC3LV02"
+	next = "CCH304"
+	secretnext = "CCH304"
+	ExitPic = "CC3LV32"
+	EnterPic = "CC3LV32"
+	sky1 = "CCH30744"
+	music = "D_CCH303"
+	nocrouch
+	nojump
+}
+
+map CCH304 lookup "uac checkpoint"
+{
+	titlepatch = "CC3LV03"
+	next = "CCH305"
+	secretnext = "CCH305"
+	ExitPic = "CC3LV32"
+	EnterPic = "CC3LV32"
+	sky1 = "CCH30744"
+	music = "D_CCH304"
+	nocrouch
+	nojump
+}
+
+map CCH305 lookup "living hell"
+{
+	titlepatch = "CC3LV04"
+	next = "CCH306"
+	secretnext = "CCH306"
+	ExitPic = "CC3LV32"
+	EnterPic = "CC3LV32"
+	sky1 = "CCH30744"
+	music = "D_CCH305"
+	nocrouch
+	nojump
+}
+
+map CCH306 lookup "foregone destruction"
+{
+	titlepatch = "CC3LV05"
+	next = "CCH307"
+	secretnext = "CCH307"
+	ExitPic = "CC3LV32"
+	EnterPic = "CC3LV32"
+	sky1 = "CCH30744"
+	music = "D_CCH306"
+	nocrouch
+	nojump
+}
+
+map CCH307 lookup "simple complex"
+{
+	titlepatch = "CC3LV06"
+	next = "CCH308"
+	secretnext = "CCH308"
+	ExitPic = "CC3LV32"
+	EnterPic = "CC3LV32"
+	sky1 = "CCH30744"
+	music = "D_CCH307"
+	map07special
+	nocrouch
+	nojump
+}
+
+map CCH308 lookup "impure liquids"
+{
+	titlepatch = "CC3LV07"
+	next = "CCH309"
+	secretnext = "CCH309"
+	ExitPic = "CC3LV32"
+	EnterPic = "CC3LV32"
+	sky1 = "CCH30744"
+	music = "D_CCH308"
+	nocrouch
+	nojump
+}
+
+map CCH309 lookup "as the doctor sleeps"
+{
+	titlepatch = "CC3LV08"
+	next = "CCH310"
+	secretnext = "CCH310"
+	ExitPic = "CC3LV32"
+	EnterPic = "CC3LV32"
+	sky1 = "CCH30744"
+	music = "D_CCH309"
+	nocrouch
+	nojump
+}
+
+map CCH310 lookup "atlantis rising"
+{
+	titlepatch = "CC3LV09"
+	next = "CCH311"
+	secretnext = "CCH311"
+	ExitPic = "CC3LV32"
+	EnterPic = "CC3LV32"
+	sky1 = "CCH30744"
+	music = "D_CCH310"
+	nocrouch
+	nojump
+}
+
+map CCH311 lookup "the grieving outpost"
+{
+	titlepatch = "CC3LV10"
+	next = "CCH312"
+	secretnext = "CCH312"
+	ExitPic = "CC3LV32"
+	EnterPic = "CC3LV32"
+	sky1 = "CCH30744"
+	music = "D_CCH311"
+	nocrouch
+	nojump
+}
+
+map CCH312 lookup "black rain"
+{
+	titlepatch = "CC3LV11"
+	next = "CCH313"
+	secretnext = "CCH313"
+	ExitPic = "CC3LV32"
+	EnterPic = "CC3LV32"
+	sky1 = "CCH30745"
+	music = "D_CCH312"
+	nocrouch
+	nojump
+}
+
+map CCH313 lookup "welcome to the machine"
+{
+	titlepatch = "CC3LV12"
+	next = "CCH314"
+	secretnext = "CCH314"
+	ExitPic = "CC3LV32"
+	EnterPic = "CC3LV32"
+	sky1 = "CCH30745"
+	music = "D_CCH313"
+	nocrouch
+	nojump
+}
+
+map CCH314 lookup "mountains and mortar"
+{
+	titlepatch = "CC3LV13"
+	next = "CCH315"
+	secretnext = "CCH315"
+	ExitPic = "CC3LV32"
+	EnterPic = "CC3LV32"
+	sky1 = "CCH30745"
+	music = "D_CCH314"
+	nocrouch
+	nojump
+}
+
+map CCH315 lookup "clash of galaxies"
+{
+	titlepatch = "CC3LV14"
+	next = "CCH316"
+	secretnext = "CCH331"
+	ExitPic = "CC3LV32"
+	EnterPic = "CC3LV32"
+	sky1 = "CCH30745"
+	music = "D_CCH315"
+	nocrouch
+	nojump
+}
+
+map CCH316 lookup "hangman's noose"
+{
+	titlepatch = "CC3LV15"
+	next = "CCH317"
+	secretnext = "CCH317"
+	ExitPic = "CC3LV32"
+	EnterPic = "CC3LV32"
+	sky1 = "CCH30745"
+	music = "D_CCH316"
+	nocrouch
+	nojump
+}
+
+map CCH317 lookup "mind's prison"
+{
+	titlepatch = "CC3LV16"
+	next = "CCH318"
+	secretnext = "CCH318"
+	ExitPic = "CC3LV32"
+	EnterPic = "CC3LV32"
+	sky1 = "CCH30745"
+	music = "D_CCH317"
+	nocrouch
+	nojump
+}
+
+map CCH318 lookup "godforsaken hole"
+{
+	titlepatch = "CC3LV17"
+	next = "CCH319"
+	secretnext = "CCH319"
+	ExitPic = "CC3LV32"
+	EnterPic = "CC3LV32"
+	sky1 = "CCH30745"
+	music = "D_CCH318"
+	nocrouch
+	nojump
+}
+
+map CCH319 lookup "subduction"
+{
+	titlepatch = "CC3LV18"
+	next = "CCH320"
+	secretnext = "CCH320"
+	ExitPic = "CC3LV32"
+	EnterPic = "CC3LV32"
+	sky1 = "CCH30745"
+	music = "D_CCH319"
+	nocrouch
+	nojump
+}
+
+map CCH320 lookup "huitzilopochtli"
+{
+	titlepatch = "CC3LV19"
+	next = "CCH321"
+	secretnext = "CCH321"
+	ExitPic = "CC3LV32"
+	EnterPic = "CC3LV32"
+	sky1 = "CCH30745"
+	music = "D_CCH320"
+	nocrouch
+	nojump
+}
+
+map CCH321 lookup "the hero's return"
+{
+	titlepatch = "CC3LV20"
+	next = "CCH322"
+	secretnext = "CCH322"
+	ExitPic = "CC3LV32"
+	EnterPic = "CC3LV32"
+	sky1 = "CCH30746"
+	music = "D_CCH321"
+	nocrouch
+	nojump
+}
+
+map CCH322 lookup "second entry"
+{
+	titlepatch = "CC3LV21"
+	next = "CCH323"
+	secretnext = "CCH323"
+	ExitPic = "CC3LV32"
+	EnterPic = "CC3LV32"
+	sky1 = "CCH30746"
+	music = "D_CCH322"
+	nocrouch
+	nojump
+}
+
+map CCH323 lookup "hard attack"
+{
+	titlepatch = "CC3LV22"
+	next = "CCH324"
+	secretnext = "CCH324"
+	ExitPic = "CC3LV32"
+	EnterPic = "CC3LV32"
+	sky1 = "CCH30746"
+	music = "D_CCH323"
+	nocrouch
+	nojump
+}
+
+map CCH324 lookup "amalgamation"
+{
+	titlepatch = "CC3LV23"
+	next = "CCH325"
+	secretnext = "CCH325"
+	ExitPic = "CC3LV32"
+	EnterPic = "CC3LV32"
+	sky1 = "CCH30746"
+	music = "D_CCH324"
+	nocrouch
+	nojump
+}
+
+map CCH325 lookup "fate in blood"
+{
+	titlepatch = "CC3LV24"
+	next = "CCH326"
+	secretnext = "CCH326"
+	ExitPic = "CC3LV32"
+	EnterPic = "CC3LV32"
+	sky1 = "CCH30746"
+	music = "D_CCH325"
+	nocrouch
+	nojump
+}
+
+map CCH326 lookup "hybrid envy"
+{
+	titlepatch = "CC3LV25"
+	next = "CCH327"
+	secretnext = "CCH327"
+	ExitPic = "CC3LV32"
+	EnterPic = "CC3LV32"
+	sky1 = "CCH30746"
+	music = "D_CCH326"
+	nocrouch
+	nojump
+}
+
+map CCH327 lookup "ruby abyss"
+{
+	titlepatch = "CC3LV26"
+	next = "CCH328"
+	secretnext = "CCH328"
+	ExitPic = "CC3LV32"
+	EnterPic = "CC3LV32"
+	sky1 = "CCH30746"
+	music = "D_CCH327"
+	nocrouch
+	nojump
+}
+
+map CCH328 lookup "token arch-vile"
+{
+	titlepatch = "CC3LV27"
+	next = "CCH329"
+	secretnext = "CCH329"
+	ExitPic = "CC3LV32"
+	EnterPic = "CC3LV32"
+	sky1 = "CCH30746"
+	music = "D_CCH328"
+	nocrouch
+	nojump
+}
+
+map CCH329 lookup "for we are many"
+{
+	titlepatch = "CC3LV28"
+	next = "CCH330"
+	secretnext = "CCH330"
+	ExitPic = "CC3LV32"
+	EnterPic = "CC3LV32"
+	sky1 = "CCH30746"
+	music = "D_CCH329"
+	nocrouch
+	nojump
+}
+
+map CCH330 lookup "leviathan"
+{
+	titlepatch = "CC3LV29"
+	next = "VR"
+	secretnext = "VR"
+	sky1 = "CCH30746"
+	ExitPic = "CC3LV33"
+	EnterPic = "CC3LV32"
+	allowmonstertelefrags
+	music = "D_CCH330"
+	nocrouch
+	nojump
+}
+
+map CCH331 lookup "disarming the mechanism"
+{
+	titlepatch = "CC3LV30"
+	next = "CCH316"
+	secretnext = "CCH332"
+	ExitPic = "CC3LV32"
+	EnterPic = "CC3LV32"
+	sky1 = "CCH30746"
+	music = "D_CCH331"
+	nocrouch
+	nojump
+}
+
+map CCH332 lookup "installation 07 warszawa"
+{
+	titlepatch = "CC3LV31"
+	next = "CCH316"
+	secretnext = "CCH316"
+	ExitPic = "CC3LV32"
+	EnterPic = "CC3LV32"
+	sky1 = "CCH30746"
+	music = "D_CCH332"
+	nocrouch
+	nojump
+}
