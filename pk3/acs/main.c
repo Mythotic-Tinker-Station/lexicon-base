@@ -3,8 +3,9 @@
 
 #if 1
 
-#define MODCOUNT 19
-int acronym_list[MODCOUNT] =
+// edit these
+int expansion_name = "Base";
+int mapset_list[] =
 {
 	"EPIC",
 	"EPC2",
@@ -27,19 +28,16 @@ int acronym_list[MODCOUNT] =
 	"D2RD",
 };
 
-// This script runs on map load(should have a unique name for each expansion set
+// This script runs on map load(should have a unique name for each expansion set)
 // you do not need to edit this script, only the variables above
 Script "LEXICON_EXPANSION_SV" Open
 {
-	for(int i = 0; i < MODCOUNT; i++)
+    ACS_NamedExecuteWithResult("Lexicon_AddExpansion", expansion_name);
+	for(int i = 0; i < mapset_list.length(); i++)
 	{
-		ACS_NamedExecuteWithResult("Lexicon_AddMapSet", acronym_list[i]);
-        ACS_NamedExecuteWithResult("Lexicon_AddMapSet_CL", acronym_list[i]);
+		ACS_NamedExecuteWithResult("Lexicon_AddMapSet", mapset_list[i]);
 	}
 }
-
-
-
 
 #endif
 
