@@ -1,6 +1,7 @@
 Lexicon Base Authors
 ---------------
 Community Chest 1: Dale E. Harris, CC1 Team, MAP15 coop fix by BLOODWOLF, MAP29 slightly modified by cubebert
+Community Chest 3: Andy Leaver, CC3 Team, coop fixes by BLOODWOLF, MAP03 slightly modified by cubebert
 
 Lexicon Base Team
 ------------
