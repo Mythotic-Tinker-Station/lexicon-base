@@ -1,8 +1,0 @@
-Actor DH_HangTLookingDown : HangTLookingDown replaces HangTLookingDown 75
-{
-	-SOLID
-	States
-	{
-	}
-}
-

@@ -1,8 +1,0 @@
-
-texture DBP30129 range DBP30132 tics 8
-texture DBP30251 range DBP30254 tics 8
-texture DBP30517 range DBP30520 tics 8
-flat DBP30042 range DBP30045 tics 8
-
-switch DBP30366 on pic DBP30406 tics 0
-
