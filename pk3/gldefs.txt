@@ -1,4 +1,0 @@
-#include GLDEFS/DBP2.TXT
-#include GLDEFS/EPIC.TXT
-#include GLDEFS/EPC2.TXT
-#include GLDEFS/MAYH.TXT

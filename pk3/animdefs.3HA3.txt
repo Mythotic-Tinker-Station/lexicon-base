@@ -1,5 +1,0 @@
-
-texture 3HA30532 range 3HA30535 tics 8 allowdecals
-texture 3HA30574 range 3HA30577 tics 8
-
-

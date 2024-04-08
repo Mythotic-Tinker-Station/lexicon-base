@@ -1,6 +1,0 @@
-
-texture 3HA20686 range 3HA20689 tics 8 allowdecals
-texture 3HA20691 range 3HA20694 tics 8
-
-switch 3HA20421 on pic 3HA20461 tics 0
-

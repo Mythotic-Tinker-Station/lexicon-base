@@ -1,9 +1,0 @@
-
-texture D2RL0201 range D2RL0204 tics 8
-texture D2RL0536 range D2RL0539 tics 8
-texture D2RL0572 range D2RL0586 tics 8 allowdecals
-texture D2RL0590 range D2RL0601 tics 8 allowdecals
-
-switch D2RL0417 on pic D2RL0456 tics 0
-switch D2RL0632 on pic D2RL0633 tics 0
-

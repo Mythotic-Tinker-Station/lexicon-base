@@ -1,6 +1,0 @@
-
-texture DBP20125 range DBP20128 tics 8
-texture DBP20247 range DBP20250 tics 8
-texture DBP20509 range DBP20512 tics 8
-
-
