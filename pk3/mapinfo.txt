@@ -1,0 +1,1 @@
+include "mapinfo/CCHEST1.txt" // cchest_map15coopfix.wad
