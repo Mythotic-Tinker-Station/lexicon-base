@@ -1,0 +1,5 @@
+// 1994 Tune-Up Community Project
+texture 19940441 range 19940443 tics 8 allowdecals
+texture 19940492 range 19940495 tics 8
+switch 19940453 on pic 19940457 tics 0
+switch 19940455 on pic 19940459 tics 0
