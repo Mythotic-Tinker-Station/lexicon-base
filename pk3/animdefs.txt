@@ -1,0 +1,2 @@
+// Hell Revealed I
+texture HR100430 range HR100433 tics 8

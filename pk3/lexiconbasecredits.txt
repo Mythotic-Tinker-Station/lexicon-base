@@ -1,6 +1,7 @@
 Lexicon Base Authors
 ---------------
 Community Chest 1: Dale E. Harris, CC1 Team, MAP15 coop fix by BLOODWOLF, MAP29 slightly modified by cubebert
+Hell Revealed: Yonatan Donner, Haggay Niv
 
 Lexicon Base Team
 ------------
