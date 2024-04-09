@@ -1,0 +1,3 @@
+// Zone 300
+texture ZN300087 range ZN300090 tics 8
+texture ZN300390 range ZN300393 tics 8
