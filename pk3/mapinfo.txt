@@ -1,1 +1,2 @@
 include "mapinfo/CCHEST1.txt" // cchest_map15coopfix.wad
+include "mapinfo/ZOF.txt" // ZOF.wad
