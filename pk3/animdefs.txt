@@ -1,0 +1,3 @@
+// Hell Revealed II
+texture HR200469 range HR200472 tics 8
+switch HR200320 on pic HR200360 tics 0
