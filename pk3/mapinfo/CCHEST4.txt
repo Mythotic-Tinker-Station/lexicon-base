@@ -1,0 +1,408 @@
+// Community Chest 4 Mapinfo
+
+defaultmap
+{
+	compat_boomscroll = 1
+	compat_missileclip = 1
+	compat_soundtarget = 1
+	compat_trace = 1
+	nojump
+	nocrouch
+}
+
+map CCH401 "Renewed Faith"
+{
+	titlepatch = "CCH4V00"
+	next = "CCH402"
+	secretnext = "CCH402"
+	sky1 = "CCH40449"
+	music = "D_CCH401"
+	intermusic = "D_CCH4IN"
+	ExitPic = "CCH4INT"
+	EnterPic = "CCH4INT"
+}
+
+map CCH402 "Slugfest"
+{
+	titlepatch = "CCH4V01"
+	next = "CCH403"
+	secretnext = "CCH403"
+	sky1 = "CCH40449"
+	music = "D_CCH402"
+	intermusic = "D_CCH4IN"
+	ExitPic = "CCH4INT"
+	EnterPic = "CCH4INT"
+}
+
+map CCH403 "Three is a Charm"
+{
+	titlepatch = "CCH4V02"
+	next = "CCH404"
+	secretnext = "CCH404"
+	sky1 = "CCH40449"
+	music = "D_CCH403"
+	intermusic = "D_CCH4IN"
+	ExitPic = "CCH4INT"
+	EnterPic = "CCH4INT"
+}
+
+map CCH404 "Polluted Paths"
+{
+	titlepatch = "CCH4V03"
+	next = "CCH405"
+	secretnext = "CCH405"
+	sky1 = "CCH40449"
+	music = "D_CCH404"
+	intermusic = "D_CCH4IN"
+	ExitPic = "CCH4INT"
+	EnterPic = "CCH4INT"
+}
+
+map CCH405 "Installation Decrepit"
+{
+	titlepatch = "CCH4V04"
+	next = "CCH406"
+	secretnext = "CCH406"
+	sky1 = "CCH40449"
+	music = "D_CCH405"
+	intermusic = "D_CCH4IN"
+	ExitPic = "CCH4INT"
+	EnterPic = "CCH4INT"
+}
+
+map CCH406 "Survival Instincts"
+{
+	titlepatch = "CCH4V05"
+	next = "CCH407"
+	secretnext = "CCH407"
+	sky1 = "CCH40449"
+	music = "D_CCH406"
+	intermusic = "D_CCH4IN"
+	ExitPic = "CCH4INT"
+	EnterPic = "CCH4INT"
+}
+
+map CCH407 "Hoedown"
+{
+	titlepatch = "CCH4V06"
+	next = "CCH408"
+	secretnext = "CCH408"
+	sky1 = "CCH40449"
+	music = "D_CCH407"
+	intermusic = "D_CCH4IN"
+	ExitPic = "CCH4INT"
+	EnterPic = "CCH4INT"
+	Map07Special
+}
+
+map CCH408 "Cold Reception"
+{
+	titlepatch = "CCH4V07"
+	next = "CCH409"
+	secretnext = "CCH409"
+	sky1 = "CCH40449"
+	music = "D_CCH408"
+	intermusic = "D_CCH4IN"
+	ExitPic = "CCH4INT"
+	EnterPic = "CCH4INT"
+}
+
+map CCH409 "Ochregerde"
+{
+	titlepatch = "CCH4V08"
+	next = "CCH410"
+	secretnext = "CCH410"
+	sky1 = "CCH40449"
+	music = "D_CCH409"
+	intermusic = "D_CCH4IN"
+	ExitPic = "CCH4INT"
+	EnterPic = "CCH4INT"
+}
+
+map CCH410 "Inner Fear"
+{
+	titlepatch = "CCH4V09"
+	next = "CCH411"
+	secretnext = "CCH411"
+	sky1 = "CCH40449"
+	music = "D_CCH410"
+	intermusic = "D_CCH4IN"
+	ExitPic = "CCH4INT"
+	EnterPic = "CCH4INT"
+}
+
+map CCH411 "The Grotto"
+{
+	titlepatch = "CCH4V10"
+	next = "CCH412"
+	secretnext = "CCH412"
+	sky1 = "CCH40449"
+	music = "D_CCH411"
+	intermusic = "D_CCH4IN"
+	ExitPic = "CCH4INT"
+	EnterPic = "CCH4INT"
+}
+
+map CCH412 "Nectar of the Gods"
+{
+	titlepatch = "CCH4V11"
+	next = "CCH413"
+	secretnext = "CCH413"
+	sky1 = "CCH40450"
+	music = "D_CCH412"
+	intermusic = "D_CCH4IN"
+	ExitPic = "CCH4INT"
+	EnterPic = "CCH4INT"
+}
+
+map CCH413 "Viral Implant"
+{
+	titlepatch = "CCH4V12"
+	next = "CCH414"
+	secretnext = "CCH414"
+	sky1 = "CCH40450"
+	music = "D_CCH413"
+	intermusic = "D_CCH4IN"
+	ExitPic = "CCH4INT"
+	EnterPic = "CCH4INT"
+}
+
+map CCH414 "Downriver"
+{
+	titlepatch = "CCH4V13"
+	next = "CCH415"
+	secretnext = "CCH415"
+	sky1 = "CCH40450"
+	music = "D_CCH414"
+	intermusic = "D_CCH4IN"
+	ExitPic = "CCH4INT"
+	EnterPic = "CCH4INT"
+}
+
+map CCH415 "Decomposition"
+{
+	titlepatch = "CCH4V14"
+	next = "CCH416"
+	secretnext = "CCH431"
+	sky1 = "CCH40450"
+	music = "D_CCH415"
+	intermusic = "D_CCH4IN"
+	ExitPic = "CCH4INT"
+	EnterPic = "CCH4INT"
+}
+
+map CCH416 "The Forgotten Base"
+{
+	titlepatch = "CCH4V15"
+	next = "CCH417"
+	secretnext = "CCH417"
+	sky1 = "CCH40450"
+	music = "D_CCH416"
+	intermusic = "D_CCH4IN"
+	ExitPic = "CCH4INT"
+	EnterPic = "CCH4INT"
+}
+
+map CCH417 "Metastasize"
+{
+	titlepatch = "CCH4V16"
+	next = "CCH418"
+	secretnext = "CCH418"
+	sky1 = "CCH40450"
+	music = "D_CCH417"
+	intermusic = "D_CCH4IN"
+	ExitPic = "CCH4INT"
+	EnterPic = "CCH4INT"
+}
+
+map CCH418 "Suburbia"
+{
+	titlepatch = "CCH4V17"
+	next = "CCH419"
+	secretnext = "CCH419"
+	sky1 = "CCH40450"
+	music = "D_CCH418"
+	intermusic = "D_CCH4IN"
+	ExitPic = "CCH4INT"
+	EnterPic = "CCH4INT"
+}
+
+map CCH419 "Technoprison"
+{
+	titlepatch = "CCH4V18"
+	next = "CCH420"
+	secretnext = "CCH420"
+	sky1 = "CCH40450"
+	music = "D_CCH419"
+	intermusic = "D_CCH4IN"
+	ExitPic = "CCH4INT"
+	EnterPic = "CCH4INT"
+}
+
+map CCH420 "Interstellar Sickness"
+{
+	titlepatch = "CCH4V19"
+	next = "CCH421"
+	secretnext = "CCH421"
+	sky1 = "CCH40450"
+	music = "D_CCH420"
+	intermusic = "D_CCH4IN"
+	ExitPic = "CCH4INT"
+	EnterPic = "CCH4INT"
+}
+
+map CCH421 "Shaman's Device"
+{
+	titlepatch = "CCH4V20"
+	next = "CCH422"
+	secretnext = "CCH422"
+	sky1 = "CCH40451"
+	music = "D_CCH421"
+	intermusic = "D_CCH4IN"
+	ExitPic = "CCH4INT"
+	EnterPic = "CCH4INT"
+}
+
+map CCH422 "Hell's Limits"
+{
+	titlepatch = "CCH4V21"
+	next = "CCH423"
+	secretnext = "CCH423"
+	sky1 = "CCH40451"
+	music = "D_CCH422"
+	intermusic = "D_CCH4IN"
+	ExitPic = "CCH4INT"
+	EnterPic = "CCH4INT"
+}
+
+map CCH423 "Melting Universe II"
+{
+	titlepatch = "CCH4V22"
+	next = "CCH424"
+	secretnext = "CCH424"
+	sky1 = "CCH40451"
+	music = "D_CCH423"
+	intermusic = "D_CCH4IN"
+	ExitPic = "CCH4INT"
+	EnterPic = "CCH4INT"
+}
+
+map CCH424 "Detachment"
+{
+	titlepatch = "CCH4V23"
+	next = "CCH425"
+	secretnext = "CCH425"
+	sky1 = "CCH40451"
+	music = "D_CCH424"
+	intermusic = "D_CCH4IN"
+	ExitPic = "CCH4INT"
+	EnterPic = "CCH4INT"
+}
+
+map CCH425 "Nightmare Complex"
+{
+	titlepatch = "CCH4V24"
+	next = "CCH426"
+	secretnext = "CCH426"
+	sky1 = "CCH40451"
+	music = "D_CCH425"
+	intermusic = "D_CCH4IN"
+	ExitPic = "CCH4INT"
+	EnterPic = "CCH4INT"
+}
+
+map CCH426 "Reaper's Digest"
+{
+	titlepatch = "CCH4V25"
+	next = "CCH427"
+	secretnext = "CCH427"
+	sky1 = "CCH40451"
+	music = "D_CCH426"
+	intermusic = "D_CCH4IN"
+	ExitPic = "CCH4INT"
+	EnterPic = "CCH4INT"
+}
+
+map CCH427 "Vulcana II"
+{
+	titlepatch = "CCH4V26"
+	next = "CCH428"
+	secretnext = "CCH428"
+	sky1 = "CCH40451"
+	music = "D_CCH427"
+	intermusic = "D_CCH4IN"
+	ExitPic = "CCH4INT"
+	EnterPic = "CCH4INT"
+}
+
+map CCH428 "Crucifix Held Close"
+{
+	titlepatch = "CCH4V27"
+	next = "CCH429"
+	secretnext = "CCH429"
+	sky1 = "CCH40451"
+	music = "D_CCH428"
+	intermusic = "D_CCH4IN"
+	ExitPic = "CCH4INT"
+	EnterPic = "CCH4INT"
+}
+
+map CCH429 "Spiritual Holocaust"
+{
+	titlepatch = "CCH4V28"
+	next = "CCH430"
+	secretnext = "CCH430"
+	sky1 = "CCH40451"
+	music = "D_CCH429"
+	intermusic = "D_CCH4IN"
+	ExitPic = "CCH4INT"
+	EnterPic = "CCH4INT"
+}
+
+map CCH430 "Ragnarok"
+{
+	titlepatch = "CCH4V29"
+	next = "VR"
+	secretnext = "VR"
+	sky1 = "CCH40451"
+	music = "D_CCH430"
+	intermusic = "D_CCH4IN"
+	ExitPic = "CCH4INT"
+	EnterPic = "CCH4INT"
+	allowmonstertelefrags
+}
+
+map CCH431 "Mortar Combat"
+{
+	titlepatch = "CCH4V30"
+	next = "CCH416"
+	secretnext = "CCH432"
+	sky1 = "CCH40451"
+	music = "D_CCH431"
+	intermusic = "D_CCH4IN"
+	ExitPic = "CCH4INT"
+	EnterPic = "CCH4INT"
+}
+
+map CCH432 "Mutare"
+{
+	titlepatch = "CCH4V31"
+	next = "CCH416"
+	secretnext = "CCH416"
+	sky1 = "CCH40451"
+	music = "D_CCH432"
+	intermusic = "D_CCH4IN"
+	ExitPic = "CCH4INT"
+	EnterPic = "CCH4INT"
+}
+
+map CCH435 "Midnight Tek Frenzy"
+{
+	next = "CCH401"
+	secretnext = "CCH401"
+	sky1 = "CCH40450"
+	music = "D_CCH435"
+	intermusic = "D_CCH4IN"
+	ExitPic = "CCH4INT"
+	EnterPic = "CCH4INT"
+}
