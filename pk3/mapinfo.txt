@@ -1,2 +1,2 @@
 include "mapinfo/CCHEST1.txt" // cchest_map15coopfix.wad
-include "mapinfo/HELLBND.txt" // hellbnd.wad
+include "mapinfo/HELLBND.txt" // hellbnd_map03fix_BLOODWOLF.wad
