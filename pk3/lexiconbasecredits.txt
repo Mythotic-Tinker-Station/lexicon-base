@@ -1,6 +1,7 @@
 Lexicon Base Authors
 ---------------
 Community Chest 1: Dale E. Harris, CC1 Team, MAP15 coop fix by BLOODWOLF, MAP29 slightly modified by cubebert
+Swift Death: franckFRAG, JCD, Memfis
 
 Lexicon Base Team
 ------------

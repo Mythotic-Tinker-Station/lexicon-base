@@ -1,0 +1,2 @@
+texture SWDH0085 range SWDH0088 tics 8
+texture SWDH0439 range SWDH0442 tics 8 allowdecals
