@@ -67,3 +67,6 @@ flat D2RX0010 range D2RX0013 tics 8
 switch D2RX0675 on pic D2RX0715 tics 0
 switch D2RX0680 on pic D2RX0720 tics 0
 switch D2RX0686 on pic D2RX0726 tics 0
+
+// Hell Revealed I
+texture HR100430 range HR100433 tics 8
