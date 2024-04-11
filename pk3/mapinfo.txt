@@ -3,6 +3,7 @@ include "mapinfo/CCHEST2.txt" // cchest2_map05,22,32coopfix.wad
 include "mapinfo/CCHEST3.txt" // cchest3_map07,15,17,24,31coopfix.wad
 include "mapinfo/CCHEST4.txt" // cchest4_map25,26coopfix.wad
 include "mapinfo/D2REDUX.txt" // D2REDUX.wad
-include "mapinfo/INTERCEP.txt" // intercep.wad
+include "mapinfo/ESTRANGD.txt" // estrangd.wad
 include "mapinfo/HR1.txt" // hr.wad
 include "mapinfo/HR2.txt" // hr2final.wad
+include "mapinfo/INTERCEP.txt" // intercep.wad
