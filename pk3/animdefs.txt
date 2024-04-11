@@ -55,3 +55,15 @@ switch CCH41852 on pic CCH41853 tics 0
 switch CCH42061 on pic CCH42062 tics 0
 switch CCH42227 on pic CCH42228 tics 0
 switch CCH42229 on pic CCH42230 tics 0
+
+// Doom 2 Redux
+texture D2RX0326 range D2RX0329 tics 8 allowdecals
+texture D2RX0389 range D2RX0392 tics 8
+texture D2RX0414 range D2RX0417 tics 8 allowdecals
+texture D2RX0475 range D2RX0478 tics 8
+texture D2RX0492 range D2RX0493 tics 8
+texture D2RX0497 range D2RX0499 tics 8
+flat D2RX0010 range D2RX0013 tics 8
+switch D2RX0675 on pic D2RX0715 tics 0
+switch D2RX0680 on pic D2RX0720 tics 0
+switch D2RX0686 on pic D2RX0726 tics 0
