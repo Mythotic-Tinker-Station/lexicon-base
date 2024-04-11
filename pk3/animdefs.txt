@@ -91,6 +91,9 @@ texture HR100430 range HR100433 tics 8
 texture HR200469 range HR200472 tics 8
 switch HR200320 on pic HR200360 tics 0
 
+// Kama Sutra
+texture KSUT0411 range KSUT0414 tics 8
+
 // Swift Death
 texture SWDH0085 range SWDH0088 tics 8
 texture SWDH0439 range SWDH0442 tics 8 allowdecals
