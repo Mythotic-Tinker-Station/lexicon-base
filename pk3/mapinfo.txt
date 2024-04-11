@@ -9,6 +9,7 @@ include "mapinfo/HELLBND.txt" // hellbnd_map03fix.wad
 include "mapinfo/HR1.txt" // hr.wad
 include "mapinfo/HR2.txt" // hr2final.wad
 include "mapinfo/INTERCEP.txt" // intercep.wad
+include "mapinfo/KSSHT.txt" // kssht.wad
 include "mapinfo/KSUTRA.txt" // ksutra.wad
 include "mapinfo/NOVA1.txt" // nova.wad
 include "mapinfo/SWIDEATH.txt"// swideath.wad
