@@ -70,3 +70,7 @@ switch D2RX0686 on pic D2RX0726 tics 0
 
 // Hell Revealed I
 texture HR100430 range HR100433 tics 8
+
+// Hell Revealed II
+texture HR200469 range HR200472 tics 8
+switch HR200320 on pic HR200360 tics 0
