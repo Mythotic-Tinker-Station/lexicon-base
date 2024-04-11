@@ -7,3 +7,4 @@ include "mapinfo/ESTRANGD.txt" // estrangd.wad
 include "mapinfo/HR1.txt" // hr.wad
 include "mapinfo/HR2.txt" // hr2final.wad
 include "mapinfo/INTERCEP.txt" // intercep.wad
+include "mapinfo/ZONE300.txt" // zone300.wad

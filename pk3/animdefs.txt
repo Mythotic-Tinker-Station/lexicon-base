@@ -74,3 +74,7 @@ texture HR100430 range HR100433 tics 8
 // Hell Revealed II
 texture HR200469 range HR200472 tics 8
 switch HR200320 on pic HR200360 tics 0
+
+// Zone 300
+texture ZN300087 range ZN300090 tics 8
+texture ZN300390 range ZN300393 tics 8
