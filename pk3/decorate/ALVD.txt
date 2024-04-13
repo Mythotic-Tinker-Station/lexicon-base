@@ -1,0 +1,5 @@
+Actor Lexicon_ALVD_CommanderKeen : CommanderKeen
+{
+	PainSound "ALVD/DSKEENPN"
+	DeathSound "ALVD/DSKEENDT"
+}

@@ -1,0 +1,5 @@
+[default]
+
+// Custom actors for Lexicon Base mapsets
+// Alien Vendetta
+ALVD_ACTOR_1 = "Lexicon_ALVD_CommanderKeen";

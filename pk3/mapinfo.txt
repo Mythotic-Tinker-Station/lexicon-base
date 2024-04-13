@@ -1,4 +1,5 @@
 include "mapinfo/1994TU.txt" // 1994TU.wad
+include "mapinfo/AV.txt" // av_map20coopfix.wad
 include "mapinfo/CCHEST1.txt" // cchest_map15coopfix.wad
 include "mapinfo/CCHEST2.txt" // cchest2_map05,22,32coopfix.wad
 include "mapinfo/CCHEST3.txt" // cchest3_map07,15,17,24,31coopfix.wad
