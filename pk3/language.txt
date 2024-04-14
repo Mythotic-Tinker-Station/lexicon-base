@@ -3,3 +3,6 @@
 // Custom actors for Lexicon Base mapsets
 // Alien Vendetta
 ALVD_ACTOR_1 = "Lexicon_ALVD_CommanderKeen";
+
+// DBP01: Monuments of Mars
+DB01_ACTOR_1 = "Lexicon_DB01_DeadStick";
