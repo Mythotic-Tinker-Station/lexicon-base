@@ -102,8 +102,50 @@ texture HR100430 range HR100433 tics 8
 texture HR200469 range HR200472 tics 8
 switch HR200320 on pic HR200360 tics 0
 
+// Icarus: Alien Vanguard
+texture ICAV0613 range ICAV0616 tics 8
+texture ICAV0617 range ICAV0622 tics 8 allowdecals
+flat ICAV0007 range ICAV0010 tics 8
+switch ICAV0623 on pic ICAV0624 tics 0
+
 // Kama Sutra
 texture KSUT0411 range KSUT0414 tics 8
+
+// Memento Mori I
+texture MM100293 range MM100295 tics 8 allowdecals
+texture MM100493 range MM100496 tics 8
+switch MM100348 on pic MM100388 tics 0
+switch MM100349 on pic MM100389 tics 0
+switch MM100353 on pic MM100393 tics 0
+switch MM100375 on pic MM100415 tics 0
+switch MM100376 on pic MM100416 tics 0
+switch MM100377 on pic MM100417 tics 0
+switch MM100379 on pic MM100419 tics 0
+
+// Memento Mori II
+texture MM200149 range MM200152 tics 8 allowdecals
+texture MM200371 range MM200373 tics 8 allowdecals
+texture MM200524 range MM200527 tics 8
+switch MM200426 on pic MM200466 tics 0
+switch MM200427 on pic MM200467 tics 0
+switch MM200431 on pic MM200471 tics 0
+switch MM200434 on pic MM200474 tics 0
+switch MM200453 on pic MM200493 tics 0
+switch MM200454 on pic MM200494 tics 0
+switch MM200455 on pic MM200495 tics 0
+switch MM200457 on pic MM200497 tics 0
+
+// Requiem
+texture REQU0058 range REQU0061 tics 8
+flat REQU0032 range REQU0039 tics 8
+switch REQU0481 on pic REQU0521 tics 0
+switch REQU0483 on pic REQU0523 tics 0
+switch REQU0485 on pic REQU0525 tics 0
+switch REQU0486 on pic REQU0526 tics 0
+switch REQU0487 on pic REQU0527 tics 0
+switch REQU0488 on pic REQU0528 tics 0
+switch REQU0489 on pic REQU0529 tics 0
+switch REQU0490 on pic REQU0530 tics 0
 
 // Super MAYhem 17
 texture MY170640 range MY170643 tics 8
