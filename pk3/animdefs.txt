@@ -70,6 +70,9 @@ switch CCH42061 on pic CCH42062 tics 0
 switch CCH42227 on pic CCH42228 tics 0
 switch CCH42229 on pic CCH42230 tics 0
 
+// DBP01: Monuments of Mars
+texture DB010119 range DB010122 tics 8
+
 // Doom 2 Redux
 texture D2RX0326 range D2RX0329 tics 8 allowdecals
 texture D2RX0389 range D2RX0392 tics 8
