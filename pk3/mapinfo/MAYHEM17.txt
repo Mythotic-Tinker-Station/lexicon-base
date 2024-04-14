@@ -1,5 +1,11 @@
 // Super MAYhem 17 Mapinfo
 
+defaultmap
+{
+	nojump
+	nocrouch
+}
+
 map MY1701 "shroom stronghold"
 {
 	titlepatch = "MY17V00"
