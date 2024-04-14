@@ -1,4 +1,4 @@
-//DBP01 Mapinfo
+// DBP01: Monuments of Mars Mapinfo
 
 map DB0101 "Breakout"
 {

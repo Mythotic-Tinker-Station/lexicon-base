@@ -12,9 +12,6 @@ texture ALVD0932 range ALVD0935 tics 8 allowdecals
 switch ALVD0738 on pic ALVD0739 tics 0
 switch ALVD0936 on pic ALVD0937 tics 0
 
-// DBP01: Monuments of Mars
-texture DB010119 range DB010122 tics 8
-
 // Community Chest 2
 texture CCH20494 range CCH20497 tics 8
 texture CCH20502 range CCH20505 tics 8
@@ -72,6 +69,9 @@ switch CCH41852 on pic CCH41853 tics 0
 switch CCH42061 on pic CCH42062 tics 0
 switch CCH42227 on pic CCH42228 tics 0
 switch CCH42229 on pic CCH42230 tics 0
+
+// DBP01: Monuments of Mars
+texture DB010119 range DB010122 tics 8
 
 // Doom 2 Redux
 texture D2RX0326 range D2RX0329 tics 8 allowdecals
