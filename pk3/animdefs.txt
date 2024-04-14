@@ -1,8 +1,8 @@
 // 1994 Tune-Up Community Project
-texture 19940441 range 19940443 tics 8 allowdecals
-texture 19940492 range 19940495 tics 8
-switch 19940453 on pic 19940457 tics 0
-switch 19940455 on pic 19940459 tics 0
+texture 94TU0441 range 94TU0443 tics 8 allowdecals
+texture 94TU0492 range 94TU0495 tics 8
+switch 94TU0453 on pic 94TU0457 tics 0
+switch 94TU0455 on pic 94TU0459 tics 0
 
 // Alien Vendetta
 texture ALVD0746 range ALVD0749 tics 8
