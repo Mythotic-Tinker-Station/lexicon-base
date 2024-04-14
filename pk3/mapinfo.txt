@@ -13,6 +13,7 @@ include "mapinfo/HR2.txt" // hr2final.wad
 include "mapinfo/INTERCEP.txt" // intercep.wad
 include "mapinfo/KSSHT.txt" // kssht.wad
 include "mapinfo/KSUTRA.txt" // ksutra.wad
+include "mapinfo/MAYHEM17.txt" // mayhem17.wad
 include "mapinfo/NOVA1.txt" // nova.wad
 include "mapinfo/SWIDEATH.txt"// swideath.wad
 include "mapinfo/ZONE300.txt" // zone300.wad

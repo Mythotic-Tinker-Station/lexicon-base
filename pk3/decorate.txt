@@ -1,2 +1,3 @@
 #include "decorate/ALVD.txt" // Alien Vendetta
 #include "decorate/DB01.txt" // DBP01: Monuments of Mars
+#include "decorate/MY17.txt" // Super MAYhem 17

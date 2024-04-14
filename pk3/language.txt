@@ -6,3 +6,13 @@ ALVD_ACTOR_1 = "Lexicon_ALVD_CommanderKeen";
 
 // DBP01: Monuments of Mars
 DB01_ACTOR_1 = "Lexicon_DB01_DeadStick";
+
+// Super MAYhem 17
+MY17_ACTOR_1 = "Lexicon_MY17_HealthBonus";
+MY17_ACTOR_2 = "Lexicon_MY17_CommanderKeen";
+MY17_ACTOR_3 = "Lexicon_MY17_ColonGibs";
+MY17_ACTOR_4 = "Lexicon_MY17_SmallBloodPool";
+MY17_ACTOR_5 = "Lexicon_MY17_BrainStem";
+MY17_ACTOR_6 = "Lexicon_MY17_WolfensteinSS";
+MY17_GOTREDCOIN = "A mysterious red coin...";
+OB_MY17_BOWSER = "%o fell before King Koopa's might.";

@@ -1,0 +1,135 @@
+ACTOR Lexicon_MY17_HealthBonus : HealthBonus
+{
+	+INVENTORY.NEVERRESPAWN
+	Inventory.PickupMessage "$MY17_GOTREDCOIN"
+	States
+	{
+	Spawn:
+		LX02 I 10
+		LX02 J 10 Bright
+		Loop
+	}
+}
+
+ACTOR Lexicon_MY17_CommanderKeen : CommanderKeen
+{
+	Health 8000
+	Speed 16
+	Radius 48
+	Height 96
+	PainChance 20
+	Mass 1000
+	-SPAWNCEILING
+	-NOGRAVITY
+	-COUNTKILL
+	SeeSound "MY17/DSSSSIT"
+	AttackSound "MY17/DSKEENDT"
+	PainSound "MY17/DSKEENPN"
+	DeathSound "MY17/DSSSDTH"
+	Obituary "$OB_MY17_BOWSER"
+	States
+	{
+	Spawn:
+		LX01 A 10 A_Look
+		Loop
+	See:
+		LX01 ABCDEFGH 3 A_Chase
+		Loop
+	Pain:
+		LX01 Q 8 A_Pain
+		LX01 ABCDEFGH 3 A_Chase
+		goto See
+	Melee:
+		LX01 L 6 A_SkelWhoosh
+		LX01 MN 6 A_FaceTarget
+		LX01 O 0 A_SkelFist
+		LX01 P 6 A_SkelFist
+		LX01 IJ 6 A_FaceTarget
+	State_738:
+		LX01 K 6 Bright A_FatAttack1
+		LX01 K 6 Bright A_FatAttack2
+		LX01 K 6 Bright A_FatAttack3
+		LX01 K 1 A_SpidRefire
+		goto State_738
+	Missile:
+		LX01 IJ 6 A_FaceTarget
+		goto State_738
+	Death:
+		LX01 RSTUV 8 
+		LX01 W 8 A_KeenDie
+		LX01 X -1 
+		stop
+	}
+}
+
+ACTOR Lexicon_MY17_ColonGibs : ColonGibs
+{
+	-NOBLOCKMAP
+	States
+	{
+	Spawn:
+		LX02 K -1
+		Stop
+	}
+}
+
+ACTOR Lexicon_MY17_SmallBloodPool : SmallBloodPool
+{
+	-NOBLOCKMAP
+}
+
+ACTOR Lexicon_MY17_BrainStem : BrainStem
+{
+	-NOBLOCKMAP
+	States
+	{
+	Spawn:
+		LX02 L -1
+		Stop
+	}
+}
+
+ACTOR Lexicon_MY17_WolfensteinSS : WolfensteinSS
+{
+	Health 999999
+	Speed 25
+	Radius 30
+	Height 64
+	PainChance 0
+	Mass 300
+	+NOBLOOD
+	-COUNTKILL
+	SeeSound ""
+	PainSound ""
+	DeathSound ""
+	ActiveSound ""
+	States
+	{
+	Spawn:
+		LX02 A 1 A_Look
+		Loop
+	See:
+		LX02 ABCDEFGH 2 A_Chase
+		Loop
+	Pain:
+		TROO A -1 
+		stop
+	Melee:
+		LX02 A 0 A_SkelFist
+		LX02 A 1 A_SkelFist
+		LX02 ABCDEFGH 2 A_Chase
+		goto See
+	Missile:
+		TROO A -1 
+		stop
+	Death:
+		LX02 A 10 Bright A_PainAttack
+		Loop
+	XDeath:
+		TROO A -1 
+		stop
+	Raise:
+		TROO A -1 
+		stop
+	}
+}
