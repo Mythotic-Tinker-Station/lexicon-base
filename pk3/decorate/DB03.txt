@@ -3,7 +3,7 @@ ACTOR Lexicon_DB03_TallRedColumn : TallRedColumn
 	States
     {
 	Spawn:
-		FS01 A -1
+		LX00 B -1
 		Stop
 	}
 }
@@ -13,7 +13,7 @@ ACTOR Lexicon_DB03_ShortRedColumn : ShortRedColumn
 	States
 	{
 	Spawn:
-		FS02 A -1
+		LX00 C -1
 		Stop
 	}
 }
@@ -23,7 +23,7 @@ ACTOR Lexicon_DB03_SkullColumn : SkullColumn
 	States
 	{
 	Spawn:
-		FS03 A -1
+		LX00 D -1
 		Stop
 	}
 }
@@ -33,7 +33,7 @@ ACTOR Lexicon_DB03_HangTLookingDown : HangTLookingDown
 	States
 	{
 	Spawn:
-		FS04 A -1
+		LX00 E -1
 		Stop
 	}
 }
@@ -43,7 +43,7 @@ ACTOR Lexicon_DB03_HangTSkull : HangTSkull
 	States
 	{
 	Spawn:
-		FS05 A -1
+		LX00 F -1
 		Stop
 	}
 }
@@ -53,7 +53,7 @@ ACTOR Lexicon_DB03_HangTLookingUp : HangTLookingUp
 	States
 	{
 	Spawn:
-		FS06 A -1
+		LX00 G -1
 		Stop
 	}
 }
@@ -63,7 +63,7 @@ ACTOR Lexicon_DB03_DeadStick : DeadStick
 	States
 	{
 	Spawn:
-		FS07 A -1
+		LX00 H -1
 		Stop
 	}
 }
