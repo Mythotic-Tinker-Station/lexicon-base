@@ -7,6 +7,15 @@ ALVD_ACTOR_1 = "Lexicon_ALVD_CommanderKeen";
 // DBP01: Monuments of Mars
 DB01_ACTOR_1 = "Lexicon_DB01_DeadStick";
 
+// DBP03: Forest Swords
+DB03_ACTOR_1 = "Lexicon_DB03_TallRedColumn";
+DB03_ACTOR_2 = "Lexicon_DB03_ShortRedColumn";
+DB03_ACTOR_3 = "Lexicon_DB03_SkullColumn";
+DB03_ACTOR_4 = "Lexicon_DB03_HangTLookingDown";
+DB03_ACTOR_5 = "Lexicon_DB03_HangTSkull";
+DB03_ACTOR_6 = "Lexicon_DB03_HangTLookingUp";
+DB03_ACTOR_7 = "Lexicon_DB03_DeadStick";
+
 // Super MAYhem 17
 MY17_ACTOR_1 = "Lexicon_MY17_HealthBonus";
 MY17_ACTOR_2 = "Lexicon_MY17_CommanderKeen";
