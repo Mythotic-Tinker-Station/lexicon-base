@@ -1,0 +1,4 @@
+object Lexicon_MY17_HealthBonus
+{
+    frame LX02 { light REDKEY }
+}
