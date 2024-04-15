@@ -1,5 +1,11 @@
 // DBP01: Monuments of Mars Mapinfo
 
+defaultmap
+{
+	nojump
+	nocrouch
+}
+
 map DB0101 "Breakout"
 {
 	titlepatch = "DB01V00"
@@ -82,4 +88,5 @@ map DB0107 "Geothermal Gymnastics"
 	intermusic = "D_DB01IN"
 	ExitPic = "DB01INT"
 	EnterPic = "DB01INT"
+	Map07Special
 }

@@ -1,5 +1,11 @@
 // DBP03: Forest Swords
 
+defaultmap
+{
+	nojump
+	nocrouch
+}
+
 map DB0301 "Rocky Start"
 {
 	titlepatch = "DB03V00"
@@ -82,6 +88,7 @@ map DB0307 "It doesnt have a name"
 	intermusic = "D_DB03IN"
 	ExitPic = "DB03INT"
 	EnterPic = "DB03INT"
+	Map07Special
 }
 
 map DB0308 "The Chapel"
