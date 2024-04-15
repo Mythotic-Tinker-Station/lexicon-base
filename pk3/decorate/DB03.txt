@@ -1,6 +1,7 @@
 ACTOR Lexicon_DB03_TallRedColumn : TallRedColumn
 {
-	{
+	States
+    {
 	Spawn:
 		FS01 A -1
 		Stop
