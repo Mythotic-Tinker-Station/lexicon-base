@@ -80,6 +80,14 @@ texture DB030517 range DB030520 tics 8
 flat DB030042 range DB030045 tics 8
 switch DB030366 on pic DB030406 tics 0
 
+// DBP04: Xenomorph Base
+texture DB040087 range DB040090 tics 8 allowdecals
+texture DB040148 range DB040151 tics 8
+texture DB040536 range DB040539 tics 8
+flat DB040045 range DB040060 tics 8
+flat DB040061 range DB040064 tics 8
+switch DB040350 on pic DB040390 tics 0
+
 // Doom 2 Redux
 texture D2RX0326 range D2RX0329 tics 8 allowdecals
 texture D2RX0389 range D2RX0392 tics 8

@@ -7,6 +7,7 @@ include "mapinfo/CCHEST4.txt" // cchest4_map25,26coopfix.wad
 include "mapinfo/D2REDUX.txt" // D2REDUX.wad
 include "mapinfo/DBP01.txt" // DBP01.wad
 include "mapinfo/DBP03.txt" // DBP03.wad
+include "mapinfo/DBP04.txt" // DBP04.wad
 include "mapinfo/ESTRANGD.txt" // estrangd.wad
 include "mapinfo/HELLBND.txt" // hellbnd_map03fix.wad
 include "mapinfo/HR1.txt" // hr.wad

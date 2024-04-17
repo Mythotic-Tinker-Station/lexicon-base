@@ -1,4 +1,4 @@
-// DBP03: Forest Swords
+// DBP03: Forest Swords Mapinfo
 
 defaultmap
 {
