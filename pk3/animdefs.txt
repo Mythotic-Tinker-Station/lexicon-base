@@ -154,6 +154,35 @@ switch REQU0488 on pic REQU0528 tics 0
 switch REQU0489 on pic REQU0529 tics 0
 switch REQU0490 on pic REQU0530 tics 0
 
+// Sunlust
+texture SNLU0197 range SNLU0200 tics 8
+texture SNLU0392 range SNLU0394 tics 8 allowdecals
+texture SNLU0715 range SNLU0724 tics 8
+texture SNLU0725 range SNLU0734 tics 8
+texture SNLU0735 range SNLU0744 tics 8
+texture SNLU0758 range SNLU0760 tics 8
+texture SNLU0790 range SNLU0793 tics 8
+texture SNLU0797 range SNLU0812 tics 8
+texture SNLU0813 range SNLU0828 tics 8
+texture SNLU0829 range SNLU0844 tics 8
+texture SNLU0845 range SNLU0860 tics 8
+texture SNLU0861 range SNLU0864 tics 8
+texture SNLU0922 range SNLU0925 tics 8
+texture SNLU0977 range SNLU0980 tics 8
+texture SNLU1045 range SNLU1048 tics 8
+texture SNLU1062 range SNLU1070 tics 8
+flat SNLU0005 range SNLU0008 tics 8
+flat SNLU0127 range SNLU0130 tics 8
+flat SNLU0145 range SNLU0148 tics 8
+flat SNLU0169 range SNLU0171 tics 8
+flat SNLU0176 range SNLU0179 tics 8
+flat SNLU0181 range SNLU0184 tics 8
+flat SNLU0185 range SNLU0188 tics 8
+switch SNLU0490 on pic SNLU0530 tics 0
+switch SNLU0876 on pic SNLU0871 tics 0
+switch SNLU1019 on pic SNLU1023 tics 0
+switch SNLU1020 on pic SNLU1024 tics 0
+
 // Super MAYhem 17
 texture MY170640 range MY170643 tics 8
 texture MY170663 range MY170665 tics 8

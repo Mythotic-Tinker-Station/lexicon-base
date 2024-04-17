@@ -16,6 +16,14 @@ DB03_ACTOR_5 = "Lexicon_DB03_HangTSkull";
 DB03_ACTOR_6 = "Lexicon_DB03_HangTLookingUp";
 DB03_ACTOR_7 = "Lexicon_DB03_DeadStick";
 
+// Sunlust
+SNLU_ACTOR_1 = "Lexicon_SNLU_TallGreenColumn";
+SNLU_ACTOR_2 = "Lexicon_SNLU_TallRedColumn";
+SNLU_ACTOR_3 = "Lexicon_SNLU_SkullColumn";
+SNLU_ACTOR_4 = "Lexicon_SNLU_FloatingSkull";
+SNLU_ACTOR_5 = "Lexicon_SNLU_Meat3";
+SNLU_ACTOR_6 = "Lexicon_SNLU_BurningBarrel";
+
 // Super MAYhem 17
 MY17_ACTOR_1 = "Lexicon_MY17_HealthBonus";
 MY17_ACTOR_2 = "Lexicon_MY17_CommanderKeen";

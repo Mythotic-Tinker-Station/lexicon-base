@@ -1,0 +1,4 @@
+object Lexicon_SNLU_BurningBarrel
+{
+    frame LX04 { light FIREBARREL }
+}
