@@ -73,6 +73,11 @@ switch CCH42229 on pic CCH42230 tics 0
 // DBP01: Monuments of Mars
 texture DB010119 range DB010122 tics 8
 
+// DBP02: Circle of Cania
+texture DB020125 range DB020128 tics 8
+texture DB020247 range DB020250 tics 8
+texture DB020509 range DB020512 tics 8
+
 // DBP03: Forest Swords
 texture DB030129 range DB030132 tics 8
 texture DB030251 range DB030254 tics 8

@@ -7,6 +7,14 @@ ALVD_ACTOR_1 = "Lexicon_ALVD_CommanderKeen";
 // DBP01: Monuments of Mars
 DB01_ACTOR_1 = "Lexicon_DB01_DeadStick";
 
+// DBP02: Circle of Cania
+DB02_ACTOR_1 = "Lexicon_DB02_GreenTorch";
+DB02_ACTOR_2 = "Lexicon_DB02_TallGreenColumn";
+DB02_ACTOR_3 = "Lexicon_DB02_Stalagtite";
+DB02_ACTOR_4 = "Lexicon_DB02_ShortGreenColumn";
+DB02_ACTOR_5 = "Lexicon_DB02_SkullColumn";
+DB02_ACTOR_6 = "Lexicon_DB02_ShortGreenTorch";
+
 // DBP03: Forest Swords
 DB03_ACTOR_1 = "Lexicon_DB03_TallRedColumn";
 DB03_ACTOR_2 = "Lexicon_DB03_ShortRedColumn";
