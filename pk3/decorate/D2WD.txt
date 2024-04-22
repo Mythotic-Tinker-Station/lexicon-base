@@ -10,8 +10,8 @@ ACTOR Lexicon_D2WD_DeadLostSoul : DeadLostSoul
 	+DROPOFF
 	+NOBLOOD
 	+COUNTKILL
-	AttackSound ""
-	PainSound ""
+	AttackSound "D2WD/DSSKLDTH"
+	PainSound "D2WD/DSSKLDTH"
 	DeathSound "D2WD/DSKEENDT"
 	States
 	{
@@ -83,6 +83,7 @@ ACTOR Lexicon_D2WD_WolfensteinSS : WolfensteinSS
 	AttackSound "D2WD/DSTINK"
 	PainSound "D2WD/DSSSSIT"
 	ActiveSound "D2WD/DSTINK"
+	DeathSound "D2WD/DSSSDTH"
 	States
 	{
 	Spawn:
