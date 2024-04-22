@@ -123,11 +123,9 @@ ACTOR Lexicon_MY17_WolfensteinSS : WolfensteinSS
 		TROO A -1 
 		stop
 	Death:
+	XDeath:
 		LX02 A 10 Bright A_PainAttack
 		Loop
-	XDeath:
-		TROO A -1 
-		stop
 	Raise:
 		TROO A -1 
 		stop

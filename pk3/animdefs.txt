@@ -70,6 +70,18 @@ switch CCH42061 on pic CCH42062 tics 0
 switch CCH42227 on pic CCH42228 tics 0
 switch CCH42229 on pic CCH42230 tics 0
 
+// Doom 2 The Way id Did
+texture D2WD0550 pic 1 tics 35 pic 1 tics 35
+texture D2WD0551 pic 1 tics 35 pic 1 tics 35
+texture D2WD0552 pic 1 tics 35 pic 1 tics 35
+texture D2WD0553 pic 1 tics 35 pic 1 tics 35
+texture D2WD0554 pic 1 tics 35 pic 1 tics 35
+texture D2WD0555 pic 1 tics 35 pic 1 tics 35
+texture D2WD0617 pic 1 tics 35 pic 1 tics 35
+texture D2WD0618 pic 1 tics 35 pic 1 tics 35
+texture D2WD0655 pic 1 tics 35 pic 1 tics 35
+texture D2WD0616 pic 1 tics 35 pic 1 tics 35
+
 // DBP01: Monuments of Mars
 texture DB010119 range DB010122 tics 8
 

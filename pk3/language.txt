@@ -4,6 +4,11 @@
 // Alien Vendetta
 ALVD_ACTOR_1 = "Lexicon_ALVD_CommanderKeen";
 
+// Doom 2 The Way id Did
+DW2D_ACTOR_1 = "Lexicon_D2WD_DeadLostSoul";
+DW2D_ACTOR_2 = "Lexicon_D2WD_CommanderKeen";
+DW2D_ACTOR_3 = "Lexicon_D2WD_WolfensteinSS";
+
 // DBP01: Monuments of Mars
 DB01_ACTOR_1 = "Lexicon_DB01_DeadStick";
 
