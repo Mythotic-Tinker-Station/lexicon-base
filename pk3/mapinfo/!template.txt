@@ -62,6 +62,7 @@ map MAP07 lookup "HUSTR_7"
 	secretnext = "MAP08"
 	sky1 = "SKY1"
 	music = "$MUSIC_SHAWN"
+	Map07Special
 }
 
 map MAP08 lookup "HUSTR_8"

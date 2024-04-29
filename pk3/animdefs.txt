@@ -70,6 +70,10 @@ switch CCH42061 on pic CCH42062 tics 0
 switch CCH42227 on pic CCH42228 tics 0
 switch CCH42229 on pic CCH42230 tics 0
 
+// Congestion 1024
+switch C2410467 on pic C2410507 tics 0
+switch C2410470 on pic C2410510 tics 0
+
 // Doom 2 The Way id Did
 texture D2WD0550 pic 1 tics 35 pic 1 tics 35
 texture D2WD0551 pic 1 tics 35 pic 1 tics 35

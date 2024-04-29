@@ -4,6 +4,9 @@
 // Alien Vendetta
 ALVD_ACTOR_1 = "Lexicon_ALVD_CommanderKeen";
 
+// Congestion 1024
+C241_ACTOR_1 = "Lexicon_C241_ShortGreenColumn";
+
 // Doom 2 The Way id Did
 D2WD_ACTOR_1 = "Lexicon_D2WD_DeadLostSoul";
 D2WD_ACTOR_2 = "Lexicon_D2WD_CommanderKeen";
