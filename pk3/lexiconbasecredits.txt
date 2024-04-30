@@ -2,6 +2,7 @@ Lexicon Base Authors
 ---------------
 1994 Tune-up Community Project: Snarboo, 1994TU Team
 Alien Vendetta: AV Team, MAP20 coop fix by BLOODWOLF
+Claustrophobia 1024: Mechadon, Claustrophobia 1024 Team
 Community Chest 1: Dale E. Harris, CC1 Team, MAP15 coop fix by BLOODWOLF, MAP29 slightly modified by cubebert
 Community Chest 2: Cadman, CC2 Team, coop fixes by BLOODWOLF
 Community Chest 3: Andy Leaver, CC3 Team, coop fixes by BLOODWOLF, MAP03 slightly modified by cubebert

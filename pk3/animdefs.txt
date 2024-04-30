@@ -12,6 +12,30 @@ texture ALVD0932 range ALVD0935 tics 8 allowdecals
 switch ALVD0738 on pic ALVD0739 tics 0
 switch ALVD0936 on pic ALVD0937 tics 0
 
+// Claustrophobia 1024
+texture C2421010 range C2421013 tics 8
+texture C2421026 range C2421029 tics 8
+texture C2421498 range C2421501 tics 8
+flat C2420186 range C2420189 tics 8
+switch C2420625 on pic C2420665 tics 0
+switch C2420626 on pic C2420666 tics 0
+switch C2420630 on pic C2420670 tics 0
+switch C2420641 on pic C2420681 tics 0
+switch C2420642 on pic C2420682 tics 0
+switch C2420656 on pic C2420696 tics 0
+switch C2420931 on pic C2420932 tics 0
+switch C2420933 on pic C2420934 tics 0
+switch C2421211 on pic C2421212 tics 0
+switch C2421379 on pic C2421380 tics 0
+switch C2421386 on pic C2421387 tics 0
+switch C2421388 on pic C2421389 tics 0
+switch C2421390 on pic C2421391 tics 0
+switch C2421437 on pic C2421442 tics 0
+switch C2421438 on pic C2421443 tics 0
+switch C2421440 on pic C2421447 tics 0
+switch C2421441 on pic C2421448 tics 0
+switch C2421445 on pic C2421446 tics 0
+
 // Community Chest 2
 texture CCH20494 range CCH20497 tics 8
 texture CCH20502 range CCH20505 tics 8

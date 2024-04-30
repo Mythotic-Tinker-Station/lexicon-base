@@ -1,4 +1,5 @@
 include "mapinfo/1024.txt" // 1024.wad
+include "mapinfo/1024CLAU.txt" // 1024CLAU.wad
 include "mapinfo/1994TU.txt" // 1994TU.wad
 include "mapinfo/AV.txt" // av_map20coopfix.wad
 include "mapinfo/CCHEST1.txt" // cchest_map15coopfix.wad
