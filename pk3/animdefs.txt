@@ -208,10 +208,11 @@ switch REQU0489 on pic REQU0529 tics 0
 switch REQU0490 on pic REQU0530 tics 0
 
 // Stardate 20X6
-texture SDX60239 range SDX60242 tics 8
-texture SDX60463 range SDX60466 tics 8
-switch SDX60323 on pic SDX60363 tics 0
-switch SDX60348 on pic SDX60388 tics 0
+texture SDX60242 range SDX60245 tics 8
+texture SDX60466 range SDX60469 tics 8
+flat SDX60001 range SDX60003 tics 8
+switch SDX60326 on pic SDX60366 tics 0
+switch SDX60351 on pic SDX60391 tics 0
 
 // Sunlust
 texture SNLU0197 range SNLU0200 tics 8
