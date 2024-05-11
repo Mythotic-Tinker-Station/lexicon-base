@@ -37,14 +37,23 @@ DB04_ACTOR_1 = "Lexicon_DB01_DeadStick";
 
 // Stardate 20X6
 SDX6_ACTOR_1 = "Lexicon_SDX6_Arachnotron";
+SDX6_ACTORALT_1 = "Arachnotron";
 SDX6_ACTOR_2 = "Lexicon_SDX6_HellKnight";
+SDX6_ACTORALT_2 = "HellKnight";
 SDX6_ACTOR_3 = "Lexicon_SDX6_BaronOfHell";
+SDX6_ACTORALT_3 = "BaronOfHell";
 SDX6_ACTOR_4 = "Lexicon_SDX6_ExplosiveBarrel";
+SDX6_ACTORALT_4 = "ExplosiveBarrel";
 SDX6_ACTOR_5 = "Lexicon_SDX6_ArmorBonus";
+SDX6_ACTORALT_5 = "ArmorBonus";
 SDX6_ACTOR_6 = "Lexicon_SDX6_GreenArmor";
+SDX6_ACTORALT_6 = "GreenArmor";
 SDX6_ACTOR_7 = "Lexicon_SDX6_InvulnerabilitySphere";
+SDX6_ACTORALT_7 = "InvulnerabilitySphere";
 SDX6_ACTOR_8 = "Lexicon_SDX6_Allmap";
+SDX6_ACTORALT_8 = "Allmap";
 SDX6_ACTOR_9 = "Lexicon_SDX6_Cell";
+SDX6_ACTORALT_9 = "Cell";
 SDX6_ACTOR_10 = "Lexicon_SDX6_DeadMarine";
 SDX6_ACTOR_11 = "Lexicon_SDX6_ShortGreenTorch";
 
