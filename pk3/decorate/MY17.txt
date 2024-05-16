@@ -131,3 +131,104 @@ ACTOR Lexicon_MY17_WolfensteinSS : WolfensteinSS
 		stop
 	}
 }
+
+ACTOR Lexicon_MY17_RocketLauncher : DoomWeapon
+{
+	Weapon.SelectionOrder 2500
+	Weapon.AmmoUse 1
+	Weapon.AmmoGive 2
+	Weapon.AmmoType "RocketAmmo"
+	Weapon.SlotNumber 5
+	+WEAPON.NOAUTOFIRE
+	+WEAPON.CHEATNOTWEAPON
+	Inventory.PickupMessage "$GOTLAUNCHER"
+	Tag "$TAG_ROCKETLAUNCHER"
+	States
+	{
+	Ready:
+		MISG A 1 A_WeaponReady
+		Loop
+	Deselect:
+		MISG A 1 A_Lower
+		Loop
+	Select:
+		MISG A 1 A_Raise
+		Loop
+	Fire:
+		MISG B 8 A_GunFlash
+		MISG B 12 A_FireProjectile("Lexicon_MY17_Rocket")
+		MISG B 0 A_ReFire
+		Goto Ready
+	Flash:
+		MISF A 3 Bright A_Light1
+		MISF B 4 Bright
+		MISF CD 4 Bright A_Light2
+		Goto LightDone
+	Spawn:
+		LAUN A -1
+		Stop
+	}
+}
+
+ACTOR Lexicon_MY17_Rocket : Rocket
+{
+	SeeSound "MY17/DSRLAUNC"
+	States
+	{
+	Spawn:
+		LX07 A 1 Bright
+		Loop
+	}
+}
+
+ACTOR Lexicon_MY17_PlasmaRifle : DoomWeapon
+{
+	Weapon.SelectionOrder 100
+	Weapon.AmmoUse 1
+	Weapon.AmmoGive 40
+	Weapon.AmmoType "Cell"
+	Weapon.SlotNumber 6
+	+WEAPON.CHEATNOTWEAPON
+	Inventory.PickupMessage "$GOTPLASMA"
+	Tag "$TAG_PLASMARIFLE"
+	States
+	{
+	Ready:
+		LX07 B 1 A_WeaponReady
+		Loop
+	Deselect:
+		LX07 B 1 A_Lower
+		Loop
+	Select:
+		LX07 B 1 A_Raise
+		Loop
+	Fire:
+		TNT1 A 0 A_GunFlash("Flash",GFF_NOEXTCHANGE)
+		LX07 B 3 A_FireProjectile("Lexicon_MY17_PlasmaBall")
+		LX07 C 20 A_ReFire
+		Goto Ready
+	Flash:
+		TNT1 A 0 A_Jump(256,1,2)
+		LX07 D 4 Bright A_Light1
+		Goto LightDone
+		LX07 E 4 Bright A_Light1
+		Goto LightDone
+	Spawn:
+		PLAS A -1
+		Stop
+	}
+}
+
+ACTOR Lexicon_MY17_PlasmaBall : PlasmaBall
+{
+	SeeSound "MY17/DSPLASMA"
+	States
+	{
+	Spawn:
+		LX07 FG 6 Bright
+		Loop
+	Death:
+		LX07 HIJKL 4 Bright
+		Stop
+	}
+}
