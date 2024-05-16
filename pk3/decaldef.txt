@@ -24,6 +24,28 @@ decalgroup Lexicon_SDX6_ArachnotronScorch
 generator Lexicon_SDX6_ArachnotronPlasma	Lexicon_SDX6_ArachnotronScorch
 
 // Super MAYhem 17
+decal Lexicon_MY17_ArachScorch1
+{
+	pic LX07M0
+	add 1.0
+	animator GoAway
+	lowerdecal PlasmaScorchLower1
+}
+
+decal Lexicon_MY17_ArachScorch2
+{
+	pic LX07N0
+	add 1.0
+	animator GoAway
+	lowerdecal PlasmaScorchLower2
+}
+
+decalgroup Lexicon_MY17_ArachnotronScorch
+{
+	Lexicon_MY17_ArachScorch1	1
+	Lexicon_MY17_ArachScorch2	1
+}
+
 decal Lexicon_MY17_PlasmaScorch1
 {
 	pic LX07F0
@@ -48,5 +70,7 @@ decalgroup Lexicon_MY17_PlasmaScorch
 	Lexicon_MY17_PlasmaScorch2	1
 }
 
+generator Lexicon_MY17_ArachnotronPlasma	Lexicon_MY17_ArachnotronScorch
 generator Lexicon_MY17_PlasmaBall	Lexicon_MY17_PlasmaScorch
 generator Lexicon_MY17_Rocket	Scorch
+generator Lexicon_MY17_DoomImpBall	DoomImpScorch

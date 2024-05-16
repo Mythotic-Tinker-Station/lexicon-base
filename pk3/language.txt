@@ -58,7 +58,7 @@ SNLU_ACTOR_6 = "Lexicon_SNLU_BurningBarrel";
 
 // Super MAYhem 17
 MY17_ACTOR_1 = "Lexicon_MY17_RedCard";
-MY17_ACTOR_2 = "Cyberdemon";
+MY17_ACTOR_2 = "Lexicon_MY17_Cyberdemon";
 MY17_ACTORALT_2 = "Cyberdemon";
 MY17_ACTOR_3 = "DeadStick";
 MY17_ACTOR_4 = "LiveStick";
@@ -77,7 +77,7 @@ MY17_ACTOR_16 = "Stalagtite";
 MY17_ACTOR_17 = "TechPillar";
 MY17_ACTOR_18 = "BloodyTwitch";
 MY17_ACTOR_19 = "ShortRedTorch";
-MY17_ACTOR_20 = "Arachnotron";
+MY17_ACTOR_20 = "Lexicon_MY17_Arachnotron";
 MY17_ACTOR_21 = "Lexicon_MY17_CommanderKeen";
 MY17_ACTOR_22 = "Lexicon_MY17_ColonGibs";
 MY17_ACTOR_23 = "Lexicon_MY17_SmallBloodPool";
@@ -109,7 +109,7 @@ MY17_ACTOR_38 = "Radsuit";
 MY17_ACTORALT_38 = "Radsuit";
 MY17_ACTOR_39 = "ExplosiveBarrel";
 MY17_ACTORALT_39 = "ExplosiveBarrel";
-MY17_ACTOR_40 = "DoomImp";
+MY17_ACTOR_40 = "Lexicon_MY17_DoomImp";
 MY17_ACTORALT_40 = "DoomImp";
 MY17_GOTREDCOIN = "A mysterious red coin...";
 OB_MY17_BOWSER = "%o fell before King Koopa's might.";
