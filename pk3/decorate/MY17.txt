@@ -1,4 +1,4 @@
-ACTOR Lexicon_MY17_HealthBonus : HealthBonus
+ACTOR Lexicon_MY17_RedCard : HealthBonus
 {
 	+INVENTORY.NEVERRESPAWN
 	Inventory.PickupMessage "$MY17_GOTREDCOIN"
