@@ -17,11 +17,11 @@ ACTOR Lexicon_MY17_Cyberdemon : Cyberdemon
 	{
 	Missile:
 		CYBR E 6 A_FaceTarget
-		CYBR F 12 A_CustomMissile("Lexicon_MY17_Rocket",32,0,0)
+		CYBR F 12 A_CustomMissile("Lexicon_MY17_Rocket")
 		CYBR E 12 A_FaceTarget
-		CYBR F 12 A_CustomMissile("Lexicon_MY17_Rocket",32,0,0)
+		CYBR F 12 A_CustomMissile("Lexicon_MY17_Rocket")
 		CYBR E 12 A_FaceTarget
-		CYBR F 12 A_CustomMissile("Lexicon_MY17_Rocket",32,0,0)
+		CYBR F 12 A_CustomMissile("Lexicon_MY17_Rocket")
 		Goto See
 	}
 }
@@ -147,7 +147,7 @@ Actor Lexicon_MY17_RedSkullItem : LexiconDoomRedSkull
 	Spawn:
 		LX10 T 10
 		LX10 U 10 bright
-		loop
+		Loop
 	}
 }
 
@@ -171,7 +171,7 @@ Actor Lexicon_MY17_YellowSkullItem : LexiconDoomYellowSkull
 	Spawn:
 		LX10 V 10
 		LX10 W 10 bright
-		loop
+		Loop
 	}
 }
 
@@ -195,7 +195,7 @@ Actor Lexicon_MY17_BlueSkullItem : LexiconDoomBlueSkull
 	Spawn:
 		LX10 R 10
 		LX10 S 10 bright
-		loop
+		Loop
 	}
 }
 
@@ -326,27 +326,25 @@ ACTOR Lexicon_MY17_CommanderKeen : CommanderKeen
 	Pain:
 		LX01 Q 8 A_Pain
 		LX01 ABCDEFGH 3 A_Chase
-		goto See
+		Goto See
 	Melee:
 		LX01 L 6 A_SkelWhoosh
 		LX01 MN 6 A_FaceTarget
 		LX01 O 0 A_SkelFist
 		LX01 P 6 A_SkelFist
+		Goto Missile
+	Missile:
 		LX01 IJ 6 A_FaceTarget
-	State_738:
 		LX01 K 6 Bright A_FatAttack1
 		LX01 K 6 Bright A_FatAttack2
 		LX01 K 6 Bright A_FatAttack3
 		LX01 K 1 A_SpidRefire
-		goto State_738
-	Missile:
-		LX01 IJ 6 A_FaceTarget
-		goto State_738
+		Loop
 	Death:
-		LX01 RSTUV 8 
+		LX01 RSTUV 8
 		LX01 W 8 A_KeenDie
-		LX01 X -1 
-		stop
+		LX01 X -1
+		Stop
 	}
 }
 
@@ -387,7 +385,7 @@ ACTOR Lexicon_MY17_Megasphere : Megasphere
 		LX10 NOPQ 6 BRIGHT
 		Loop
 	}
-}	
+}
 
 ACTOR Lexicon_MY17_WolfensteinSS : WolfensteinSS
 {
@@ -412,23 +410,23 @@ ACTOR Lexicon_MY17_WolfensteinSS : WolfensteinSS
 		LX02 ABCDEFGH 2 A_Chase
 		Loop
 	Pain:
-		TROO A -1 
-		stop
+		TROO A -1
+		Stop
 	Melee:
 		LX02 A 0 A_SkelFist
 		LX02 A 1 A_SkelFist
 		LX02 ABCDEFGH 2 A_Chase
-		goto See
+		Goto See
 	Missile:
-		TROO A -1 
-		stop
+		TROO A -1
+		Stop
 	Death:
 	XDeath:
 		LX02 A 10 Bright A_PainAttack
 		Loop
 	Raise:
-		TROO A -1 
-		stop
+		TROO A -1
+		Stop
 	}
 }
 
@@ -456,7 +454,7 @@ ACTOR Lexicon_MY17_RocketLauncher : DoomWeapon
 		Loop
 	Fire:
 		MISG B 8 A_GunFlash
-		MISG B 12 A_FireCustomMissile("Lexicon_MY17_Rocket",0)
+		MISG B 12 A_FireCustomMissile("Lexicon_MY17_Rocket")
 		MISG B 0 A_ReFire
 		Goto Ready
 	Flash:
@@ -504,14 +502,14 @@ ACTOR Lexicon_MY17_PlasmaRifle : DoomWeapon
 		Loop
 	Fire:
 		TNT1 A 0 A_GunFlash("Flash",GFF_NOEXTCHANGE)
-		LX07 B 3 A_FireCustomMissile("Lexicon_MY17_PlasmaBall",0)
+		LX07 B 3 A_FireCustomMissile("Lexicon_MY17_PlasmaBall")
 		LX07 C 20 A_ReFire
 		Goto Ready
 	Flash:
-		TNT1 A 0 A_Jump(256,1,2)
-		LX07 D 4 Bright A_Light1
+		TNT1 A 0 A_Light1
+		LX07 D 4 Bright A_Jump(128,1)
 		Goto LightDone
-		LX07 E 4 Bright A_Light1
+		LX07 E 4 Bright
 		Goto LightDone
 	Spawn:
 		PLAS A -1
@@ -564,7 +562,7 @@ Actor Lexicon_MY17_HealthBonus : HealthBonus
 	{
 	Spawn:
 		LX09 ABCDCB 6
-		loop
+		Loop
 	}
 }
 
@@ -576,7 +574,7 @@ Actor Lexicon_MY17_ArmorBonus : ArmorBonus
 	{
 	Spawn:
 		LX09 EFGHGF 6
-		loop
+		Loop
 	}
 }
 
@@ -588,7 +586,7 @@ Actor Lexicon_MY17_GreenArmor : GreenArmor
 	Spawn:
 		LX08 X 6
 		LX08 Y 7 bright
-		loop
+		Loop
 	}
 }
 
@@ -600,7 +598,7 @@ Actor Lexicon_MY17_BlueArmor : BlueArmor
 	Spawn:
 		LX08 V 6
 		LX08 W 7 bright
-		loop
+		Loop
 	}
 }
 
@@ -646,7 +644,7 @@ ACTOR Lexicon_MY17_RadSuit : RadSuit
 		LX08 H -1 Bright
 		Stop
 	}
-}	
+}
 
 ACTOR Lexicon_MY17_ExplosiveBarrel : ExplosiveBarrel
 {
@@ -661,9 +659,7 @@ ACTOR Lexicon_MY17_ExplosiveBarrel : ExplosiveBarrel
 		LX08 E 5 BRIGHT
 		LX08 F 5 BRIGHT A_Explode
 		LX08 G 10 BRIGHT
-		TNT1 A 1050 BRIGHT A_BarrelDestroy
-		TNT1 A 5 A_Respawn
-		Wait
+		Goto Super::Death+5
 	}
 }
 
@@ -674,7 +670,7 @@ ACTOR Lexicon_MY17_DoomImp : DoomImp
 	Melee:
 	Missile:
 		TROO EF 8 A_FaceTarget
-		TROO G 6 A_CustomComboAttack("Lexicon_MY17_DoomImpBall", 32, 3 * random(1, 8), "imp/melee") 
+		TROO G 6 A_CustomComboAttack("Lexicon_MY17_DoomImpBall", 32, 3 * random(1, 8), "imp/melee")
 		Goto See
 	}
 }
