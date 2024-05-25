@@ -3,6 +3,8 @@
 // Custom actors for Lexicon Base mapsets
 // Alien Vendetta
 ALVD_ACTOR_1 = "Lexicon_ALVD_CommanderKeen";
+ALVD_ACTOR_2 = "Lexicon_ALVD_BossEye";
+ALVD_ACTORALT_2 = "BossEye";
 
 // Congestion 1024
 C241_ACTOR_1 = "Lexicon_C241_ShortGreenColumn";
