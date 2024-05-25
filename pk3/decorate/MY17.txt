@@ -238,6 +238,16 @@ ACTOR Lexicon_MY17_BloodyTwitch : BloodyTwitch
 	}
 }
 
+ACTOR Lexicon_MY17_BigTree : BigTree
+{
+	States
+	{
+	Spawn:
+		LX10 X -1
+		Stop
+	}
+}
+
 ACTOR Lexicon_MY17_ShortRedTorch : ShortRedTorch
 {
 	States
@@ -246,6 +256,12 @@ ACTOR Lexicon_MY17_ShortRedTorch : ShortRedTorch
 		LX10 JKLM 4 BRIGHT
 		Loop
 	}
+}
+
+ACTOR Lexicon_MY17_NonsolidTwitch : Lexicon_MY17_BloodyTwitch
+{
+	-SOLID
+	Radius 20
 }
 
 ACTOR Lexicon_MY17_Arachnotron : Arachnotron

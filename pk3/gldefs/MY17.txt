@@ -33,6 +33,12 @@ object Lexicon_MY17_BloodyTwitch
 	frame LX10 { light Lexicon_MY17_HANGINGTORCH }
 }
 
+object Lexicon_MY17_NonsolidTwitch
+{
+	frame LX10 { light Lexicon_MY17_HANGINGTORCH }
+}
+
+
 // Super Mushroom
 pulselight Lexicon_MY17_SOULSPHERE
 {
