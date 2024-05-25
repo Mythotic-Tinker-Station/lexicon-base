@@ -127,18 +127,7 @@ ACTOR Lexicon_MY17_SkullColumn : SkullColumn
 	}
 }
 
-Actor Lexicon_MY17_RedSkull : LexiconKeySpawnerBase
-{
-	States
-	{
-	Spawn:
-		TNT1 A 0
-		TNT1 A 0 A_SetUserVar("user_id", 13)
-		Goto Super::Spawn
-	}
-}
-
-Actor Lexicon_MY17_RedSkullItem : LexiconDoomRedSkull
+Actor Lexicon_MY17_RedSkull : CustomInventory
 {
 	Inventory.PickupMessage "$MY17_GOTREDSKULL"
 	Inventory.PickupSound "MY17/DSITEMUP"
@@ -148,21 +137,13 @@ Actor Lexicon_MY17_RedSkullItem : LexiconDoomRedSkull
 		LX10 T 10
 		LX10 U 10 bright
 		Loop
+	Pickup:
+		TNT1 A 0 ACS_NamedExecuteAlways("SharedKey_Pickup", 0, 3)
+		Stop
 	}
 }
 
-Actor Lexicon_MY17_YellowSkull : LexiconKeySpawnerBase
-{
-	States
-	{
-	Spawn:
-		TNT1 A 0
-		TNT1 A 0 A_SetUserVar("user_id", 14)
-		Goto Super::Spawn
-	}
-}
-
-Actor Lexicon_MY17_YellowSkullItem : LexiconDoomYellowSkull
+Actor Lexicon_MY17_YellowSkull : CustomInventory
 {
 	Inventory.PickupMessage "$MY17_GOTYELWSKUL"
 	Inventory.PickupSound "MY17/DSITEMUP"
@@ -172,21 +153,13 @@ Actor Lexicon_MY17_YellowSkullItem : LexiconDoomYellowSkull
 		LX10 V 10
 		LX10 W 10 bright
 		Loop
+	Pickup:
+		TNT1 A 0 ACS_NamedExecuteAlways("SharedKey_Pickup", 0, 4)
+		Stop
 	}
 }
 
-Actor Lexicon_MY17_BlueSkull : LexiconKeySpawnerBase
-{
-	States
-	{
-	Spawn:
-		TNT1 A 0
-		TNT1 A 0 A_SetUserVar("user_id", 15)
-		Goto Super::Spawn
-	}
-}
-
-Actor Lexicon_MY17_BlueSkullItem : LexiconDoomBlueSkull
+Actor Lexicon_MY17_BlueSkull : CustomInventory
 {
 	Inventory.PickupMessage "$MY17_GOTBLUESKUL"
 	Inventory.PickupSound "MY17/DSITEMUP"
@@ -196,6 +169,9 @@ Actor Lexicon_MY17_BlueSkullItem : LexiconDoomBlueSkull
 		LX10 R 10
 		LX10 S 10 bright
 		Loop
+	Pickup:
+		TNT1 A 0 ACS_NamedExecuteAlways("SharedKey_Pickup", 0, 5)
+		Stop
 	}
 }
 

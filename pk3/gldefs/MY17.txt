@@ -138,19 +138,19 @@ object Lexicon_MY17_ArmorBonus
 }
 
 // Blue Key
-object Lexicon_MY17_BlueSkullItem
+object Lexicon_MY17_BlueSkull
 {
 	frame LX10 { light HEALTHPOTION }
 }
 
 // Yellow Key
-object Lexicon_MY17_YellowSkullItem
+object Lexicon_MY17_YellowSkull
 {
 	frame LX10 { light YELLOWKEY }
 }
 
 // Red Key
-object Lexicon_MY17_RedSkullItem
+object Lexicon_MY17_RedSkull
 {
 	frame LX10 { light REDKEY }
 }
