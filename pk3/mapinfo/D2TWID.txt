@@ -4,6 +4,7 @@ defaultmap
 {
 	nojump
 	nocrouch
+	specialaction = "Cyberdemon", "Door_Open", 666
 }
 
 map D2WD01 "Loading Bay"
