@@ -20,6 +20,7 @@ include "mapinfo/ICARUS.txt" // ICARUS.wad
 include "mapinfo/INTERCEP.txt" // intercep.wad
 include "mapinfo/KSSHT.txt" // kssht.wad
 include "mapinfo/KSUTRA.txt" // ksutra.wad
+include "mapinfo/MARSW301.txt" // MARSW301.WAD
 include "mapinfo/MM1.txt" // MM.wad
 include "mapinfo/MM2.txt" // MM2.wad
 include "mapinfo/MAYHEM17.txt" // mayhem17.wad

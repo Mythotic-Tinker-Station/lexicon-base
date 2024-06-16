@@ -37,6 +37,10 @@ DB03_ACTOR_7 = "Lexicon_DB03_DeadStick";
 // DBP04: Xenomorph Base
 DB04_ACTOR_1 = "Lexicon_DB01_DeadStick";
 
+// Mars War
+MSWR_ACTOR_1 = "Lexicon_MSWR_BossEye";
+MSWR_ACTORALT_1 = "BossEye";
+
 // Stardate 20X6
 SDX6_ACTOR_1 = "Lexicon_SDX6_Arachnotron";
 SDX6_ACTORALT_1 = "Arachnotron";
