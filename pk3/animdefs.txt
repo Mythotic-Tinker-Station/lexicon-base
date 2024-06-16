@@ -285,6 +285,12 @@ switch MY170500 on pic MY171072 tics 0
 texture SWDH0085 range SWDH0088 tics 8
 texture SWDH0439 range SWDH0442 tics 8 allowdecals
 
+// Vanguard
+texture VNGD0916 range VNGD0919 tics 8
+texture VNGD1240 range VNGD1243 tics 8
+texture VNGD3170 range VNGD3173 tics 8
+switch VNGD2960 on pic VNGD3002 tics 0
+
 // Zone 300
 texture ZN300087 range ZN300090 tics 8
 texture ZN300390 range ZN300393 tics 8
