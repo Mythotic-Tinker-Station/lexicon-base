@@ -1,21 +1,90 @@
 [default]
 
-// Custom actors for Lexicon Base mapsets
+// Custom actors and metadata for Lexicon Base mapsets
+// 1994 Tune-up Community Project
+94TU_MAPSET_AUTH = "Snarboo, 1994TU Team";
+94TU_MAPSET_CUST = "N";
+94TU_MAPSET_DATE = "2011";
+94TU_MAPSET_MAPS = "32";
+94TU_MAPSET_TTLE = "1994 Tune-up Community Project";
+
 // Alien Vendetta
 ALVD_ACTOR_1 = "Lexicon_ALVD_CommanderKeen";
 ALVD_ACTOR_2 = "Lexicon_ALVD_BossEye";
 ALVD_ACTORALT_2 = "BossEye";
+ALVD_MAPSET_AUTH = "AV Team, MAP20 coop fix by BLOODWOLF";
+ALVD_MAPSET_CUST = "Y";
+ALVD_MAPSET_DATE = "2002";
+ALVD_MAPSET_MAPS = "32";
+ALVD_MAPSET_TTLE = "Alien Vendetta";
+
+// Claustrophobia 1024
+C242_MAPSET_AUTH = "Mechadon, Claustrophobia 1024 Team";
+C242_MAPSET_CUST = "N";
+C242_MAPSET_DATE = "2009";
+C242_MAPSET_MAPS = "34";
+C242_MAPSET_TTLE = "Claustrophobia 1024";
+
+// Community Chest 1
+CCH1_MAPSET_AUTH = "Dale E. Harris, CC1 Team, MAP15 coop fix by BLOODWOLF, MAP29 slightly modified by cubebert";
+CCH1_MAPSET_CUST = "N";
+CCH1_MAPSET_DATE = "2003";
+CCH1_MAPSET_MAPS = "32";
+CCH1_MAPSET_TTLE = "Community Chest";
+
+// Community Chest 2
+CCH2_MAPSET_AUTH = "Cadman, CC2 Team, coop fixes by BLOODWOLF";
+CCH2_MAPSET_CUST = "N";
+CCH2_MAPSET_DATE = "2004";
+CCH2_MAPSET_MAPS = "32";
+CCH2_MAPSET_TTLE = "Community Chest 2";
+
+// Community Chest 3
+CCH3_MAPSET_AUTH = "Andy Leaver, CC3 Team, coop fixes by BLOODWOLF, MAP03 slightly modified by cubebert";
+CCH3_MAPSET_CUST = "N";
+CCH3_MAPSET_DATE = "2007";
+CCH3_MAPSET_MAPS = "32";
+CCH3_MAPSET_TTLE = "Community Chest 3";
+
+// Community Chest 4
+CCH4_MAPSET_AUTH = "The Green Herring, CC4 Team, coop fixes by BLOODWOLF";
+CCH4_MAPSET_CUST = "N";
+CCH4_MAPSET_DATE = "2012";
+CCH4_MAPSET_MAPS = "33";
+CCH4_MAPSET_TTLE = "Community Chest 4";
 
 // Congestion 1024
 C241_ACTOR_1 = "Lexicon_C241_ShortGreenColumn";
+C241_MAPSET_AUTH = "Lutrov71, Shitbag, Congestion 1024 Team";
+C241_MAPSET_CUST = "Y";
+C241_MAPSET_DATE = "2005";
+C241_MAPSET_MAPS = "32";
+C241_MAPSET_TTLE = "Congestion 1024";
+
+// Doom 2 Redux
+D2RX_MAPSET_AUTH = "Trace of Spades, D2REDUX Team";
+D2RX_MAPSET_CUST = "N";
+D2RX_MAPSET_DATE = "2017";
+D2RX_MAPSET_MAPS = "32";
+D2RX_MAPSET_TTLE = "Doom 2 Redux";
 
 // Doom 2 The Way id Did
 D2WD_ACTOR_1 = "Lexicon_D2WD_DeadLostSoul";
 D2WD_ACTOR_2 = "Lexicon_D2WD_CommanderKeen";
 D2WD_ACTOR_3 = "Lexicon_D2WD_WolfensteinSS";
+D2WD_MAPSET_AUTH = "D2TWID Team, MAP08 coop fix by BLOODWOLF";
+D2WD_MAPSET_CUST = "Y";
+D2WD_MAPSET_DATE = "2013";
+D2WD_MAPSET_MAPS = "32";
+D2WD_MAPSET_TTLE = "Doom 2 The Way id Did";
 
 // DBP01: Monuments of Mars
 DB01_ACTOR_1 = "Lexicon_DB01_DeadStick";
+DB01_MAPSET_AUTH = "Doomer Boards Community";
+DB01_MAPSET_CUST = "Y";
+DB01_MAPSET_DATE = "2018";
+DB01_MAPSET_MAPS = "7";
+DB01_MAPSET_TTLE = "DBP01: Monuments of Mars";
 
 // DBP02: Circle of Cania
 DB02_ACTOR_1 = "Lexicon_DB02_GreenTorch";
@@ -24,6 +93,11 @@ DB02_ACTOR_3 = "Lexicon_DB02_Stalagtite";
 DB02_ACTOR_4 = "Lexicon_DB02_ShortGreenColumn";
 DB02_ACTOR_5 = "Lexicon_DB02_SkullColumn";
 DB02_ACTOR_6 = "Lexicon_DB02_ShortGreenTorch";
+DB02_MAPSET_AUTH = "Doomer Boards Community";
+DB02_MAPSET_CUST = "Y";
+DB02_MAPSET_DATE = "2018";
+DB02_MAPSET_MAPS = "8";
+DB02_MAPSET_TTLE = "DBP02: Circle of Cania";
 
 // DBP03: Forest Swords
 DB03_ACTOR_1 = "Lexicon_DB03_TallRedColumn";
@@ -33,13 +107,112 @@ DB03_ACTOR_4 = "Lexicon_DB03_HangTLookingDown";
 DB03_ACTOR_5 = "Lexicon_DB03_HangTSkull";
 DB03_ACTOR_6 = "Lexicon_DB03_HangTLookingUp";
 DB03_ACTOR_7 = "Lexicon_DB03_DeadStick";
+DB03_MAPSET_AUTH = "Doomer Boards Community";
+DB03_MAPSET_CUST = "Y";
+DB03_MAPSET_DATE = "2018";
+DB03_MAPSET_MAPS = "8";
+DB03_MAPSET_TTLE = "DBP03: Forest Swords";
 
 // DBP04: Xenomorph Base
 DB04_ACTOR_1 = "Lexicon_DB01_DeadStick";
+DB04_MAPSET_AUTH = "Doomer Boards Community";
+DB04_MAPSET_CUST = "Y";
+DB04_MAPSET_DATE = "2018";
+DB04_MAPSET_MAPS = "8";
+DB04_MAPSET_TTLE = "DBP04: Xenomorph Base";
+
+// Estranged
+ESTR_MAPSET_AUTH = "Foodles";
+ESTR_MAPSET_CUST = "N";
+ESTR_MAPSET_DATE = "2015";
+ESTR_MAPSET_MAPS = "32";
+ESTR_MAPSET_TTLE = "Estranged";
+
+// Hellbound
+HLBD_MAPSET_AUTH = "Zoltán Sófalvi, MAP03 coop fix by BLOODWOLF";
+HLBD_MAPSET_CUST = "N";
+HLBD_MAPSET_DATE = "2013";
+HLBD_MAPSET_MAPS = "32";
+HLBD_MAPSET_TTLE = "Hellbound";
+
+// Hell Revealed
+HR10_MAPSET_AUTH = "Yonatan Donner, Haggay Niv";
+HR10_MAPSET_CUST = "N";
+HR10_MAPSET_DATE = "1997";
+HR10_MAPSET_MAPS = "32";
+HR10_MAPSET_TTLE = "Hell Revealed";
+
+// Hell Revealed 2
+HR20_MAPSET_AUTH = "Jonas Feragen, HR2 Team, coop fixes by ViciousPariah and an anonymous author";
+HR20_MAPSET_CUST = "N";
+HR20_MAPSET_DATE = "2003";
+HR20_MAPSET_MAPS = "32";
+HR20_MAPSET_TTLE = "Hell Revealed 2";
+
+// Icarus: Alien Vanguard
+ICAV_MAPSET_AUTH = "TeamTNT, coop fixes by ArgentAgent";
+ICAV_MAPSET_CUST = "N";
+ICAV_MAPSET_DATE = "1996";
+ICAV_MAPSET_MAPS = "32";
+ICAV_MAPSET_TTLE = "Icarus: Alien Vanguard";
+
+// Interception
+ITC1_MAPSET_AUTH = "Matt534Dog, Interception Team";
+ITC1_MAPSET_CUST = "N";
+ITC1_MAPSET_DATE = "2013";
+ITC1_MAPSET_MAPS = "32";
+ITC1_MAPSET_TTLE = "Interception";
+
+// Kama Sutra
+KSUT_MAPSET_AUTH = "Adolf "Gusta" Vojta, Jakub "_Method_" Razak";
+KSUT_MAPSET_CUST = "N";
+KSUT_MAPSET_DATE = "2005";
+KSUT_MAPSET_MAPS = "32";
+KSUT_MAPSET_TTLE = "Kama Sutra";
+
+// Khorus' Speedy Shit
+KSHT_MAPSET_AUTH = "Adam Woodmansey";
+KSHT_MAPSET_CUST = "N";
+KSHT_MAPSET_DATE = "2011";
+KSHT_MAPSET_MAPS = "32";
+KSHT_MAPSET_TTLE = "Khorus' Speedy Shit";
 
 // Mars War
 MSWR_ACTOR_1 = "Lexicon_MSWR_BossEye";
 MSWR_ACTORALT_1 = "BossEye";
+MSWR_MAPSET_AUTH = "Nathan Lineback";
+MSWR_MAPSET_CUST = "Y";
+MSWR_MAPSET_DATE = "1998";
+MSWR_MAPSET_MAPS = "32";
+MSWR_MAPSET_TTLE = "Mars War";
+
+// Memento Mori 1
+MM10_MAPSET_AUTH = "The Innocent Crew, Memento Mori Crew, coop fixes by BLOODWOLF and Lil_Ruff";
+MM10_MAPSET_CUST = "N";
+MM10_MAPSET_DATE = "1996";
+MM10_MAPSET_MAPS = "32";
+MM10_MAPSET_TTLE = "Memento Mori";
+
+// Memento Mori 2
+MM20_MAPSET_AUTH = "The Innocent Crew, Memento Mori Crew, coop fixes by BLOODWOLF";
+MM20_MAPSET_CUST = "N";
+MM20_MAPSET_DATE = "1996";
+MM20_MAPSET_MAPS = "32";
+MM20_MAPSET_TTLE = "Memento Mori 2";
+
+// Nova: The Birth
+NOV1_MAPSET_AUTH = "TeamNOVA";
+NOV1_MAPSET_CUST = "N";
+NOV1_MAPSET_DATE = "2014";
+NOV1_MAPSET_MAPS = "32";
+NOV1_MAPSET_TTLE = "Nova: The Birth";
+
+// Requiem
+REQU_MAPSET_AUTH = "Chris Thornton, Requiem Team";
+REQU_MAPSET_CUST = "N";
+REQU_MAPSET_DATE = "1997";
+REQU_MAPSET_MAPS = "32";
+REQU_MAPSET_TTLE = "Requiem";
 
 // Stardate 20X6
 SDX6_ACTOR_1 = "Lexicon_SDX6_Arachnotron";
@@ -62,6 +235,11 @@ SDX6_ACTOR_9 = "Lexicon_SDX6_Cell";
 SDX6_ACTORALT_9 = "Cell";
 SDX6_ACTOR_10 = "Lexicon_SDX6_DeadMarine";
 SDX6_ACTOR_11 = "Lexicon_SDX6_ShortGreenTorch";
+SDX6_MAPSET_AUTH = "Zach Stephens";
+SDX6_MAPSET_CUST = "Y";
+SDX6_MAPSET_DATE = "2013";
+SDX6_MAPSET_MAPS = "8";
+SDX6_MAPSET_TTLE = "Stardate 20X6";
 
 // Sunlust
 SNLU_ACTOR_1 = "Lexicon_SNLU_TallGreenColumn";
@@ -70,6 +248,11 @@ SNLU_ACTOR_3 = "Lexicon_SNLU_SkullColumn";
 SNLU_ACTOR_4 = "Lexicon_SNLU_FloatingSkull";
 SNLU_ACTOR_5 = "Lexicon_SNLU_Meat3";
 SNLU_ACTOR_6 = "Lexicon_SNLU_BurningBarrel";
+SNLU_MAPSET_AUTH = "Zach Stephens, Daniel Jakobsson, coop fixes by BLOODWOLF";
+SNLU_MAPSET_CUST = "Y";
+SNLU_MAPSET_DATE = "2015";
+SNLU_MAPSET_MAPS = "32";
+SNLU_MAPSET_TTLE = "Sunlust";
 
 // Super MAYhem 17
 MY17_ACTOR_1 = "Lexicon_MY17_RedCard";
@@ -142,4 +325,37 @@ MY17_GOTHTHBONUS = "Picked up a health coin.";
 MY17_GOTARMBONUS = "Picked up an armor coin.";
 MY17_GOTSUPER = "Super shroom!";
 MY17_GOTMSPHERE = "Mega shroom!";
+MY17_MAPSET_AUTH = "Marcaek, Super MAYhem 17 Team";
+MY17_MAPSET_CUST = "Y";
+MY17_MAPSET_DATE = "2017";
+MY17_MAPSET_MAPS = "28";
+MY17_MAPSET_TTLE = "Super MAYhem 17";
 OB_MY17_BOWSER = "%o fell before King Koopa's might.";
+
+// Swift Death
+SWDH_MAPSET_AUTH = "franckFRAG, JCD, Memfis";
+SWDH_MAPSET_CUST = "N";
+SWDH_MAPSET_DATE = "2015";
+SWDH_MAPSET_MAPS = "32";
+SWDH_MAPSET_TTLE = "Swift Death";
+
+// Vanguard
+VNGD_MAPSET_AUTH = "Paul DeBruyne";
+VNGD_MAPSET_CUST = "N";
+VNGD_MAPSET_DATE = "2011";
+VNGD_MAPSET_MAPS = "13";
+VNGD_MAPSET_TTLE = "Vanguard";
+
+// Zone 300
+ZN30_MAPSET_AUTH = "Paul Corfiatis";
+ZN30_MAPSET_CUST = "N";
+ZN30_MAPSET_DATE = "2012";
+ZN30_MAPSET_MAPS = "32";
+ZN30_MAPSET_TTLE = "Zone 300";
+
+// Zones of Fear
+ZNOF_MAPSET_AUTH = "Damned, Des_arthes, enkeli/Matthias, Jaeden, Klofkac, pipicz";
+ZNOF_MAPSET_CUST = "N";
+ZNOF_MAPSET_DATE = "2013";
+ZNOF_MAPSET_MAPS = "32";
+ZNOF_MAPSET_TTLE = "Zones of Fear";
