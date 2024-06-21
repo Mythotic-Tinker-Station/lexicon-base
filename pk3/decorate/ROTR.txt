@@ -885,8 +885,8 @@ ACTOR Lexicon_ROTR_SuperShotgun : DoomWeapon
 		LX14 E 3
 		Goto Deselect
 	Flash:
-		LX14 I 4 Bright A_Light1
-		LX14 J 3 Bright A_Light2
+		SHT2 I 4 Bright A_Light1
+		SHT2 J 3 Bright A_Light2
 		Goto LightDone
 	Spawn:
 		SGN2 A -1
@@ -952,6 +952,25 @@ ACTOR Lexicon_ROTR_PlasmaBall
 		Loop
 	Death:
 		PLSE ABCDE 4 Bright
+		Stop
+	}
+}
+
+ACTOR Lexicon_ROTR_Berserk : CustomInventory
+{
+	+COUNTITEM
+	+INVENTORY.ALWAYSPICKUP
+	Inventory.PickupMessage "$ROTR_GOTBERSERK"
+	Inventory.PickupSound "misc/p_pkup"
+	States
+	{
+	Spawn:
+		PSTR A -1
+		Stop
+	Pickup:
+		TNT1 A 0 A_GiveInventory("PowerStrength")
+		TNT1 A 0 HealThing(100, 0)
+		TNT1 A 0 A_SelectWeapon("Lexicon_ROTR_Fist")
 		Stop
 	}
 }
