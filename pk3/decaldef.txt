@@ -1,3 +1,11 @@
+// Rise of the Triangles
+generator Lexicon_ROTR_ArachnotronPlasma	ArachnotronScorch
+generator Lexicon_ROTR_PlasmaBall	PlasmaScorch
+generator Lexicon_ROTR_Pistol	BulletChip
+generator Lexicon_ROTR_Chainsaw	BulletChip
+generator Lexicon_ROTR_Shotgun	BulletChip
+generator Lexicon_ROTR_SuperShotgun	BulletChip
+
 // Stardate 20X6
 decal Lexicon_SDX6_ArachScorch1
 {

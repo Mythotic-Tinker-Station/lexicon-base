@@ -25,6 +25,7 @@ include "mapinfo/MM1.txt" // MM.wad
 include "mapinfo/MM2.txt" // MM2.wad
 include "mapinfo/MAYHEM17.txt" // mayhem17.wad
 include "mapinfo/NOVA1.txt" // nova.wad
+include "mapinfo/ROTR.txt" // rottriangle.wad
 include "mapinfo/REQUIEM.txt" // REQUIEM.wad
 include "mapinfo/STARDATE20X6.txt"// stardate20x6.wad
 include "mapinfo/SUNLUST.txt"// sunlust_map27coopfix.wad
