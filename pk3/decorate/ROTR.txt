@@ -663,55 +663,34 @@ Actor Lexicon_ROTR_PainElemental : PainElemental
 {
 	States
 	{
+	Missile:
+		PAIN D 5 A_FaceTarget
+		PAIN E 5 A_FaceTarget
+		PAIN F 4 BRIGHT A_FaceTarget
+		PAIN F 1 BRIGHT A_PainAttack("Lexicon_ROTR_LostSoul")
+		Goto See
+	Death:
+		PAIN H 8 BRIGHT
+		PAIN I 8 BRIGHT A_Scream
+		PAIN JK 8 BRIGHT
+		PAIN L 8 BRIGHT A_PainDie("Lexicon_ROTR_LostSoul")
+		PAIN M 8 BRIGHT
+		Stop
 	Raise:
 		TROO A -1 
 		stop
 	}
 }
 
-Actor Lexicon_ROTR_HealthBonus : HealthBonus
-{
-	RenderStyle "Translucent"
-	Alpha 0.5
-	States
-	{
-	}
-}
+Actor Lexicon_ROTR_HealthBonus : HealthBonus { RenderStyle "Translucent" Alpha 0.5 Inventory.PickupMessage "$ROTR_GOTHTHBONUS" }
 
-Actor Lexicon_ROTR_EvilEye : EvilEye
-{
-	RenderStyle "Translucent"
-	Alpha 0.5
-	States
-	{
-	}
-}
+Actor Lexicon_ROTR_EvilEye : EvilEye { RenderStyle "Translucent" Alpha 0.5 }
 
-Actor Lexicon_ROTR_ColonGibs : ColonGibs
-{
-	-NOBLOCKMAP
-	States
-	{
-	}
-}
+Actor Lexicon_ROTR_ColonGibs : ColonGibs { -NOBLOCKMAP }
 
-Actor Lexicon_ROTR_SmallBloodPool : SmallBloodPool
-{
-	-NOBLOCKMAP
-	RenderStyle "Translucent"
-	Alpha 0.5
-	States
-	{
-	}
-}
+Actor Lexicon_ROTR_SmallBloodPool : SmallBloodPool { -NOBLOCKMAP RenderStyle "Translucent" Alpha 0.5 }
 
-Actor Lexicon_ROTR_BrainStem : BrainStem
-{
-	-NOBLOCKMAP
-	States
-	{
-	}
-}
+Actor Lexicon_ROTR_BrainStem : BrainStem { -NOBLOCKMAP }
 
 ACTOR Lexicon_ROTR_Fist : Weapon
 {
@@ -976,3 +955,5 @@ ACTOR Lexicon_ROTR_PlasmaBall
 		Stop
 	}
 }
+
+ACTOR Lexicon_ROTR_ShotgunGuy : ShotgunGuy { DropItem "Lexicon_ROTR_Shotgun" }
