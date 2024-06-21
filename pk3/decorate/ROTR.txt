@@ -916,7 +916,7 @@ ACTOR Lexicon_ROTR_PlasmaRifle : DoomWeapon
 		PLSG A 1 A_Raise
 		Loop
 	Fire:
-		PLSG A 3 A_FirePlasma
+		PLSG A 3 A_FireCustomMissile("Lexicon_ROTR_PlasmaBall")
 		LX14 M 20 A_ReFire
 		Goto Ready
 	Flash:
