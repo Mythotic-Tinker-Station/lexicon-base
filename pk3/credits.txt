@@ -29,6 +29,7 @@ Nova: The Birth: TeamNOVA
 Requiem: Chris Thornton, Requiem Team
 Rise of the Triangles: joe-ilya
 Stardate 20X6: Zach Stephens
+Stardate 20X7: Zach Stephens
 Sunlust: Zach Stephens, Daniel Jakobsson, coop fixes by BLOODWOLF
 Super MAYhem 17: Marcaek, Super MAYhem 17 Team
 Swift Death: franckFRAG, JCD, Memfis

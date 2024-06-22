@@ -1,3 +1,19 @@
+ACTOR Lexicon_SNLU_ExplosiveBarrel : ExplosiveBarrel
+{
+	States
+	{
+	Spawn:
+		LX04 W 6
+		Loop
+	Death:
+		LX04 W 5 Bright
+		LX04 X 5 Bright A_Scream
+		LX04 Y 5 Bright
+		LX04 Z 5 Bright A_Explode
+		Goto Super::Death+4
+	}
+} 
+
 ACTOR Lexicon_SNLU_TallGreenColumn : TallGreenColumn
 {
 	States
