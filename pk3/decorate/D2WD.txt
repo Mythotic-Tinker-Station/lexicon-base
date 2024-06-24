@@ -13,6 +13,7 @@ ACTOR Lexicon_D2WD_DeadLostSoul : DeadLostSoul
 	AttackSound "D2WD/DSSKLDTH"
 	PainSound "D2WD/DSSKLDTH"
 	DeathSound "D2WD/DSKEENDT"
+	Tag "$TAG_D2WD_GARG"
 	States
 	{
 	Spawn:
@@ -47,6 +48,7 @@ ACTOR Lexicon_D2WD_CommanderKeen : CommanderKeen
 	+NOBLOOD
 	PainSound ""
 	DeathSound "D2WD/DSKEENPN"
+	Tag "$TAG_D2WD_YORP"
 	States
 	{
 	Spawn:
@@ -84,6 +86,7 @@ ACTOR Lexicon_D2WD_WolfensteinSS : WolfensteinSS
 	PainSound "D2WD/DSSSSIT"
 	ActiveSound "D2WD/DSTINK"
 	DeathSound "D2WD/DSSSDTH"
+	Tag "$TAG_D2WD_DOPEFISH"
 	States
 	{
 	Spawn:

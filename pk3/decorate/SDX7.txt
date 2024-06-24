@@ -284,7 +284,7 @@ ACTOR Lexicon_SDX7_PlasmaBall : PlasmaBall
 	}
 }
 
-ACTOR Lexicon_SDX7_TechLamp : TechLamp
+ACTOR Lexicon_SDX7_TechLamp
 {
 	-SOLID
 	+SPAWNCEILING
@@ -333,7 +333,7 @@ ACTOR Lexicon_SDX7_ShortGreenTorch : ShortGreenTorch
 	}
 }
 
-ACTOR Lexicon_SDX7_GreenTorch : GreenTorch
+ACTOR Lexicon_SDX7_GreenTorch
 {
 	-SOLID
 	+SPAWNCEILING

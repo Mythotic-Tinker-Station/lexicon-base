@@ -77,6 +77,9 @@ D2WD_MAPSET_CUST = "Y";
 D2WD_MAPSET_DATE = "2013";
 D2WD_MAPSET_MAPS = "32";
 D2WD_MAPSET_TTLE = "Doom 2 The Way id Did";
+TAG_D2WD_GARG = "Garg";
+TAG_D2WD_YORP = "Yorp";
+TAG_D2WD_DOPEFISH = "Dopefish";
 
 // DBP01: Monuments of Mars
 DB01_ACTOR_1 = "Lexicon_DB01_DeadStick";
@@ -276,9 +279,6 @@ ROTR_ACTOR_47 = "Lexicon_ROTR_PointPuller";
 ROTR_ACTOR_FIST = "Lexicon_ROTR_Fist";
 ROTR_ACTOR_PISTOL = "Lexicon_ROTR_Pistol";
 OB_ROTR_SKULL = "soul > %o";
-OB_ROTR_SPIDER = "spiderdemon > %o";
-OB_ROTR_BABY = "arachnotron > %o";
-OB_ROTR_CYBORG = "cyb > %o";
 OB_ROTR_WOLFSS = "cat > %o";
 OB_ROTR_ZAP = "voltage > %o";
 OB_ROTR_FLAME = "flame > %o";
@@ -299,6 +299,7 @@ ROTR_MAPSET_CUST = "Y";
 ROTR_MAPSET_DATE = "2024";
 ROTR_MAPSET_MAPS = "23";
 ROTR_MAPSET_TTLE = "Rise of the Triangles";
+TAG_ROTR_CAT = "Cat";
 
 // Stardate 20X6
 SDX6_ACTOR_1 = "Lexicon_SDX6_Arachnotron";
@@ -468,6 +469,7 @@ MY17_MAPSET_DATE = "2017";
 MY17_MAPSET_MAPS = "28";
 MY17_MAPSET_TTLE = "Super MAYhem 17";
 OB_MY17_BOWSER = "%o fell before King Koopa's might.";
+TAG_MY17_BOWSER = "King Koopa";
 
 // Swift Death
 SWDH_MAPSET_AUTH = "franckFRAG, JCD, Memfis";
