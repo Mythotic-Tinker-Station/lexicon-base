@@ -131,7 +131,6 @@ pointlight Lexicon_SDX7_AFRIT11
 
 object Lexicon_SDX7_CommanderKeen
 {
-	frame LX17M { light Lexicon_SDX7_AFRIT1 }
 	frame LX17N { light Lexicon_SDX7_AFRIT1 }
 	frame LX17O { light Lexicon_SDX7_AFRIT1 }
 	frame LX17P { light Lexicon_SDX7_AFRIT1 }
@@ -139,16 +138,17 @@ object Lexicon_SDX7_CommanderKeen
 	frame LX17R { light Lexicon_SDX7_AFRIT1 }
 	frame LX17S { light Lexicon_SDX7_AFRIT1 }
 	frame LX17T { light Lexicon_SDX7_AFRIT1 }
-	frame LX17U { light Lexicon_SDX7_AFRIT2 }
-	frame LX17V { light Lexicon_SDX7_AFRIT3 }
-	frame LX17W { light Lexicon_SDX7_AFRIT4 }
-	frame LX17X { light Lexicon_SDX7_AFRIT5 }
-	frame LX17Y { light Lexicon_SDX7_AFRIT6 }
-	frame LX17Z { light Lexicon_SDX7_AFRIT7 }
-	frame LX17[ { light Lexicon_SDX7_AFRIT8 }
-	frame LX17\ { light Lexicon_SDX7_AFRIT9 }
-	frame LX17] { light Lexicon_SDX7_AFRIT10 }
-	frame LX18A { light Lexicon_SDX7_AFRIT11 }
+	frame LX17U { light Lexicon_SDX7_AFRIT1 }
+	frame LX17V { light Lexicon_SDX7_AFRIT2 }
+	frame LX17W { light Lexicon_SDX7_AFRIT3 }
+	frame LX17X { light Lexicon_SDX7_AFRIT4 }
+	frame LX17Y { light Lexicon_SDX7_AFRIT5 }
+	frame LX17Z { light Lexicon_SDX7_AFRIT6 }
+	frame LX17[ { light Lexicon_SDX7_AFRIT7 }
+	frame LX17\ { light Lexicon_SDX7_AFRIT8 }
+	frame LX17] { light Lexicon_SDX7_AFRIT9 }
+	frame LX18A { light Lexicon_SDX7_AFRIT10 }
+	frame LX18B { light Lexicon_SDX7_AFRIT11 }
 }
 
 // Small white torch
@@ -161,6 +161,7 @@ object Lexicon_SDX7_ShortGreenTorch
 object Lexicon_SDX7_ShortBlueTorch
 {
 	frame LX15 { light Lexicon_SDX6_SMALLPURPLETORCH }
+	frame LX16 { light Lexicon_SDX6_SMALLPURPLETORCH }
 }
 
 // Small purple torch (upside down)

@@ -5,7 +5,7 @@ defaultmap
 	InterMusic = "D_SDX7IN"
 	ExitPic = "SDX7INT"
 	EnterPic = "SDX7INT"
-	Sky1 = "SDX70327"
+	Sky1 = "SDX70330"
 	NoJump
 	NoCrouch
 }

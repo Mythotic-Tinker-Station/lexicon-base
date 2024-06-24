@@ -3,40 +3,40 @@ ACTOR Lexicon_SDX7_WolfensteinSS : WolfensteinSS
 	States
 	{
 	Spawn:
-		LX16 TU 10 A_Look
+		LX16 UV 10 A_Look
 		Loop
 	See:
-		LX16 TTUUVVWW 3 A_Chase
+		LX16 UUVVWWXX 3 A_Chase
 		Loop
 	Missile:
-		LX16 X 10 A_FaceTarget
-		LX16 Y 10 A_BspiAttack
-		LX16 Z 4 Bright A_FaceTarget
-		LX16 Y 6 A_BspiAttack
-		LX16 Z 4 Bright A_FaceTarget
-		LX16 Y 1 A_BspiAttack
+		LX16 Y 10 A_FaceTarget
+		LX16 Z 10 A_BspiAttack
+		LX16 "[" 4 Bright A_FaceTarget
+		LX16 Z 6 A_BspiAttack
+		LX16 "[" 4 Bright A_FaceTarget
+		LX16 Z 1 A_BspiAttack
 		Goto Missile+1
 	Pain:
-		LX16 "[" 3
-		LX16 "[" 3 A_Pain
+		LX16 "\" 3
+		LX16 "\" 3 A_Pain
 		Goto See
 	Death:
-		LX16 "\" 5
-		LX16 "]" 5 A_Scream
-		LX17 A 5 A_NoBlocking
-		LX17 B 5
-		LX17 C -1
+		LX16 "]" 5
+		LX17 A 5 A_Scream
+		LX17 B 5 A_NoBlocking
+		LX17 C 5
+		LX17 D -1
 		Stop
 	XDeath:
-		LX17 D 5
-		LX17 E 5 A_XScream
-		LX17 F 5 A_NoBlocking
-		LX17 GHIJK 5
-		LX17 L -1
+		LX17 E 5
+		LX17 F 5 A_XScream
+		LX17 G 5 A_NoBlocking
+		LX17 HIJKL 5
+		LX17 M -1
 		Stop
 	Raise:
-		LX17 CBA 5
-		LX16 "]\" 5
+		LX17 DCBA 5
+		LX16 "]" 5
 		Goto See 
 	}
 }
@@ -60,32 +60,33 @@ ACTOR Lexicon_SDX7_CommanderKeen : CommanderKeen
 	States
 	{
 	Spawn:
-		LX17 M 10 Bright A_Look
+		LX17 N 10 Bright A_Look
 		Loop
 	See:
-		LX17 MNOP 3 Bright A_Chase
+		LX17 NOPQ 3 Bright A_Chase
 		Loop
 	Pain:
-		LX17 T 8 Bright
-		LX17 M 3 Bright A_Pain
+		LX17 U 8 Bright
+		LX17 N 3 Bright A_Pain
 		Goto See
 	Missile:
-		LX17 QR 6 Bright A_FaceTarget
-		LX17 S 1 Bright A_FatAttack1
-		LX17 S 1 Bright A_FatAttack2
-		LX17 S 1 Bright A_FatAttack3
-		LX17 S 1 Bright A_FaceTarget
-		LX17 SS 1 Bright A_SkelMissile
-		LX17 S 8 Bright A_SkelMissile
+		LX17 RS 6 Bright A_FaceTarget
+		LX17 T 1 Bright A_FatAttack1
+		LX17 T 1 Bright A_FatAttack2
+		LX17 T 1 Bright A_FatAttack3
+		LX17 T 1 Bright A_FaceTarget
+		LX17 TT 1 Bright A_SkelMissile
+		LX17 T 8 Bright A_SkelMissile
 		Goto See
 	Death:
-		LX17 U 5 Bright
-		LX17 V 5 Bright A_Scream
-		LX17 W 5 Bright
-		LX17 X 5 Bright A_Fall
-		LX17 YZ 5 Bright
+		LX17 V 5 Bright
+		LX17 W 5 Bright A_Scream
+		LX17 X 5 Bright
+		LX17 Y 5 Bright A_Fall
+		LX17 Z 5 Bright
 		LX17 "[\]" 5 Bright
-		LX18 A 6 Bright A_KeenDie
+		LX18 A 5 Bright
+		LX18 B 6 Bright A_KeenDie
 		Stop
 	}
 }
@@ -95,15 +96,15 @@ ACTOR Lexicon_SDX7_BossBrain : BossBrain
 	States
 	{
 	Spawn:
-		LX16 S -1
+		LX16 T -1
 		Stop
 	Pain:
-		LX16 S 36 A_BrainPain
+		LX16 T 36 A_BrainPain
 		Goto Spawn
 	Death:
-		LX16 S 100 A_BrainScream
-		LX16 SS 10
-		LX16 S -1 A_BrainDie
+		LX16 T 100 A_BrainScream
+		LX16 TT 10
+		LX16 T -1 A_BrainDie
 		Stop
 	}
 }
@@ -235,6 +236,20 @@ ACTOR Lexicon_SDX7_BlurSphere : BlurSphere
 	}
 }
 
+ACTOR Lexicon_SDX7_Allmap : Allmap
+{
+	States
+	{
+	Spawn:
+		PMAP AB 6 Bright
+		LX15 V 6 Bright
+		PMAP D 6 Bright
+		LX15 V 6 Bright
+		PMAP B 6 Bright
+		Loop
+	}
+}
+
 ACTOR Lexicon_SDX7_PlasmaRifle : PlasmaRifle
 {
 	Weapon.SlotNumber 6
@@ -277,7 +292,7 @@ ACTOR Lexicon_SDX7_TechLamp : TechLamp
 	States
 	{
 	Spawn:
-		LX16 MN 4 Bright
+		LX16 NO 4 Bright
 		Loop
 	}
 }
@@ -292,8 +307,8 @@ ACTOR Lexicon_SDX7_ShortBlueTorch : ShortBlueTorch
 	States
 	{
 	Spawn:
-		LX15 Z 4 Bright
 		LX15 "[\]" 4 Bright
+		LX16 A 4 Bright
 		Loop
 	}
 }
@@ -303,7 +318,7 @@ ACTOR Lexicon_SDX7_BlueTorch : BlueTorch
 	States
 	{
 	Spawn:
-		LX16 ABCD 4 Bright
+		LX16 BCDE 4 Bright
 		Loop
 	}
 }
@@ -313,7 +328,7 @@ ACTOR Lexicon_SDX7_ShortGreenTorch : ShortGreenTorch
 	States
 	{
 	Spawn:
-		LX16 EFGH 4 Bright
+		LX16 FGHI 4 Bright
 		Loop
 	}
 }
@@ -326,7 +341,7 @@ ACTOR Lexicon_SDX7_GreenTorch : GreenTorch
 	States
 	{
 	Spawn:
-		LX16 IJKL 4 Bright
+		LX16 JKLM 4 Bright
 		Loop
 	}
 }
@@ -336,7 +351,7 @@ ACTOR Lexicon_SDX7_TechLamp2 : TechLamp2
 	States
 	{
 	Spawn:
-		LX16 OPQR 4 Bright
+		LX16 PQRS 4 Bright
 		Loop
 	}
 }
@@ -347,7 +362,7 @@ ACTOR Lexicon_SDX7_HeadCandles : HeadCandles
 	States
 	{
 	Spawn:
-		LX15 VW 6 Bright
+		LX15 WX 6 Bright
 		Loop
 	}
 }
@@ -358,7 +373,7 @@ ACTOR Lexicon_SDX7_LiveStick : LiveStick
 	States
 	{
 	Spawn:
-		LX15 XY 6 Bright
+		LX15 YZ 6 Bright
 		Loop
 	}
 }
@@ -382,4 +397,3 @@ ACTOR Lexicon_SDX7_SmallBloodPool : SmallBloodPool
 {
 	-NOBLOCKMAP
 }
-

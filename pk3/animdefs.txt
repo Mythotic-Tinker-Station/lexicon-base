@@ -222,23 +222,24 @@ switch SDX60326 on pic SDX60366 tics 0
 switch SDX60351 on pic SDX60391 tics 0
 
 // Stardate 20X7
-texture SDX70206 range SDX70208 tics 8
-texture SDX70299 range SDX70301 tics 8 allowdecals
-texture SDX70578 range SDX70587 tics 8
-texture SDX70590 range SDX70605 tics 8
-texture SDX70631 range SDX70634 tics 8
-texture SDX70710 range SDX70713 tics 8
-texture SDX70717 range SDX70720 tics 8
-texture SDX70726 range SDX71054 tics 8
-texture SDX71107 range SDX71122 tics 8
+texture SDX70209 range SDX70211 tics 8
+texture SDX70302 range SDX70304 tics 8 allowdecals
+texture SDX70581 range SDX70590 tics 8
+texture SDX70593 range SDX70608 tics 8
+texture SDX70634 range SDX70637 tics 8
+texture SDX70713 range SDX70716 tics 8
+texture SDX70720 range SDX70723 tics 8
+texture SDX70729 range SDX71057 tics 8
+texture SDX71110 range SDX71125 tics 8
 flat SDX70001 range SDX70004 tics 8
-flat SDX70058 range SDX70061 tics 8
-flat SDX70071 range SDX70085 tics 8
-switch SDX70527 on pic SDX70528 tics 0
-switch SDX70616 on pic SDX70613 tics 0
-switch SDX70702 on pic SDX70705 tics 0
-switch SDX70703 on pic SDX70706 tics 0
-switch SDX70704 on pic SDX70707 tics 0
+flat SDX70061 range SDX70064 tics 8
+flat SDX70074 range SDX70088 tics 8
+switch SDX70384 on pic SDX70424 tics 0
+switch SDX70530 on pic SDX70531 tics 0
+switch SDX70619 on pic SDX70616 tics 0
+switch SDX70705 on pic SDX70708 tics 0
+switch SDX70706 on pic SDX70709 tics 0
+switch SDX70707 on pic SDX70710 tics 0
 
 // Sunlust
 texture SNLU0197 range SNLU0200 tics 8
