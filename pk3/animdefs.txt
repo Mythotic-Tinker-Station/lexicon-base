@@ -145,6 +145,14 @@ switch D2RX0675 on pic D2RX0715 tics 0
 switch D2RX0680 on pic D2RX0720 tics 0
 switch D2RX0686 on pic D2RX0726 tics 0
 
+// Earth
+texture ERTH0412 range ERTH0423 tics 8
+texture ERTH0507 range ERTH0525 tics 8
+texture ERTH0526 range ERTH0544 tics 8
+texture ERTH0545 range ERTH0563 tics 8 allowdecals
+switch ERTH0425 on pic ERTH0426 tics 0
+switch ERTH0569 on pic ERTH0570 tics 0
+
 // Endgame
 texture ENGM0126 range ENGM0129 tics 8
 texture ENGM0455 range ENGM0458 tics 8
