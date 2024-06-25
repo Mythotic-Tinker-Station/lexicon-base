@@ -1,3 +1,8 @@
+// Stardate 20X7
+SDX732
+1 D_SDX740
+2 D_SDX741
+
 // Super MAYhem 17
 MY1712
 1 D_MY1712
