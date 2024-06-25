@@ -93,7 +93,7 @@ ACTOR Lexicon_ROTR_LostSoul
 	DeathSound "skull/death"
 	ActiveSound "skull/active"
 	RenderStyle SoulTrans
-	Obituary "$OB_SKULL"
+	Obituary "$OB_ROTR_SKULL"
 	States
 	{
 	Spawn:
@@ -601,8 +601,9 @@ ACTOR Lexicon_ROTR_WolfensteinSS
 	DeathSound "ROTR/DSSSDTH"
 	ActiveSound "ROTR/DSTINK"
 	AttackSound "wolfss/attack"
-	Obituary "$OB_WOLFSS"
+	Obituary "$OB_ROTR_WOLFSS"
 	Dropitem "Clip"
+	Tag "$TAG_ROTR_CAT"
 	States
 	{
 	Spawn:

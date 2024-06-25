@@ -77,6 +77,9 @@ D2WD_MAPSET_CUST = "Y";
 D2WD_MAPSET_DATE = "2013";
 D2WD_MAPSET_MAPS = "32";
 D2WD_MAPSET_TTLE = "Doom 2 The Way id Did";
+TAG_D2WD_GARG = "Garg";
+TAG_D2WD_YORP = "Yorp";
+TAG_D2WD_DOPEFISH = "Dopefish";
 
 // DBP01: Monuments of Mars
 DB01_ACTOR_1 = "Lexicon_DB01_DeadStick";
@@ -276,9 +279,6 @@ ROTR_ACTOR_47 = "Lexicon_ROTR_PointPuller";
 ROTR_ACTOR_FIST = "Lexicon_ROTR_Fist";
 ROTR_ACTOR_PISTOL = "Lexicon_ROTR_Pistol";
 OB_ROTR_SKULL = "soul > %o";
-OB_ROTR_SPIDER = "spiderdemon > %o";
-OB_ROTR_BABY = "arachnotron > %o";
-OB_ROTR_CYBORG = "cyb > %o";
 OB_ROTR_WOLFSS = "cat > %o";
 OB_ROTR_ZAP = "voltage > %o";
 OB_ROTR_FLAME = "flame > %o";
@@ -299,6 +299,7 @@ ROTR_MAPSET_CUST = "Y";
 ROTR_MAPSET_DATE = "2024";
 ROTR_MAPSET_MAPS = "23";
 ROTR_MAPSET_TTLE = "Rise of the Triangles";
+TAG_ROTR_CAT = "Cat";
 
 // Stardate 20X6
 SDX6_ACTOR_1 = "Lexicon_SDX6_Arachnotron";
@@ -326,6 +327,57 @@ SDX6_MAPSET_CUST = "Y";
 SDX6_MAPSET_DATE = "2013";
 SDX6_MAPSET_MAPS = "8";
 SDX6_MAPSET_TTLE = "Stardate 20X6";
+
+// Stardate 20X7
+SDX7_ACTOR_1 = "Lexicon_SDX7_CommanderKeen";
+SDX7_ACTOR_2 = "Lexicon_SDX7_WolfensteinSS";
+SDX7_ACTORALT_2 = "WolfensteinSS";
+SDX7_ACTOR_3 = "Lexicon_SDX7_BossBrain";
+SDX7_ACTOR_4 = "Lexicon_SNLU_ExplosiveBarrel"; // Sunlust uses the same barrel sprite
+SDX7_ACTORALT_4 = "ExplosiveBarrel";
+SDX7_ACTOR_5 = "Lexicon_SDX7_HealthBonus";
+SDX7_ACTORALT_5 = "HealthBonus";
+SDX7_ACTOR_6 = "Lexicon_SDX7_ArmorBonus";
+SDX7_ACTORALT_6 = "ArmorBonus";
+SDX7_ACTOR_7 = "Lexicon_SDX7_Soulsphere";
+SDX7_ACTORALT_7 = "Soulsphere";
+SDX7_ACTOR_8 = "Lexicon_SDX7_BlueArmor";
+SDX7_ACTORALT_8 = "BlueArmor";
+SDX7_ACTOR_9 = "Lexicon_SDX7_BlurSphere";
+SDX7_ACTORALT_9 = "BlurSphere";
+SDX7_ACTOR_10 = "Lexicon_SDX7_Allmap";
+SDX7_ACTORALT_10 = "Allmap";
+SDX7_ACTOR_11 = "Lexicon_SDX7_BlueCard";
+SDX7_ACTOR_12 = "Lexicon_SDX7_RedCard";
+SDX7_ACTOR_13 = "Lexicon_SDX7_BlueSkull";
+SDX7_ACTOR_14 = "Lexicon_SDX7_YellowSkull";
+SDX7_ACTOR_15 = "Lexicon_SDX7_RedSkull";
+SDX7_ACTOR_16 = "Lexicon_SDX7_PlasmaRifle";
+SDX7_ACTORALT_16 = "PlasmaRifle";
+SDX7_ACTOR_17 = "Lexicon_SDX7_ShortBlueTorch";
+SDX7_ACTOR_18 = "Lexicon_SDX7_ShortGreenTorch";
+SDX7_ACTOR_19 = "Lexicon_SDX7_BlueTorch";
+SDX7_ACTOR_20 = "Lexicon_SDX7_GreenTorch";
+SDX7_ACTOR_21 = "Lexicon_SDX7_TechLamp";
+SDX7_ACTOR_22 = "Lexicon_SDX7_TechLamp2";
+SDX7_ACTOR_23 = "Lexicon_SDX7_HeadCandles";
+SDX7_ACTOR_24 = "Lexicon_SDX7_LiveStick";
+SDX7_ACTOR_25 = "Lexicon_SDX7_EvilEye";
+SDX7_ACTOR_26 = "Lexicon_SDX7_HangTLookingUp";
+SDX7_ACTOR_27 = "Lexicon_SDX7_HangTNoBrain";
+SDX7_ACTOR_28 = "Lexicon_SDX7_ColonGibs";
+SDX7_ACTOR_29 = "Lexicon_SDX7_SmallBloodPool";
+OB_SDX7_AFRIT="%o was scorched by an afrit.";
+TAG_SDX7_AFRIT="Afrit";
+SDX7_GOTBLUECARD = "Picked up a purple keycard.";
+SDX7_GOTREDCARD = "Picked up a black keycard.";
+SDX7_GOTBLUESKUL = "Picked up a purple skull key.";
+SDX7_GOTREDSKULL = "Picked up a black skull key.";
+SDX7_MAPSET_AUTH = "Zach Stephens";
+SDX7_MAPSET_CUST = "Y";
+SDX7_MAPSET_DATE = "2017";
+SDX7_MAPSET_MAPS = "11";
+SDX7_MAPSET_TTLE = "Stardate 20X7";
 
 // Sunlust
 SNLU_ACTOR_1 = "Lexicon_SNLU_TallGreenColumn";
@@ -417,6 +469,7 @@ MY17_MAPSET_DATE = "2017";
 MY17_MAPSET_MAPS = "28";
 MY17_MAPSET_TTLE = "Super MAYhem 17";
 OB_MY17_BOWSER = "%o fell before King Koopa's might.";
+TAG_MY17_BOWSER = "King Koopa";
 
 // Swift Death
 SWDH_MAPSET_AUTH = "franckFRAG, JCD, Memfis";

@@ -31,6 +31,33 @@ decalgroup Lexicon_SDX6_ArachnotronScorch
 
 generator Lexicon_SDX6_ArachnotronPlasma	Lexicon_SDX6_ArachnotronScorch
 
+// Stardate 20X7
+decal Lexicon_SDX7_PlasmaScorch1
+{
+	pic LX14P0
+	add 1.0
+	fullbright
+	animator GoAway
+	lowerdecal PlasmaScorchLower1
+}
+
+decal Lexicon_SDX7_PlasmaScorch2
+{
+	pic LX14Q0
+	add 1.0
+	fullbright
+	animator GoAway
+	lowerdecal PlasmaScorchLower2
+}
+
+decalgroup Lexicon_SDX7_PlasmaScorch
+{
+	Lexicon_SDX7_PlasmaScorch1	1
+	Lexicon_SDX7_PlasmaScorch2	1
+}
+
+generator Lexicon_SDX7_PlasmaBall	Lexicon_SDX7_PlasmaScorch
+
 // Super MAYhem 17
 decal Lexicon_MY17_ArachScorch1
 {

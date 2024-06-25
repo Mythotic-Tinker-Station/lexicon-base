@@ -307,6 +307,7 @@ ACTOR Lexicon_MY17_CommanderKeen : CommanderKeen
 	PainSound "MY17/DSKEENPN"
 	DeathSound "MY17/DSSSDTH"
 	Obituary "$OB_MY17_BOWSER"
+	Tag "$TAG_MY17_BOWSER"
 	States
 	{
 	Spawn:
