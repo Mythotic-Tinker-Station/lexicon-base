@@ -12,6 +12,7 @@ include "mapinfo/DBP01.txt" // DBP01.wad
 include "mapinfo/DBP02.txt" // DBP02.wad
 include "mapinfo/DBP03.txt" // DBP03.wad
 include "mapinfo/DBP04.txt" // DBP04.wad
+include "mapinfo/EARTH.txt" // EarthZD.WAD
 include "mapinfo/ESTRANGD.txt" // estrangd.wad
 include "mapinfo/HELLBND.txt" // hellbnd_map03fix.wad
 include "mapinfo/HR1.txt" // hr.wad
