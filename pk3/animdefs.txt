@@ -145,6 +145,10 @@ switch D2RX0675 on pic D2RX0715 tics 0
 switch D2RX0680 on pic D2RX0720 tics 0
 switch D2RX0686 on pic D2RX0726 tics 0
 
+// Endgame
+texture ENGM0126 range ENGM0129 tics 8
+texture ENGM0455 range ENGM0458 tics 8
+
 // Hellbound
 texture HLBD0084 range HLBD0087 tics 8
 texture HLBD0448 range HLBD0450 tics 8 allowdecals 

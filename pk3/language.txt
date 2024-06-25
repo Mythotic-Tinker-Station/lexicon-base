@@ -124,6 +124,13 @@ DB04_MAPSET_DATE = "2018";
 DB04_MAPSET_MAPS = "8";
 DB04_MAPSET_TTLE = "DBP04: Xenomorph Base";
 
+// Endgame
+ENGM_MAPSET_AUTH = "Endgame Team";
+ENGM_MAPSET_CUST = "N";
+ENGM_MAPSET_DATE = "2004";
+ENGM_MAPSET_MAPS = "8";
+ENGM_MAPSET_TTLE = "Endgame";
+
 // Estranged
 ESTR_MAPSET_AUTH = "Foodles";
 ESTR_MAPSET_CUST = "N";
