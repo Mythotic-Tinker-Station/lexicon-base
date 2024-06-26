@@ -180,6 +180,29 @@ texture ICAV0617 range ICAV0622 tics 8 allowdecals
 flat ICAV0007 range ICAV0010 tics 8
 switch ICAV0623 on pic ICAV0624 tics 0
 
+// Japanese Community Project
+texture JPCP0879 range JPCP0881 tics 8 allowdecals
+texture JPCP0898 range JPCP0901 tics 8 allowdecals
+texture JPCP0924 range JPCP0927 tics 8
+texture JPCP1693 range JPCP1696 tics 8
+texture JPCP1817 range JPCP1820 tics 8
+texture JPCP1821 range JPCP1824 tics 8
+texture JPCP1872 range JPCP1881 tics 8
+texture JPCP1884 range JPCP1893 tics 8
+flat JPCP0337 range JPCP0340 tics 8
+switch JPCP0725 on pic JPCP0760 tics 0
+switch JPCP0729 on pic JPCP0765 tics 0
+switch JPCP0734 on pic JPCP0770 tics 0
+switch JPCP0740 on pic JPCP0776 tics 0
+switch JPCP0741 on pic JPCP0777 tics 0
+switch JPCP0752 on pic JPCP0788 tics 0
+switch JPCP0885 on pic JPCP0890 tics 0
+switch JPCP0886 on pic JPCP0761 tics 0
+switch JPCP0888 on pic JPCP0892 tics 0
+switch JPCP0889 on pic JPCP0893 tics 0
+switch JPCP1825 on pic JPCP1826 tics 0
+switch JPCP1827 on pic JPCP1828 tics 0
+
 // Kama Sutra
 texture KSUT0411 range KSUT0414 tics 8
 

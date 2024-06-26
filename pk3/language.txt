@@ -180,6 +180,13 @@ ITC1_MAPSET_DATE = "2013";
 ITC1_MAPSET_MAPS = "32";
 ITC1_MAPSET_TTLE = "Interception";
 
+// Japanese Community Project
+JPCP_MAPSET_AUTH = "JPCP Team, MAP11 coop fix by BLOODWOLF";
+JPCP_MAPSET_CUST = "N";
+JPCP_MAPSET_DATE = "2016";
+JPCP_MAPSET_MAPS = "32";
+JPCP_MAPSET_TTLE = "Japanese Community Project";
+
 // Kama Sutra
 KSUT_MAPSET_AUTH = "Adolf "Gusta" Vojta, Jakub "_Method_" Razak";
 KSUT_MAPSET_CUST = "N";
