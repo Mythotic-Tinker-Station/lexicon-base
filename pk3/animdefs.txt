@@ -157,13 +157,6 @@ switch ERTH0569 on pic ERTH0570 tics 0
 texture ENGM0126 range ENGM0129 tics 8
 texture ENGM0455 range ENGM0458 tics 8
 
-// Haste
-texture HSTE0128 range HSTE0131 tics 8
-texture HSTE0566 range HSTE0569 tics 8
-texture HSTE0584 range HSTE0602 tics 8
-texture HSTE0606 range HSTE0609 tics 8
-switch HSTE0613 on pic HSTE0614 tics 0
-
 // Hellbound
 texture HLBD0084 range HLBD0087 tics 8
 texture HLBD0448 range HLBD0450 tics 8 allowdecals 

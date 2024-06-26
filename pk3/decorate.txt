@@ -4,7 +4,6 @@
 #include "decorate/DB01.txt" // DBP01: Monuments of Mars
 #include "decorate/DB02.txt" // DBP02: Circle of Cania
 #include "decorate/DB03.txt" // DBP03: Forest Swords
-#include "decorate/HSTE.txt" // Haste
 #include "decorate/MSWR.txt" // Mars War
 #include "decorate/ROTR.txt" // Rise of the Triangles
 #include "decorate/SDX6.txt" // Stardate 20X6

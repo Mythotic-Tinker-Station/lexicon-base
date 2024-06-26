@@ -145,18 +145,6 @@ ESTR_MAPSET_DATE = "2015";
 ESTR_MAPSET_MAPS = "32";
 ESTR_MAPSET_TTLE = "Estranged";
 
-// Haste
-HSTE_ACTOR_1 = "Lexicon_HSTE_Arachnotron";
-HSTE_ACTORALT_1 = "Arachnotron";
-HSTE_ACTOR_2 = "Lexicon_HSTE_PlasmaRifle";
-HSTE_ACTORALT_2 = "PlasmaRifle";
-MY17_WEAPON_8 = "Lexicon_HSTE_PlasmaRifle";
-HSTE_MAPSET_AUTH = "Insane_Gazebo, Scotty, Haste Team";
-HSTE_MAPSET_CUST = "Y";
-HSTE_MAPSET_DATE = "2021";
-HSTE_MAPSET_MAPS = "17";
-HSTE_MAPSET_TTLE = "Haste";
-
 // Hellbound
 HLBD_MAPSET_AUTH = "Zoltán Sófalvi, MAP03 coop fix by BLOODWOLF";
 HLBD_MAPSET_CUST = "N";

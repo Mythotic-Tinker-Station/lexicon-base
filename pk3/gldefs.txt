@@ -1,5 +1,4 @@
 #include "gldefs/DB02.txt" // DBP02: Circle of Cania
-#include "gldefs/HSTE.txt" // HASTE
 #include "gldefs/ROTR.txt" // Rise of the Triangles
 #include "gldefs/SDX6.txt" // Stardate 20X6
 #include "gldefs/SDX7.txt" // Stardate 20X7

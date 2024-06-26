@@ -1,7 +1,3 @@
-// Haste
-generator Lexicon_HSTE_ArachnotronPlasma	ArachnotronScorch
-generator Lexicon_HSTE_PlasmaBall	PlasmaScorch
-
 // Rise of the Triangles
 generator Lexicon_ROTR_ArachnotronPlasma	ArachnotronScorch
 generator Lexicon_ROTR_PlasmaBall	PlasmaScorch
