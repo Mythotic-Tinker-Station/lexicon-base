@@ -17,6 +17,7 @@ DBP04 - Xenomorph Base: Doomer Boards Community
 Earth: Roger Ritenour
 Endgame: Endgame Team
 Estranged: Foodles
+Haste: Insane_Gazebo, Scotty, Haste Team
 Hellbound: Zoltán Sófalvi, MAP03 coop fix by BLOODWOLF
 Hell Revealed: Yonatan Donner, Haggay Niv
 Hell Revealed 2: Jonas Feragen, HR2 Team, coop fixes by ViciousPariah and an anonymous author

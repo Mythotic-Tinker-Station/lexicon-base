@@ -15,6 +15,7 @@ include "mapinfo/DBP04.txt" // DBP04.wad
 include "mapinfo/EARTH.txt" // EarthZD.WAD
 include "mapinfo/ENDGAME.txt" // Endgame.WAD
 include "mapinfo/ESTRANGD.txt" // estrangd.wad
+include "mapinfo/HASTE.txt" // Haste.wad
 include "mapinfo/HELLBND.txt" // hellbnd_map03fix.wad
 include "mapinfo/HR1.txt" // hr.wad
 include "mapinfo/HR2.txt" // hr2final.wad
