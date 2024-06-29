@@ -12,6 +12,27 @@ texture ALVD0932 range ALVD0935 tics 8 allowdecals
 switch ALVD0738 on pic ALVD0739 tics 0
 switch ALVD0936 on pic ALVD0937 tics 0
 
+// Chainworm Kommando
+texture	CWKM0098 range CWKM0101 tics 8
+texture CWKM0130 range CWKM0132 tics 4
+texture CWKM0207 range CWKM0214 tics 4
+texture CWKM0262 range CWKM0265 tics 4
+texture CWKM0351 range CWKM0354 tics 4
+texture CWKM0356 range CWKM0359 tics 16
+texture CWKM0365 range CWKM0368 tics 4
+texture	CWKM0369 range CWKM0372 tics 8
+texture	CWKM0390 range CWKM0397 tics 4
+texture	CWKM0446 range CWKM0449 tics 8
+texture	CWKM0452 range CWKM0453 tics 2
+texture	CWKM0456 range CWKM0458 tics 2
+texture	CWKM0864 range CWKM0865 tics 4
+switch CWKM0102 on sound Switch1 pic CWKM0103 tics 0
+switch CWKM0086 on sound Switch1 pic CWKM0087 tics 0
+switch CWKM0347 on sound Switch1 pic CWKM0350 tics 0
+switch CWKM0376 on sound Switch1 pic CWKM0377 tics 0
+switch CWKM0378 on sound Switch1 pic CWKM0379 tics 0
+switch CWKM0409 on sound Switch1 pic CWKM0410 tics 0
+
 // Claustrophobia 1024
 texture C2421010 range C2421013 tics 8
 texture C2421026 range C2421029 tics 8

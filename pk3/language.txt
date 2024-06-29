@@ -18,6 +18,13 @@ ALVD_MAPSET_DATE = "2002";
 ALVD_MAPSET_MAPS = "32";
 ALVD_MAPSET_TTLE = "Alien Vendetta";
 
+// Chainworm Kommando
+CWKM_MAPSET_AUTH = "Chainworm666";
+CWKM_MAPSET_CUST = "N";
+CWKM_MAPSET_DATE = "2016";
+CWKM_MAPSET_MAPS = "10";
+CWKM_MAPSET_TTLE = "Chainworm Kommando";
+
 // Claustrophobia 1024
 C242_MAPSET_AUTH = "Mechadon, Claustrophobia 1024 Team";
 C242_MAPSET_CUST = "N";
