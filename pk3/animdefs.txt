@@ -28,7 +28,7 @@ texture	CWKM0456 range CWKM0458 tics 2
 texture	CWKM0864 range CWKM0865 tics 4
 switch CWKM0102 on sound Switch1 pic CWKM0103 tics 0
 switch CWKM0086 on sound Switch1 pic CWKM0087 tics 0
-switch CWKM0347 on sound Switch1 pic CWKM0350 tics 0
+switch CWKM0347 on sound Switch1 pic TNT1A0 tics 0
 switch CWKM0376 on sound Switch1 pic CWKM0377 tics 0
 switch CWKM0378 on sound Switch1 pic CWKM0379 tics 0
 switch CWKM0409 on sound Switch1 pic CWKM0410 tics 0
