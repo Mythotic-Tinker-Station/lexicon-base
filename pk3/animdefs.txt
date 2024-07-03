@@ -178,6 +178,17 @@ switch ERTH0569 on pic ERTH0570 tics 0
 texture ENGM0126 range ENGM0129 tics 8
 texture ENGM0455 range ENGM0458 tics 8
 
+// Epic
+texture EPC10125 range EPC10128 tics 4
+texture EPC10186 range EPC10189 tics 4
+texture EPC10531 range EPC10533 tics 8 allowdecals
+flat EPC10095 range EPC10098 tics 4
+switch EPC10632 on pic EPC10672 tics 0
+switch EPC10640 on pic EPC10680 tics 0
+switch EPC10647 on pic EPC10687 tics 0
+switch EPC10649 on pic EPC10689 tics 0
+switch EPC10652 on pic EPC10692 tics 0
+
 // Hellbound
 texture HLBD0084 range HLBD0087 tics 8
 texture HLBD0448 range HLBD0450 tics 8 allowdecals 

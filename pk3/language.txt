@@ -145,6 +145,39 @@ ENGM_MAPSET_DATE = "2004";
 ENGM_MAPSET_MAPS = "8";
 ENGM_MAPSET_TTLE = "Endgame";
 
+// Epic
+EPC1_ACTOR_1 = "Lexicon_EPC1_ShotgunGuy";
+EPC1_ACTORALT_1 = "ShotgunGuy";
+EPC1_ACTOR_2 = "Lexicon_EPC1_TallGreenColumn";
+EPC1_ACTOR_3 = "Lexicon_EPC1_ShortGreenColumn";
+EPC1_ACTOR_4 = "Lexicon_EPC1_TallRedColumn";
+EPC1_ACTOR_5 = "Lexicon_EPC1_ShortRedColumn";
+EPC1_ACTOR_6 = "Lexicon_EPC1_SkullColumn";
+EPC1_ACTOR_7 = "Lexicon_EPC1_GreenTorch";
+EPC1_ACTOR_8 = "Lexicon_EPC1_ChaingunGuy";
+EPC1_ACTORALT_8 = "ChaingunGuy";
+EPC1_ACTOR_9 = "Lexicon_EPC1_Revenant";
+EPC1_ACTORALT_9 = "Revenant";
+EPC1_ACTOR_10 = "Lexicon_EPC1_HangBNoBrain";
+EPC1_ACTOR_11 = "Lexicon_EPC1_DoomImp";
+EPC1_ACTORALT_11 = "DoomImp";
+EPC1_ACTOR_12 = "Lexicon_EPC1_ZombieMan";
+EPC1_ACTORALT_12 = "ZombieMan";
+EPC1_ACTOR_13 = "Lexicon_EPC1_LostSoul";
+EPC1_ACTORALT_13 = "LostSoul";
+EPC1_MAPSET_AUTH = "Eternal, coop fixes by BLOODWOLF";
+EPC1_MAPSET_CUST = "Y";
+EPC1_MAPSET_DATE = "2007";
+EPC1_MAPSET_MAPS = "5";
+EPC1_MAPSET_TTLE = "Epic";
+
+// Epic 2
+EPC2_MAPSET_AUTH = "Eternal, coop fixes by BLOODWOLF";
+EPC2_MAPSET_CUST = "Y";
+EPC2_MAPSET_DATE = "2010";
+EPC2_MAPSET_MAPS = "32";
+EPC2_MAPSET_TTLE = "Epic 2";
+
 // Estranged
 ESTR_MAPSET_AUTH = "Foodles";
 ESTR_MAPSET_CUST = "N";
