@@ -18,6 +18,7 @@ include "mapinfo/ENDGAME.txt" // Endgame.WAD
 include "mapinfo/EPIC.txt" // epic_map02,03,05coopfix.wad
 include "mapinfo/ESTRANGD.txt" // estrangd.wad
 include "mapinfo/HELLBND.txt" // hellbnd_map03fix.wad
+include "mapinfo/HLIL.txt" // helinhel.wad
 include "mapinfo/HR1.txt" // hr.wad
 include "mapinfo/HR2.txt" // hr2final.wad
 include "mapinfo/ICARUS.txt" // ICARUS.wad

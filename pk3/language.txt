@@ -206,6 +206,13 @@ HR20_MAPSET_DATE = "2003";
 HR20_MAPSET_MAPS = "32";
 HR20_MAPSET_TTLE = "Hell Revealed 2";
 
+//  HELL in HELL!
+HLIL_MAPSET_AUTH = "Nathaniel Carll";
+HLIL_MAPSET_CUST = "N";
+HLIL_MAPSET_DATE = "1996";
+HLIL_MAPSET_MAPS = "32";
+HLIL_MAPSET_TTLE = "HELL in HELL!";
+
 // Icarus: Alien Vanguard
 ICAV_MAPSET_AUTH = "TeamTNT, coop fixes by ArgentAgent";
 ICAV_MAPSET_CUST = "N";
