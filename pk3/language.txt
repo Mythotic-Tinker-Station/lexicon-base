@@ -373,6 +373,13 @@ ROTR_MAPSET_MAPS = "23";
 ROTR_MAPSET_TTLE = "Rise of the Triangles";
 TAG_ROTR_CAT = "Cat";
 
+// Speed of Doom
+NOV1_MAPSET_AUTH = "Josh Sealy, Darkwave0000";
+NOV1_MAPSET_CUST = "N";
+NOV1_MAPSET_DATE = "2010";
+NOV1_MAPSET_MAPS = "33";
+NOV1_MAPSET_TTLE = "Speed of Doom";
+
 // Stardate 20X6
 SDX6_ACTOR_1 = "Lexicon_SDX6_Arachnotron";
 SDX6_ACTORALT_1 = "Arachnotron";
