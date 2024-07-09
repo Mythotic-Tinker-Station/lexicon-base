@@ -88,6 +88,13 @@ TAG_D2WD_GARG = "Garg";
 TAG_D2WD_YORP = "Yorp";
 TAG_D2WD_DOPEFISH = "Dopefish";
 
+// Doom Core Trilogy
+D2RX_MAPSET_AUTH = "Michael Jan Krizik";
+D2RX_MAPSET_CUST = "N";
+D2RX_MAPSET_DATE = "2019";
+D2RX_MAPSET_MAPS = "77";
+D2RX_MAPSET_TTLE = "Doom Core Trilogy";
+
 // DBP01: Monuments of Mars
 DB01_ACTOR_1 = "Lexicon_DB01_DeadStick";
 DB01_MAPSET_AUTH = "Doomer Boards Community";

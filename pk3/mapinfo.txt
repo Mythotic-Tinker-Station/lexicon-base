@@ -9,6 +9,7 @@ include "mapinfo/CCHEST4.txt" // cchest4_map25,26coopfix.wad
 include "mapinfo/CHAINWORM.txt" // chnworm.wad
 include "mapinfo/D2REDUX.txt" // D2REDUX.wad
 include "mapinfo/D2TWID.txt" // d2twid_map08coopfix.wad
+include "mapinfo/DOOMCORE.txt"// dctrilogy.wad
 include "mapinfo/DBP01.txt" // DBP01.wad
 include "mapinfo/DBP02.txt" // DBP02.wad
 include "mapinfo/DBP03.txt" // DBP03.wad
