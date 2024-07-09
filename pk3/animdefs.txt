@@ -131,6 +131,16 @@ texture D2WD0618 pic 1 tics 35 pic 1 tics 35
 texture D2WD0655 pic 1 tics 35 pic 1 tics 35
 texture D2WD0616 pic 1 tics 35 pic 1 tics 35
 
+// Doom Core Trilogy
+texture DCTL0070 range DCTL0073 tics 8 allowdecals
+texture DCTL0761 range DCTL0764 tics 8
+texture DCTL0776 range DCTL0778 tics 8 allowdecals
+switch DCTL0331 on pic DCTL0371 tics 0
+switch DCTL0333 on pic DCTL0707 tics 0
+switch DCTL0360 on pic DCTL0400 tics 0
+switch DCTL0362 on pic DCTL0711 tics 0
+switch DCTL0364 on pic DCTL0404 tics 0
+
 // DBP01: Monuments of Mars
 texture DB010119 range DB010122 tics 8
 
