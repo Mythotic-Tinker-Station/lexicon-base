@@ -6,6 +6,8 @@ generator Lexicon_ROTR_Chainsaw	BulletChip
 generator Lexicon_ROTR_Shotgun	BulletChip
 generator Lexicon_ROTR_SuperShotgun	BulletChip
 
+generator Lexicon_ROTR_ShotgunGuy	BulletChip
+
 // Stardate 20X6
 decal Lexicon_SDX6_ArachScorch1
 {
