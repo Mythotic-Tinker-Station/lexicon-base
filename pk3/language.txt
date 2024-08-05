@@ -61,6 +61,13 @@ ALVD_MAPSET_DATE = "2002";
 ALVD_MAPSET_MAPS = "32";
 ALVD_MAPSET_TTLE = "Alien Vendetta";
 
+// Ancient Aliens
+ACAL_MAPSET_AUTH = "Paul DeBruyne";
+ACAL_MAPSET_CUST = "Y";
+ACAL_MAPSET_DATE = "2016";
+ACAL_MAPSET_MAPS = "32";
+ACAL_MAPSET_TTLE = "Ancient Aliens";
+
 // Chainworm Kommando
 CWKM_MAPSET_AUTH = "Chainworm666";
 CWKM_MAPSET_CUST = "N";
@@ -74,6 +81,13 @@ C242_MAPSET_CUST = "N";
 C242_MAPSET_DATE = "2009";
 C242_MAPSET_MAPS = "34";
 C242_MAPSET_TTLE = "Claustrophobia 1024";
+
+// Claustrophobia 1024 2
+C242_MAPSET_AUTH = "Jodwin, Claustrophobia 1024 2 Team";
+C242_MAPSET_CUST = "N";
+C242_MAPSET_DATE = "2010";
+C242_MAPSET_MAPS = "34";
+C242_MAPSET_TTLE = "Claustrophobia 1024 2";
 
 // Community Chest 1
 CCH1_MAPSET_AUTH = "Dale E. Harris, CC1 Team, MAP15 coop fix by BLOODWOLF, MAP29 slightly modified by cubebert";
@@ -110,6 +124,13 @@ C241_MAPSET_CUST = "Y";
 C241_MAPSET_DATE = "2005";
 C241_MAPSET_MAPS = "32";
 C241_MAPSET_TTLE = "Congestion 1024";
+
+// Dark Encounters
+DKEC_MAPSET_AUTH = "Paul Dechene";
+DKEC_MAPSET_CUST = "N";
+DKEC_MAPSET_DATE = "2019";
+DKEC_MAPSET_MAPS = "32";
+DKEC_MAPSET_TTLE = "Dark Encounters";
 
 // Doom 2 Redux
 D2RX_MAPSET_AUTH = "Trace of Spades, D2REDUX Team";
@@ -235,12 +256,33 @@ ESTR_MAPSET_DATE = "2015";
 ESTR_MAPSET_MAPS = "32";
 ESTR_MAPSET_TTLE = "Estranged";
 
+// Going Down
+GDWN_MAPSET_AUTH = "Cyriak Harris, coopfixes by BLOODWOLF";
+GDWN_MAPSET_CUST = "Y";
+GDWN_MAPSET_DATE = "2014";
+GDWN_MAPSET_MAPS = "32";
+GDWN_MAPSET_TTLE = "Going Down";
+
+// Hadephobia
+HADP_MAPSET_AUTH = "Chris Bourke, Hadephobia Team, coopfixes by BLOODWOLF";
+HADP_MAPSET_CUST = "N";
+HADP_MAPSET_DATE = "2013";
+HADP_MAPSET_MAPS = "35";
+HADP_MAPSET_TTLE = "Hadephobia";
+
 // Hellbound
 HLBD_MAPSET_AUTH = "Zoltán Sófalvi, MAP03 coop fix by BLOODWOLF";
 HLBD_MAPSET_CUST = "N";
 HLBD_MAPSET_DATE = "2013";
 HLBD_MAPSET_MAPS = "32";
 HLBD_MAPSET_TTLE = "Hellbound";
+
+// Hellcore 2.0
+HLC2_MAPSET_AUTH = "Robert Babor, Devon West";
+HLC2_MAPSET_CUST = "N";
+HLC2_MAPSET_DATE = "2006";
+HLC2_MAPSET_MAPS = "12";
+HLC2_MAPSET_TTLE = "Hellcore 2.0";
 
 // Hell Revealed
 HR10_MAPSET_AUTH = "Yonatan Donner, Haggay Niv";
@@ -256,7 +298,7 @@ HR20_MAPSET_DATE = "2003";
 HR20_MAPSET_MAPS = "32";
 HR20_MAPSET_TTLE = "Hell Revealed 2";
 
-//  HELL in HELL!
+// HELL in HELL!
 HLIL_MAPSET_AUTH = "Nathaniel Carll";
 HLIL_MAPSET_CUST = "N";
 HLIL_MAPSET_DATE = "1996";
@@ -422,6 +464,13 @@ ROTR_MAPSET_DATE = "2024";
 ROTR_MAPSET_MAPS = "23";
 ROTR_MAPSET_TTLE = "Rise of the Triangles";
 TAG_ROTR_CAT = "Cat";
+
+// Scythe 2
+SCY2_MAPSET_AUTH = "Erik Alm";
+SCY2_MAPSET_CUST = "Y";
+SCY2_MAPSET_DATE = "2005";
+SCY2_MAPSET_MAPS = "32";
+SCY2_MAPSET_TTLE = "Scythe 2";
 
 // Speed of Doom
 NOV1_MAPSET_AUTH = "Josh Sealy, Darkwave0000";
@@ -610,12 +659,47 @@ SWDH_MAPSET_DATE = "2015";
 SWDH_MAPSET_MAPS = "32";
 SWDH_MAPSET_TTLE = "Swift Death";
 
+// Swim With The Whales
+SWTW_MAPSET_AUTH = "Zach Stephens";
+SWTW_MAPSET_CUST = "Y";
+SWTW_MAPSET_DATE = "2015";
+SWTW_MAPSET_MAPS = "4";
+SWTW_MAPSET_TTLE = "Swim With The Whales";
+
+// UAC Ultra
+UACU_MAPSET_AUTH = "Jamie Bainbridge, Jon Vail ";
+UACU_MAPSET_CUST = "Y";
+UACU_MAPSET_DATE = "2010";
+UACU_MAPSET_MAPS = "11";
+UACU_MAPSET_TTLE = "UAC Ultra";
+
+// Unholy Realms
+UHRM_MAPSET_AUTH = "Brian Knox, Unholy Realms Team";
+UHRM_MAPSET_CUST = "N";
+UHRM_MAPSET_DATE = "2013";
+UHRM_MAPSET_MAPS = "32";
+UHRM_MAPSET_TTLE = "Unholy Realms";
+
+// Valiant: Vaccinated Edition
+VLNT_MAPSET_AUTH = "Paul DeBruyne";
+VLNT_MAPSET_CUST = "N";
+VLNT_MAPSET_DATE = "2015";
+VLNT_MAPSET_MAPS = "32";
+VLNT_MAPSET_TTLE = "Valiant: Vaccinated Edition";
+
 // Vanguard
 VNGD_MAPSET_AUTH = "Paul DeBruyne";
 VNGD_MAPSET_CUST = "N";
 VNGD_MAPSET_DATE = "2011";
 VNGD_MAPSET_MAPS = "13";
 VNGD_MAPSET_TTLE = "Vanguard";
+
+// Whispers of Satan
+WSPS_MAPSET_AUTH = "Paul Corfiatis, Kristian Aro";
+WSPS_MAPSET_CUST = "Y";
+WSPS_MAPSET_DATE = "2009";
+WSPS_MAPSET_MAPS = "35";
+WSPS_MAPSET_TTLE = "Whispers of Satan";
 
 // Zone 300
 ZN30_MAPSET_AUTH = "Paul Corfiatis";

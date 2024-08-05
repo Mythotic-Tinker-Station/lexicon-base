@@ -57,6 +57,54 @@ switch C2421440 on pic C2421447 tics 0
 switch C2421441 on pic C2421448 tics 0
 switch C2421445 on pic C2421446 tics 0
 
+// Claustrophobia 1024 2
+texture C2430631 range C2430634 tics 8
+texture C2430647 range C2430650 tics 8
+texture C2431003 range C2431006 tics 8
+texture C2431119 range C2431122 tics 8
+flat C2430097 range C2430100 tics 8
+flat C2430183 range C2430186 tics 8
+switch C2430363 on pic C2430373 tics 0
+switch C2430364 on pic C2430374 tics 0
+switch C2430365 on pic C2430375 tics 0
+switch C2430366 on pic C2430376 tics 0
+switch C2430367 on pic C2430377 tics 0
+switch C2430368 on pic C2430378 tics 0
+switch C2430369 on pic C2430379 tics 0
+switch C2430370 on pic C2430380 tics 0
+switch C2430371 on pic C2430381 tics 0
+switch C2430372 on pic C2430382 tics 0
+switch C2430552 on pic C2430553 tics 0
+switch C2430554 on pic C2430555 tics 0
+switch C2430830 on pic C2430831 tics 0
+switch C2430832 on pic C2430833 tics 0
+switch C2430941 on pic C2430942 tics 0
+switch C2431000 on pic C2431001 tics 0
+switch C2431007 on pic C2431008 tics 0
+switch C2431009 on pic C2431010 tics 0
+switch C2431011 on pic C2431012 tics 0
+switch C2431058 on pic C2431063 tics 0
+switch C2431059 on pic C2431064 tics 0
+switch C2431060 on pic C2431065 tics 0
+switch C2431061 on pic C2431068 tics 0
+switch C2431062 on pic C2431069 tics 0
+switch C2431066 on pic C2431067 tics 0
+switch C2431378 on pic C2431379 tics 0
+switch C2431380 on pic C2431381 tics 0
+switch C2431657 on pic C2431658 tics 0
+switch C2431659 on pic C2431660 tics 0
+switch C2431768 on pic C2431769 tics 0
+switch C2431827 on pic C2431828 tics 0
+switch C2431834 on pic C2431835 tics 0
+switch C2431836 on pic C2431837 tics 0
+switch C2431838 on pic C2431839 tics 0
+switch C2431886 on pic C2431891 tics 0
+switch C2431887 on pic C2431892 tics 0
+switch C2431888 on pic C2431893 tics 0
+switch C2431889 on pic C2431896 tics 0
+switch C2431890 on pic C2431897 tics 0
+switch C2431894 on pic C2431895 tics 0
+
 // Community Chest 2
 texture CCH20494 range CCH20497 tics 8
 texture CCH20502 range CCH20505 tics 8
