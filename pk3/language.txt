@@ -674,11 +674,13 @@ UACU_MAPSET_MAPS = "11";
 UACU_MAPSET_TTLE = "UAC Ultra";
 
 // Unholy Realms
-UHRM_MAPSET_AUTH = "Brian Knox, Unholy Realms Team";
-UHRM_MAPSET_CUST = "N";
-UHRM_MAPSET_DATE = "2013";
-UHRM_MAPSET_MAPS = "32";
-UHRM_MAPSET_TTLE = "Unholy Realms";
+UHRN_ACTOR_1 = "Lexicon_UHRN_SpiderMastermind";
+UHRN_ACTORALT_1 = "SpiderMastermind";
+UHRN_MAPSET_AUTH = "Brian Knox, Unholy Realms Team";
+UHRN_MAPSET_CUST = "N";
+UHRN_MAPSET_DATE = "2013";
+UHRN_MAPSET_MAPS = "32";
+UHRN_MAPSET_TTLE = "Unholy Realms";
 
 // Valiant: Vaccinated Edition
 VLNT_MAPSET_AUTH = "Paul DeBruyne";
