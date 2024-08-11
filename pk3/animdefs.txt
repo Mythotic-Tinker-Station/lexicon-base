@@ -441,6 +441,33 @@ switch MY170500 on pic MY171072 tics 0
 texture SWDH0085 range SWDH0088 tics 8
 texture SWDH0439 range SWDH0442 tics 8 allowdecals
 
+//Unholy Realms
+texture UHRN0508 range UHRN0510 tics 8 allowdecals
+texture UHRN0527 range UHRN0530 tics 8 allowdecals
+texture UHRN0553 range UHRN0556 tics 8
+texture UHRN1321 range UHRN1324 tics 8
+texture UHRN1445 range UHRN1448 tics 8
+texture UHRN1449 range UHRN1452 tics 8
+texture UHRN1482 range UHRN1485 tics 8
+texture UHRN1500 range UHRN1509 tics 8
+texture UHRN1512 range UHRN1521 tics 8
+flat UHRN0337 range UHRN0340 tics 8
+switch UHRN0471 on pic UHRN0479 tics 0
+switch UHRN0472 on pic UHRN0481 tics 0
+switch UHRN0473 on pic UHRN0482 tics 0
+switch UHRN0474 on pic UHRN0483 tics 0
+switch UHRN0475 on pic UHRN0484 tics 0
+switch UHRN0476 on pic UHRN0485 tics 0
+switch UHRN0477 on pic UHRN0486 tics 0
+switch UHRN0478 on pic UHRN0487 tics 0
+switch UHRN0514 on pic UHRN0519 tics 0
+switch UHRN0515 on pic UHRN0480 tics 0
+switch UHRN0516 on pic UHRN0520 tics 0
+switch UHRN0517 on pic UHRN0521 tics 0
+switch UHRN0518 on pic UHRN0522 tics 0
+switch UHRN1453 on pic UHRN1454 tics 0
+switch UHRN1455 on pic UHRN1456 tics 0
+
 // Vanguard
 texture VNGD0916 range VNGD0919 tics 8
 texture VNGD1240 range VNGD1243 tics 8
