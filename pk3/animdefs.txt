@@ -189,6 +189,16 @@ switch DCTL0360 on pic DCTL0400 tics 0
 switch DCTL0362 on pic DCTL0711 tics 0
 switch DCTL0364 on pic DCTL0404 tics 0
 
+// Doom II: 25 Years on Earth
+texture D25Y0010 range D25Y0013 tics 8 allowdecals
+texture D25Y0020 range D25Y0023 tics 8
+texture D25Y0056 range D25Y0059 tics 8
+texture D25Y0065 range D25Y0068 tics 8
+switch D25Y0047 on pic D25Y0051 tics 0
+switch D25Y0048 on pic D25Y0052 tics 0
+switch D25Y0049 on pic D25Y0053 tics 0
+switch D25Y0050 on pic D25Y0054 tics 0
+
 // DBP01: Monuments of Mars
 texture DB010119 range DB010122 tics 8
 
@@ -443,7 +453,7 @@ switch MY170500 on pic MY171072 tics 0
 texture SWDH0085 range SWDH0088 tics 8
 texture SWDH0439 range SWDH0442 tics 8 allowdecals
 
-//Unholy Realms
+// Unholy Realms
 texture UHRN0508 range UHRN0510 tics 8 allowdecals
 texture UHRN0527 range UHRN0530 tics 8 allowdecals
 texture UHRN0553 range UHRN0556 tics 8
