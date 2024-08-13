@@ -447,6 +447,21 @@ texture VNGD1240 range VNGD1243 tics 8
 texture VNGD3170 range VNGD3173 tics 8
 switch VNGD2960 on pic VNGD3002 tics 0
 
+// Whispers of Satan
+texture WSPS0201 range WSPS0204 tics 8 allowdecals
+texture WSPS0284 range WSPS0286 tics 8 allowdecals
+texture WSPS0291 range WSPS0294 tics 8
+flat WSPS0059 range WSPS0062 tics 8
+switch WSPS0287 on pic WSPS0289 tics 0
+switch WSPS0288 on pic WSPS0290 tics 0
+texture WSPS0087 range WSPS0088 tics 4
+warp texture WSPS0279
+warp texture WSPS0611
+warp flat WSPS0069
+warp flat WSPS0070
+warp flat WSPS0080
+warp flat WSPS0081
+
 // Zone 300
 texture ZN300087 range ZN300090 tics 8
 texture ZN300390 range ZN300393 tics 8

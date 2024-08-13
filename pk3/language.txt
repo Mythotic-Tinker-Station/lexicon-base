@@ -695,7 +695,10 @@ VNGD_MAPSET_MAPS = "13";
 VNGD_MAPSET_TTLE = "Vanguard";
 
 // Whispers of Satan
-WSPS_MAPSET_AUTH = "Paul Corfiatis, Kristian Aro";
+WSPS_ACTOR_1 = "Lexicon_WSPS_Cyberdemon";
+WSPS_ACTORALT_1 = "Cyberdemon";
+WSPS_ACTOR_2 = "Lexicon_WSPS_CommanderKeen";
+WSPS_MAPSET_AUTH = "Paul Corfiatis, Kristian Aro, coop fixes by an anonymous author";
 WSPS_MAPSET_CUST = "Y";
 WSPS_MAPSET_DATE = "2009";
 WSPS_MAPSET_MAPS = "35";

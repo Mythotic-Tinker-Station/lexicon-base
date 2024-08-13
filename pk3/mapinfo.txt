@@ -41,5 +41,6 @@ include "mapinfo/SD20X7.txt"// sd20x7.wad
 include "mapinfo/SUNLUST.txt"// sunlust_map27coopfix.wad
 include "mapinfo/SWIDEATH.txt"// swideath.wad
 include "mapinfo/VANGUARD.txt"// Vanguard.wad
+include "mapinfo/WOS.txt" // WOS.wad
 include "mapinfo/ZONE300.txt" // zone300.wad
 include "mapinfo/ZOF.txt" // ZOF.wad

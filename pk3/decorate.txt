@@ -11,3 +11,4 @@
 #include "decorate/SDX7.txt" // Stardate 20X7
 #include "decorate/SNLU.txt" // Sunlust
 #include "decorate/MY17.txt" // Super MAYhem 17
+#include "decorate/WSPS.txt" // Whispers of Satan
