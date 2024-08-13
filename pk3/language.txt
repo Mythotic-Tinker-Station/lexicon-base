@@ -696,6 +696,13 @@ VNGD_MAPSET_DATE = "2011";
 VNGD_MAPSET_MAPS = "13";
 VNGD_MAPSET_TTLE = "Vanguard";
 
+// Vile Flesh
+VLFL_MAPSET_AUTH = "Gwyn Williams";
+VLFL_MAPSET_CUST = "N";
+VLFL_MAPSET_DATE = "2004";
+VLFL_MAPSET_MAPS = "32";
+VLFL_MAPSET_TTLE = "Vile Flesh";
+
 // Whispers of Satan
 WSPS_ACTOR_1 = "Lexicon_WSPS_Cyberdemon";
 WSPS_ACTORALT_1 = "Cyberdemon";
