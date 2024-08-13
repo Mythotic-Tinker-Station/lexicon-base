@@ -12,3 +12,4 @@
 #include "decorate/SNLU.txt" // Sunlust
 #include "decorate/MY17.txt" // Super MAYhem 17
 #include "decorate/UHRN.txt" // Unholy Realms
+#include "decorate/WSPS.txt" // Whispers of Satan
