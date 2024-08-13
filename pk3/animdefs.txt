@@ -340,15 +340,17 @@ switch REQU0489 on pic REQU0529 tics 0
 switch REQU0490 on pic REQU0530 tics 0
 
 // Speed of Doom
-texture SPOD0777 range SPOD0780 tics 8
-texture SPOD0786 range SPOD0789 tics 8
-texture SPOD0790 range SPOD0793 tics 8
-texture SPOD0810 range SPOD0813 tics 8
-texture SPOD0814 range SPOD0817 tics 8
-texture SPOD0822 range SPOD0825 tics 8
+texture SPOD0352 range SPOD0355 tics 8
+texture SPOD0361 range SPOD0364 tics 8
+texture SPOD0365 range SPOD0368 tics 8
+texture SPOD0385 range SPOD0388 tics 8
+texture SPOD0389 range SPOD0392 tics 8
+texture SPOD0397 range SPOD0400 tics 8
 flat SPOD0065 range SPOD0067 tics 8
-switch SPOD0806 on pic SPOD0807 tics 0
-switch SPOD0808 on pic SPOD0809 tics 0
+switch SPOD0381 on pic SPOD0382 tics 0
+switch SPOD0383 on pic SPOD0384 tics 0
+switch SPOD0724 on pic SPOD0723 tics 0
+switch SPOD0727 on pic SPOD0725 tics 0
 
 // Stardate 20X6
 texture SDX60242 range SDX60245 tics 8

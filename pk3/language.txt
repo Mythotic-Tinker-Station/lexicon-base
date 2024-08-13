@@ -83,11 +83,11 @@ C242_MAPSET_MAPS = "34";
 C242_MAPSET_TTLE = "Claustrophobia 1024";
 
 // Claustrophobia 1024 2
-C242_MAPSET_AUTH = "Jodwin, Claustrophobia 1024 2 Team";
-C242_MAPSET_CUST = "N";
-C242_MAPSET_DATE = "2010";
-C242_MAPSET_MAPS = "34";
-C242_MAPSET_TTLE = "Claustrophobia 1024 2";
+C243_MAPSET_AUTH = "Jodwin, Claustrophobia 1024 2 Team";
+C243_MAPSET_CUST = "N";
+C243_MAPSET_DATE = "2010";
+C243_MAPSET_MAPS = "34";
+C243_MAPSET_TTLE = "Claustrophobia 1024 2";
 
 // Community Chest 1
 CCH1_MAPSET_AUTH = "Dale E. Harris, CC1 Team, MAP15 coop fix by BLOODWOLF, MAP29 slightly modified by cubebert";
@@ -473,11 +473,11 @@ SCY2_MAPSET_MAPS = "32";
 SCY2_MAPSET_TTLE = "Scythe 2";
 
 // Speed of Doom
-NOV1_MAPSET_AUTH = "Josh Sealy, Darkwave0000";
-NOV1_MAPSET_CUST = "N";
-NOV1_MAPSET_DATE = "2010";
-NOV1_MAPSET_MAPS = "33";
-NOV1_MAPSET_TTLE = "Speed of Doom";
+SPOD_MAPSET_AUTH = "Josh Sealy, Darkwave0000, coop fixes by BLOODWOLF";
+SPOD_MAPSET_CUST = "N";
+SPOD_MAPSET_DATE = "2010";
+SPOD_MAPSET_MAPS = "33";
+SPOD_MAPSET_TTLE = "Speed of Doom";
 
 // Stardate 20X6
 SDX6_ACTOR_1 = "Lexicon_SDX6_Arachnotron";

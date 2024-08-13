@@ -43,7 +43,7 @@ Nova: The Birth: TeamNOVA
 Requiem: Chris Thornton, Requiem Team
 Rise of the Triangles: joe-ilya
 Scythe 2: Erik Alm
-Speed of Doom: Josh Sealy, Darkwave0000
+Speed of Doom: Josh Sealy, Darkwave0000, coop fixes by BLOODWOLF
 Stardate 20X6: Zach Stephens
 Stardate 20X7: Zach Stephens
 Sunlust: Zach Stephens, Daniel Jakobsson, coop fixes by BLOODWOLF
