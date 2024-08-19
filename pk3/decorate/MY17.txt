@@ -1,7 +1,7 @@
 ACTOR Lexicon_MY17_RedCard : HealthBonus
 {
 	+INVENTORY.NEVERRESPAWN
-	Inventory.PickupMessage "$MY17_GOTREDCOIN"
+	Inventory.PickupMessage "$MY17_MSG_REDCOIN"
 	States
 	{
 	Spawn:
@@ -129,7 +129,7 @@ ACTOR Lexicon_MY17_SkullColumn : SkullColumn
 
 Actor Lexicon_MY17_RedSkull : CustomInventory
 {
-	Inventory.PickupMessage "$MY17_GOTREDSKULL"
+	Inventory.PickupMessage "$MY17_MSG_REDSKULL"
 	Inventory.PickupSound "MY17/DSITEMUP"
 	States
 	{
@@ -145,7 +145,7 @@ Actor Lexicon_MY17_RedSkull : CustomInventory
 
 Actor Lexicon_MY17_YellowSkull : CustomInventory
 {
-	Inventory.PickupMessage "$MY17_GOTYELWSKUL"
+	Inventory.PickupMessage "$MY17_MSG_YELWSKUL"
 	Inventory.PickupSound "MY17/DSITEMUP"
 	States
 	{
@@ -161,7 +161,7 @@ Actor Lexicon_MY17_YellowSkull : CustomInventory
 
 Actor Lexicon_MY17_BlueSkull : CustomInventory
 {
-	Inventory.PickupMessage "$MY17_GOTBLUESKUL"
+	Inventory.PickupMessage "$MY17_MSG_BLUESKUL"
 	Inventory.PickupSound "MY17/DSITEMUP"
 	States
 	{
@@ -306,8 +306,8 @@ ACTOR Lexicon_MY17_CommanderKeen : CommanderKeen
 	AttackSound "MY17/DSKEENDT"
 	PainSound "MY17/DSKEENPN"
 	DeathSound "MY17/DSSSDTH"
-	Obituary "$OB_MY17_BOWSER"
-	Tag "$TAG_MY17_BOWSER"
+	Obituary "$MY17_OB_BOWSER"
+	Tag "$MY17_TAG_BOWSER"
 	States
 	{
 	Spawn:
@@ -370,7 +370,7 @@ ACTOR Lexicon_MY17_BrainStem : BrainStem
 
 ACTOR Lexicon_MY17_Megasphere : Megasphere
 {
-	Inventory.PickupMessage "$MY17_GOTMSPHERE"
+	Inventory.PickupMessage "$MY17_MSG_MSPHERE"
 	Inventory.PickupSound "MY17/DSGETPOW"
 	States
 	{
@@ -537,7 +537,7 @@ ACTOR Lexicon_MY17_RocketAmmo : RocketAmmo
 
 ACTOR Lexicon_MY17_Soulsphere : Soulsphere
 {
-	Inventory.PickupMessage "$MY17_GOTSUPER"
+	Inventory.PickupMessage "$MY17_MSG_SUPER"
 	Inventory.PickupSound "MY17/DSGETPOW"
 	States
 	{
@@ -549,7 +549,7 @@ ACTOR Lexicon_MY17_Soulsphere : Soulsphere
 
 Actor Lexicon_MY17_HealthBonus : HealthBonus
 {
-	Inventory.PickupMessage "$MY17_GOTHTHBONUS"
+	Inventory.PickupMessage "$MY17_MSG_HTHBONUS"
 	Inventory.PickupSound "MY17/DSITEMUP"
 	States
 	{
@@ -561,7 +561,7 @@ Actor Lexicon_MY17_HealthBonus : HealthBonus
 
 Actor Lexicon_MY17_ArmorBonus : ArmorBonus
 {
-	Inventory.PickupMessage "$MY17_GOTARMBONUS"
+	Inventory.PickupMessage "$MY17_MSG_ARMBONUS"
 	Inventory.PickupSound "MY17/DSITEMUP"
 	States
 	{
