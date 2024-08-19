@@ -1,6 +1,7 @@
 #include "decorate/ALVD.txt" // Alien Vendetta
 #include "decorate/C241.txt" // Congestion 1024
 #include "decorate/D2WD.txt" // Doom 2 the Way id Did
+#include "decorate/D25Y.txt" // Doom II: 25 Years on Earth
 #include "decorate/DB01.txt" // DBP01: Monuments of Mars
 #include "decorate/DB02.txt" // DBP02: Circle of Cania
 #include "decorate/DB03.txt" // DBP03: Forest Swords
@@ -12,3 +13,4 @@
 #include "decorate/SNLU.txt" // Sunlust
 #include "decorate/MY17.txt" // Super MAYhem 17
 #include "decorate/UHRN.txt" // Unholy Realms
+#include "decorate/WSPS.txt" // Whispers of Satan

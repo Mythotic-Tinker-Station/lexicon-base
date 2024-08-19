@@ -189,6 +189,16 @@ switch DCTL0360 on pic DCTL0400 tics 0
 switch DCTL0362 on pic DCTL0711 tics 0
 switch DCTL0364 on pic DCTL0404 tics 0
 
+// Doom II: 25 Years on Earth
+texture D25Y0010 range D25Y0013 tics 8 allowdecals
+texture D25Y0020 range D25Y0023 tics 8
+texture D25Y0056 range D25Y0059 tics 8
+texture D25Y0065 range D25Y0068 tics 8
+switch D25Y0047 on pic D25Y0051 tics 0
+switch D25Y0048 on pic D25Y0052 tics 0
+switch D25Y0049 on pic D25Y0053 tics 0
+switch D25Y0050 on pic D25Y0054 tics 0
+
 // DBP01: Monuments of Mars
 texture DB010119 range DB010122 tics 8
 
@@ -340,15 +350,17 @@ switch REQU0489 on pic REQU0529 tics 0
 switch REQU0490 on pic REQU0530 tics 0
 
 // Speed of Doom
-texture SPOD0777 range SPOD0780 tics 8
-texture SPOD0786 range SPOD0789 tics 8
-texture SPOD0790 range SPOD0793 tics 8
-texture SPOD0810 range SPOD0813 tics 8
-texture SPOD0814 range SPOD0817 tics 8
-texture SPOD0822 range SPOD0825 tics 8
+texture SPOD0352 range SPOD0355 tics 8
+texture SPOD0361 range SPOD0364 tics 8
+texture SPOD0365 range SPOD0368 tics 8
+texture SPOD0385 range SPOD0388 tics 8
+texture SPOD0389 range SPOD0392 tics 8
+texture SPOD0397 range SPOD0400 tics 8
 flat SPOD0065 range SPOD0067 tics 8
-switch SPOD0806 on pic SPOD0807 tics 0
-switch SPOD0808 on pic SPOD0809 tics 0
+switch SPOD0381 on pic SPOD0382 tics 0
+switch SPOD0383 on pic SPOD0384 tics 0
+switch SPOD0724 on pic SPOD0723 tics 0
+switch SPOD0727 on pic SPOD0725 tics 0
 
 // Stardate 20X6
 texture SDX60242 range SDX60245 tics 8
@@ -441,7 +453,7 @@ switch MY170500 on pic MY171072 tics 0
 texture SWDH0085 range SWDH0088 tics 8
 texture SWDH0439 range SWDH0442 tics 8 allowdecals
 
-//Unholy Realms
+// Unholy Realms
 texture UHRN0508 range UHRN0510 tics 8 allowdecals
 texture UHRN0527 range UHRN0530 tics 8 allowdecals
 texture UHRN0553 range UHRN0556 tics 8
@@ -473,6 +485,21 @@ texture VNGD0916 range VNGD0919 tics 8
 texture VNGD1240 range VNGD1243 tics 8
 texture VNGD3170 range VNGD3173 tics 8
 switch VNGD2960 on pic VNGD3002 tics 0
+
+// Whispers of Satan
+texture WSPS0201 range WSPS0204 tics 8 allowdecals
+texture WSPS0284 range WSPS0286 tics 8 allowdecals
+texture WSPS0291 range WSPS0294 tics 8
+flat WSPS0059 range WSPS0062 tics 8
+switch WSPS0287 on pic WSPS0289 tics 0
+switch WSPS0288 on pic WSPS0290 tics 0
+texture WSPS0087 range WSPS0088 tics 4
+warp texture WSPS0279
+warp texture WSPS0611
+warp flat WSPS0069
+warp flat WSPS0070
+warp flat WSPS0080
+warp flat WSPS0081
 
 // Zone 300
 texture ZN300087 range ZN300090 tics 8

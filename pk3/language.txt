@@ -159,6 +159,14 @@ D2RX_MAPSET_DATE = "2019";
 D2RX_MAPSET_MAPS = "77";
 D2RX_MAPSET_TITLE = "Doom Core Trilogy";
 
+// Doom II: 25 Years on Earth
+D25Y_ACTOR_1 = "Lexicon_D25Y_GibbedMarineExtra";
+D25Y_MAPSET_AUTH = "James Cresswell";
+D25Y_MAPSET_CUST = "Y";
+D25Y_MAPSET_DATE = "2020";
+D25Y_MAPSET_MAPS = "32";
+D25Y_MAPSET_TTLE = "Doom II: 25 Years on Earth";
+
 // DBP01: Monuments of Mars
 DB01_ACTOR_1 = "Lexicon_DB01_DeadStick";
 DB01_MAPSET_AUTHORS = "Doomer Boards Community";
@@ -695,6 +703,13 @@ VNGD_MAPSET_CUSTOM = "N";
 VNGD_MAPSET_DATE = "2011";
 VNGD_MAPSET_MAPS = "13";
 VNGD_MAPSET_TITLE = "Vanguard";
+
+// Vile Flesh
+VLFL_MAPSET_AUTH = "Gwyn Williams";
+VLFL_MAPSET_CUST = "N";
+VLFL_MAPSET_DATE = "2004";
+VLFL_MAPSET_MAPS = "32";
+VLFL_MAPSET_TTLE = "Vile Flesh";
 
 // Whispers of Satan
 WSPS_MAPSET_AUTHORS = "Paul Corfiatis, Kristian Aro";
