@@ -349,6 +349,11 @@ switch REQU0488 on pic REQU0528 tics 0
 switch REQU0489 on pic REQU0529 tics 0
 switch REQU0490 on pic REQU0530 tics 0
 
+// Scythe
+flat SCY10005 range SCY10008 tics 8
+switch SCY10023 on pic SCY10025 tics 0
+switch SCY10024 on pic SCY10026 tics 0
+
 // Speed of Doom
 texture SPOD0352 range SPOD0355 tics 8
 texture SPOD0361 range SPOD0364 tics 8

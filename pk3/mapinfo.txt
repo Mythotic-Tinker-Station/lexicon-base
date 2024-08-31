@@ -36,6 +36,7 @@ include "mapinfo/MAYHEM17.txt" // mayhem17.wad
 include "mapinfo/NOVA1.txt" // nova.wad
 include "mapinfo/ROTR.txt" // rottriangle.wad
 include "mapinfo/REQUIEM.txt" // REQUIEM.wad
+include "mapinfo/SCYTHE1.txt"// SCYTHE.wad
 include "mapinfo/SPEEDOFDOOM.txt"// SODfinal.wad
 include "mapinfo/SD20X6.txt"// stardate20x6.wad
 include "mapinfo/SD20X7.txt"// sd20x7.wad
