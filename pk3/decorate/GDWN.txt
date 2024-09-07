@@ -12,6 +12,7 @@ Actor Lexicon_GDWN_WolfensteinSS : WolfensteinSS
 	DeathSound "brain/death"
 	ActiveSound "demon/active"
 	Tag "$GDWN_TAG_WOLFSS"
+	Obituary "$GDWN_OB_WOLFSS"
 	States
 	{
 	Spawn:

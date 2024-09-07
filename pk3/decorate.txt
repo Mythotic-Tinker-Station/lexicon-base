@@ -10,6 +10,7 @@
 #include "decorate/HADP.txt" // Hadephobia
 #include "decorate/MSWR.txt" // Mars War
 #include "decorate/ROTR.txt" // Rise of the Triangles
+#include "decorate/SCY2.txt" // Scythe 2
 #include "decorate/SDX6.txt" // Stardate 20X6
 #include "decorate/SDX7.txt" // Stardate 20X7
 #include "decorate/SNLU.txt" // Sunlust

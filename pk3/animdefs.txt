@@ -361,6 +361,22 @@ flat SCY10005 range SCY10008 tics 8
 switch SCY10023 on pic SCY10025 tics 0
 switch SCY10024 on pic SCY10026 tics 0
 
+// Scythe 2
+texture SCY20624 range SCY20627 tics 8 allowdecals
+texture SCY20687 range SCY20690 tics 8
+texture SCY20694 range SCY20697 tics 8 allowdecals
+texture SCY20700 range SCY20703 tics 8
+texture SCY20704 range SCY20705 tics 8
+texture SCY20706 range SCY20708 tics 8
+flat SCY20011 range SCY20014 tics 8
+flat SCY20113 range SCY20116 tics 8
+flat SCY20117 range SCY20120 tics 8
+flat SCY20121 range SCY20124 tics 8
+switch SCY20715 on pic SCY20718 tics 0
+switch SCY20716 on pic SCY20719 tics 0
+switch SCY20717 on pic SCY20720 tics 0
+switch SCY21235 on pic SCY21236 tics 0
+
 // Speed of Doom
 texture SPOD0352 range SPOD0355 tics 8
 texture SPOD0361 range SPOD0364 tics 8

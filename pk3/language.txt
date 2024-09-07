@@ -282,6 +282,8 @@ ESTR_MAPSET_TITLE = "Estranged";
 GDWN_ACTOR_1 = "Lexicon_GDWN_ShortBlueTorch";
 GDWN_ACTOR_2 = "Lexicon_GDWN_CommanderKeen";
 GDWN_ACTOR_3 = "Lexicon_GDWN_WolfensteinSS";
+GDWN_TAG_WOLFSS = "Red Spider Mastermind";
+GDWN_OB_WOLFSS = "%o stood in the way of a red spider mastermind.";
 GDWN_MAPSET_AUTHORS = "Cyriak Harris, coopfixes by BLOODWOLF";
 GDWN_MAPSET_CUSTOM = "Y";
 GDWN_MAPSET_DATE = "2014";
@@ -292,7 +294,7 @@ GDWN_MAPSET_TITLE = "Going Down";
 HADP_ACTOR_1 = "Lexicon_HADP_NonsolidMeat3";
 HADP_ACTOR_2 = "Lexicon_HADP_CommanderKeen";
 HADP_MAPSET_AUTHORS = "Chris Bourke, Hadephobia Team, coopfixes by BLOODWOLF";
-HADP_MAPSET_CUSTOM = "N";
+HADP_MAPSET_CUSTOM = "Y";
 HADP_MAPSET_DATE = "2013";
 HADP_MAPSET_MAPS = "35";
 HADP_MAPSET_TITLE = "Hadephobia";
@@ -479,6 +481,7 @@ ROTR_OB_MPPISTOL = "%k > pistol > %o.";
 ROTR_OB_MPSHOTGUN = "%k > shotgun > %o.";
 ROTR_OB_MPSSHOTGUN = "%k > ssg > %o.";
 ROTR_OB_MPPLASMARIFLE = "%k > plasma > %o.";
+ROTR_TAG_CAT = "Cat";
 ROTR_MSG_CHAINSAW = "Chainsaw";
 ROTR_MSG_SHOTGUN2 = "Super shotgun and 8 shells";
 ROTR_MSG_BERSERK = "Ape";
@@ -490,7 +493,6 @@ ROTR_MAPSET_CUSTOM = "Y";
 ROTR_MAPSET_DATE = "2024";
 ROTR_MAPSET_MAPS = "23";
 ROTR_MAPSET_TITLE = "Rise of the Triangles";
-ROTR_TAG_CAT = "Cat";
 
 // Scythe
 SCY1_MAPSET_AUTHORS = "Erik Alm";
@@ -500,6 +502,13 @@ SCY1_MAPSET_MAPS = "32";
 SCY1_MAPSET_TITLE = "Scythe";
 
 // Scythe 2
+SCY2_ACTOR_1 = "Lexicon_SCY2_CommanderKeen";
+SCY2_ACTOR_2 = "Lexicon_SCY2_WolfensteinSS";
+SCY2_ACTOR_3 = "Lexicon_SCY2_BossEye";
+SCY2_TAG_KEEN = "Afrit";
+SCY2_OB_KEEN = "%o was scorched by an afrit.";
+SCY2_TAG_WOLFSS = "Evil Marine";
+SCY2_OB_WOLFSS = "%o got tagged and bagged by an evil marine.";
 SCY2_MAPSET_AUTHORS = "Erik Alm";
 SCY2_MAPSET_CUSTOM = "Y";
 SCY2_MAPSET_DATE = "2005";
