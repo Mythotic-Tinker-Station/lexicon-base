@@ -20,6 +20,7 @@ include "mapinfo/EARTH.txt" // EarthZD.WAD
 include "mapinfo/ENDGAME.txt" // Endgame.WAD
 include "mapinfo/EPIC.txt" // epic_map02,03,05coopfix.wad
 include "mapinfo/ESTRANGD.txt" // estrangd.wad
+include "mapinfo/GOINGDOWN.txt" // gd_map31coopfix_BLOODWOLF.wad
 include "mapinfo/HADEPHOBIA.txt" // h_phobia_map19,22,23,32coopfix_BLOODWOLF.wad
 include "mapinfo/HELLBND.txt" // hellbnd_map03fix.wad
 include "mapinfo/HLIL.txt" // helinhel.wad
@@ -38,7 +39,7 @@ include "mapinfo/NOVA1.txt" // nova.wad
 include "mapinfo/ROTR.txt" // rottriangle.wad
 include "mapinfo/REQUIEM.txt" // REQUIEM.wad
 include "mapinfo/SCYTHE1.txt"// SCYTHE.wad
-include "mapinfo/SPEEDOFDOOM.txt"// SODfinal.wad
+include "mapinfo/SPEEDOFDOOM.txt"// sodfinal_map11,18,20coopfix.wad
 include "mapinfo/SD20X6.txt"// stardate20x6.wad
 include "mapinfo/SD20X7.txt"// sd20x7.wad
 include "mapinfo/SUNLUST.txt"// sunlust_map27coopfix.wad

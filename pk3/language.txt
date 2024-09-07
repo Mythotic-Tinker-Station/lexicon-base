@@ -279,6 +279,9 @@ ESTR_MAPSET_MAPS = "32";
 ESTR_MAPSET_TITLE = "Estranged";
 
 // Going Down
+GDWN_ACTOR_1 = "Lexicon_GDWN_ShortBlueTorch";
+GDWN_ACTOR_2 = "Lexicon_GDWN_CommanderKeen";
+GDWN_ACTOR_3 = "Lexicon_GDWN_WolfensteinSS";
 GDWN_MAPSET_AUTHORS = "Cyriak Harris, coopfixes by BLOODWOLF";
 GDWN_MAPSET_CUSTOM = "Y";
 GDWN_MAPSET_DATE = "2014";
