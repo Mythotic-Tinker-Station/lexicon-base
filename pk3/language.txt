@@ -286,6 +286,8 @@ GDWN_MAPSET_MAPS = "32";
 GDWN_MAPSET_TITLE = "Going Down";
 
 // Hadephobia
+HADP_ACTOR_1 = "Lexicon_HADP_NonsolidMeat3";
+HADP_ACTOR_2 = "Lexicon_HADP_CommanderKeen";
 HADP_MAPSET_AUTHORS = "Chris Bourke, Hadephobia Team, coopfixes by BLOODWOLF";
 HADP_MAPSET_CUSTOM = "N";
 HADP_MAPSET_DATE = "2013";

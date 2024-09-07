@@ -257,6 +257,9 @@ switch EPC10647 on pic EPC10687 tics 0
 switch EPC10649 on pic EPC10689 tics 0
 switch EPC10652 on pic EPC10692 tics 0
 
+// Hadephobia
+texture HADP0011 range HADP0014 tics 8
+
 // Hellbound
 texture HLBD0084 range HLBD0087 tics 8
 texture HLBD0448 range HLBD0450 tics 8 allowdecals 

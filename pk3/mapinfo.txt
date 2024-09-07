@@ -20,6 +20,7 @@ include "mapinfo/EARTH.txt" // EarthZD.WAD
 include "mapinfo/ENDGAME.txt" // Endgame.WAD
 include "mapinfo/EPIC.txt" // epic_map02,03,05coopfix.wad
 include "mapinfo/ESTRANGD.txt" // estrangd.wad
+include "mapinfo/HADEPHOBIA.txt" // h_phobia_map19,22,23,32coopfix_BLOODWOLF.wad
 include "mapinfo/HELLBND.txt" // hellbnd_map03fix.wad
 include "mapinfo/HLIL.txt" // helinhel.wad
 include "mapinfo/HR1.txt" // hr.wad
