@@ -5,3 +5,4 @@
 #include "gldefs/SDX7.txt" // Stardate 20X7
 #include "gldefs/SNLU.txt" // Sunlust
 #include "gldefs/MY17.txt" // Super MAYhem 17
+#include "gldefs/UACU.txt" // UAC Ultra

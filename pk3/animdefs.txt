@@ -481,6 +481,15 @@ switch MY170500 on pic MY171072 tics 0
 texture SWDH0085 range SWDH0088 tics 8
 texture SWDH0439 range SWDH0442 tics 8 allowdecals
 
+// UAC Ultra
+texture UACU0043 range UACU0046 tics 8
+texture UACU0049 range UACU0052 tics 8
+texture UACU0175 range UACU0178 tics 8
+flat UACU0031 range UACU0034 tics 8
+flat UACU0035 range UACU0038 tics 8
+flat UACU0039 range UACU0042 tics 8
+switch UACU0047 on pic UACU0048 tics 0
+
 // Unholy Realms
 texture UHRN0508 range UHRN0510 tics 8 allowdecals
 texture UHRN0527 range UHRN0530 tics 8 allowdecals

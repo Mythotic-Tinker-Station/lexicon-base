@@ -1,3 +1,6 @@
+// Going Down
+generator Lexicon_GDWN_WolfensteinSS	BulletChip
+
 // Rise of the Triangles
 generator Lexicon_ROTR_ArachnotronPlasma	ArachnotronScorch
 generator Lexicon_ROTR_PlasmaBall	PlasmaScorch
@@ -111,3 +114,11 @@ generator Lexicon_MY17_ArachnotronPlasma	Lexicon_MY17_ArachnotronScorch
 generator Lexicon_MY17_PlasmaBall	Lexicon_MY17_PlasmaScorch
 generator Lexicon_MY17_Rocket	Scorch
 generator Lexicon_MY17_DoomImpBall	DoomImpScorch
+
+// UAC Ultra
+generator Lexicon_UACU_Pistol	BulletChip
+generator Lexicon_UACU_Chainsaw	BulletChip
+generator Lexicon_UACU_Shotgun	BulletChip
+generator Lexicon_UACU_SuperShotgun	BulletChip
+
+generator Lexicon_UACU_ShotgunGuy	BulletChip

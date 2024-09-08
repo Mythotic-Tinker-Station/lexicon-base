@@ -45,6 +45,7 @@ include "mapinfo/SD20X6.txt"// stardate20x6.wad
 include "mapinfo/SD20X7.txt"// sd20x7.wad
 include "mapinfo/SUNLUST.txt"// sunlust_map27coopfix.wad
 include "mapinfo/SWIDEATH.txt"// swideath.wad
+include "mapinfo/UACULTRA.txt"// uacultravfix.wad
 include "mapinfo/UHRN.txt"// ur_final.wad
 include "mapinfo/VANGUARD.txt" // Vanguard.wad
 include "mapinfo/VILEFLESH.txt" // VILE.wad
