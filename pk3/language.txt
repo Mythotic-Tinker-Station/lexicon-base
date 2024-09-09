@@ -50,14 +50,15 @@ ADD_MAPSET_48 = "SNLU";
 ADD_MAPSET_49 = "MY17";
 ADD_MAPSET_50 = "SWDH";
 ADD_MAPSET_51 = "SWTW";
-ADD_MAPSET_52 = "UACU";
-ADD_MAPSET_53 = "UHRN";
-ADD_MAPSET_54 = "VLNT";
-ADD_MAPSET_55 = "VNGD";
-ADD_MAPSET_56 = "VLFL";
-ADD_MAPSET_57 = "WSPS";
-ADD_MAPSET_58 = "ZN30";
-ADD_MAPSET_59 = "ZNOF";
+ADD_MAPSET_52 = "UHRN";
+ADD_MAPSET_53 = "UACU";
+ADD_MAPSET_54 = "TVRV";
+ADD_MAPSET_55 = "VLNT";
+ADD_MAPSET_56 = "VNGD";
+ADD_MAPSET_57 = "VLFL";
+ADD_MAPSET_58 = "WSPS";
+ADD_MAPSET_59 = "ZN30";
+ADD_MAPSET_60 = "ZNOF";
 
 // Custom actors and metadata for Lexicon Base mapsets
 // 1994 Tune-up Community Project
@@ -771,6 +772,29 @@ UHRN_MAPSET_CUSTOM = "N";
 UHRN_MAPSET_DATE = "2013";
 UHRN_MAPSET_MAPS = "32";
 UHRN_MAPSET_TITLE = "Unholy Realms";
+
+// Revolution!
+TVRV_ACTOR_1 = "Lexicon_TVRV_ShortRedColumn";
+TVRV_ACTOR_2 = "Lexicon_TVRV_Candelabra";
+TVRV_ACTOR_3 = "Lexicon_TVRV_EvilEye";
+TVRV_ACTOR_4 = "Lexicon_TVRV_BloodyTwitch";
+TVRV_ACTOR_5 = "Lexicon_TVRV_NonsolidTwitch";
+TVRV_ACTOR_6 = "Lexicon_TVRV_CommanderKeen";
+TVRV_ACTOR_7 = "Lexicon_TVRV_HangNoGuts";
+TVRV_ACTOR_8 = "Lexicon_TVRV_HangTNoBrain";
+TVRV_ACTOR_9 = "Lexicon_TVRV_MegaSphere";
+TVRV_ACTORALT_9 = "MegaSphere";
+TVRV_ACTOR_10 = "Lexicon_TVRV_BossEye";
+TVRV_ACTORALT_10 = "BossEye";
+TVRV_ACTOR_11 = "Lexicon_TVRV_HealthBonus";
+TVRV_ACTORALT_11 = "HealthBonus";
+TVRV_ACTOR_12 = "Lexicon_TVRV_ArmorBonus";
+TVRV_ACTORALT_12 = "ArmorBonus";
+TVRV_MAPSET_AUTHORS = "Thomas van der Velden";
+TVRV_MAPSET_CUSTOM = "Y";
+TVRV_MAPSET_DATE = "2001";
+TVRV_MAPSET_MAPS = "32";
+TVRV_MAPSET_TITLE = "Revolution!";
 
 // Valiant: Vaccinated Edition
 VLNT_MAPSET_AUTHORS = "Paul DeBruyne";

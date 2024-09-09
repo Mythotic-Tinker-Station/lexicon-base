@@ -2,6 +2,7 @@
 #include "gldefs/EPC1.txt" // Epic
 #include "gldefs/HLC1.txt" // Hellcore
 #include "gldefs/HLC2.txt" // Hellcore 2.0
+#include "gldefs/TVRV.txt" // Revolution!
 #include "gldefs/ROTR.txt" // Rise of the Triangles
 #include "gldefs/SDX6.txt" // Stardate 20X6
 #include "gldefs/SDX7.txt" // Stardate 20X7
