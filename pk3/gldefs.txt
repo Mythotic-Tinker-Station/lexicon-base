@@ -1,5 +1,7 @@
 #include "gldefs/DB02.txt" // DBP02: Circle of Cania
 #include "gldefs/EPC1.txt" // Epic
+#include "gldefs/HLC1.txt" // Hellcore
+#include "gldefs/HLC2.txt" // Hellcore 2.0
 #include "gldefs/ROTR.txt" // Rise of the Triangles
 #include "gldefs/SDX6.txt" // Stardate 20X6
 #include "gldefs/SDX7.txt" // Stardate 20X7

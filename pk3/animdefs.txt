@@ -274,6 +274,22 @@ switch HLBD0313 on pic HLBD0353 tics 0
 switch HLBD0315 on pic HLBD0355 tics 0
 switch HLBD0317 on pic HLBD0357 tics 0
 
+// Hellcore
+texture HLC10387 range HLC10389 tics 8
+texture HLC10436 range HLC10439 tics 8
+texture HLC10518 range HLC10522 tics 4
+flat HLC10013 range HLC10018 tics 8
+
+// Hellcore 2.0
+texture HLC20472 range HLC20474 tics 8 allowdecals
+texture HLC20482 range HLC20485 tics 8 allowdecals
+texture HLC20521 range HLC20524 tics 8
+texture HLC20550 range HLC20553 tics 8 allowdecals
+texture HLC20565 range HLC20568 tics 8
+flat HLC20013 range HLC20018 tics 8
+switch HLC20577 on pic HLC20579 tics 0
+switch HLC20578 on pic HLC20580 tics 0
+
 // Hell Revealed I
 texture HR100430 range HR100433 tics 8
 
