@@ -1,5 +1,11 @@
 // Revolution!
 
+defaultmap
+{
+	nojump
+	nocrouch
+}
+
 map TVRV01 "Carnivorous Cargo"
 {
 	titlepatch = "TVRVV00"

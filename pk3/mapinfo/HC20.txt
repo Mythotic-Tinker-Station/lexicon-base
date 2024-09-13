@@ -1,5 +1,11 @@
 // Hellcore 2.0
 
+defaultmap
+{
+	nojump
+	nocrouch
+}
+
 map HLC201 "On Hell's Horizon"
 {
 	titlepatch = "HLC2V00"
