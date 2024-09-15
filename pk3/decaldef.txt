@@ -1,3 +1,19 @@
+// Epic
+generator Lexicon_EPC1_ZombieMan	BulletChip
+generator Lexicon_EPC1_ShotgunGuy	BulletChip
+generator Lexicon_EPC1_ChaingunGuy	BulletChip
+
+// Epic 2
+generator Lexicon_EPC2_Pistol	BulletChip
+generator Lexicon_EPC2_Chaingun	BulletChip
+generator Lexicon_EPC2_PlasmaBall	PlasmaScorch
+
+generator Lexicon_EPC2_ArachnotronPlasma	ArachnotronScorch
+generator Lexicon_EPC2_ZombieMan	BulletChip
+generator Lexicon_EPC2_ShotgunGuy	BulletChip
+generator Lexicon_EPC2_ChaingunGuy	BulletChip
+generator Lexicon_EPC2_WolfensteinSS	BulletChip
+
 // Going Down
 generator Lexicon_GDWN_WolfensteinSS	BulletChip
 

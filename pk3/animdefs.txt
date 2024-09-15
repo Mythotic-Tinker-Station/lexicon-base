@@ -257,6 +257,48 @@ switch EPC10647 on pic EPC10687 tics 0
 switch EPC10649 on pic EPC10689 tics 0
 switch EPC10652 on pic EPC10692 tics 0
 
+// Epic 2
+texture EPC20669 range EPC20676 tics 8
+texture EPC20684 range EPC20687 tics 8
+texture EPC21060 range EPC21061 tics 8
+texture EPC21062 range EPC21069 tics 8
+texture EPC21070 range EPC21072 tics 8
+texture EPC21073 range EPC21078 tics 8
+texture EPC21210 range EPC21212 tics 8 allowdecals
+texture EPC21228 range EPC21236 tics 8
+texture EPC21739 range EPC21742 tics 8
+flat EPC20484 range EPC20487 tics 8
+flat EPC20488 range EPC20491 tics 8
+flat EPC20492 range EPC20499 tics 8
+flat EPC20500 range EPC20505 tics 8
+flat EPC20506 range EPC20515 tics 8
+flat EPC20516 range EPC20523 tics 8
+flat EPC20524 range EPC20558 tics 8
+switch EPC21369 on pic EPC21381 tics 0
+switch EPC21370 on pic EPC21382 tics 0
+switch EPC21371 on pic EPC21383 tics 0
+switch EPC21372 on pic EPC21384 tics 0
+switch EPC21373 on pic EPC21385 tics 0
+switch EPC21374 on pic EPC21386 tics 0
+switch EPC21375 on pic EPC21387 tics 0
+switch EPC21376 on pic EPC21388 tics 0
+switch EPC21377 on pic EPC21389 tics 0
+switch EPC21378 on pic EPC21390 tics 0
+switch EPC21379 on pic EPC21391 tics 0
+switch EPC21380 on pic EPC21392 tics 0
+switch EPC22312 on pic EPC22314 tics 0
+switch EPC22313 on pic EPC22315 tics 0
+switch EPC22823 on pic EPC22824 tics 0
+switch EPC22825 on pic EPC22826 tics 0
+switch EPC22839 on pic EPC22840 tics 0
+switch EPC22849 on pic EPC22850 tics 0
+switch EPC22851 on pic EPC22852 tics 0
+switch EPC22863 on pic EPC22864 tics 0
+switch EPC22865 on pic EPC22866 tics 0
+switch EPC22928 on pic EPC22929 tics 0
+switch EPC22930 on pic EPC22931 tics 0
+switch EPC22932 on pic EPC22933 tics 0
+
 // Going Down
 texture GDWN0003 range GDWN0006 tics 8
 texture GDWN0013 range GDWN0016 tics 8
