@@ -658,6 +658,7 @@ ACTOR Lexicon_EPC2_ChaingunGuy : ChaingunGuy
 	SeeSound "EPC2/grunt/sight"
 	ActiveSound "EPC2/DSPOSACT"
 	DeathSound "EPC2/grunt/death"
+	DropItem "Lexicon_EPC2_Chaingun"
 	States
 	{
 	Spawn:
@@ -701,6 +702,7 @@ ACTOR Lexicon_EPC2_WolfensteinSS : WolfensteinSS
 	SeeSound "EPC2/DSSSSIT" 
 	ActiveSound "EPC2/DSPOSACT" 
 	DeathSound "EPC2/DSSSDTH"
+	DropItem "Lexicon_EPC2_Clip"
 	States
 	{
 	Spawn:
@@ -748,6 +750,7 @@ ACTOR Lexicon_EPC2_Zombieman : Zombieman
 	ActiveSound "EPC2/DSPOSACT"
 	AttackSound "EPC2/DSPISTOL"
 	DeathSound "EPC2/grunt/death"
+	DropItem "Lexicon_EPC2_Clip"
 	States
 	{
 	Missile:
