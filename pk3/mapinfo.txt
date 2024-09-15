@@ -27,11 +27,13 @@ include "mapinfo/HC20.txt" // hc20.wad
 include "mapinfo/HC092604.txt" // hc092604.wad
 include "mapinfo/HELLBND.txt" // hellbnd_map03fix.wad
 include "mapinfo/HLIL.txt" // helinhel.wad
+//include "mapinfo/HELL2PAY.txt" // HELL2PAY.WAD
 include "mapinfo/HR1.txt" // hr.wad
 include "mapinfo/HR2.txt" // hr2final.wad
 include "mapinfo/ICARUS.txt" // ICARUS.wad
 include "mapinfo/INTERCEP.txt" // intercep.wad
 include "mapinfo/JPCP.txt" // jpcp_map11coopfix.wad
+include "mapinfo/LDOE.txt" // LASTEP1.WAD
 include "mapinfo/KSSHT.txt" // kssht.wad
 include "mapinfo/KSUTRA.txt" // ksutra.wad
 include "mapinfo/MARSW301.txt" // MARSW301.WAD
@@ -39,6 +41,7 @@ include "mapinfo/MM1.txt" // MM.wad
 include "mapinfo/MM2.txt" // MM2.wad
 include "mapinfo/MAYHEM17.txt" // mayhem17.wad
 include "mapinfo/NOVA1.txt" // nova.wad
+include "mapinfo/PERDITION.txt" // PG-RAW-X.WAD
 include "mapinfo/ROTR.txt" // rottriangle.wad
 include "mapinfo/REQUIEM.txt" // REQUIEM.wad
 include "mapinfo/SCYTHE1.txt"// SCYTHE.wad

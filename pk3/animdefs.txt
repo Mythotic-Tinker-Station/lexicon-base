@@ -371,6 +371,14 @@ switch JPCP1827 on pic JPCP1828 tics 0
 // Kama Sutra
 texture KSUT0411 range KSUT0414 tics 8
 
+// Last Day on Earth
+texture LDOE0038 range LDOE0075 tics 8
+texture LDOE0043 range LDOE0080 tics 8
+texture LDOE0072 range LDOE0075 tics 8
+texture LDOE0077 range LDOE0080 tics 8
+switch LDOE0031 on pic LDOE0066 tics 0
+switch LDOE0065 on pic LDOE0066 tics 0
+
 // Mars War
 texture MSWR0083 range MSWR0086 tics 8 allowdecals
 texture MSWR0333 range MSWR0335 tics 8 allowdecals
@@ -413,6 +421,14 @@ switch REQU0487 on pic REQU0527 tics 0
 switch REQU0488 on pic REQU0528 tics 0
 switch REQU0489 on pic REQU0529 tics 0
 switch REQU0490 on pic REQU0530 tics 0
+
+// Perdition's Gate
+texture PDGT0097 range PDGT0104 tics 8 allowdecals
+texture PDGT0209 range PDGT0212 tics 8
+switch PDGT0105 on pic PDGT0109 tics 0
+switch PDGT0106 on pic PDGT0110 tics 0
+switch PDGT0107 on pic PDGT0111 tics 0
+switch PDGT0108 on pic PDGT0112 tics 0
 
 // Revolution
 texture TVRV0029 range TVRV0031 tics 8
