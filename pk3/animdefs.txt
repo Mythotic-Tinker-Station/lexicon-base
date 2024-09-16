@@ -339,6 +339,21 @@ texture HR100430 range HR100433 tics 8
 texture HR200469 range HR200472 tics 8
 switch HR200320 on pic HR200360 tics 0
 
+// Hell to Pay
+texture HLTP0174 range HLTP0182 tics 8
+texture HLTP0196 range HLTP0199 tics 8
+texture HLTP0312 range HLTP0319 tics 8 allowdecals
+texture HLTP0320 range HLTP0335 tics 8 allowdecals
+texture HLTP0336 range HLTP0351 tics 8 allowdecals
+texture HLTP0367 range HLTP0370 tics 8 allowdecals
+flat HLTP0069 range HLTP0073 tics 8
+switch HLTP0104 on pic HLTP0105 tics 0
+switch HLTP0183 on pic HLTP0184 tics 0
+switch HLTP0354 on pic HLTP0355 tics 0
+switch HLTP0356 on pic HLTP0357 tics 0
+switch HLTP0358 on pic HLTP0359 tics 0
+switch HLTP0360 on pic HLTP0361 tics 0
+
 // Icarus: Alien Vanguard
 texture ICAV0613 range ICAV0616 tics 8
 texture ICAV0617 range ICAV0622 tics 8 allowdecals

@@ -27,7 +27,7 @@ include "mapinfo/HC20.txt" // hc20.wad
 include "mapinfo/HC092604.txt" // hc092604.wad
 include "mapinfo/HELLBND.txt" // hellbnd_map03fix.wad
 include "mapinfo/HLIL.txt" // helinhel.wad
-//include "mapinfo/HELL2PAY.txt" // HELL2PAY.WAD
+include "mapinfo/HELL2PAY.txt" // HELL2PAY.WAD
 include "mapinfo/HR1.txt" // hr.wad
 include "mapinfo/HR2.txt" // hr2final.wad
 include "mapinfo/ICARUS.txt" // ICARUS.wad

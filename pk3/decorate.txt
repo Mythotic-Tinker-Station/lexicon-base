@@ -11,6 +11,7 @@
 #include "decorate/HADP.txt" // Hadephobia
 #include "decorate/HLC1.txt" // Hellcore
 #include "decorate/HLC2.txt" // Hellcore 2.0
+#include "decorate/HLTP.txt" // Hell to Pay
 #include "decorate/MSWR.txt" // Mars War
 #include "decorate/PDGT.txt" // Perdition's Gate
 #include "decorate/TVRV.txt" // Revolution!
