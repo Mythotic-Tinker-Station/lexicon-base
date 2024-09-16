@@ -173,6 +173,7 @@ map HLTP14 "The Habitat Deck"
 	intermusic = "D_HLTPIN"
 	ExitPic = "HLTPINT"
 	EnterPic = "HLTPINT"
+	// Can't do anything about the ghost monsters, sadly.
 }
 
 map HLTP15 "Captain Bellows"
@@ -269,6 +270,7 @@ map HLTP22 "Vile Temple"
 	intermusic = "D_HLTPIN"
 	ExitPic = "HLTPINT"
 	EnterPic = "HLTPINT"
+	// Can't do anything about the ghost monsters, sadly.
 }
 
 map HLTP23 "Hell's Cavern"
