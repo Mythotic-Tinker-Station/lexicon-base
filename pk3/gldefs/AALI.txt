@@ -1,0 +1,49 @@
+pointlight Lexicon_AALI_ARACHPLAS
+{
+    color 0.89 0.10 0.48
+    size 56
+}
+
+flickerlight Lexicon_AALI_ARACHPLAS_X1
+{
+    color 0.8 0.07 0.26
+    size 72
+    secondarySize 80
+    chance 0.3
+}
+
+flickerlight Lexicon_AALI_ARACHPLAS_X2
+{
+    color 0.9 0.05 0.22
+    size 88
+    secondarySize 96
+    chance 0.3
+}
+
+flickerlight Lexicon_AALI_ARACHPLAS_X3
+{
+    color 0.6 0.04 0.18
+    size 48
+    secondarySize 32
+    chance 0.3
+}
+
+flickerlight Lexicon_AALI_ARACHPLAS_X4
+{
+    color 0.3 0.03 0.12
+    size 24
+    secondarySize 16
+    chance 0.3
+}
+
+object Lexicon_AALI_ArachnotronPlasma
+{
+	frame LX02N { light Lexicon_AALI_ARACHPLAS }
+	frame LX02O { light Lexicon_AALI_ARACHPLAS }
+
+	frame LX02M { light Lexicon_AALI_ARACHPLAS_X1 }
+	frame APBXB { light Lexicon_AALI_ARACHPLAS_X2 }
+	frame APBXC { light Lexicon_AALI_ARACHPLAS_X2 }
+	frame APBXD { light Lexicon_AALI_ARACHPLAS_X3 }
+	frame APBXE { light Lexicon_AALI_ARACHPLAS_X4 }
+}

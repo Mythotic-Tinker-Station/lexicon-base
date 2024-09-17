@@ -1,0 +1,5 @@
+/*
+ACTOR AlienPlasma : ArachnotronPlasma replaces ArachnotronPlasma
+{
+  Renderstyle normal
+}
