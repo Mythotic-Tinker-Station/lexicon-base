@@ -780,3 +780,19 @@ ACTOR Lexicon_EPC2_ArachnotronPlasma : ArachnotronPlasma { SeeSound "EPC2/DSPLAS
 ACTOR Lexicon_EPC2_ShotgunGuy : ShotgunGuy { SeeSound "EPC2/grunt/sight" ActiveSound "EPC2/DSPOSACT" DeathSound "EPC2/grunt/death" }
 ACTOR Lexicon_EPC2_LostSoul : LostSoul { AttackSound "EPC2/DSSKLATK" }
 ACTOR Lexicon_EPC2_CommanderKeen : CommanderKeen { DeathSound "EPC2/DSKEENDT" }
+
+/* TODO: Fix BossEye behavior in Epic 2
+Actor Lexicon_EPC2_BossEye : BossEye
+{
+	DropItem "DoomImp", 255, 50
+	DropItem "Demon", 255, 40
+	DropItem "Spectre", 255, 30
+	DropItem "PainElemental", 255, 10
+	DropItem "Cacodemon", 255, 30
+	DropItem "Archvile", 255, 2
+	DropItem "Revenant", 255, 10
+	DropItem "Arachnotron", 255, 20
+	DropItem "Fatso", 255, 30
+	DropItem "HellKnight", 255, 24
+	DropItem "BaronOfHell", 255, 10
+}

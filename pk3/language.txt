@@ -82,11 +82,40 @@ ALVD_MAPSET_MAPS = "32";
 ALVD_MAPSET_TITLE = "Alien Vendetta";
 
 // Ancient Aliens
+AALI_ACTOR_1 = "Lexicon_AALI_CommanderKeen";
+AALI_ACTOR_2 = "Lexicon_AALI_WolfensteinSS";
+AALI_ACTOR_3 = "Lexicon_AALI_HeadOnAStick";
+AALI_ACTOR_4 = "Lexicon_AALI_HeadsOnAStick";
+AALI_ACTOR_5 = "Lexicon_AALI_TallGreenColumn";
+AALI_ACTOR_6 = "Lexicon_AALI_ShortGreenColumn";
+AALI_ACTOR_7 = "Lexicon_AALI_TallRedColumn";
+AALI_ACTOR_8 = "Lexicon_AALI_ShortRedColumn";
+AALI_ACTOR_9 = "Lexicon_AALI_Candelabra";
+AALI_ACTOR_10 = "Lexicon_AALI_SkullColumn";
+AALI_ACTOR_11 = "Lexicon_AALI_TorchTree";
+AALI_ACTOR_12 = "Lexicon_AALI_Stalagtite";
+AALI_ACTOR_13 = "Lexicon_AALI_BigTree";
+AALI_ACTOR_14 = "Lexicon_AALI_Revenant";
+AALI_ACTORALT_14 = "Revenant";
+AALI_ACTOR_15 = "Lexicon_AALI_Fatso";
+AALI_ACTORALT_15 = "Fatso";
+AALI_ACTOR_16 = "Lexicon_AALI_Arachnotron";
+AALI_ACTORALT_16 = "Arachnotron";
+AALI_ACTOR_17 = "Lexicon_AALI_CommanderKeen";
+AALI_ACTOR_18 = "Lexicon_AALI_WolfensteinSS";
+AALI_ACTOR_19 = "Lexicon_AALI_BossBrain";
+AALI_ACTOR_20 = "Lexicon_AALI_BossEye";
+AALI_ACTOR_21 = "Lexicon_AALI_PlasmaRifle";
+AALI_ACTORALT_21 = "PlasmaRifle";
+AALI_ACTOR_22 = "Lexicon_AALI_Column";
 AALI_MAPSET_AUTHORS = "Paul DeBruyne";
 AALI_MAPSET_CUSTOM = "Y";
 AALI_MAPSET_DATE = "2016";
 AALI_MAPSET_MAPS = "32";
 AALI_MAPSET_TITLE = "Ancient Aliens";
+AALI_TAG_ALIENGUARDIAN = "Alien Guardian";
+AALI_TAG_PLASMAALIEN = "Stealth Plasma Alien";
+AALI_WEAPON_8 = "Lexicon_AALI_PlasmaRifle";
 
 // Chainworm Kommando
 CWKM_MAPSET_AUTHORS = "Chainworm666";
@@ -348,6 +377,10 @@ EPC2_MAPSET_CUSTOM = "Y";
 EPC2_MAPSET_DATE = "2010";
 EPC2_MAPSET_MAPS = "32";
 EPC2_MAPSET_TITLE = "Epic 2";
+EPC2_WEAPON_2 = "Lexicon_EPC2_Pistol";
+EPC2_WEAPON_6 = "Lexicon_EPC2_Chaingun";
+EPC2_WEAPON_7 = "Lexicon_EPC2_RocketLauncher";
+EPC2_WEAPON_8 = "Lexicon_EPC2_PlasmaRifle";
 
 // Estranged
 ESTR_MAPSET_AUTHORS = "Foodles";
@@ -471,6 +504,9 @@ HLTP_MAPSET_CUSTOM = "Y";
 HLTP_MAPSET_DATE = "1996";
 HLTP_MAPSET_MAPS = "32";
 HLTP_MAPSET_TITLE = "Hell to Pay";
+HLTP_WEAPON_7 = "Lexicon_HLTP_RocketLauncher";
+HLTP_WEAPON_8 = "Lexicon_HLTP_PlasmaRifle";
+HLTP_WEAPON_9 = "Lexicon_HLTP_BFG9000";
 
 // Icarus: Alien Vanguard
 ICAV_MAPSET_AUTHORS = "TeamTNT, coop fixes by ArgentAgent";

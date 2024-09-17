@@ -1,3 +1,20 @@
+object Lexicon_AALI_Candelabra
+{
+    frame CBRA { light CANDELABRA }
+}
+
+object Lexicon_AALI_PlasmaBall
+{
+    frame PLSSA { light PLASMABALL }
+    frame PLSSB { light PLASMABALL }
+
+    frame PLSEA { light PLASMA_X1 }
+    frame PLSEB { light PLASMA_X2 }
+    frame PLSEC { light PLASMA_X2 }
+    frame PLSED { light PLASMA_X3 }
+    frame PLSEE { light PLASMA_X4 }
+}
+
 pointlight Lexicon_AALI_ARACHPLAS
 {
     color 0.89 0.10 0.48
@@ -38,12 +55,32 @@ flickerlight Lexicon_AALI_ARACHPLAS_X4
 
 object Lexicon_AALI_ArachnotronPlasma
 {
-	frame LX02N { light Lexicon_AALI_ARACHPLAS }
-	frame LX02O { light Lexicon_AALI_ARACHPLAS }
+	frame LX50R { light Lexicon_AALI_ARACHPLAS }
+	frame LX50S { light Lexicon_AALI_ARACHPLAS }
 
-	frame LX02M { light Lexicon_AALI_ARACHPLAS_X1 }
-	frame APBXB { light Lexicon_AALI_ARACHPLAS_X2 }
-	frame APBXC { light Lexicon_AALI_ARACHPLAS_X2 }
-	frame APBXD { light Lexicon_AALI_ARACHPLAS_X3 }
-	frame APBXE { light Lexicon_AALI_ARACHPLAS_X4 }
+	frame LX50T { light Lexicon_AALI_ARACHPLAS_X1 }
+	frame LX50U { light Lexicon_AALI_ARACHPLAS_X2 }
+	frame LX50V { light Lexicon_AALI_ARACHPLAS_X2 }
+	frame LX50W { light Lexicon_AALI_ARACHPLAS_X3 }
+	frame LX50X { light Lexicon_AALI_ARACHPLAS_X4 }
+}
+
+object Lexicon_AALI_RevenantTracerDumbfire
+{
+    frame FATBR { light TRACER    }
+    frame FATBS { light TRACER    }
+
+    frame FBXPA { light TRACER_X1 }
+    frame FBXPB { light TRACER_X2 }
+    frame FBXPC { light TRACER_X3 }
+}
+
+object Lexicon_AALI_RevenantTracerHoming
+{
+    frame FATBA { light TRACER    }
+    frame FATBB { light TRACER    }
+
+    frame FBXPA { light TRACER_X1 }
+    frame FBXPB { light TRACER_X2 }
+    frame FBXPC { light TRACER_X3 }
 }

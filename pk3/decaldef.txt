@@ -1,9 +1,31 @@
-/*
 // Ancient Aliens
+decal Lexicon_AALI_ArachScorch1
+{
+	pic LX50R0
+	add 1.0
+	animator GoAway
+	lowerdecal PlasmaScorchLower1
+}
+
+decal Lexicon_AALI_ArachScorch2
+{
+	pic LX50S0
+	add 1.0
+	animator GoAway
+	lowerdecal PlasmaScorchLower2
+}
+
+decalgroup Lexicon_AALI_ArachnotronScorch
+{
+	Lexicon_AALI_ArachScorch1	1
+	Lexicon_AALI_ArachScorch2	1
+}
+
 generator Lexicon_AALI_PlasmaBall	PlasmaScorch
 
-generator Lexicon_AALI_ArachnotronPlasma	ArachnotronScorch
-*/
+generator Lexicon_AALI_RevenantTracerDumbfire	RevenantScorch
+generator Lexicon_AALI_RevenantTracerHoming	RevenantScorch
+generator Lexicon_AALI_ArachnotronPlasma	Lexicon_AALI_ArachnotronScorch
 
 // Epic
 generator Lexicon_EPC1_ZombieMan	BulletChip
