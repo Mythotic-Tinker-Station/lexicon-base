@@ -9,11 +9,10 @@
 script "LexiconBaseExpansionPackMapScripts" ENTER
 {
 	str mapName = StrParam(n:PRINTNAME_LEVEL);
-	
-	switch(mapName)
+
+	// Ancient Aliens
+	if (StrICmp(mapName,"AALI01") == 0)
 	{
-		// Ancient Aliens
-		case "AALI01":
 		while(TRUE)
 		{
 			if (GetActorZ(0) > 100000000)
@@ -24,8 +23,9 @@ script "LexiconBaseExpansionPackMapScripts" ENTER
 			}
 			Delay(1);
 		}
-		break;
-	case "AALI03":
+	}
+	if (StrICmp(mapName,"AALI03") == 0)
+	{
 		while(TRUE)
 		{
 			if (GetActorZ(0) > 100000000)
@@ -35,8 +35,9 @@ script "LexiconBaseExpansionPackMapScripts" ENTER
 			}
 			Delay(1);
 		}
-		break;
-	case "AALI04":
+	}
+	if (StrICmp(mapName,"AALI04") == 0)
+	{
 		while(TRUE)
 		{
 			if (GetActorZ(0) > 100000000)
@@ -46,18 +47,23 @@ script "LexiconBaseExpansionPackMapScripts" ENTER
 			}
 			Delay(1);
 		}
-	case "AALI07":
+	}
+	if (StrICmp(mapName,"AALI07") == 0)
+	{
+		PrintBold(s:"Ack!");
 		while(TRUE)
 		{
 			if (GetActorZ(0) > 100000000)
 			{
-				LocalAmbientSound("AALI/DSEAGLE", 127);
-				Delay(70);
+				If (!GetCVar("lexicon_no_music_changes")) { setmusic ("D_AALI40", 0); }
+				LocalAmbientSound("AALI/DSWLFHWL", 127);
+				Delay(130);
 			}
 			Delay(1);
 		}
-		break;
-	case "AALI16":
+	}
+	if (StrICmp(mapName,"AALI16") == 0)
+	{
 		while (TRUE)
 		{
 			int z = GetActorZ(0);
@@ -86,7 +92,9 @@ script "LexiconBaseExpansionPackMapScripts" ENTER
 			}
 			Delay(1);
 		}
-	case "AALI30":
+	}
+	if (StrICmp(mapName,"AALI30") == 0)
+	{
 		while (TRUE)
 		{ 
 			if (GetActorZ(0) > 100000000)
@@ -104,8 +112,5 @@ script "LexiconBaseExpansionPackMapScripts" ENTER
 			}
 			Delay(1);
 		}
-		break;
-	default:
-		break;
 	}
 }

@@ -163,7 +163,7 @@ texture AALI4942 range AALI4953 tics 8
 texture AALI4980 range AALI4989 tics 8
 texture AALI4990 range AALI4999 tics 8
 texture AALI5057 range AALI5060 tics 8
-texture AALI5195 range AALI5255 tics 8
+texture AALI5195 range AALI5200 tics 8
 flat AALI0009 range AALI0012 tics 8
 flat AALI0013 range AALI0016 tics 8
 flat AALI0017 range AALI0020 tics 8
