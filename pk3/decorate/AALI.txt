@@ -319,10 +319,10 @@ ACTOR Lexicon_AALI_Revenant : Revenant
 		SKEL K 10 A_CustomMissile("Lexicon_AALI_RevenantTracerDumbfire", 48)
 		Goto EndMissile
 	HomingMissile:
-		SKE2 K 10 A_CustomMissile("Lexicon_AALI_RevenantTracerHoming", 48)
+		SKEL K 10 A_CustomMissile("Lexicon_AALI_RevenantTracerHoming", 48)
 		Goto EndMissile
 	EndMissile:
-		SKE2 K 10 A_FaceTarget
+		SKEL K 10 A_FaceTarget
 		Goto See
 	}
 }
@@ -360,7 +360,7 @@ actor Lexicon_AALI_RevenantTracerHoming : RevenantTracer
 	}
 }
 
-ACTOR Lexicon_AALI_RevenantTracerSmoke
+ACTOR Lexicon_AALI_RevenantTracerSmoke : RevenantTracerSmoke
 {
 	States
 	{	

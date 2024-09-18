@@ -1,0 +1,111 @@
+/*
+	Lexicon Base Expansion Pack
+	Map Scripts
+*/
+
+#import "zcommon.bcs"
+#library "LXBASE"
+
+script "LexiconBaseExpansionPackMapScripts" ENTER
+{
+	str mapName = StrParam(n:PRINTNAME_LEVEL);
+	
+	switch(mapName)
+	{
+		// Ancient Aliens
+		case "AALI01":
+		while(TRUE)
+		{
+			if (GetActorZ(0) > 100000000)
+			{
+				If (!GetCVar("lexicon_no_music_changes")) { setmusic ("D_AALI40", 0); }
+				LocalAmbientSound("AALI/DSWLFHWL", 127);
+				Delay(130);
+			}
+			Delay(1);
+		}
+		break;
+	case "AALI03":
+		while(TRUE)
+		{
+			if (GetActorZ(0) > 100000000)
+			{
+				LocalAmbientSound("AALI/DSBERHWL", 127);
+				Delay(70);
+			}
+			Delay(1);
+		}
+		break;
+	case "AALI04":
+		while(TRUE)
+		{
+			if (GetActorZ(0) > 100000000)
+			{
+				LocalAmbientSound("AALI/DSBSNHWL", 127);
+				Delay(70);
+			}
+			Delay(1);
+		}
+	case "AALI07":
+		while(TRUE)
+		{
+			if (GetActorZ(0) > 100000000)
+			{
+				LocalAmbientSound("AALI/DSEAGLE", 127);
+				Delay(70);
+			}
+			Delay(1);
+		}
+		break;
+	case "AALI16":
+		while (TRUE)
+		{
+			int z = GetActorZ(0);
+			if (z > 100000000)
+			{
+				if (z < 600000000)
+				{
+					LocalAmbientSound("AALI/DSWLFHWL", 127);
+					Delay(70);
+				}
+				else if (z < 1000000000)
+				{
+					LocalAmbientSound("AALI/DSEAGLE", 127);
+					Delay(70);			
+				}
+				else if (z < 1300000000)
+				{
+					LocalAmbientSound("AALI/DSBERHWL", 127);
+					Delay(70);
+				}
+				else if (z >= 1300000000)
+				{
+					LocalAmbientSound("AALI/DSBSNHWL", 127);
+					Delay(70);
+				}
+			}
+			Delay(1);
+		}
+	case "AALI30":
+		while (TRUE)
+		{ 
+			if (GetActorZ(0) > 100000000)
+			{
+				If (!GetCVar("lexicon_no_music_changes")) { setmusic (""); }
+				Delay(15);
+				LocalAmbientSound("AALI/DSGIORG", 127);
+				while (GetActorX(0) / 65536 > 7848)
+				{
+					Delay(1);
+				}
+				Delay(12);
+				LocalAmbientSound("AALI/DSSCREAM", 127);
+				Delay(175);
+			}
+			Delay(1);
+		}
+		break;
+	default:
+		break;
+	}
+}

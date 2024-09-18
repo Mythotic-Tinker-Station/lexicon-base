@@ -12,6 +12,249 @@ texture ALVD0932 range ALVD0935 tics 8 allowdecals
 switch ALVD0738 on pic ALVD0739 tics 0
 switch ALVD0936 on pic ALVD0937 tics 0
 
+// Ancient Aliens
+texture AALI1071 range AALI1074 tics 8
+texture AALI1075 range AALI1078 tics 8
+texture AALI1079 range AALI1088 tics 8
+texture AALI1089 range AALI1098 tics 8
+texture AALI1099 range AALI1108 tics 8
+texture AALI1109 range AALI1118 tics 8
+texture AALI1119 range AALI1122 tics 8
+texture AALI1123 range AALI1126 tics 8
+texture AALI1127 range AALI1136 tics 8
+texture AALI1137 range AALI1146 tics 8
+texture AALI1147 range AALI1156 tics 8
+texture AALI1157 range AALI1166 tics 8
+texture AALI1167 range AALI1170 tics 8
+texture AALI1171 range AALI1174 tics 8
+texture AALI1175 range AALI1184 tics 8
+texture AALI1185 range AALI1194 tics 8
+texture AALI1195 range AALI1204 tics 8
+texture AALI1205 range AALI1214 tics 8
+texture AALI1215 range AALI1218 tics 8
+texture AALI1219 range AALI1222 tics 8
+texture AALI1223 range AALI1232 tics 8
+texture AALI1233 range AALI1242 tics 8
+texture AALI1243 range AALI1252 tics 8
+texture AALI1253 range AALI1262 tics 8
+texture AALI1263 range AALI1266 tics 8
+texture AALI1267 range AALI1270 tics 8
+texture AALI1271 range AALI1274 tics 8
+texture AALI1279 range AALI1282 tics 8
+texture AALI1283 range AALI1286 tics 8
+texture AALI1412 range AALI1415 tics 8
+texture AALI1437 range AALI1440 tics 8 allowdecals
+texture AALI1620 range AALI1623 tics 8
+texture AALI1775 range AALI1778 tics 8
+texture AALI2221 range AALI2230 tics 8
+texture AALI2232 range AALI2241 tics 8
+texture AALI2243 range AALI2252 tics 8
+texture AALI2253 range AALI2262 tics 8
+texture AALI2264 range AALI2273 tics 8
+texture AALI2275 range AALI2284 tics 8
+texture AALI2286 range AALI2295 tics 8
+texture AALI2296 range AALI2297 tics 8
+texture AALI2299 range AALI2300 tics 8
+texture AALI2301 range AALI2303 tics 8
+texture AALI2304 range AALI2306 tics 8
+texture AALI2430 range AALI2433 tics 8
+texture AALI2434 range AALI2436 tics 8 allowdecals
+texture AALI2444 range AALI2453 tics 8
+texture AALI2454 range AALI2463 tics 8
+texture AALI2464 range AALI2473 tics 8
+texture AALI2474 range AALI2483 tics 8
+texture AALI2484 range AALI2493 tics 8
+texture AALI2494 range AALI2503 tics 8
+texture AALI2504 range AALI2513 tics 8
+texture AALI2514 range AALI2523 tics 8
+texture AALI2524 range AALI2533 tics 8
+texture AALI2534 range AALI2542 tics 8
+texture AALI2548 range AALI2556 tics 8
+texture AALI2562 range AALI2570 tics 8
+texture AALI2576 range AALI2584 tics 8
+texture AALI2590 range AALI2598 tics 8
+texture AALI2604 range AALI2612 tics 8
+texture AALI2618 range AALI2626 tics 8
+texture AALI2672 range AALI2675 tics 8
+texture AALI3036 range AALI3039 tics 8
+texture AALI3078 range AALI3080 tics 8 allowdecals
+texture AALI3103 range AALI3106 tics 8
+texture AALI3185 range AALI3188 tics 8
+texture AALI3775 range AALI3778 tics 8
+texture AALI3779 range AALI3782 tics 8
+texture AALI3783 range AALI3786 tics 8
+texture AALI3787 range AALI3790 tics 8
+texture AALI3791 range AALI3794 tics 8
+texture AALI3795 range AALI3798 tics 8
+texture AALI3799 range AALI3802 tics 8
+texture AALI3803 range AALI3806 tics 8
+texture AALI3807 range AALI3810 tics 8
+texture AALI3811 range AALI3814 tics 8
+texture AALI3815 range AALI3818 tics 8
+texture AALI3819 range AALI3822 tics 8
+texture AALI3823 range AALI3826 tics 8
+texture AALI3827 range AALI3830 tics 8
+texture AALI3831 range AALI3834 tics 8
+texture AALI3835 range AALI3838 tics 8
+texture AALI3839 range AALI3842 tics 8
+texture AALI3843 range AALI3846 tics 8
+texture AALI3847 range AALI3850 tics 8
+texture AALI3851 range AALI3854 tics 8
+texture AALI3855 range AALI3858 tics 8
+texture AALI3859 range AALI3862 tics 8
+texture AALI3863 range AALI3866 tics 8
+texture AALI3867 range AALI3870 tics 8
+texture AALI3871 range AALI3874 tics 8
+texture AALI3875 range AALI3878 tics 8
+texture AALI3879 range AALI3882 tics 8
+texture AALI3883 range AALI3886 tics 8
+texture AALI3887 range AALI3890 tics 8
+texture AALI3891 range AALI3894 tics 8
+texture AALI3895 range AALI3898 tics 8
+texture AALI3899 range AALI3902 tics 8
+texture AALI3903 range AALI3906 tics 8
+texture AALI3907 range AALI3910 tics 8
+texture AALI3911 range AALI3914 tics 8
+texture AALI3915 range AALI3918 tics 8
+texture AALI3919 range AALI3922 tics 8
+texture AALI3923 range AALI3926 tics 8
+texture AALI3927 range AALI3930 tics 8
+texture AALI3931 range AALI3934 tics 8
+texture AALI3935 range AALI3938 tics 8
+texture AALI3939 range AALI3942 tics 8
+texture AALI3943 range AALI3952 tics 8
+texture AALI3953 range AALI3962 tics 8
+texture AALI3980 range AALI3989 tics 8
+texture AALI3990 range AALI3999 tics 8
+texture AALI4001 range AALI4004 tics 8
+texture AALI4063 range AALI4066 tics 8
+texture AALI4079 range AALI4086 tics 8
+texture AALI4087 range AALI4096 tics 8
+texture AALI4097 range AALI4106 tics 8
+texture AALI4109 range AALI4116 tics 8
+texture AALI4132 range AALI4147 tics 8
+texture AALI4148 range AALI4163 tics 8
+texture AALI4164 range AALI4179 tics 8
+texture AALI4180 range AALI4195 tics 8
+texture AALI4211 range AALI4221 tics 8
+texture AALI4222 range AALI4232 tics 8
+texture AALI4233 range AALI4243 tics 8
+texture AALI4244 range AALI4254 tics 8
+texture AALI4255 range AALI4265 tics 8
+texture AALI4298 range AALI4305 tics 8
+texture AALI4314 range AALI4321 tics 8
+texture AALI4334 range AALI4351 tics 8
+texture AALI4352 range AALI4369 tics 8
+texture AALI4376 range AALI4379 tics 8
+texture AALI4403 range AALI4584 tics 8
+texture AALI4585 range AALI4766 tics 8
+texture AALI4767 range AALI4772 tics 8
+texture AALI4822 range AALI4832 tics 8
+texture AALI4834 range AALI4845 tics 8
+texture AALI4846 range AALI4857 tics 8
+texture AALI4858 range AALI4869 tics 8
+texture AALI4870 range AALI4881 tics 8
+texture AALI4882 range AALI4893 tics 8
+texture AALI4894 range AALI4905 tics 8
+texture AALI4906 range AALI4917 tics 8
+texture AALI4918 range AALI4929 tics 8
+texture AALI4930 range AALI4941 tics 8
+texture AALI4942 range AALI4953 tics 8
+texture AALI4980 range AALI4989 tics 8
+texture AALI4990 range AALI4999 tics 8
+texture AALI5057 range AALI5060 tics 8
+texture AALI5195 range AALI5255 tics 8
+flat AALI0009 range AALI0012 tics 8
+flat AALI0013 range AALI0016 tics 8
+flat AALI0017 range AALI0020 tics 8
+flat AALI0021 range AALI0024 tics 8
+flat AALI0025 range AALI0028 tics 8
+flat AALI0029 range AALI0032 tics 8
+flat AALI0033 range AALI0036 tics 8
+flat AALI0037 range AALI0040 tics 8
+flat AALI0056 range AALI0059 tics 8
+flat AALI0076 range AALI0085 tics 8
+flat AALI0086 range AALI0095 tics 8
+flat AALI0096 range AALI0105 tics 8
+flat AALI0106 range AALI0115 tics 8
+flat AALI0116 range AALI0125 tics 8
+flat AALI0158 range AALI0161 tics 8
+flat AALI0207 range AALI0209 tics 8
+flat AALI0258 range AALI0260 tics 8
+flat AALI0268 range AALI0271 tics 8
+flat AALI0272 range AALI0275 tics 8
+flat AALI0276 range AALI0279 tics 8
+flat AALI0316 range AALI0319 tics 8
+flat AALI0332 range AALI0337 tics 8
+flat AALI0338 range AALI0341 tics 8
+flat AALI0342 range AALI0345 tics 8
+flat AALI0346 range AALI0349 tics 8
+flat AALI0355 range AALI0357 tics 8
+flat AALI0801 range AALI0804 tics 8
+switch AALI3582 on pic AALI3632 tics 0
+switch AALI3583 on pic AALI3633 tics 0
+switch AALI3584 on pic AALI3634 tics 0
+switch AALI3585 on pic AALI3635 tics 0
+switch AALI3586 on pic AALI3636 tics 0
+switch AALI3587 on pic AALI3637 tics 0
+switch AALI3588 on pic AALI3638 tics 0
+switch AALI3589 on pic AALI3639 tics 0
+switch AALI3590 on pic AALI3640 tics 0
+switch AALI3591 on pic AALI3641 tics 0
+switch AALI3592 on pic AALI3642 tics 0
+switch AALI3593 on pic AALI3643 tics 0
+switch AALI3594 on pic AALI3644 tics 0
+switch AALI3595 on pic AALI3645 tics 0
+switch AALI3596 on pic AALI3646 tics 0
+switch AALI3597 on pic AALI3647 tics 0
+switch AALI3598 on pic AALI3648 tics 0
+switch AALI3599 on pic AALI3649 tics 0
+switch AALI3600 on pic AALI3650 tics 0
+switch AALI3601 on pic AALI3651 tics 0
+switch AALI3602 on pic AALI3652 tics 0
+switch AALI3603 on pic AALI3653 tics 0
+switch AALI3604 on pic AALI3654 tics 0
+switch AALI3605 on pic AALI3655 tics 0
+switch AALI3606 on pic AALI3656 tics 0
+switch AALI3607 on pic AALI3657 tics 0
+switch AALI3608 on pic AALI3658 tics 0
+switch AALI3609 on pic AALI3659 tics 0
+switch AALI3610 on pic AALI3660 tics 0
+switch AALI3611 on pic AALI3661 tics 0
+switch AALI3612 on pic AALI3662 tics 0
+switch AALI3613 on pic AALI3663 tics 0
+switch AALI3614 on pic AALI3664 tics 0
+switch AALI3615 on pic AALI3665 tics 0
+switch AALI3616 on pic AALI3666 tics 0
+switch AALI3617 on pic AALI3667 tics 0
+switch AALI3618 on pic AALI3668 tics 0
+switch AALI3619 on pic AALI3669 tics 0
+switch AALI3620 on pic AALI3670 tics 0
+switch AALI3621 on pic AALI3671 tics 0
+switch AALI3622 on pic AALI3672 tics 0
+switch AALI3623 on pic AALI3673 tics 0
+switch AALI3624 on pic AALI3674 tics 0
+switch AALI3625 on pic AALI3675 tics 0
+switch AALI3626 on pic AALI3676 tics 0
+switch AALI3627 on pic AALI3677 tics 0
+switch AALI3628 on pic AALI3678 tics 0
+switch AALI3629 on pic AALI3679 tics 0
+switch AALI3630 on pic AALI3680 tics 0
+switch AALI3631 on pic AALI3681 tics 0
+switch AALI3682 on pic AALI3683 tics 0
+switch AALI3684 on pic AALI3685 tics 0
+switch AALI3686 on pic AALI3687 tics 0
+switch AALI3688 on pic AALI3689 tics 0
+switch AALI3690 on pic AALI3691 tics 0
+switch AALI5038 on pic AALI5039 tics 0
+switch AALI6641 on pic AALI6642 tics 0
+switch AALI6643 on pic AALI6644 tics 0
+switch AALI6646 on pic AALI6645 tics 0
+switch AALI6648 on pic AALI6647 tics 0
+switch AALI6650 on pic AALI6649 tics 0
+switch YYYY0016 on pic YYYY0017 tics 0
+switch YYYY0317 on pic YYYY0318 tics 0
+
 // Chainworm Kommando
 texture	CWKM0098 range CWKM0101 tics 8
 texture CWKM0130 range CWKM0132 tics 4
