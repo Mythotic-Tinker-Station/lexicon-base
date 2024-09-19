@@ -410,6 +410,12 @@ switch CCH42229 on pic CCH42230 tics 0
 switch C2410467 on pic C2410507 tics 0
 switch C2410470 on pic C2410510 tics 0
 
+// Doom 2: Dark World
+texture D2DW0034 range D2DW0037 tics 8
+flat D2DW0002 range D2DW0005 tics 8
+flat D2DW0006 range D2DW0008 tics 8
+switch D2DW0023 on pic D2DW0024 tics 0
+
 // Doom 2 The Way id Did
 texture D2WD0550 pic 1 tics 35 pic 1 tics 35
 texture D2WD0551 pic 1 tics 35 pic 1 tics 35
