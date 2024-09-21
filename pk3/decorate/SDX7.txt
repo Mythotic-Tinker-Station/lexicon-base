@@ -55,8 +55,8 @@ ACTOR Lexicon_SDX7_CommanderKeen : CommanderKeen
 	PainSound "demon/pain"
 	DeathSound "baron/death"
 	ActiveSound "demon/active"
-	Obituary "$OB_SDX7_AFRIT"
-	Tag "$TAG_SDX7_AFRIT"
+	Obituary "$SDX7_OB_AFRIT"
+	Tag "$SDX7_TAG_AFRIT"
 	States
 	{
 	Spawn:
@@ -111,7 +111,7 @@ ACTOR Lexicon_SDX7_BossBrain : BossBrain
 
 ACTOR Lexicon_SDX7_RedCard : CustomInventory
 {
-	Inventory.PickupMessage "$SDX7_GOTREDCARD"
+	Inventory.PickupMessage "$SDX7_MSG_REDCARD"
 	States
 	{
 	Spawn:
@@ -126,7 +126,7 @@ ACTOR Lexicon_SDX7_RedCard : CustomInventory
 
 ACTOR Lexicon_SDX7_BlueCard : CustomInventory
 {
-	Inventory.PickupMessage "$SDX7_GOTBLUECARD"
+	Inventory.PickupMessage "$SDX7_MSG_BLUECARD"
 	States
 	{
 	Spawn:
@@ -141,7 +141,7 @@ ACTOR Lexicon_SDX7_BlueCard : CustomInventory
 
 ACTOR Lexicon_SDX7_RedSkull : CustomInventory
 {
-	Inventory.PickupMessage "$SDX7_GOTREDSKULL"
+	Inventory.PickupMessage "$SDX7_MSG_REDSKULL"
 	States
 	{
 	Spawn:
@@ -171,7 +171,7 @@ ACTOR Lexicon_SDX7_YellowSkull : CustomInventory
 
 ACTOR Lexicon_SDX7_BlueSkull : CustomInventory
 {
-	Inventory.PickupMessage "$SDX7_GOTBLUESKUL"
+	Inventory.PickupMessage "$SDX7_MSG_BLUESKUL"
 	States
 	{
 	Spawn:

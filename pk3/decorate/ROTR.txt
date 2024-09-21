@@ -93,7 +93,7 @@ ACTOR Lexicon_ROTR_LostSoul
 	DeathSound "skull/death"
 	ActiveSound "skull/active"
 	RenderStyle SoulTrans
-	Obituary "$OB_ROTR_SKULL"
+	Obituary "$ROTR_OB_SKULL"
 	States
 	{
 	Spawn:
@@ -601,9 +601,9 @@ ACTOR Lexicon_ROTR_WolfensteinSS
 	DeathSound "ROTR/DSSSDTH"
 	ActiveSound "ROTR/DSTINK"
 	AttackSound "wolfss/attack"
-	Obituary "$OB_ROTR_WOLFSS"
+	Obituary "$ROTR_OB_WOLFSS"
 	Dropitem "Clip"
-	Tag "$TAG_ROTR_CAT"
+	Tag "$ROTR_TAG_CAT"
 	States
 	{
 	Spawn:
@@ -683,7 +683,7 @@ Actor Lexicon_ROTR_PainElemental : PainElemental
 	}
 }
 
-Actor Lexicon_ROTR_HealthBonus : HealthBonus { RenderStyle "Translucent" Alpha 0.5 Inventory.PickupMessage "$ROTR_GOTHTHBONUS" }
+Actor Lexicon_ROTR_HealthBonus : HealthBonus { RenderStyle "Translucent" Alpha 0.5 Inventory.PickupMessage "$ROTR_MSG_HTHBONUS" }
 
 Actor Lexicon_ROTR_EvilEye : EvilEye { RenderStyle "Translucent" Alpha 0.5 }
 
@@ -697,7 +697,7 @@ ACTOR Lexicon_ROTR_Fist : Weapon
 {
 	Weapon.SelectionOrder 3700
 	Weapon.Kickback 100
-	Obituary "$OB_ROTR_MPFIST"
+	Obituary "$ROTR_OB_MPFIST"
 	Tag "$TAG_FIST"
 	Weapon.SlotNumber 1
 	Weapon.SlotPriority 0
@@ -733,7 +733,7 @@ ACTOR Lexicon_ROTR_Pistol : DoomWeapon
 	Weapon.AmmoGive 20
 	Weapon.AmmoType "Clip"
 	Weapon.SlotNumber 2
-	Obituary "$OB_ROTR_MPPISTOL"
+	Obituary "$ROTR_OB_MPPISTOL"
 	+WEAPON.WIMPY_WEAPON
 	+WEAPON.ALLOW_WITH_RESPAWN_INVUL
 	+WEAPON.CHEATNOTWEAPON
@@ -777,8 +777,8 @@ ACTOR Lexicon_ROTR_Chainsaw : Weapon
 	Weapon.ReadySound "weapons/sawidle"
 	Weapon.SlotNumber 1
 	Weapon.SlotPriority 1
-	Inventory.PickupMessage "$ROTR_GOTCHAINSAW"
-	Obituary "$OB_ROTR_MPCHAINSAW"
+	Inventory.PickupMessage "$ROTR_MSG_CHAINSAW"
+	Obituary "$ROTR_OB_MPCHAINSAW"
 	Tag "$TAG_CHAINSAW"
 	+WEAPON.MELEEWEAPON		
 	+WEAPON.ALLOW_WITH_RESPAWN_INVUL
@@ -812,8 +812,8 @@ ACTOR Lexicon_ROTR_Shotgun : DoomWeapon
 	Weapon.AmmoType "Shell"
 	Weapon.SlotNumber 3
 	Weapon.SlotPriority 0
-	Inventory.PickupMessage "$ROTR_GOTSHOTGUN"
-	Obituary "$OB_ROTR_MPSHOTGUN"
+	Inventory.PickupMessage "$ROTR_MSG_SHOTGUN"
+	Obituary "$ROTR_OB_MPSHOTGUN"
 	Tag "$TAG_SHOTGUN"
 	+WEAPON.CHEATNOTWEAPON
 	States
@@ -854,8 +854,8 @@ ACTOR Lexicon_ROTR_SuperShotgun : DoomWeapon
 	Weapon.AmmoType "Shell"
 	Weapon.SlotNumber 3
 	Weapon.SlotPriority 1
-	Inventory.PickupMessage "$ROTR_GOTSHOTGUN2"
-	Obituary "$OB_ROTR_MPSSHOTGUN"
+	Inventory.PickupMessage "$ROTR_MSG_SHOTGUN2"
+	Obituary "$ROTR_OB_MPSSHOTGUN"
 	Tag "$TAG_SUPERSHOTGUN"
 	+WEAPON.CHEATNOTWEAPON
 	States
@@ -902,7 +902,7 @@ ACTOR Lexicon_ROTR_PlasmaRifle : DoomWeapon
 	Weapon.AmmoGive 40
 	Weapon.AmmoType "Cell"
 	Weapon.SlotNumber 6
-	Inventory.PickupMessage "$ROTR_GOTPLASMA"
+	Inventory.PickupMessage "$ROTR_MSG_PLASMA"
 	Tag "$TAG_PLASMARIFLE"
 	+WEAPON.CHEATNOTWEAPON
 	States
@@ -945,7 +945,7 @@ ACTOR Lexicon_ROTR_PlasmaBall
 	Alpha 0.75
 	SeeSound "ROTR/DSPLASMA"
 	DeathSound "weapons/plasmax"
-	Obituary "$OB_ROTR_MPPLASMARIFLE"
+	Obituary "$ROTR_OB_MPPLASMARIFLE"
 	States
 	{
 	Spawn:
@@ -961,7 +961,7 @@ ACTOR Lexicon_ROTR_Berserk : CustomInventory
 {
 	+COUNTITEM
 	+INVENTORY.ALWAYSPICKUP
-	Inventory.PickupMessage "$ROTR_GOTBERSERK"
+	Inventory.PickupMessage "$ROTR_MSG_BERSERK"
 	Inventory.PickupSound "misc/p_pkup"
 	States
 	{
