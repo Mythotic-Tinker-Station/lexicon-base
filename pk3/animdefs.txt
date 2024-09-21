@@ -674,6 +674,37 @@ switch MM200454 on pic MM200494 tics 0
 switch MM200455 on pic MM200495 tics 0
 switch MM200457 on pic MM200497 tics 0
 
+// NeoDoom: Vaccinated Edition
+texture NEOD0516 range NEOD0527 tics 8
+texture NEOD0618 range NEOD0625 tics 8
+texture NEOD0711 range NEOD0712 tics 8
+texture NEOD0748 range NEOD0755 tics 8
+texture NEOD0781 range NEOD0788 tics 8
+texture NEOD0819 range NEOD0821 tics 8
+texture NEOD0896 range NEOD0899 tics 8
+texture NEOD0926 range NEOD0929 tics 8
+texture NEOD0935 range NEOD0938 tics 8
+texture NEOD0972 range NEOD0980 tics 8
+texture NEOD1222 range NEOD1225 tics 8
+flat NEOD0113 range NEOD0116 tics 8
+flat NEOD0257 range NEOD0260 tics 8
+flat NEOD0419 range NEOD0421 tics 8
+flat NEOD0422 range NEOD0425 tics 8
+flat NEOD0426 range NEOD0429 tics 8
+flat NEOD0430 range NEOD0432 tics 8
+flat NEOD0433 range NEOD0436 tics 8
+flat NEOD0437 range NEOD0440 tics 8
+flat NEOD0441 range NEOD0444 tics 8
+flat NEOD0445 range NEOD0448 tics 8
+switch NEOD0452 on pic NEOD0456 tics 0
+switch NEOD0453 on pic NEOD0457 tics 0
+switch NEOD0454 on pic NEOD0458 tics 0
+switch NEOD0455 on pic NEOD0459 tics 0
+switch NEOD1785 on pic NEOD1789 tics 0
+switch NEOD1786 on pic NEOD1790 tics 0
+switch NEOD1787 on pic NEOD1791 tics 0
+switch NEOD1788 on pic NEOD1792 tics 0
+
 // Requiem
 texture REQU0058 range REQU0061 tics 8
 flat REQU0032 range REQU0039 tics 8

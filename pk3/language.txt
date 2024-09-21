@@ -41,28 +41,29 @@ ADD_MAPSET_39 = "LDOE";
 ADD_MAPSET_40 = "MSWR";
 ADD_MAPSET_41 = "MM10";
 ADD_MAPSET_42 = "MM20";
-ADD_MAPSET_43 = "NOV1";
-ADD_MAPSET_44 = "PDGT";
-ADD_MAPSET_45 = "REQU";
-ADD_MAPSET_46 = "ROTR";
-ADD_MAPSET_47 = "SCY1";
-ADD_MAPSET_48 = "SCY2";
-ADD_MAPSET_49 = "SPOD";
-ADD_MAPSET_50 = "SDX6";
-ADD_MAPSET_51 = "SDX7";
-ADD_MAPSET_52 = "SNLU";
-ADD_MAPSET_53 = "MY17";
-ADD_MAPSET_54 = "SWDH";
-ADD_MAPSET_55 = "SWTW";
-ADD_MAPSET_56 = "UHRN";
-ADD_MAPSET_57 = "UACU";
-ADD_MAPSET_58 = "TVRV";
-ADD_MAPSET_59 = "VLNT";
-ADD_MAPSET_60 = "VNGD";
-ADD_MAPSET_61 = "VLFL";
-ADD_MAPSET_62 = "WSPS";
-ADD_MAPSET_63 = "ZN30";
-ADD_MAPSET_64 = "ZNOF";
+ADD_MAPSET_43 = "NEOD";
+ADD_MAPSET_44 = "NOV1";
+ADD_MAPSET_45 = "PDGT";
+ADD_MAPSET_46 = "REQU";
+ADD_MAPSET_47 = "ROTR";
+ADD_MAPSET_48 = "SCY1";
+ADD_MAPSET_49 = "SCY2";
+ADD_MAPSET_50 = "SPOD";
+ADD_MAPSET_51 = "SDX6";
+ADD_MAPSET_52 = "SDX7";
+ADD_MAPSET_53 = "SNLU";
+ADD_MAPSET_54 = "MY17";
+ADD_MAPSET_55 = "SWDH";
+ADD_MAPSET_56 = "SWTW";
+ADD_MAPSET_57 = "UHRN";
+ADD_MAPSET_58 = "UACU";
+ADD_MAPSET_59 = "TVRV";
+ADD_MAPSET_60 = "VLNT";
+ADD_MAPSET_61 = "VNGD";
+ADD_MAPSET_62 = "VLFL";
+ADD_MAPSET_63 = "WSPS";
+ADD_MAPSET_64 = "ZN30";
+ADD_MAPSET_65 = "ZNOF";
 
 // Custom actors and metadata for Lexicon Base mapsets
 // 1994 Tune-up Community Project
@@ -190,11 +191,11 @@ D2RX_MAPSET_MAPS = "32";
 D2RX_MAPSET_TITLE = "Doom 2 Redux";
 
 // Doom II: Dark World
-D2RX_MAPSET_AUTHORS = "J2DG Team";
-D2RX_MAPSET_CUSTOM = "N";
-D2RX_MAPSET_DATE = "2018";
-D2RX_MAPSET_MAPS = "11";
-D2RX_MAPSET_TITLE = "Doom II: Dark World";
+D2DW_MAPSET_AUTHORS = "J2DG Team";
+D2DW_MAPSET_CUSTOM = "N";
+D2DW_MAPSET_DATE = "2018";
+D2DW_MAPSET_MAPS = "11";
+D2DW_MAPSET_TITLE = "Doom II: Dark World";
 
 // Doom 2 The Way id Did
 D2WD_ACTOR_1 = "Lexicon_D2WD_DeadLostSoul";
@@ -583,12 +584,42 @@ MM20_MAPSET_DATE = "1996";
 MM20_MAPSET_MAPS = "32";
 MM20_MAPSET_TITLE = "Memento Mori 2";
 
-// Nova: The Birth
-NOV1_MAPSET_AUTHORS = "TeamNOVA";
-NOV1_MAPSET_CUSTOM = "N";
-NOV1_MAPSET_DATE = "2014";
-NOV1_MAPSET_MAPS = "32";
-NOV1_MAPSET_TITLE = "Nova: The Birth";
+// Mars War
+MSWR_ACTOR_1 = "Lexicon_MSWR_BossEye";
+MSWR_ACTORALT_1 = "BossEye";
+MSWR_MAPSET_AUTHORS = "Nathan Lineback";
+MSWR_MAPSET_CUSTOM = "Y";
+MSWR_MAPSET_DATE = "1998";
+MSWR_MAPSET_MAPS = "32";
+MSWR_MAPSET_TITLE = "Mars War";
+
+// NeoDoom: Vaccinated Edition
+NEOD_ACTOR_1 = "Lexicon_NEOD_GibbedMarineExtra_ND";
+NEOD_ACTOR_2 = "Lexicon_NEOD_TallGreenColumn";
+NEOD_ACTOR_3 = "Lexicon_NEOD_FloatingSkull_ND";
+NEOD_ACTOR_4 = "Lexicon_NEOD_TechPillar";
+NEOD_ACTOR_5 = "Lexicon_NEOD_Meat2_ND";
+NEOD_ACTOR_6 = "Lexicon_NEOD_Meat4_ND";
+NEOD_ACTOR_7 = "Lexicon_NEOD_Meat3_ND";
+NEOD_ACTOR_8 = "Lexicon_NEOD_Meat5_ND";
+NEOD_ACTOR_9 = "Lexicon_NEOD_BloodyTwitch_ND";
+NEOD_ACTOR_10 = "Lexicon_NEOD_BurningBarrel";
+NEOD_ACTOR_11 = "Lexicon_NEOD_CommanderKeen";
+NEOD_ACTOR_12 = "Lexicon_NEOD_HangNoGuts_ND";
+NEOD_ACTOR_13 = "Lexicon_NEOD_HangBNoBrain_ND";
+NEOD_ACTOR_14 = "Lexicon_NEOD_HangTLookingDown_ND";
+NEOD_ACTOR_15 = "Lexicon_NEOD_HangTSkull_ND";
+NEOD_ACTOR_16 = "Lexicon_NEOD_HangTLookingUp_ND";
+NEOD_ACTOR_17 = "Lexicon_NEOD_HangTNoBrain_ND";
+NEOD_ACTOR_18 = "Lexicon_NEOD_BossBrain";
+NEOD_ACTORALT_18 = "BossBrain";
+NEOD_ACTOR_19 = "Lexicon_NEOD_VictoryBabe";
+NEOD_ACTOR_20 = "Lexicon_NEOD_Stalagmite";
+NEOD_MAPSET_AUTHORS = "Daniel Lemos, Vaccinated Edition by anonymous author";
+NEOD_MAPSET_CUSTOM = "Y";
+NEOD_MAPSET_DATE = "2006";
+NEOD_MAPSET_MAPS = "32";
+NEOD_MAPSET_TITLE = "NeoDoom: Vaccinated Edition";
 
 // Perdition's Gate
 PDGT_ACTOR_1 = "Lexicon_PDGT_WolfensteinSS";
