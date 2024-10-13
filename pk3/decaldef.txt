@@ -43,6 +43,22 @@ generator Lexicon_EPC2_ShotgunGuy	BulletChip
 generator Lexicon_EPC2_ChaingunGuy	BulletChip
 generator Lexicon_EPC2_WolfensteinSS	BulletChip
 
+// Equinox
+generator Lexicon_EQNX_Pistol	BulletChip
+generator Lexicon_EQNX_Shotgun	BulletChip
+generator Lexicon_EQNX_Chaingun	BulletChip
+generator Lexicon_EQNX_PlasmaBall	PlasmaScorch
+generator Lexicon_EQNX_Rocket	Scorch
+
+generator Lexicon_EQNX_ArachnotronPlasma	ArachnotronScorch
+generator Lexicon_EQNX_BaronBall			BaronScorch
+generator Lexicon_EQNX_CacodemonBall		CacoScorch
+generator Lexicon_EQNX_DoomImpBall		DoomImpScorch
+generator Lexicon_EQNX_FatShot			Scorch
+generator Lexicon_EQNX_ZombieMan	BulletChip
+generator Lexicon_EQNX_ShotgunGuy	BulletChip
+generator Lexicon_EQNX_ChaingunGuy	BulletChip
+
 // Going Down
 generator Lexicon_GDWN_WolfensteinSS	BulletChip
 

@@ -566,6 +566,48 @@ switch EPC22928 on pic EPC22929 tics 0
 switch EPC22930 on pic EPC22931 tics 0
 switch EPC22932 on pic EPC22933 tics 0
 
+// Equinox
+texture EQNX0047 range EQNX0051 tics 8
+texture EQNX0057 range EQNX0060 tics 8 allowdecals
+flat EQNX0013 range EQNX0016 tics 8
+flat EQNX0018 range EQNX0021 tics 8
+flat EQNX0025 range EQNX0027 tics 8
+flat EQNX0030 range EQNX0033 tics 8
+switch EQNX0145 on pic EQNX0179 tics 0
+switch EQNX0146 on pic EQNX0180 tics 0
+switch EQNX0147 on pic EQNX0181 tics 0
+switch EQNX0148 on pic EQNX0182 tics 0
+switch EQNX0149 on pic EQNX0183 tics 0
+switch EQNX0150 on pic EQNX0184 tics 0
+switch EQNX0151 on pic EQNX0185 tics 0
+switch EQNX0152 on pic EQNX0186 tics 0
+switch EQNX0153 on pic EQNX0187 tics 0
+switch EQNX0154 on pic EQNX0188 tics 0
+switch EQNX0155 on pic EQNX0189 tics 0
+switch EQNX0156 on pic EQNX0190 tics 0
+switch EQNX0157 on pic EQNX0191 tics 0
+switch EQNX0158 on pic EQNX0192 tics 0
+switch EQNX0159 on pic EQNX0193 tics 0
+switch EQNX0160 on pic EQNX0194 tics 0
+switch EQNX0161 on pic EQNX0195 tics 0
+switch EQNX0162 on pic EQNX0196 tics 0
+switch EQNX0163 on pic EQNX0197 tics 0
+switch EQNX0164 on pic EQNX0198 tics 0
+switch EQNX0165 on pic EQNX0199 tics 0
+switch EQNX0166 on pic EQNX0200 tics 0
+switch EQNX0167 on pic EQNX0201 tics 0
+switch EQNX0168 on pic EQNX0202 tics 0
+switch EQNX0169 on pic EQNX0203 tics 0
+switch EQNX0170 on pic EQNX0204 tics 0
+switch EQNX0171 on pic EQNX0205 tics 0
+switch EQNX0172 on pic EQNX0206 tics 0
+switch EQNX0173 on pic EQNX0207 tics 0
+switch EQNX0174 on pic EQNX0208 tics 0
+switch EQNX0175 on pic EQNX0209 tics 0
+switch EQNX0176 on pic EQNX0210 tics 0
+switch EQNX0177 on pic EQNX0211 tics 0
+switch EQNX0178 on pic EQNX0212 tics 0
+
 // Going Down
 texture GDWN0003 range GDWN0006 tics 8
 texture GDWN0013 range GDWN0016 tics 8
