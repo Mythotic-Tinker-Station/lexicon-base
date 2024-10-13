@@ -441,6 +441,7 @@ switch DCTL0364 on pic DCTL0404 tics 0
 // Doom II: 25 Years on Earth
 texture D25Y0010 range D25Y0013 tics 8 allowdecals
 texture D25Y0020 range D25Y0023 tics 8
+<<<<<<< HEAD
 texture D25Y0058 range D25Y0061 tics 8
 texture D25Y0067 range D25Y0070 tics 8
 switch D25Y0047 on pic D25Y0052 tics 0
@@ -448,6 +449,14 @@ switch D25Y0048 on pic D25Y0053 tics 0
 switch D25Y0049 on pic D25Y0054 tics 0
 switch D25Y0050 on pic D25Y0055 tics 0
 switch D25Y0051 on pic D25Y0056 tics 0
+=======
+texture D25Y0056 range D25Y0059 tics 8
+texture D25Y0065 range D25Y0068 tics 8
+switch D25Y0047 on pic D25Y0051 tics 0
+switch D25Y0048 on pic D25Y0052 tics 0
+switch D25Y0049 on pic D25Y0053 tics 0
+switch D25Y0050 on pic D25Y0054 tics 0
+>>>>>>> 7a25f518292f56e30af276739202083f965f041f
 
 // DBP01: Monuments of Mars
 texture DB010119 range DB010122 tics 8
