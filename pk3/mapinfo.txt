@@ -10,10 +10,7 @@ include "mapinfo/CCHEST2.txt" // cchest2_map05,22,32coopfix.wad
 include "mapinfo/CCHEST3.txt" // cchest3_map07,15,17,24,31coopfix.wad
 include "mapinfo/CCHEST4.txt" // cchest4_map25,26coopfix.wad
 include "mapinfo/CHAINWORM.txt" // chnworm.wad
-<<<<<<< HEAD
 include "mapinfo/DRKENC.txt" // drkenctr.wad
-=======
->>>>>>> 7a25f518292f56e30af276739202083f965f041f
 include "mapinfo/D2DARK.txt" // d2dw-v1.wad
 include "mapinfo/D2REDUX.txt" // D2REDUX.wad
 include "mapinfo/D2TWID.txt" // d2twid_map08coopfix.wad
