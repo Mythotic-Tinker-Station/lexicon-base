@@ -448,12 +448,6 @@ switch D25Y0048 on pic D25Y0053 tics 0
 switch D25Y0049 on pic D25Y0054 tics 0
 switch D25Y0050 on pic D25Y0055 tics 0
 switch D25Y0051 on pic D25Y0056 tics 0
-texture D25Y0056 range D25Y0059 tics 8
-texture D25Y0065 range D25Y0068 tics 8
-switch D25Y0047 on pic D25Y0051 tics 0
-switch D25Y0048 on pic D25Y0052 tics 0
-switch D25Y0049 on pic D25Y0053 tics 0
-switch D25Y0050 on pic D25Y0054 tics 0
 
 // DBP01: Monuments of Mars
 texture DB010119 range DB010122 tics 8
@@ -643,6 +637,44 @@ switch JPCP0519 on pic JPCP0523 tics 0
 switch JPCP0520 on pic JPCP0524 tics 0
 switch JPCP1455 on pic JPCP1456 tics 0
 switch JPCP1457 on pic JPCP1458 tics 0
+
+// Jiffy Bag
+texture JFBG0156 range JFBG0159 tics 8 allowdecals
+texture JFBG0190 range JFBG0193 tics 8
+texture JFBG0205 range JFBG0208 tics 8
+texture JFBG0212 range JFBG0214 tics 8 allowdecals
+texture JFBG0216 range JFBG0219 tics 8
+texture JFBG0245 range JFBG0248 tics 8
+texture JFBG0317 range JFBG0319 tics 8
+texture JFBG0349 range JFBG0351 tics 8
+texture JFBG0354 range JFBG0357 tics 8
+texture JFBG0360 range JFBG0363 tics 8
+texture JFBG0364 range JFBG0367 tics 8
+texture JFBG0394 range JFBG0397 tics 8
+texture JFBG0398 range JFBG0401 tics 8
+flat JFBG0005 range JFBG0008 tics 8
+flat JFBG0019 range JFBG0022 tics 8
+flat JFBG0024 range JFBG0027 tics 8
+flat JFBG0034 range JFBG0037 tics 8
+flat JFBG0038 range JFBG0041 tics 8
+flat JFBG0047 range JFBG0050 tics 8
+flat JFBG0061 range JFBG0064 tics 8
+flat JFBG0106 range JFBG0109 tics 8
+switch JFBG0230 on pic JFBG0237 tics 0
+switch JFBG0231 on pic JFBG0238 tics 0
+switch JFBG0232 on pic JFBG0240 tics 0
+switch JFBG0233 on pic JFBG0241 tics 0
+switch JFBG0234 on pic JFBG0242 tics 0
+switch JFBG0235 on pic JFBG0243 tics 0
+switch JFBG0236 on pic JFBG0244 tics 0
+switch JFBG0300 on pic JFBG0301 tics 0
+switch JFBG0358 on pic JFBG0359 tics 0
+switch JFBG0384 on pic JFBG0385 tics 0
+switch JFBG0408 on pic JFBG0409 tics 0
+switch JFBG0540 on pic JFBG0541 tics 0
+switch JFBG0607 on pic JFBG0610 tics 0
+switch JFBG0681 on pic JFBG0682 tics 0
+switch JFBG0754 on pic JFBG0755 tics 0
 
 // Kama Sutra
 texture KSUT0411 range KSUT0414 tics 8

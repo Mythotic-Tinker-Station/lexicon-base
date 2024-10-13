@@ -34,7 +34,7 @@ Actor Lexicon_NEOD_CommanderKeen : CommanderKeen
 		LX18 MN 6
 		LX18 O 6 A_Scream
 		LX18 PQRST 6
-		LX18 Y 6 A_NoBlocking
+		LX18 U 6 A_NoBlocking
 		LX18 V 6
 		LX18 W 6 A_KeenDie
 		LX18 X -1

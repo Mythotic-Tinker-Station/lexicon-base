@@ -38,6 +38,7 @@ Hell to Pay: Wraith Corporation, map names from NightFright
 Icarus: Alien Vanguard: TeamTNT, coop fixes by ArgentAgent
 Interception: Matt534Dog, Interception Team
 Japanese Community Project: JPCP Team, MAP11 coop fix by BLOODWOLF
+Jiffy Bag: Jimmy
 Kama Sutra: Adolf "Gusta" Vojta, Jakub "_Method_" Razak
 Khorus' Speedy Shit: Adam Woodmansey
 Last Day on Earth: Laurent Remy, LDOE Team
@@ -57,7 +58,6 @@ Stardate 20X7: Zach Stephens
 Sunlust: Zach Stephens, Daniel Jakobsson, coop fixes by BLOODWOLF
 Super MAYhem 17: Marcaek, Super MAYhem 17 Team
 Swift Death: franckFRAG, JCD, Memfis
-Swim With The Whales: Zach Stephens
 UAC Ultra: Jamie Bainbridge, Jon Vail
 Unholy Realms: Brian Knox, Unholy Realms Team
 Valiant: Vaccinated Edition: Paul DeBruyne

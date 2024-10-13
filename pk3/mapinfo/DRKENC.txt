@@ -1,6 +1,8 @@
 defaultmap
 {
 	sky1 = "DKEC0229" , 0
+	nojump
+	nocrouch
 }
  
  map DKEC01 "level 1: the unafraid"

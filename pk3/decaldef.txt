@@ -46,6 +46,9 @@ generator Lexicon_EPC2_WolfensteinSS	BulletChip
 // Going Down
 generator Lexicon_GDWN_WolfensteinSS	BulletChip
 
+// Jiffy Bag
+generator Lexicon_JFBG_SpiderMastermind	BulletChip
+
 // Rise of the Triangles
 generator Lexicon_ROTR_ArachnotronPlasma	ArachnotronScorch
 generator Lexicon_ROTR_PlasmaBall	PlasmaScorch
@@ -167,3 +170,6 @@ generator Lexicon_UACU_Shotgun	BulletChip
 generator Lexicon_UACU_SuperShotgun	BulletChip
 
 generator Lexicon_UACU_ShotgunGuy	BulletChip
+
+// Unholy Realms
+generator Lexicon_UHRN_SpiderMastermind	BulletChip
