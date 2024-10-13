@@ -255,6 +255,23 @@ switch AALI6650 on pic AALI6649 tics 0
 switch YYYY0016 on pic YYYY0017 tics 0
 switch YYYY0317 on pic YYYY0318 tics 0
 
+// Anomaly Report
+texture ANRP0044 range ANRP0047 tics 8 allowdecals
+texture ANRP0048 range ANRP0051 tics 8
+texture ANRP0071 range ANRP0074 tics 8
+switch ANRP0055 on pic ANRP0063 tics 0
+switch ANRP0056 on pic ANRP0064 tics 0
+switch ANRP0057 on pic ANRP0156 tics 0
+switch ANRP0058 on pic ANRP0066 tics 0
+switch ANRP0059 on pic ANRP0067 tics 0
+switch ANRP0060 on pic ANRP0068 tics 0
+switch ANRP0061 on pic ANRP0157 tics 0
+switch ANRP0062 on pic ANRP0070 tics 0
+switch ANRP0152 on pic ANRP0156 tics 0
+switch ANRP0153 on pic ANRP0157 tics 0
+switch ANRP0446 on pic ANRP0450 tics 0
+switch ANRP0447 on pic ANRP0451 tics 0
+
 // Chainworm Kommando
 texture	CWKM0098 range CWKM0101 tics 8
 texture CWKM0130 range CWKM0132 tics 4

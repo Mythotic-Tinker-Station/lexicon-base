@@ -4,6 +4,7 @@ include "mapinfo/1024CLAU2.txt" // 1024cla2.wad
 include "mapinfo/1994TU.txt" // 1994TU.wad
 include "mapinfo/25YOE.txt" // ph_25yoe.wad
 include "mapinfo/AA.txt" // aaliens_v1_2.wad
+include "mapinfo/AR.txt" // ar.wad
 include "mapinfo/AV.txt" // av_map20coopfix.wad
 include "mapinfo/CCHEST1.txt" // cchest_map15coopfix.wad
 include "mapinfo/CCHEST2.txt" // cchest2_map05,22,32coopfix.wad
