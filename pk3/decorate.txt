@@ -9,6 +9,7 @@
 #include "decorate/EPC1.txt" // Epic
 #include "decorate/EPC2.txt" // Epic 2
 #include "decorate/EQNX.txt" // Equinox
+#include "decorate/GRLS.txt" // Garrulismo
 #include "decorate/GDWN.txt" // Going Down
 #include "decorate/HADP.txt" // Hadephobia
 #include "decorate/HLC1.txt" // Hellcore

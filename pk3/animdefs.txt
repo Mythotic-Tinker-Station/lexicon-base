@@ -617,6 +617,13 @@ switch EQNX0176 on pic EQNX0210 tics 0
 switch EQNX0177 on pic EQNX0211 tics 0
 switch EQNX0178 on pic EQNX0212 tics 0
 
+// Garrulismo
+switch GRLS0024 on pic GRLS0029 tics 0
+switch GRLS0025 on pic GRLS0030 tics 0
+switch GRLS0026 on pic GRLS0031 tics 0
+switch GRLS0027 on pic GRLS0032 tics 0
+switch GRLS0028 on pic GRLS0033 tics 0
+
 // Going Down
 texture GDWN0003 range GDWN0006 tics 8
 texture GDWN0013 range GDWN0016 tics 8

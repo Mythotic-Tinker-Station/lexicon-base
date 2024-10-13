@@ -27,6 +27,7 @@ include "mapinfo/EPIC.txt" // epic_map02,03,05coopfix.wad
 include "mapinfo/EPIC2.txt" // epic2_map06,11,12,13,14,16,17,20,27,28,29,31coopfix.wad
 include "mapinfo/EQUINOX.txt" // equinox.wad
 include "mapinfo/ESTRANGD.txt" // estrangd.wad
+include "mapinfo/GARRULO.txt" // garrulo.wad
 include "mapinfo/GOINGDOWN.txt" // gd_map31coopfix_BLOODWOLF.wad
 include "mapinfo/HADEPHOBIA.txt" // h_phobia_map19,22,23,32coopfix_BLOODWOLF.wad
 include "mapinfo/HC20.txt" // hc20.wad
