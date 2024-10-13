@@ -441,6 +441,13 @@ switch DCTL0364 on pic DCTL0404 tics 0
 // Doom II: 25 Years on Earth
 texture D25Y0010 range D25Y0013 tics 8 allowdecals
 texture D25Y0020 range D25Y0023 tics 8
+texture D25Y0058 range D25Y0061 tics 8
+texture D25Y0067 range D25Y0070 tics 8
+switch D25Y0047 on pic D25Y0052 tics 0
+switch D25Y0048 on pic D25Y0053 tics 0
+switch D25Y0049 on pic D25Y0054 tics 0
+switch D25Y0050 on pic D25Y0055 tics 0
+switch D25Y0051 on pic D25Y0056 tics 0
 texture D25Y0056 range D25Y0059 tics 8
 texture D25Y0065 range D25Y0068 tics 8
 switch D25Y0047 on pic D25Y0051 tics 0
@@ -610,27 +617,32 @@ flat ICAV0007 range ICAV0010 tics 8
 switch ICAV0623 on pic ICAV0624 tics 0
 
 // Japanese Community Project
-texture JPCP0879 range JPCP0881 tics 8 allowdecals
-texture JPCP0898 range JPCP0901 tics 8 allowdecals
-texture JPCP0924 range JPCP0927 tics 8
-texture JPCP1693 range JPCP1696 tics 8
-texture JPCP1817 range JPCP1820 tics 8
-texture JPCP1821 range JPCP1824 tics 8
-texture JPCP1872 range JPCP1881 tics 8
-texture JPCP1884 range JPCP1893 tics 8
+texture JPCP0510 range JPCP0512 tics 8 allowdecals
+texture JPCP0529 range JPCP0532 tics 8 allowdecals
+texture JPCP0555 range JPCP0558 tics 8
+texture JPCP1323 range JPCP1326 tics 8
+texture JPCP1447 range JPCP1450 tics 8
+texture JPCP1451 range JPCP1454 tics 8
+texture JPCP1484 range JPCP1487 tics 8
+texture JPCP1502 range JPCP1511 tics 8
+texture JPCP1514 range JPCP1523 tics 8
 flat JPCP0337 range JPCP0340 tics 8
-switch JPCP0725 on pic JPCP0760 tics 0
-switch JPCP0729 on pic JPCP0765 tics 0
-switch JPCP0734 on pic JPCP0770 tics 0
-switch JPCP0740 on pic JPCP0776 tics 0
-switch JPCP0741 on pic JPCP0777 tics 0
-switch JPCP0752 on pic JPCP0788 tics 0
-switch JPCP0885 on pic JPCP0890 tics 0
-switch JPCP0886 on pic JPCP0761 tics 0
-switch JPCP0888 on pic JPCP0892 tics 0
-switch JPCP0889 on pic JPCP0893 tics 0
-switch JPCP1825 on pic JPCP1826 tics 0
-switch JPCP1827 on pic JPCP1828 tics 0
+switch JPCP0471 on pic JPCP0480 tics 0
+switch JPCP0472 on pic JPCP0481 tics 0
+switch JPCP0473 on pic JPCP0483 tics 0
+switch JPCP0474 on pic JPCP0484 tics 0
+switch JPCP0475 on pic JPCP0485 tics 0
+switch JPCP0476 on pic JPCP0486 tics 0
+switch JPCP0477 on pic JPCP0487 tics 0
+switch JPCP0478 on pic JPCP0488 tics 0
+switch JPCP0479 on pic JPCP0489 tics 0
+switch JPCP0516 on pic JPCP0521 tics 0
+switch JPCP0517 on pic JPCP0482 tics 0
+switch JPCP0518 on pic JPCP0522 tics 0
+switch JPCP0519 on pic JPCP0523 tics 0
+switch JPCP0520 on pic JPCP0524 tics 0
+switch JPCP1455 on pic JPCP1456 tics 0
+switch JPCP1457 on pic JPCP1458 tics 0
 
 // Kama Sutra
 texture KSUT0411 range KSUT0414 tics 8
