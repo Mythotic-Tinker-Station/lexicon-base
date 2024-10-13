@@ -445,6 +445,15 @@ texture D2WD0618 pic 1 tics 35 pic 1 tics 35
 texture D2WD0655 pic 1 tics 35 pic 1 tics 35
 texture D2WD0616 pic 1 tics 35 pic 1 tics 35
 
+// Doom 404
+texture D4040269 range D4040272 tics 8
+switch D4040257 on pic D4040263 tics 0
+switch D4040258 on pic D4040264 tics 0
+switch D4040259 on pic D4040265 tics 0
+switch D4040260 on pic D4040266 tics 0
+switch D4040261 on pic D4040267 tics 0
+switch D4040262 on pic D4040268 tics 0
+
 // Doom Core Trilogy
 texture DCTL0070 range DCTL0073 tics 8 allowdecals
 texture DCTL0761 range DCTL0764 tics 8

@@ -15,6 +15,7 @@ include "mapinfo/DRKENC.txt" // drkenctr.wad
 include "mapinfo/D2DARK.txt" // d2dw-v1.wad
 include "mapinfo/D2REDUX.txt" // D2REDUX.wad
 include "mapinfo/D2TWID.txt" // d2twid_map08coopfix.wad
+include "mapinfo/DOOM404.txt" // doom404.wad
 include "mapinfo/DOOMCORE.txt"// dctrilogy.wad
 include "mapinfo/DBP01.txt" // DBP01.wad
 include "mapinfo/DBP02.txt" // DBP02.wad
