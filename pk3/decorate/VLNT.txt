@@ -38,7 +38,7 @@ ACTOR Lexicon_VLNT_BossEye : BossEye
 	DropItem "Fatso" 255 30
 	DropItem "Spectre" 255 30
 	DropItem "HellKnight" 255 24
-	DropItem "Lexicon_VLNT_Arachnotron" 255 20
+	DropItem "LexiconActorSpawner1" 255 20
 	DropItem "BaronOfHell" 255 10
 	DropItem "PainElemental" 255 10
 	DropItem "Revenant" 255 10
