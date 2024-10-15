@@ -124,6 +124,7 @@ Actor Lexicon_EQNX_Chaingun : DoomWeapon
 	Flash:
 		LX56 C 5 Bright A_Light1
 		Goto LightDone
+	Flash2:
 		LX56 D 5 Bright A_Light2
 		Goto LightDone
 	Spawn:
