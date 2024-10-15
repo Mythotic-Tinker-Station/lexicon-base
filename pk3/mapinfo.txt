@@ -63,6 +63,7 @@ include "mapinfo/SWIDEATH.txt"// swideath.wad
 include "mapinfo/TVR.txt" // TVR!.WAD
 include "mapinfo/UACULTRA.txt"// uacultravfix.wad
 include "mapinfo/UHRN.txt"// ur_final.wad
+include "mapinfo/VLNT.txt" // valve_map15coopfix.wad
 include "mapinfo/VANGUARD.txt" // Vanguard.wad
 include "mapinfo/VILEFLESH.txt" // VILE.wad
 include "mapinfo/WOS.txt" // WOS.wad

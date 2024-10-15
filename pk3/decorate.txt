@@ -28,4 +28,5 @@
 #include "decorate/MY17.txt" // Super MAYhem 17
 #include "decorate/UACU.txt" // UAC Ultra
 #include "decorate/UHRN.txt" // Unholy Realms
+#include "decorate/VLNT.txt" // Valiant: Vaccinated Edition
 #include "decorate/WSPS.txt" // Whispers of Satan
