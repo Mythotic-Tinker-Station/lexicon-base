@@ -189,3 +189,7 @@ generator Lexicon_UACU_ShotgunGuy	BulletChip
 
 // Unholy Realms
 generator Lexicon_UHRN_SpiderMastermind	BulletChip
+
+// Valiant: Vaccinated Edition
+generator Lexicon_VLNT_ArachnotronPlasma	ArachnotronScorch
+generator Lexicon_VLNT_PlasmaBall	PlasmaScorch

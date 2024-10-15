@@ -1013,6 +1013,66 @@ switch UHRN0518 on pic UHRN0522 tics 0
 switch UHRN1453 on pic UHRN1454 tics 0
 switch UHRN1455 on pic UHRN1456 tics 0
 
+// Valiant: Vaccinated Edition
+texture VLNT1034 range VLNT1037 tics 8
+texture VLNT1051 range VLNT1054 tics 8 allowdecals
+texture VLNT1055 range VLNT1058 tics 8 allowdecals
+texture VLNT1433 range VLNT1436 tics 5
+texture VLNT1987 range VLNT1996 tics 2
+texture VLNT1998 range VLNT2007 tics 2
+texture VLNT2008 range VLNT2009 tics 8
+texture VLNT2011 range VLNT2012 tics 8
+texture VLNT2013 range VLNT2015 tics 8
+texture VLNT2016 range VLNT2018 tics 8
+texture VLNT2019 range VLNT2052 tics 2
+texture VLNT2174 range VLNT2177 tics 8
+texture VLNT2178 range VLNT2180 tics 8 allowdecals
+texture VLNT2194 range VLNT2209 tics 2
+texture VLNT2210 range VLNT2225 tics 2
+texture VLNT2234 range VLNT2237 tics 8
+texture VLNT2238 range VLNT2241 tics 8
+texture VLNT2242 range VLNT2248 tics 4
+texture VLNT2303 range VLNT2309 tics 4
+texture VLNT2590 range VLNT2593 tics 1
+texture VLNT2709 range VLNT2711 tics 8 allowdecals
+texture VLNT2853 range VLNT2861 tics 4
+texture VLNT2866 range VLNT2874 tics 4
+texture VLNT3012 range VLNT3014 tics 8 allowdecals
+texture VLNT3016 range VLNT3019 tics 8
+texture VLNT3486 range VLNT3489 tics 8
+flat VLNT0001 range VLNT0003 tics 8
+flat VLNT0052 range VLNT0055 tics 8
+flat VLNT0275 range VLNT0278 tics 8
+flat VLNT0279 range VLNT0282 tics 8
+flat VLNT0779 range VLNT0782 tics 8
+switch VLNT3235 on pic VLNT3263 tics 0
+switch VLNT3236 on pic VLNT3264 tics 0
+switch VLNT3237 on pic VLNT3265 tics 0
+switch VLNT3238 on pic VLNT3266 tics 0
+switch VLNT3239 on pic VLNT3267 tics 0
+switch VLNT3240 on pic VLNT3268 tics 0
+switch VLNT3241 on pic VLNT3269 tics 0
+switch VLNT3242 on pic VLNT3270 tics 0
+switch VLNT3243 on pic VLNT3271 tics 0
+switch VLNT3244 on pic VLNT3272 tics 0
+switch VLNT3245 on pic VLNT3273 tics 0
+switch VLNT3246 on pic VLNT3274 tics 0
+switch VLNT3247 on pic VLNT3276 tics 0
+switch VLNT3248 on pic VLNT3278 tics 0
+switch VLNT3249 on pic VLNT3279 tics 0
+switch VLNT3250 on pic VLNT3280 tics 0
+switch VLNT3251 on pic VLNT3281 tics 0
+switch VLNT3252 on pic VLNT3284 tics 0
+switch VLNT3253 on pic VLNT3285 tics 0
+switch VLNT3254 on pic VLNT3286 tics 0
+switch VLNT3255 on pic VLNT3287 tics 0
+switch VLNT3256 on pic VLNT3288 tics 0
+switch VLNT3257 on pic VLNT3289 tics 0
+switch VLNT3258 on pic VLNT3290 tics 0
+switch VLNT3259 on pic VLNT3291 tics 0
+switch VLNT3260 on pic VLNT3292 tics 0
+switch VLNT3261 on pic VLNT3293 tics 0
+
 // Vanguard
 texture VNGD0916 range VNGD0919 tics 8
 texture VNGD1240 range VNGD1243 tics 8

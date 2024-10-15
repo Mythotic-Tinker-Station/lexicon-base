@@ -1106,6 +1106,16 @@ TVRV_MAPSET_MAPS = "32";
 TVRV_MAPSET_TITLE = "Revolution!";
 
 // Valiant: Vaccinated Edition
+VLNT_ACTOR_1 = "Lexicon_VLNT_Arachnotron";
+VLNT_ACTOR_2 = "Lexicon_VLNT_BossBrain";
+VLNT_ACTOR_3 = "Lexicon_VLNT_BossEye";
+VLNT_ACTORALT_3 = "BossEye";
+VLNT_ACTOR_4 = "Lexicon_VLNT_PlasmaRifle";
+VLNT_ACTOR_5 = "Lexicon_VLNT_TallGreenColumn";
+VLNT_ACTOR_6 = "Lexicon_VLNT_TallRedColumn";
+VLNT_ACTOR_7 = "Lexicon_VLNT_ShortRedColumn";
+VLNT_ACTOR_8 = "Lexicon_VLNT_SkullColumn";
+VLNT_ACTOR_9 = "Lexicon_VLNT_Stalagtite";
 VLNT_MAPSET_AUTHORS = "Paul DeBruyne";
 VLNT_MAPSET_CUSTOM = "N";
 VLNT_MAPSET_DATE = "2015";
