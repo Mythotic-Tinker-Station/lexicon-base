@@ -8,6 +8,7 @@ defaultmap
 	Sky1 = "VLNT2923"
 }
 
+/*
 clusterdef 1
 {
 	ExitText = "E1TEXT"
@@ -42,6 +43,7 @@ clusterdef 5
 	Music = "D_VLNTRD"
 	Pic = "VLNTBOSS"
 }
+*/
 
 map VLNT01 "Bad Reception"
 {
@@ -49,7 +51,7 @@ map VLNT01 "Bad Reception"
 	Next = "VLNT02"
 	Music = "D_VLNT01"
 	Par = 230
-	Cluster = 1
+// 	Cluster = 1
 }
 
 map VLNT02 "No Rush"
@@ -58,7 +60,7 @@ map VLNT02 "No Rush"
 	Next = "VLNT03"
 	Music = "D_VLNT02"
 	Par = 105
-	Cluster = 1
+// 	Cluster = 1
 }
 
 map VLNT03 "Tiers of Pain"
@@ -67,7 +69,7 @@ map VLNT03 "Tiers of Pain"
 	Next = "VLNT04"
 	Music = "D_VLNT03"
 	Par = 60
-	Cluster = 1
+// 	Cluster = 1
 }
 
 map VLNT04 "Moonlit Stroll"
@@ -76,7 +78,7 @@ map VLNT04 "Moonlit Stroll"
 	Next = "VLNT05"
 	Music = "D_VLNT04"
 	Par = 270
-	Cluster = 1
+// 	Cluster = 1
 }
 
 map VLNT05 "Aggrovator"
@@ -85,7 +87,7 @@ map VLNT05 "Aggrovator"
 	Next = "VLNT06"
 	Music = "D_VLNT05"
 	Par = 240
-	Cluster = 1
+// 	Cluster = 1
 }
 
 map VLNT06 "Engineering Disaster"
@@ -94,7 +96,7 @@ map VLNT06 "Engineering Disaster"
 	Next = "VLNT07"
 	Music = "D_VLNT06"
 	Par = 330
-	Cluster = 1
+// 	Cluster = 1
 }
 
 map VLNT07 "The Mancubian Candidate"
@@ -104,7 +106,7 @@ map VLNT07 "The Mancubian Candidate"
 	Map07Special
 	Music = "D_VLNT07"
 	Par = 240
-	Cluster = 1
+// 	Cluster = 1
 }
 
 map VLNT08 "Bushwhacked"
@@ -113,43 +115,43 @@ map VLNT08 "Bushwhacked"
 	Next = "VLNT09"
 	Music = "D_VLNT08"
 	Par = 300
-	Cluster = 2
+// 	Cluster = 2
 }
 
 map VLNT09 "14 Angrier Archviles"
 {
 	TitlePatch = "VLNTV08"
 	Next = "VLNT10"
-	Music = "D_VLNT10"
+	Music = "D_VLNT09"
 	Par = 450
-	Cluster = 2
+// 	Cluster = 2
 }
 
 map VLNT10 "Candlecove"
 {
 	TitlePatch = "VLNTV09"
 	Next = "VLNT11"
-	Music = "D_VLNT11"
+	Music = "D_VLNT10"
 	Par = 540
-	Cluster = 2
+// 	Cluster = 2
 }
 
 map VLNT11 "Yesterday's Insanity"
 {
 	TitlePatch = "VLNTV10"
 	Next = "VLNT12"
-	Music = "D_VLNT12"
+	Music = "D_VLNT11"
 	Par = 270
-	Cluster = 2
+// 	Cluster = 2
 }
 
 map VLNT12 "Bane Capitol"
 {
 	TitlePatch = "VLNTV11"
 	Next = "VLNT13"
-	Music = "D_VLNT13"
+	Music = "D_VLNT12"
 	Par = 330
-	Cluster = 2
+// 	Cluster = 2
 }
 
 map VLNT13 "The Netweaver"
@@ -158,7 +160,7 @@ map VLNT13 "The Netweaver"
 	Next = "VLNT14"
 	Music = "D_VLNT13"
 	Par = 540
-	Cluster = 2
+// 	Cluster = 2
 }
 
 map VLNT14 "Implosion"
@@ -167,7 +169,7 @@ map VLNT14 "Implosion"
 	Next = "VLNT15"
 	Music = "D_VLNT14"
 	Par = 330
-	Cluster = 3
+// 	Cluster = 3
 }
 
 map VLNT15 "Screams aren't a crime... yet"
@@ -177,7 +179,7 @@ map VLNT15 "Screams aren't a crime... yet"
 	SecretNext = "VLNT31"
 	Music = "D_VLNT15"
 	Par = 600
-	Cluster = 3
+// 	Cluster = 3
 }
 
 map VLNT16 "Toxic Traverse"
@@ -186,7 +188,7 @@ map VLNT16 "Toxic Traverse"
 	Next = "VLNT17"
 	Music = "D_VLNT16"
 	Par = 390
-	Cluster = 3
+// 	Cluster = 3
 }
 
 map VLNT17 "Precipice"
@@ -195,7 +197,7 @@ map VLNT17 "Precipice"
 	Next = "VLNT18"
 	Music = "D_VLNT17"
 	Par = 540
-	Cluster = 3
+// 	Cluster = 3
 }
 
 map VLNT18 "Crush Depth"
@@ -204,7 +206,7 @@ map VLNT18 "Crush Depth"
 	Next = "VLNT19"
 	Music = "D_VLNT18"
 	Par = 510
-	Cluster = 3
+// 	Cluster = 3
 }
 
 map VLNT19 "The Popes of Roam"
@@ -213,7 +215,7 @@ map VLNT19 "The Popes of Roam"
 	Next = "VLNT20"
 	Music = "D_VLNT19"
 	Par = 120
-	Cluster = 4
+// 	Cluster = 4
 }
 
 map VLNT20 "Swept Into Immolation"
@@ -222,7 +224,7 @@ map VLNT20 "Swept Into Immolation"
 	Next = "VLNT21"
 	Music = "D_VLNT20"
 	Par = 480
-	Cluster = 4
+// 	Cluster = 4
 }
 
 map VLNT21 "Skindustrial Zone"
@@ -231,7 +233,7 @@ map VLNT21 "Skindustrial Zone"
 	Next = "VLNT22"
 	Music = "D_VLNT21"
 	Par = 420
-	Cluster = 4
+// 	Cluster = 4
 }
 
 map VLNT22 "Spiraling Into Nether"
@@ -240,7 +242,7 @@ map VLNT22 "Spiraling Into Nether"
 	Next = "VLNT23"
 	Music = "D_VLNT22"
 	Par = 330
-	Cluster = 4
+// 	Cluster = 4
 }
 
 map VLNT23 "Genocide Motor"
@@ -249,7 +251,7 @@ map VLNT23 "Genocide Motor"
 	Next = "VLNT24"
 	Music = "D_VLNT23"
 	Par = 540
-	Cluster = 4
+// 	Cluster = 4
 }
 
 map VLNT24 "None More Merciless"
@@ -258,7 +260,7 @@ map VLNT24 "None More Merciless"
 	Next = "VLNT25"
 	Music = "D_VLNT24"
 	Par = 660
-	Cluster = 4
+// 	Cluster = 4
 }
 
 map VLNT25 "The Eagle Has Landed"
@@ -267,7 +269,7 @@ map VLNT25 "The Eagle Has Landed"
 	Next = "VLNT26"
 	Music = "D_VLNT25"
 	Par = 270
-	Cluster = 5
+// 	Cluster = 5
 }
 
 map VLNT26 "Blast Wave"
@@ -276,7 +278,7 @@ map VLNT26 "Blast Wave"
 	Next = "VLNT27"
 	Music = "D_VLNT26"
 	Par = 360
-	Cluster = 5
+// 	Cluster = 5
 }
 
 map VLNT27 "Rocket Zone II"
@@ -285,7 +287,7 @@ map VLNT27 "Rocket Zone II"
 	Next = "VLNT28"
 	Music = "D_VLNT27"
 	Par = 900
-	Cluster = 5
+// 	Cluster = 5
 }
 
 map VLNT28 "A Lightbridge Too Far"
@@ -294,7 +296,7 @@ map VLNT28 "A Lightbridge Too Far"
 	Next = "VLNT29"
 	Music = "D_VLNT28"
 	Par = 900
-	Cluster = 5
+// 	Cluster = 5
 }
 
 map VLNT29 "Red Shift"
@@ -303,7 +305,7 @@ map VLNT29 "Red Shift"
 	Next = "VLNT30"
 	Music = "D_VLNT29"
 	Par = 480
-	Cluster = 5
+// 	Cluster = 5
 }
 
 map VLNT30 "Electric Nightmare"
@@ -312,7 +314,7 @@ map VLNT30 "Electric Nightmare"
 	Next = "VR"
 	Music = "D_VLNT30"
 	Par = 360
-	Cluster = 5
+// 	Cluster = 5
 }
 
 map VLNT31 "Cyberwar 7734"
@@ -322,7 +324,7 @@ map VLNT31 "Cyberwar 7734"
 	SecretNext = "VLNT32"
 	Music = "D_VLNT31"
 	Par = 1200
-	Cluster = 3
+// 	Cluster = 3
 }
 
 map VLNT32 "The Ghosts of the Old Kingdom"
@@ -331,5 +333,5 @@ map VLNT32 "The Ghosts of the Old Kingdom"
 	Next = "VLNT16"
 	Music = "D_VLNT32"
 	Par = 360
-	Cluster = 3
+// 	Cluster = 3
 }
