@@ -14,6 +14,7 @@ include "mapinfo/CHAINWORM.txt" // chnworm.wad
 include "mapinfo/DRKENC.txt" // drkenctr.wad
 include "mapinfo/D2DARK.txt" // d2dw-v1.wad
 include "mapinfo/D2REDUX.txt" // D2REDUX.wad
+include "mapinfo/D2RELOAD.txt" // D2RELOAD.wad
 include "mapinfo/D2TWID.txt" // d2twid_map08coopfix.wad
 include "mapinfo/DOOM404.txt" // doom404.wad
 include "mapinfo/DOOMCORE.txt"// dctrilogy.wad
