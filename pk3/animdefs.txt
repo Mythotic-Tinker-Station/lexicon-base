@@ -433,6 +433,14 @@ flat D2DW0002 range D2DW0005 tics 8
 flat D2DW0006 range D2DW0008 tics 8
 switch D2DW0023 on pic D2DW0024 tics 0
 
+// Doom 2 Reloaded
+texture D2RL0101 range D2RL0104 tics 8
+texture D2RL0115 range D2RL0118 tics 8
+texture D2RL0151 range D2RL0165 tics 8 allowdecals
+texture D2RL0169 range D2RL0180 tics 8 allowdecals
+switch D2RL0106 on pic D2RL0107 tics 0
+switch D2RL0211 on pic D2RL0212 tics 0
+
 // Doom 2 The Way id Did
 texture D2WD0550 pic 1 tics 35 pic 1 tics 35
 texture D2WD0551 pic 1 tics 35 pic 1 tics 35
