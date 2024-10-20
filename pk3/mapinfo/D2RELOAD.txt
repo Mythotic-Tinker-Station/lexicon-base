@@ -2,6 +2,8 @@
 
 defaultmap
 {
+	nojump
+	nocrouch
 	ExitPic = "D2RLINT"
 	EnterPic = "D2RLINT"
 	InterMusic = "D_DM2INT"
