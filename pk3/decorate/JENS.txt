@@ -38,6 +38,9 @@ Actor Lexicon_JENS_WolfensteinSS : WolfensteinSS
 	DeathSound "grunt/death"
 	States
 	{
+	Spawn:
+		LX58 AB 10 A_Look
+		loop
 	See:
 		LX58 ABCD 4 A_Chase
 		goto See
