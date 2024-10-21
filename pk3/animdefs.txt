@@ -721,6 +721,30 @@ switch JPCP0520 on pic JPCP0524 tics 0
 switch JPCP1455 on pic JPCP1456 tics 0
 switch JPCP1457 on pic JPCP1458 tics 0
 
+// Jenesis
+texture JENS0106 range JENS0107 tics 8
+texture JENS0156 range JENS0158 tics 8 allowdecals
+texture JENS0182 range JENS0185 tics 8 allowdecals
+texture JENS0210 range JENS0213 tics 8
+texture JENS0275 range JENS0282 tics 2
+texture JENS0325 range JENS0328 tics 8
+texture JENS0329 range JENS0332 tics 8
+texture JENS0342 range JENS0345 tics 8
+texture JENS0379 range JENS0386 tics 2
+flat JENS0010 range JENS0012 tics 8
+switch JENS0117 on pic JENS0120 tics 0
+switch JENS0118 on pic JENS0121 tics 0
+switch JENS0119 on pic JENS0122 tics 0
+switch JENS0166 on pic JENS0172 tics 0
+switch JENS0167 on pic JENS0173 tics 0
+switch JENS0168 on pic JENS0174 tics 0
+switch JENS0169 on pic JENS0175 tics 0
+switch JENS0170 on pic JENS0176 tics 0
+switch JENS0171 on pic JENS0177 tics 0
+switch JENS0366 on pic JENS0367 tics 0
+switch JENS0394 on pic JENS0395 tics 0
+switch JENS0702 on pic JENS0703 tics 0
+
 // Jiffy Bag
 texture JFBG0156 range JFBG0159 tics 8 allowdecals
 texture JFBG0190 range JFBG0193 tics 8
