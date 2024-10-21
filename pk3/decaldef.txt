@@ -62,6 +62,9 @@ generator Lexicon_EQNX_ChaingunGuy	BulletChip
 // Going Down
 generator Lexicon_GDWN_WolfensteinSS	BulletChip
 
+// Jenesis
+generator Lexicon_JENS_WolfensteinSS	BulletChip
+
 // Jiffy Bag
 generator Lexicon_JFBG_SpiderMastermind	BulletChip
 
