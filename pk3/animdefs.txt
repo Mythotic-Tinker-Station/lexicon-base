@@ -389,39 +389,39 @@ switch CCH30833 on pic CCH30877 tics 0
 switch CCH30835 on pic CCH30879 tics 0
 
 // Community Chest 4
-texture CCH40943 range CCH40946 tics 8
-texture CCH41519 range CCH41522 tics 8
-texture CCH41627 range CCH41630 tics 8
-texture CCH41631 range CCH41634 tics 8
-texture CCH41658 range CCH41661 tics 8
-texture CCH41675 range CCH41684 tics 8
-texture CCH41687 range CCH41696 tics 8
-texture CCH41809 range CCH41812 tics 8
-texture CCH41862 range CCH41867 tics 8
-texture CCH41917 range CCH41920 tics 8
-texture CCH42034 range CCH42037 tics 8
-texture CCH42040 range CCH42043 tics 8
-texture CCH42046 range CCH42048 tics 8
-texture CCH42128 range CCH42131 tics 8
-texture CCH42184 range CCH42187 tics 8
+texture CCH40571 range CCH40574 tics 8
+texture CCH41146 range CCH41149 tics 5
+texture CCH41254 range CCH41257 tics 8
+texture CCH41258 range CCH41261 tics 8
+texture CCH41285 range CCH41288 tics 8
+texture CCH41302 range CCH41311 tics 2
+texture CCH41314 range CCH41323 tics 2
+texture CCH41436 range CCH41439 tics 8
+texture CCH41489 range CCH41494 tics 2
+texture CCH41544 range CCH41547 tics 2
+texture CCH41661 range CCH41664 tics 8
+texture CCH41667 range CCH41670 tics 4
+texture CCH41673 range CCH41675 tics 2
+texture CCH41755 range CCH41758 tics 8
+texture CCH41811 range CCH41814 tics 4
 flat CCH40298 range CCH40301 tics 8
 flat CCH40361 range CCH40364 tics 8
-flat CCH40389 range CCH40390 tics 8
-flat CCH40424 range CCH40427 tics 8
-flat CCH40428 range CCH40431 tics 8
-switch CCH40762 on pic CCH40797 tics 0
-switch CCH40766 on pic CCH40802 tics 0
-switch CCH40771 on pic CCH40807 tics 0
-switch CCH40777 on pic CCH40813 tics 0
-switch CCH40913 on pic CCH40918 tics 0
-switch CCH40914 on pic CCH40798 tics 0
-switch CCH40917 on pic CCH40921 tics 0
-switch CCH41635 on pic CCH41636 tics 0
-switch CCH41637 on pic CCH41638 tics 0
-switch CCH41852 on pic CCH41853 tics 0
-switch CCH42061 on pic CCH42062 tics 0
-switch CCH42227 on pic CCH42228 tics 0
-switch CCH42229 on pic CCH42230 tics 0
+flat CCH40387 range CCH40388 tics 8
+flat CCH40422 range CCH40425 tics 8
+flat CCH40426 range CCH40429 tics 8
+switch CCH40506 on pic CCH40514 tics 0
+switch CCH40507 on pic CCH40516 tics 0
+switch CCH40508 on pic CCH40518 tics 0
+switch CCH40509 on pic CCH40519 tics 0
+switch CCH40541 on pic CCH40546 tics 0
+switch CCH40542 on pic CCH40515 tics 0
+switch CCH40545 on pic CCH40549 tics 0
+switch CCH41262 on pic CCH41263 tics 0
+switch CCH41264 on pic CCH41265 tics 0
+switch CCH41479 on pic CCH41480 tics 0
+switch CCH41688 on pic CCH41689 tics 0
+switch CCH41854 on pic CCH41855 tics 0
+switch CCH41856 on pic CCH41857 tics 0
 
 // Congestion 1024
 switch C2410467 on pic C2410507 tics 0
