@@ -1065,6 +1065,7 @@ SWTW_MAPSET_TITLE = "Swim With The Whales";
 UACU_ACTOR_1 = "Lexicon_UACU_BlueCard";
 UACU_ACTOR_2 = "Lexicon_UACU_YellowCard";
 UACU_ACTOR_3 = "Lexicon_UACU_ShotgunGuy";
+UACU_ACTORALT_3 = "ShotgunGuy";
 UACU_ACTOR_4 = "Lexicon_UACU_RedCard";
 UACU_ACTOR_5 = "Lexicon_UACU_TallGreenColumn";
 UACU_ACTOR_6 = "Lexicon_UACU_BloodyTwitch";
