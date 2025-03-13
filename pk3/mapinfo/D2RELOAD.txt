@@ -333,8 +333,8 @@ map D2RL29 "Cocytus"
 map D2RL30 "The Final Conflict"
 {
 	TitlePatch = "D2RLV29"
-	Next = "VR"
-	SecretNext = "VR"
+	next = "HUBMAP"
+	Secretnext = "HUBMAP"
 	Sky1 = "D2RL0105"
 	Music = "D_OPENIN"
 	Par = 345

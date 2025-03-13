@@ -77,8 +77,8 @@ map SDX708 "Grand Ballroom"
 map SDX709 "Do You Believe?"
 {
 	TitlePatch = "SDX7V08"
-	Next = "VR"
-	SecretNext = "VR"
+	next = "HUBMAP"
+	Secretnext = "HUBMAP"
 	Music = "D_SDX709"
 }
 
@@ -93,7 +93,7 @@ map SDX731 "Hopscotch"
 map SDX732 "Issai Perfect"
 {
 	TitlePatch = "SDX7V31"
-	Next = "VR"
-	SecretNext = "VR"
+	next = "HUBMAP"
+	Secretnext = "HUBMAP"
 	Music = "D_SDX732"
 }

@@ -271,8 +271,8 @@ map ESTR29 "Sheol"
 map ESTR30 "Chimes at Midnight"
 {
 	titlepatch = "ESTRV29"
-	next = "VR"
-	secretnext = "VR"
+	next = "HUBMAP"
+	secretnext = "HUBMAP"
 	sky1 = "ESTR0505"
 	music = "D_ESTR30"
 	allowmonstertelefrags

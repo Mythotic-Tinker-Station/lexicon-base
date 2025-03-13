@@ -1153,11 +1153,11 @@ VNGD_MAPSET_MAPS = "13";
 VNGD_MAPSET_TITLE = "Vanguard";
 
 // Vile Flesh
-VLFL_MAPSET_AUTH = "Gwyn Williams";
-VLFL_MAPSET_CUST = "N";
+VLFL_MAPSET_AUTHORS = "Gwyn Williams";
+VLFL_MAPSET_CUSTOM = "N";
 VLFL_MAPSET_DATE = "2004";
 VLFL_MAPSET_MAPS = "32";
-VLFL_MAPSET_TTLE = "Vile Flesh";
+VLFL_MAPSET_TITLE = "Vile Flesh";
 
 // Whispers of Satan
 WSPS_MAPSET_AUTHORS = "Paul Corfiatis, Kristian Aro";

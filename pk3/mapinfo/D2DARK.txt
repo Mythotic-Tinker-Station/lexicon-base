@@ -100,8 +100,8 @@ map D2DW10 "spawning pool"
 map D2DW11 "cocytus"
 {
 	titlepatch = "D2DWV10"
-	next = "VR"
-	secretnext = "VR"
+	next = "HUBMAP"
+	secretnext = "HUBMAP"
 	sky1 = "SKY1"
 	music = "$MUSIC_STLKS2"
 }
