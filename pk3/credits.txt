@@ -4,6 +4,7 @@ Lexicon Base Authors
 Alien Vendetta: AV Team, MAP20 coop fix by BLOODWOLF
 Ancient Aliens: Paul DeBruyne
 Anomaly Report: Michael Jan Krizik
+ASDOOM][: The Final Countdown: Andy Sheppard
 Chainworm Kommando: Chainworm666
 Claustrophobia 1024: Mechadon, Claustrophobia 1024 Team
 Claustrophobia 1024 2: Jodwin, Claustrophobia 1024 2 Team
@@ -30,6 +31,7 @@ Epic: Eternal, coop fixes by BLOODWOLF
 Epic 2: Eternal, coop fixes by BLOODWOLF
 Equinox: B.P.R.D
 Estranged: Foodles
+Fore/vr/ Alone: 4chan's /vr/ board
 Garrulismo: Eye del Cul
 Going Down: Cyriak Harris, coopfixes by BLOODWOLF
 Hadephobia: Chris Bourke, Hadephobia Team, coopfixes by BLOODWOLF
@@ -64,6 +66,8 @@ Stardate 20X7: Zach Stephens
 Sunlust: Zach Stephens, Daniel Jakobsson, coop fixes by BLOODWOLF
 Super MAYhem 17: Marcaek, Super MAYhem 17 Team
 Swift Death: franckFRAG, JCD, Memfis
+Team Rocket: Blasting Off at the Speed of Mapping: Team Rocket
+Team Rocket 2: Looks Like We're Blasting Off Again: Team Rocket
 UAC Ultra: Jamie Bainbridge, Jon Vail
 Unholy Realms: Brian Knox, Unholy Realms Team
 Valiant: Vaccinated Edition: Paul DeBruyne, coopfixes by BLOODWOLF

@@ -5,6 +5,7 @@ include "mapinfo/1994TU.txt" // 1994TU.wad
 include "mapinfo/25YOE.txt" // ph_25yoe.wad
 include "mapinfo/AA.txt" // aaliens_v1_2.wad
 include "mapinfo/AR.txt" // ar.wad
+include "mapinfo/ASDOOM2.txt" // ASD2.WAD
 include "mapinfo/AV.txt" // av_map20coopfix.wad
 include "mapinfo/CCHEST1.txt" // cchest_map15coopfix.wad
 include "mapinfo/CCHEST2.txt" // cchest2_map05,22,32coopfix.wad
@@ -28,6 +29,7 @@ include "mapinfo/EPIC.txt" // epic_map02,03,05coopfix.wad
 include "mapinfo/EPIC2.txt" // epic2_map06,11,12,13,14,16,17,20,27,28,29,31coopfix.wad
 include "mapinfo/EQUINOX.txt" // equinox.wad
 include "mapinfo/ESTRANGD.txt" // estrangd.wad
+include "mapinfo/FOREVRALONE.txt" // forvraln.wad
 include "mapinfo/GARRULO.txt" // garrulo.wad
 include "mapinfo/GOINGDOWN.txt" // gd_map31coopfix_BLOODWOLF.wad
 include "mapinfo/HADEPHOBIA.txt" // h_phobia_map19,22,23,32coopfix_BLOODWOLF.wad
@@ -58,10 +60,12 @@ include "mapinfo/REQUIEM.txt" // REQUIEM.wad
 include "mapinfo/SCYTHE1.txt"// SCYTHE.wad
 include "mapinfo/SCYTHE2.txt" // scythe2.wad
 include "mapinfo/SPEEDOFDOOM.txt"// sodfinal_map11,18,20coopfix.wad
-include "mapinfo/SD20X6.txt"// stardate20x6.wad
-include "mapinfo/SD20X7.txt"// sd20x7.wad
-include "mapinfo/SUNLUST.txt"// sunlust_map27coopfix.wad
-include "mapinfo/SWIDEATH.txt"// swideath.wad
+include "mapinfo/SD20X6.txt" // stardate20x6.wad
+include "mapinfo/SD20X7.txt" // sd20x7.wad
+include "mapinfo/SUNLUST.txt" // sunlust_map27coopfix.wad
+include "mapinfo/SWIDEATH.txt" // swideath.wad
+include "mapinfo/TEAMROCKET1.txt" // trocket.wad
+include "mapinfo/TEAMROCKET2.txt" // trocket2-b1.wad
 include "mapinfo/TVR.txt" // TVR!.WAD
 include "mapinfo/UACULTRA.txt"// uacultravfix.wad
 include "mapinfo/UHRN.txt"// ur_final.wad

@@ -625,6 +625,9 @@ switch EQNX0176 on pic EQNX0210 tics 0
 switch EQNX0177 on pic EQNX0211 tics 0
 switch EQNX0178 on pic EQNX0212 tics 0
 
+// Fore/vr/ Alone
+switch FVRA3935 on pic FVRA3940 tics 0
+
 // Garrulismo
 switch GRLS0024 on pic GRLS0029 tics 0
 switch GRLS0025 on pic GRLS0030 tics 0
@@ -1008,6 +1011,98 @@ switch MY170500 on pic MY171072 tics 0
 // Swift Death
 texture SWDH0085 range SWDH0088 tics 8
 texture SWDH0439 range SWDH0442 tics 8 allowdecals
+
+// Team Rocket: Blasting Off at the Speed of Mapping
+texture TMR10235 range TMR10237 tics 5
+texture TMR10378 range TMR10381 tics 8
+texture TMR10394 range TMR10397 tics 8
+texture TMR10410 range TMR10413 tics 8
+texture TMR10424 range TMR10442 tics 8
+texture TMR10458 range TMR10461 tics 8
+texture TMR10482 range TMR10490 tics 8
+texture TMR10493 range TMR10496 tics 8
+texture TMR10515 range TMR10517 tics 8
+texture TMR10533 range TMR10536 tics 8
+texture TMR10670 range TMR10673 tics 8
+flat TMR10041 range TMR10044 tics 8
+flat TMR10086 range TMR10089 tics 8
+flat TMR10095 range TMR10097 tics 8
+flat TMR10104 range TMR10107 tics 8
+flat TMR10108 range TMR10111 tics 8
+flat TMR10127 range TMR10130 tics 8
+flat TMR10131 range TMR10134 tics 8
+flat TMR10161 range TMR10164 tics 8
+flat TMR10165 range TMR10168 tics 8
+switch TMR10574 on pic TMR10617 tics 0
+switch TMR10575 on pic TMR10618 tics 0
+switch TMR10576 on pic TMR10619 tics 0
+switch TMR10577 on pic TMR10620 tics 0
+switch TMR10578 on pic TMR10621 tics 0
+switch TMR10580 on pic TMR10623 tics 0
+switch TMR10581 on pic TMR10624 tics 0
+switch TMR10584 on pic TMR10627 tics 0
+switch TMR10585 on pic TMR10628 tics 0
+switch TMR10586 on pic TMR10629 tics 0
+switch TMR10587 on pic TMR10630 tics 0
+switch TMR10588 on pic TMR10631 tics 0
+switch TMR10589 on pic TMR10632 tics 0
+switch TMR10590 on pic TMR10633 tics 0
+switch TMR10591 on pic TMR10634 tics 0
+switch TMR10592 on pic TMR10635 tics 0
+switch TMR10593 on pic TMR10636 tics 0
+switch TMR10595 on pic TMR10638 tics 0
+switch TMR10596 on pic TMR10639 tics 0
+switch TMR10601 on pic TMR10644 tics 0
+switch TMR10602 on pic TMR10645 tics 0
+switch TMR10603 on pic TMR10646 tics 0
+switch TMR10604 on pic TMR10647 tics 0
+switch TMR10606 on pic TMR10649 tics 0
+switch TMR10611 on pic TMR10654 tics 0
+switch TMR10614 on pic TMR10657 tics 0
+switch TMR10615 on pic TMR10658 tics 0
+
+// Team Rocket 2: Looks Like We're Blasting Off Again
+texture TMR21117 range TMR21120 tics 8
+texture TMR21286 range TMR21287 tics 8
+texture TMR21441 range TMR21444 tics 8
+texture TMR21489 range TMR21492 tics 8
+texture TMR21568 range TMR21571 tics 8
+texture TMR21638 range TMR21640 tics 8
+texture TMR21941 range TMR21944 tics 4
+texture TMR21945 range TMR21948 tics 4
+texture TMR21949 range TMR21952 tics 4
+texture TMR21953 range TMR21956 tics 4
+texture TMR21957 range TMR21960 tics 4
+texture TMR21961 range TMR21964 tics 4
+texture TMR21965 range TMR21968 tics 4
+texture TMR21969 range TMR21972 tics 4
+texture TMR21973 range TMR21976 tics 4
+texture TMR21977 range TMR21980 tics 4
+texture TMR21981 range TMR21988 tics 4
+texture TMR21989 range TMR21992 tics 4
+texture TMR22026 range TMR22049 tics 3
+texture TMR22050 range TMR22073 tics 3
+flat TMR20072 range TMR20075 tics 8
+flat TMR20080 range TMR20083 tics 8
+flat TMR20132 range TMR20135 tics 8
+flat TMR20141 range TMR20144 tics 8
+flat TMR20145 range TMR20148 tics 8
+flat TMR20164 range TMR20167 tics 8
+flat TMR20170 range TMR20173 tics 8
+flat TMR20186 range TMR20189 tics 8
+flat TMR20205 range TMR20207 tics 8
+switch TMR20267 on pic TMR20272 tics 0
+switch TMR21703 on pic TMR21709 tics 0
+switch TMR21704 on pic TMR21710 tics 0
+switch TMR21706 on pic TMR21712 tics 0
+switch TMR21707 on pic TMR21713 tics 0
+warp flat TMR20235
+warp flat TMR20236
+warp flat TMR20237
+warp flat TMR20238
+warp flat TMR20255
+warp flat TMR20254
+warp flat TMR20256
 
 // UAC Ultra
 texture UACU0043 range UACU0046 tics 8
