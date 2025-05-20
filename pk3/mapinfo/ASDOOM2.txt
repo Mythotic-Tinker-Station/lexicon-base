@@ -1,5 +1,11 @@
 // ASDOOM][: The Final Countdown Mapinfo
 
+defaultmap
+{
+	nojump
+	nocrouch
+}
+
 map ASD201 "A Walk In The Park"
 {
 	titlepatch = "CWILV00"

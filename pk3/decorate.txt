@@ -12,6 +12,7 @@
 #include "decorate/EQNX.txt" // Equinox
 #include "decorate/GRLS.txt" // Garrulismo
 #include "decorate/GDWN.txt" // Going Down
+#include "decorate/GD64.txt" // Gridlock 64
 #include "decorate/HADP.txt" // Hadephobia
 #include "decorate/HLC1.txt" // Hellcore
 #include "decorate/HLC2.txt" // Hellcore 2.0

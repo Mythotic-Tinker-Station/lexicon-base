@@ -32,6 +32,7 @@ include "mapinfo/ESTRANGD.txt" // estrangd.wad
 include "mapinfo/FOREVRALONE.txt" // forvraln.wad
 include "mapinfo/GARRULO.txt" // garrulo.wad
 include "mapinfo/GOINGDOWN.txt" // gd_map31coopfix_BLOODWOLF.wad
+include "mapinfo/GRIDLOCK64.txt" // gridlk.wad
 include "mapinfo/HADEPHOBIA.txt" // h_phobia_map19,22,23,32coopfix_BLOODWOLF.wad
 include "mapinfo/HC20.txt" // hc20.wad
 include "mapinfo/HC092604.txt" // hc092604.wad

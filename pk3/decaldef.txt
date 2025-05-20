@@ -62,6 +62,9 @@ generator Lexicon_EQNX_ChaingunGuy	BulletChip
 // Going Down
 generator Lexicon_GDWN_WolfensteinSS	BulletChip
 
+// Gridlock 64
+generator Lexicon_GD64_ZombieMan	BulletChip
+
 // Jenesis
 generator Lexicon_JENS_WolfensteinSS	BulletChip
 

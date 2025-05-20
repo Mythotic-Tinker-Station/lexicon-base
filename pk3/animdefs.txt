@@ -639,6 +639,29 @@ switch GRLS0028 on pic GRLS0033 tics 0
 texture GDWN0003 range GDWN0006 tics 8
 texture GDWN0013 range GDWN0016 tics 8
 
+// Gridlock 64
+texture GD640520 range GD640522 tics 8 allowdecals
+texture GD640565 range GD640568 tics 8
+texture GD641337 range GD641340 tics 5
+texture GD641461 range GD641464 tics 8
+texture GD641465 range GD641468 tics 8
+texture GD641498 range GD641501 tics 8
+texture GD641516 range GD641525 tics 2
+flat GD640346 range GD640349 tics 8
+switch GD640480 on pic GD640489 tics 0
+switch GD640481 on pic GD640490 tics 0
+switch GD640482 on pic GD640492 tics 0
+switch GD640483 on pic GD640494 tics 0
+switch GD640484 on pic GD640495 tics 0
+switch GD640485 on pic GD640496 tics 0
+switch GD640486 on pic GD640497 tics 0
+switch GD640487 on pic GD640498 tics 0
+switch GD640526 on pic GD640531 tics 0
+switch GD640527 on pic GD640491 tics 0
+switch GD640528 on pic GD640532 tics 0
+switch GD640530 on pic GD640534 tics 0
+switch GD641471 on pic GD641472 tics 0
+
 // Hadephobia
 texture HADP0011 range HADP0014 tics 8
 
