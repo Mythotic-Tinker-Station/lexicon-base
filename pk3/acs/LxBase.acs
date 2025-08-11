@@ -50,7 +50,6 @@ script "LexiconBaseExpansionPackMapScripts" ENTER
 	}
 	if (StrICmp(mapName,"AALI07") == 0)
 	{
-		PrintBold(s:"Ack!");
 		while(TRUE)
 		{
 			if (GetActorZ(0) > 100000000)
