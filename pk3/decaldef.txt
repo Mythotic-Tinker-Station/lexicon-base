@@ -59,6 +59,15 @@ generator Lexicon_EQNX_ZombieMan	BulletChip
 generator Lexicon_EQNX_ShotgunGuy	BulletChip
 generator Lexicon_EQNX_ChaingunGuy	BulletChip
 
+// Eternal Doom
+generator Lexicon_ETDM_Rocket	Scorch
+
+generator Lexicon_ETDM_DoomImpBall		DoomImpScorch
+generator Lexicon_ETDM_ZombieMan	BulletChip
+generator Lexicon_ETDM_ShotgunGuy	BulletChip
+generator Lexicon_ETDM_ChaingunGuy	BulletChip
+generator Lexicon_ETDM_WolfensteinSS	BulletChip
+
 // Going Down
 generator Lexicon_GDWN_WolfensteinSS	BulletChip
 

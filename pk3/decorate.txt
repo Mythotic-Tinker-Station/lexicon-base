@@ -10,6 +10,7 @@
 #include "decorate/EPC1.txt" // Epic
 #include "decorate/EPC2.txt" // Epic 2
 #include "decorate/EQNX.txt" // Equinox
+#include "decorate/ETDM.txt" // Eternal Doom
 #include "decorate/GRLS.txt" // Garrulismo
 #include "decorate/GDWN.txt" // Going Down
 #include "decorate/GD64.txt" // Gridlock 64

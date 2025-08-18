@@ -311,7 +311,7 @@ map VLNT29 "Red Shift"
 map VLNT30 "Electric Nightmare"
 {
 	TitlePatch = "VLNTV29"
-	next = "HUBMAP"
+	next = "VR"
 	Music = "D_VLNT30"
 	Par = 360
 // 	Cluster = 5

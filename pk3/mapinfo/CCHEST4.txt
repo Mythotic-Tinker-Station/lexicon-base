@@ -278,8 +278,8 @@ map CCH429 "Spiritual Holocaust"
 map CCH430 "Ragnarok"
 {
 	TitlePatch = "CCH4V29"
-	next = "HUBMAP"
-	Secretnext = "HUBMAP"
+	next = "VR"
+	Secretnext = "VR"
 	Sky1 = "CCH40448"
 	Music = "D_CCH430"
 	allowmonstertelefrags

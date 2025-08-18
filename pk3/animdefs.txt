@@ -625,6 +625,67 @@ switch EQNX0176 on pic EQNX0210 tics 0
 switch EQNX0177 on pic EQNX0211 tics 0
 switch EQNX0178 on pic EQNX0212 tics 0
 
+// Eternal Doom
+texture ETDM0245 range ETDM0248 tics 8
+texture ETDM0274 range ETDM0277 tics 8 allowdecals
+texture ETDM0278 range ETDM0281 tics 8 allowdecals
+texture ETDM0395 range ETDM0398 tics 8
+texture ETDM0476 range ETDM0477 tics 8
+texture ETDM0480 range ETDM0481 tics 8
+texture ETDM0482 range ETDM0484 tics 8
+texture ETDM0485 range ETDM0487 tics 8
+texture ETDM0506 range ETDM0508 tics 8 allowdecals
+texture ETDM0744 range ETDM0746 tics 8 allowdecals
+texture ETDM0758 range ETDM0761 tics 8
+texture ETDM1048 range ETDM1063 tics 8
+flat ETDM0086 range ETDM0088 tics 8
+flat ETDM0101 range ETDM0104 tics 8
+flat ETDM0105 range ETDM0108 tics 8
+flat ETDM0121 range ETDM0123 tics 8
+flat ETDM0150 range ETDM0153 tics 8
+flat ETDM0166 range ETDM0169 tics 8
+flat ETDM0170 range ETDM0173 tics 8
+flat ETDM0174 range ETDM0177 tics 8
+switch ETDM0903 on pic ETDM0944 tics 0
+switch ETDM0904 on pic ETDM0945 tics 0
+switch ETDM0905 on pic ETDM0946 tics 0
+switch ETDM0906 on pic ETDM0947 tics 0
+switch ETDM0907 on pic ETDM0948 tics 0
+switch ETDM0908 on pic ETDM0949 tics 0
+switch ETDM0910 on pic ETDM0951 tics 0
+switch ETDM0911 on pic ETDM0952 tics 0
+switch ETDM0912 on pic ETDM0953 tics 0
+switch ETDM0913 on pic ETDM0954 tics 0
+switch ETDM0914 on pic ETDM0955 tics 0
+switch ETDM0915 on pic ETDM0956 tics 0
+switch ETDM0916 on pic ETDM0957 tics 0
+switch ETDM0917 on pic ETDM0958 tics 0
+switch ETDM0918 on pic ETDM0959 tics 0
+switch ETDM0920 on pic ETDM0961 tics 0
+switch ETDM0921 on pic ETDM0962 tics 0
+switch ETDM0922 on pic ETDM0963 tics 0
+switch ETDM0923 on pic ETDM0964 tics 0
+switch ETDM0924 on pic ETDM0965 tics 0
+switch ETDM0925 on pic ETDM0966 tics 0
+switch ETDM0926 on pic ETDM0967 tics 0
+switch ETDM0927 on pic ETDM0968 tics 0
+switch ETDM0928 on pic ETDM0969 tics 0
+switch ETDM0929 on pic ETDM0970 tics 0
+switch ETDM0930 on pic ETDM0971 tics 0
+switch ETDM0931 on pic ETDM0972 tics 0
+switch ETDM0932 on pic ETDM0973 tics 0
+switch ETDM0933 on pic ETDM0974 tics 0
+switch ETDM0934 on pic ETDM0975 tics 0
+switch ETDM0935 on pic ETDM0976 tics 0
+switch ETDM0936 on pic ETDM0977 tics 0
+switch ETDM0937 on pic ETDM0978 tics 0
+switch ETDM0938 on pic ETDM0979 tics 0
+switch ETDM0939 on pic ETDM0980 tics 0
+switch ETDM0940 on pic ETDM0981 tics 0
+switch ETDM0941 on pic ETDM0982 tics 0
+switch ETDM0942 on pic ETDM0983 tics 0
+switch ETDM0943 on pic ETDM0984 tics 0
+
 // Fore/vr/ Alone
 switch FVRA3935 on pic FVRA3940 tics 0
 

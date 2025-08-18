@@ -31,6 +31,7 @@ Epic: Eternal, coop fixes by BLOODWOLF
 Epic 2: Eternal, coop fixes by BLOODWOLF
 Equinox: B.P.R.D
 Estranged: Foodles
+Eternal Doom: Team Eternal, TeamTNT
 Fore/vr/ Alone: 4chan's /vr/ board
 Garrulismo: Eye del Cul
 Going Down: Cyriak Harris, coopfixes by BLOODWOLF
@@ -60,6 +61,7 @@ Perdition's Gate: Wraith Corporation, map names from NightFright
 Requiem: Chris Thornton, Requiem Team
 Revolution!: Thomas van der Velden
 Rise of the Triangles: joe-ilya
+Scythe: Erik Alm
 Scythe 2: Erik Alm
 Speed of Doom: Josh Sealy, Darkwave0000, coop fixes by BLOODWOLF
 Stardate 20X6: Zach Stephens

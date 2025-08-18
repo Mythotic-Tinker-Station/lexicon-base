@@ -73,8 +73,8 @@ map ASD207 "A False Sense Of Security"
 map ASD208 "Finale"
 {
 	titlepatch = "CWILV07"
-	next = "HUBMAP"
-	secretnext = "HUBMAP"
+	next = "VR"
+	secretnext = "VR"
 	sky1 = "SKY1"
 	music = "$MUSIC_DDTBLU"
 }
