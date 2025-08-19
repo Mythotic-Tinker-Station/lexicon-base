@@ -427,6 +427,11 @@ switch CCH41856 on pic CCH41857 tics 0
 switch C2410467 on pic C2410507 tics 0
 switch C2410470 on pic C2410510 tics 0
 
+// CzechBox
+texture CZBX0058 range CZBX0061 tics 8
+switch CZBX0036 on pic CZBX0041 tics 0
+switch CZBX0037 on pic CZBX0042 tics 0
+
 // Doom 2: Dark World
 texture D2DW0034 range D2DW0037 tics 8
 flat D2DW0002 range D2DW0005 tics 8
