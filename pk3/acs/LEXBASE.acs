@@ -1,0 +1,6 @@
+#library "LEXBASE"
+#include "zcommon.acs"
+Script "Lexicon_BasePack_AddAcronym" OPEN
+{
+	ACS_NamedExecuteWithResult("Lexicon_AddMapSet","BASE",0);
+}

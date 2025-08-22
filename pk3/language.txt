@@ -1,84 +1,86 @@
 [default]
-ADD_MAPSET_1_1 = "94TU";
-ADD_MAPSET_1_2 = "ALVD";
-ADD_MAPSET_1_3 = "AALI";
-ADD_MAPSET_1_4 = "ANRP";
-ADD_MAPSET_1_5 = "ASD2";
-ADD_MAPSET_1_6 = "CWKM";
-ADD_MAPSET_1_7 = "C242";
-ADD_MAPSET_1_8 = "C243";
-ADD_MAPSET_1_9 = "CCH1";
-ADD_MAPSET_1_10 = "CCH2";
-ADD_MAPSET_1_11 = "CCH3";
-ADD_MAPSET_1_12 = "CCH4";
-ADD_MAPSET_1_13 = "C241";
-ADD_MAPSET_1_14 = "CZBX";
-ADD_MAPSET_1_15 = "D2RX";
-ADD_MAPSET_1_16 = "D2RL";
-ADD_MAPSET_1_17 = "D2DW";
-ADD_MAPSET_1_18 = "D2WD";
-ADD_MAPSET_1_19 = "D404";
-ADD_MAPSET_1_20 = "DCTL";
-ADD_MAPSET_1_21 = "D25Y";
-ADD_MAPSET_1_22 = "DB01";
-ADD_MAPSET_1_23 = "DB02";
-ADD_MAPSET_1_24 = "DB03";
-ADD_MAPSET_1_25 = "DB04";
-ADD_MAPSET_1_26 = "DKEC";
-ADD_MAPSET_1_27 = "ERTH";
-ADD_MAPSET_1_28 = "ENGM";
-ADD_MAPSET_1_29 = "EPC1";
-ADD_MAPSET_1_30 = "EPC2";
-ADD_MAPSET_1_31 = "EQNX";
-ADD_MAPSET_1_32 = "ESTR";
-ADD_MAPSET_1_33 = "ETDM";
-ADD_MAPSET_1_34 = "FVRA";
-ADD_MAPSET_1_35 = "GRLS";
-ADD_MAPSET_1_36 = "GDWN";
-ADD_MAPSET_1_37 = "GD64";
-ADD_MAPSET_1_38 = "HADP";
-ADD_MAPSET_1_39 = "HLBD";
-ADD_MAPSET_1_40 = "HLC1";
-ADD_MAPSET_1_41 = "HLC2";
-ADD_MAPSET_1_42 = "HR10";
-ADD_MAPSET_1_43 = "HR20";
-ADD_MAPSET_1_44 = "HLIL";
-ADD_MAPSET_1_45 = "HLTP";
-ADD_MAPSET_1_46 = "ICAV";
-ADD_MAPSET_1_47 = "ITC1";
-ADD_MAPSET_1_48 = "JENS";
-ADD_MAPSET_1_49 = "JFBG";
-ADD_MAPSET_1_50 = "JPCP";
-ADD_MAPSET_1_51 = "KSUT";
-ADD_MAPSET_1_52 = "KSHT";
-ADD_MAPSET_1_53 = "LDOE";
-ADD_MAPSET_1_54 = "MSWR";
-ADD_MAPSET_1_55 = "MM10";
-ADD_MAPSET_1_56 = "MM20";
-ADD_MAPSET_1_57 = "NEOD";
-ADD_MAPSET_1_58 = "NOV1";
-ADD_MAPSET_1_59 = "PDGT";
-ADD_MAPSET_1_60 = "REQU";
-ADD_MAPSET_1_61 = "ROTR";
-ADD_MAPSET_1_62 = "SCY1";
-ADD_MAPSET_1_63 = "SCY2";
-ADD_MAPSET_1_64 = "SPOD";
-ADD_MAPSET_1_65 = "SDX6";
-ADD_MAPSET_1_66 = "SDX7";
-ADD_MAPSET_1_67 = "SNLU";
-ADD_MAPSET_1_68 = "MY17";
-ADD_MAPSET_1_69 = "SWDH";
-ADD_MAPSET_1_70 = "TMR1";
-ADD_MAPSET_1_71 = "TMR2";
-ADD_MAPSET_1_72 = "UHRN";
-ADD_MAPSET_1_73 = "UACU";
-ADD_MAPSET_1_74 = "TVRV";
-ADD_MAPSET_1_75 = "VLNT";
-ADD_MAPSET_1_76 = "VNGD";
-ADD_MAPSET_1_77 = "VLFL";
-ADD_MAPSET_1_78 = "WSPS";
-ADD_MAPSET_1_79 = "ZN30";
-ADD_MAPSET_1_80 = "ZNOF";
+LEX_BASE_PACKNAME = "Base (Doom 2)";
+LEX_BASE_IWAD = "Doom2";
+LEX_BASE_GAMETYPE = "COOP";
+
+LEX_BASE_1 = "94TU";
+LEX_BASE_2 = "ALVD";
+LEX_BASE_3 = "AALI";
+LEX_BASE_4 = "ANRP";
+LEX_BASE_5 = "ASD2";
+LEX_BASE_6 = "CWKM";
+LEX_BASE_7 = "C242";
+LEX_BASE_8 = "C243";
+LEX_BASE_9 = "CCH1";
+LEX_BASE_10 = "CCH2";
+LEX_BASE_11 = "CCH3";
+LEX_BASE_12 = "CCH4";
+LEX_BASE_13 = "C241";
+LEX_BASE_14 = "D2RX";
+LEX_BASE_15 = "D2RL";
+LEX_BASE_16 = "D2DW";
+LEX_BASE_17 = "D2WD";
+LEX_BASE_18 = "D404";
+LEX_BASE_19 = "DCTL";
+LEX_BASE_20 = "D25Y";
+LEX_BASE_21 = "DB01";
+LEX_BASE_22 = "DB02";
+LEX_BASE_23 = "DB03";
+LEX_BASE_24 = "DB04";
+LEX_BASE_25 = "DKEC";
+LEX_BASE_26 = "ERTH";
+LEX_BASE_27 = "ENGM";
+LEX_BASE_28 = "EPC1";
+LEX_BASE_29 = "EPC2";
+LEX_BASE_30 = "EQNX";
+LEX_BASE_31 = "ESTR";
+LEX_BASE_32 = "FVRA";
+LEX_BASE_33 = "GRLS";
+LEX_BASE_34 = "GDWN";
+LEX_BASE_35 = "GD64";
+LEX_BASE_36 = "HADP";
+LEX_BASE_37 = "HLBD";
+LEX_BASE_38 = "HLC1";
+LEX_BASE_39 = "HLC2";
+LEX_BASE_40 = "HR10";
+LEX_BASE_41 = "HR20";
+LEX_BASE_42 = "HLIL";
+LEX_BASE_43 = "HLTP";
+LEX_BASE_44 = "ICAV";
+LEX_BASE_45 = "ITC1";
+LEX_BASE_46 = "JENS";
+LEX_BASE_47 = "JFBG";
+LEX_BASE_48 = "JPCP";
+LEX_BASE_49 = "KSUT";
+LEX_BASE_50 = "KSHT";
+LEX_BASE_51 = "LDOE";
+LEX_BASE_52 = "MSWR";
+LEX_BASE_53 = "MM10";
+LEX_BASE_54 = "MM20";
+LEX_BASE_55 = "NEOD";
+LEX_BASE_56 = "NOV1";
+LEX_BASE_57 = "PDGT";
+LEX_BASE_58 = "REQU";
+LEX_BASE_59 = "ROTR";
+LEX_BASE_60 = "SCY1";
+LEX_BASE_61 = "SCY2";
+LEX_BASE_62 = "SPOD";
+LEX_BASE_63 = "SDX6";
+LEX_BASE_64 = "SDX7";
+LEX_BASE_65 = "SNLU";
+LEX_BASE_66 = "MY17";
+LEX_BASE_67 = "SWDH";
+LEX_BASE_68 = "TMR1";
+LEX_BASE_69 = "TMR2";
+LEX_BASE_70 = "UHRN";
+LEX_BASE_71 = "UACU";
+LEX_BASE_72 = "TVRV";
+LEX_BASE_73 = "VLNT";
+LEX_BASE_74 = "VNGD";
+LEX_BASE_75 = "VLFL";
+LEX_BASE_76 = "WSPS";
+LEX_BASE_77 = "ZN30";
+LEX_BASE_78 = "ZNOF";
 
 // Custom actors and metadata for Lexicon Base mapsets
 // 1994 Tune-up Community Project
@@ -87,6 +89,7 @@ ADD_MAPSET_1_80 = "ZNOF";
 94TU_MAPSET_DATE = "2011";
 94TU_MAPSET_MAPS = "32";
 94TU_MAPSET_TITLE = "1994 Tune-up Community Project";
+94TU_MAPSET_PACK = "BASE";
 
 // Alien Vendetta
 ALVD_ACTOR_1 = "Lexicon_ALVD_CommanderKeen";
@@ -97,6 +100,7 @@ ALVD_MAPSET_CUSTOM = "Y";
 ALVD_MAPSET_DATE = "2002";
 ALVD_MAPSET_MAPS = "32";
 ALVD_MAPSET_TITLE = "Alien Vendetta";
+ALVD_MAPSET_PACK = "BASE";
 
 // Ancient Aliens
 AALI_ACTOR_1 = "Lexicon_AALI_CommanderKeen";
@@ -133,6 +137,7 @@ AALI_MAPSET_TITLE = "Ancient Aliens";
 AALI_TAG_ALIENGUARDIAN = "Alien Guardian";
 AALI_TAG_PLASMAALIEN = "Stealth Plasma Alien";
 AALI_WEAPON_8 = "Lexicon_AALI_PlasmaRifle";
+AALI_MAPSET_PACK = "BASE";
 
 // Anomaly Report
 ANRP_MAPSET_AUTHORS = "Michael Jan Krizik";
@@ -140,6 +145,7 @@ ANRP_MAPSET_CUSTOM = "N";
 ANRP_MAPSET_DATE = "2022";
 ANRP_MAPSET_MAPS = "33";
 ANRP_MAPSET_TITLE = "Anomaly Report";
+ANRP_MAPSET_PACK = "BASE";
 
 // ASDOOM][: The Final Countdown
 ASD2_MAPSET_AUTHORS = "Andy Sheppard";
@@ -147,6 +153,7 @@ ASD2_MAPSET_CUSTOM = "N";
 ASD2_MAPSET_DATE = "1995";
 ASD2_MAPSET_MAPS = "8";
 ASD2_MAPSET_TITLE = "ASDOOM][: The Final Countdown";
+ASD2_MAPSET_PACK = "BASE";
 
 // Chainworm Kommando
 CWKM_MAPSET_AUTHORS = "Chainworm666";
@@ -154,6 +161,7 @@ CWKM_MAPSET_CUSTOM = "N";
 CWKM_MAPSET_DATE = "2016";
 CWKM_MAPSET_MAPS = "10";
 CWKM_MAPSET_TITLE = "Chainworm Kommando";
+CWKM_MAPSET_PACK = "BASE";
 
 // Claustrophobia 1024
 C242_MAPSET_AUTHORS = "Mechadon, Claustrophobia 1024 Team";
@@ -161,6 +169,7 @@ C242_MAPSET_CUSTOM = "N";
 C242_MAPSET_DATE = "2009";
 C242_MAPSET_MAPS = "34";
 C242_MAPSET_TITLE = "Claustrophobia 1024";
+C242_MAPSET_PACK = "BASE";
 
 // Claustrophobia 1024 2
 C243_MAPSET_AUTHORS = "Jodwin, Claustrophobia 1024 2 Team";
@@ -168,6 +177,7 @@ C243_MAPSET_CUSTOM = "N";
 C243_MAPSET_DATE = "2010";
 C243_MAPSET_MAPS = "34";
 C243_MAPSET_TITLE = "Claustrophobia 1024 2";
+C243_MAPSET_PACK = "BASE";
 
 // Community Chest 1
 CCH1_MAPSET_AUTHORS = "Dale E. Harris, CC1 Team, MAP15 coop fix by BLOODWOLF, MAP29 slightly modified by cubebert";
@@ -175,6 +185,7 @@ CCH1_MAPSET_CUSTOM = "N";
 CCH1_MAPSET_DATE = "2003";
 CCH1_MAPSET_MAPS = "32";
 CCH1_MAPSET_TITLE = "Community Chest";
+CCH1_MAPSET_PACK = "BASE";
 
 // Community Chest 2
 CCH2_MAPSET_AUTHORS = "Cadman, CC2 Team, coop fixes by BLOODWOLF";
@@ -182,6 +193,7 @@ CCH2_MAPSET_CUSTOM = "N";
 CCH2_MAPSET_DATE = "2004";
 CCH2_MAPSET_MAPS = "32";
 CCH2_MAPSET_TITLE = "Community Chest 2";
+CCH2_MAPSET_PACK = "BASE";
 
 // Community Chest 3
 CCH3_MAPSET_AUTHORS = "Andy Leaver, CC3 Team, coop fixes by BLOODWOLF, MAP03 slightly modified by cubebert";
@@ -189,6 +201,7 @@ CCH3_MAPSET_CUSTOM = "N";
 CCH3_MAPSET_DATE = "2007";
 CCH3_MAPSET_MAPS = "32";
 CCH3_MAPSET_TITLE = "Community Chest 3";
+CCH3_MAPSET_PACK = "BASE";
 
 // Community Chest 4
 CCH4_MAPSET_AUTHORS = "The Green Herring, CC4 Team, coop fixes by BLOODWOLF";
@@ -196,6 +209,7 @@ CCH4_MAPSET_CUSTOM = "N";
 CCH4_MAPSET_DATE = "2012";
 CCH4_MAPSET_MAPS = "33";
 CCH4_MAPSET_TITLE = "Community Chest 4";
+CCH4_MAPSET_PACK = "BASE";
 
 // Congestion 1024
 C241_ACTOR_1 = "Lexicon_C241_ShortGreenColumn";
@@ -204,13 +218,7 @@ C241_MAPSET_CUSTOM = "Y";
 C241_MAPSET_DATE = "2005";
 C241_MAPSET_MAPS = "32";
 C241_MAPSET_TITLE = "Congestion 1024";
-
-// CzechBox
-CZBX_MAPSET_AUTHORS = "Damned, Matthias, Sulphurit, Jaeden, Kloki38, Pipicz";
-CZBX_MAPSET_CUSTOM = "N";
-CZBX_MAPSET_DATE = "2020";
-CZBX_MAPSET_MAPS = "32";
-CZBX_MAPSET_TITLE = "CzechBox";
+C241_MAPSET_PACK = "BASE";
 
 // Dark Encounters
 DKEC_MAPSET_AUTHORS = "Paul Dechene";
@@ -218,6 +226,7 @@ DKEC_MAPSET_CUSTOM = "N";
 DKEC_MAPSET_DATE = "2019";
 DKEC_MAPSET_MAPS = "32";
 DKEC_MAPSET_TITLE = "Dark Encounters";
+DKEC_MAPSET_PACK = "BASE";
 
 // Doom 2 Redux
 D2RX_MAPSET_AUTHORS = "Trace of Spades, D2REDUX Team";
@@ -225,6 +234,7 @@ D2RX_MAPSET_CUSTOM = "N";
 D2RX_MAPSET_DATE = "2017";
 D2RX_MAPSET_MAPS = "32";
 D2RX_MAPSET_TITLE = "Doom 2 Redux";
+D2RX_MAPSET_PACK = "BASE";
 
 // Doom 2 Reloaded
 D2RL_ACTOR_1 = "Lexicon_D2RL_BossEye";
@@ -234,6 +244,7 @@ D2RL_MAPSET_CUSTOM = "Y";
 D2RL_MAPSET_DATE = "2009";
 D2RL_MAPSET_MAPS = "32";
 D2RL_MAPSET_TITLE = "Doom 2 Reloaded";
+D2RL_MAPSET_PACK = "BASE";
 
 // Doom II: Dark World
 D2DW_MAPSET_AUTHORS = "J2DG Team";
@@ -241,6 +252,7 @@ D2DW_MAPSET_CUSTOM = "N";
 D2DW_MAPSET_DATE = "2018";
 D2DW_MAPSET_MAPS = "11";
 D2DW_MAPSET_TITLE = "Doom II: Dark World";
+D2DW_MAPSET_PACK = "BASE";
 
 // Doom 2 The Way id Did
 D2WD_ACTOR_1 = "Lexicon_D2WD_DeadLostSoul";
@@ -254,6 +266,7 @@ D2WD_MAPSET_TITLE = "Doom 2 The Way id Did";
 D2WD_TAG_GARG = "Garg";
 D2WD_TAG_YORP = "Yorp";
 D2WD_TAG_DOPEFISH = "Dopefish";
+D2WD_MAPSET_PACK = "BASE";
 
 // Doom 404
 D404_MAPSET_AUTHORS = "Adam Windsor";
@@ -261,6 +274,7 @@ D404_MAPSET_CUSTOM = "N";
 D404_MAPSET_DATE = "2018";
 D404_MAPSET_MAPS = "32";
 D404_MAPSET_TITLE = "Doom 404";
+D404_MAPSET_PACK = "BASE";
 
 // Doom Core Trilogy
 DCTL_MAPSET_AUTHORS = "Michael Jan Krizik";
@@ -268,6 +282,7 @@ DCTL_MAPSET_CUSTOM = "N";
 DCTL_MAPSET_DATE = "2019";
 DCTL_MAPSET_MAPS = "77";
 DCTL_MAPSET_TITLE = "Doom Core Trilogy";
+DCTL_MAPSET_PACK = "BASE";
 
 // Doom II: 25 Years on Earth
 D25Y_ACTOR_1 = "Lexicon_D25Y_GibbedMarineExtra";
@@ -276,6 +291,7 @@ D25Y_MAPSET_CUSTOM = "Y";
 D25Y_MAPSET_DATE = "2020";
 D25Y_MAPSET_MAPS = "32";
 D25Y_MAPSET_TITLE = "Doom II: 25 Years on Earth";
+D25Y_MAPSET_PACK = "BASE";
 
 // DBP01: Monuments of Mars
 DB01_ACTOR_1 = "Lexicon_DB01_DeadStick";
@@ -284,6 +300,7 @@ DB01_MAPSET_CUSTOM = "Y";
 DB01_MAPSET_DATE = "2018";
 DB01_MAPSET_MAPS = "7";
 DB01_MAPSET_TITLE = "DBP01: Monuments of Mars";
+DB01_MAPSET_PACK = "BASE";
 
 // DBP02: Circle of Cania
 DB02_ACTOR_1 = "Lexicon_DB02_GreenTorch";
@@ -297,6 +314,7 @@ DB02_MAPSET_CUSTOM = "Y";
 DB02_MAPSET_DATE = "2018";
 DB02_MAPSET_MAPS = "8";
 DB02_MAPSET_TITLE = "DBP02: Circle of Cania";
+DB02_MAPSET_PACK = "BASE";
 
 // DBP03: Forest Swords
 DB03_ACTOR_1 = "Lexicon_DB03_TallRedColumn";
@@ -311,6 +329,7 @@ DB03_MAPSET_CUSTOM = "Y";
 DB03_MAPSET_DATE = "2018";
 DB03_MAPSET_MAPS = "8";
 DB03_MAPSET_TITLE = "DBP03: Forest Swords";
+DB03_MAPSET_PACK = "BASE";
 
 // DBP04: Xenomorph Base
 DB04_ACTOR_1 = "Lexicon_DB01_DeadStick";
@@ -319,6 +338,7 @@ DB04_MAPSET_CUSTOM = "Y";
 DB04_MAPSET_DATE = "2018";
 DB04_MAPSET_MAPS = "8";
 DB04_MAPSET_TITLE = "DBP04: Xenomorph Base";
+DB04_MAPSET_PACK = "BASE";
 
 // Earth
 ERTH_MAPSET_AUTHORS = "Roger Ritenour";
@@ -326,6 +346,7 @@ ERTH_MAPSET_CUSTOM = "N";
 ERTH_MAPSET_DATE = "1999";
 ERTH_MAPSET_MAPS = "10";
 ERTH_MAPSET_TITLE = "Earth";
+ERTH_MAPSET_PACK = "BASE";
 
 // Endgame
 ENGM_MAPSET_AUTHORS = "Endgame Team";
@@ -333,6 +354,7 @@ ENGM_MAPSET_CUSTOM = "N";
 ENGM_MAPSET_DATE = "2004";
 ENGM_MAPSET_MAPS = "8";
 ENGM_MAPSET_TITLE = "Endgame";
+ENGM_MAPSET_PACK = "BASE";
 
 // Epic
 EPC1_ACTOR_1 = "Lexicon_EPC1_ShotgunGuy";
@@ -359,6 +381,7 @@ EPC1_MAPSET_CUSTOM = "Y";
 EPC1_MAPSET_DATE = "2007";
 EPC1_MAPSET_MAPS = "5";
 EPC1_MAPSET_TITLE = "Epic";
+EPC1_MAPSET_PACK = "BASE";
 
 // Epic 2
 EPC2_ACTOR_1 = "Lexicon_EPC2_ShotgunGuy";
@@ -440,6 +463,7 @@ EPC2_MAPSET_CUSTOM = "Y";
 EPC2_MAPSET_DATE = "2010";
 EPC2_MAPSET_MAPS = "32";
 EPC2_MAPSET_TITLE = "Epic 2";
+EPC2_MAPSET_PACK = "BASE";
 EPC2_WEAPON_2 = "Lexicon_EPC2_Pistol";
 EPC2_WEAPON_6 = "Lexicon_EPC2_Chaingun";
 EPC2_WEAPON_7 = "Lexicon_EPC2_RocketLauncher";
@@ -496,6 +520,7 @@ EQNX_MAPSET_DATE = "2001";
 EQNX_MAPSET_MAPS = "13";
 EQNX_TAG_CHAINGUN = "Dual Chainguns";
 EQNX_MAPSET_TITLE = "Equinox";
+EQNX_MAPSET_PACK = "BASE";
 EQNX_WEAPON_2 = "Lexicon_EQNX_Pistol";
 EQNX_WEAPON_4 = "Lexicon_EQNX_Shotgun";
 EQNX_WEAPON_6 = "Lexicon_EQNX_Chaingun";
@@ -508,46 +533,7 @@ ESTR_MAPSET_CUSTOM = "N";
 ESTR_MAPSET_DATE = "2015";
 ESTR_MAPSET_MAPS = "32";
 ESTR_MAPSET_TITLE = "Estranged";
-
-// Eternal Doom
-ETDM_ACTOR_1 = "Lexicon_ETDM_ShotgunGuy";
-ETDM_ACTORALT_1 = "ShotgunGuy";
-ETDM_ACTOR_2 = "Lexicon_ETDM_Cyberdemon";
-ETDM_ACTORALT_2 = "Cyberdemon";
-ETDM_ACTOR_3 = "Lexicon_ETDM_HeadOnAStick";
-ETDM_ACTOR_4 = "Lexicon_ETDM_HeadsOnAStick";
-ETDM_ACTOR_5 = "Lexicon_ETDM_TallGreenColumn";
-ETDM_ACTOR_6 = "Lexicon_ETDM_ShortGreenColumn";
-ETDM_ACTOR_7 = "Lexicon_ETDM_TallRedColumn";
-ETDM_ACTOR_8 = "Lexicon_ETDM_ShortRedColumn";
-ETDM_ACTOR_9 = "Lexicon_ETDM_SkullColumn";
-ETDM_ACTOR_10 = "Lexicon_ETDM_TorchTree";
-ETDM_ACTOR_11 = "Lexicon_ETDM_Stalagtite";
-ETDM_ACTOR_12 = "Lexicon_ETDM_BloodyTwitch";
-ETDM_ACTOR_13 = "Lexicon_ETDM_Meat2";
-ETDM_ACTOR_14 = "Lexicon_ETDM_Meat5";
-ETDM_ACTOR_15 = "Lexicon_ETDM_BigTree";
-ETDM_ACTOR_16 = "Lexicon_ETDM_NonsolidMeat2";
-ETDM_ACTOR_17 = "Lexicon_ETDM_NonsolidMeat5";
-ETDM_ACTOR_18 = "Lexicon_ETDM_NonsolidTwitch";
-ETDM_ACTOR_19 = "Lexicon_ETDM_ChaingunGuy";
-ETDM_ACTORALT_19 = "ChaingunGuy";
-ETDM_ACTOR_20 = "Lexicon_ETDM_WolfensteinSS";
-ETDM_ACTOR_21 = "Lexicon_ETDM_TechLamp";
-ETDM_ACTOR_22 = "Lexicon_ETDM_TechLamp2";
-ETDM_ACTOR_23 = "Lexicon_ETDM_BossBrain";
-ETDM_ACTOR_24 = "Lexicon_ETDM_RocketLauncher";
-ETDM_ACTORALT_24 = "RocketLauncher";
-ETDM_ACTOR_25 = "Lexicon_ETDM_DoomImp";
-ETDM_ACTORALT_25 = "DoomImp";
-ETDM_ACTOR_26 = "Lexicon_ETDM_ZombieMan";
-ETDM_ACTORALT_26 = "ZombieMan";
-ETDM_MAPSET_AUTHORS = "Team Eternal, TeamTNT";
-ETDM_MAPSET_CUSTOM = "Y";
-ETDM_MAPSET_DATE = "1996";
-ETDM_MAPSET_MAPS = "32";
-ETDM_MAPSET_TITLE = "Eternal Doom";
-ETDM_WEAPON_7 = "Lexicon_ETDM_RocketLauncher";
+ESTR_MAPSET_PACK = "BASE";
 
 // Fore/vr/ Alone
 FVRA_MAPSET_AUTHORS = "4chan's /vr/ board";
@@ -555,6 +541,7 @@ FVRA_MAPSET_CUSTOM = "N";
 FVRA_MAPSET_DATE = "2024";
 FVRA_MAPSET_MAPS = "23";
 FVRA_MAPSET_TITLE = "Fore/vr/ Alone";
+FVRA_MAPSET_PACK = "BASE";
 
 // Garrulismo
 GRLS_ACTOR_1 = "Lexicon_GRLS_BossEye";
@@ -564,6 +551,7 @@ GRLS_MAPSET_CUSTOM = "Y";
 GRLS_MAPSET_DATE = "2004";
 GRLS_MAPSET_MAPS = "32";
 GRLS_MAPSET_TITLE = "Garrulismo";
+GRLS_MAPSET_PACK = "BASE";
 
 // Going Down
 GDWN_ACTOR_1 = "Lexicon_GDWN_ShortBlueTorch";
@@ -576,6 +564,7 @@ GDWN_MAPSET_CUSTOM = "Y";
 GDWN_MAPSET_DATE = "2014";
 GDWN_MAPSET_MAPS = "32";
 GDWN_MAPSET_TITLE = "Going Down";
+GDWN_MAPSET_PACK = "BASE";
 
 // Gridlock 64
 GD64_ACTOR_1 = "Lexicon_GD64_Zombieman";
@@ -590,6 +579,7 @@ GD64_MAPSET_CUSTOM = "Y";
 GD64_MAPSET_DATE = "2021";
 GD64_MAPSET_MAPS = "32";
 GD64_MAPSET_TITLE = "Gridlock 64";
+GD64_MAPSET_PACK = "BASE";
 
 // Hadephobia
 HADP_ACTOR_1 = "Lexicon_HADP_NonsolidMeat3";
@@ -599,6 +589,7 @@ HADP_MAPSET_CUSTOM = "Y";
 HADP_MAPSET_DATE = "2013";
 HADP_MAPSET_MAPS = "35";
 HADP_MAPSET_TITLE = "Hadephobia";
+HADP_MAPSET_PACK = "BASE";
 
 // Hellbound
 HLBD_MAPSET_AUTHORS = "Zoltán Sófalvi, MAP03 coop fix by BLOODWOLF";
@@ -606,6 +597,7 @@ HLBD_MAPSET_CUSTOM = "N";
 HLBD_MAPSET_DATE = "2013";
 HLBD_MAPSET_MAPS = "32";
 HLBD_MAPSET_TITLE = "Hellbound";
+HLBD_MAPSET_PACK = "BASE";
 
 // Hellcore
 HLC1_ACTOR_1 = "Lexicon_HLC1_Meat4";
@@ -619,6 +611,7 @@ HLC1_MAPSET_CUSTOM = "Y";
 HLC1_MAPSET_DATE = "2004";
 HLC1_MAPSET_MAPS = "31";
 HLC1_MAPSET_TITLE = "Hellcore";
+HLC1_MAPSET_PACK = "BASE";
 
 // Hellcore 2.0
 HLC2_ACTOR_1 = "Lexicon_HLC2_Meat4";
@@ -633,6 +626,7 @@ HLC2_MAPSET_CUSTOM = "Y";
 HLC2_MAPSET_DATE = "2006";
 HLC2_MAPSET_MAPS = "11";
 HLC2_MAPSET_TITLE = "Hellcore 2.0";
+HLC2_MAPSET_PACK = "BASE";
 
 // Hell Revealed
 HR10_MAPSET_AUTHORS = "Yonatan Donner, Haggay Niv";
@@ -640,6 +634,7 @@ HR10_MAPSET_CUSTOM = "N";
 HR10_MAPSET_DATE = "1997";
 HR10_MAPSET_MAPS = "32";
 HR10_MAPSET_TITLE = "Hell Revealed";
+HR10_MAPSET_PACK = "BASE";
 
 // Hell Revealed 2
 HR20_MAPSET_AUTHORS = "Jonas Feragen, HR2 Team, coop fixes by ViciousPariah and an anonymous author";
@@ -647,6 +642,7 @@ HR20_MAPSET_CUSTOM = "N";
 HR20_MAPSET_DATE = "2003";
 HR20_MAPSET_MAPS = "32";
 HR20_MAPSET_TITLE = "Hell Revealed 2";
+HR20_MAPSET_PACK = "BASE";
 
 // HELL in HELL!
 HLIL_MAPSET_AUTHORS = "Nathaniel Carll";
@@ -654,6 +650,7 @@ HLIL_MAPSET_CUSTOM = "N";
 HLIL_MAPSET_DATE = "1996";
 HLIL_MAPSET_MAPS = "32";
 HLIL_MAPSET_TITLE = "HELL in HELL!";
+HLIL_MAPSET_PACK = "BASE";
 
 // Hell to Pay
 HLTP_ACTOR_1 = "Lexicon_HLTP_ShortRedColumn";
@@ -694,6 +691,7 @@ HLTP_MAPSET_CUSTOM = "Y";
 HLTP_MAPSET_DATE = "1996";
 HLTP_MAPSET_MAPS = "32";
 HLTP_MAPSET_TITLE = "Hell to Pay";
+HLTP_MAPSET_PACK = "BASE";
 HLTP_WEAPON_7 = "Lexicon_HLTP_RocketLauncher";
 HLTP_WEAPON_8 = "Lexicon_HLTP_PlasmaRifle";
 HLTP_WEAPON_9 = "Lexicon_HLTP_BFG9000";
@@ -704,6 +702,7 @@ ICAV_MAPSET_CUSTOM = "N";
 ICAV_MAPSET_DATE = "1996";
 ICAV_MAPSET_MAPS = "32";
 ICAV_MAPSET_TITLE = "Icarus: Alien Vanguard";
+ICAV_MAPSET_PACK = "BASE";
 
 // Interception
 ITC1_MAPSET_AUTHORS = "Matt534Dog, Interception Team";
@@ -711,6 +710,7 @@ ITC1_MAPSET_CUSTOM = "N";
 ITC1_MAPSET_DATE = "2013";
 ITC1_MAPSET_MAPS = "32";
 ITC1_MAPSET_TITLE = "Interception";
+ITC1_MAPSET_PACK = "BASE";
 
 // Jenesis
 JENS_ACTOR_1 = "Lexicon_JENS_CommanderKeen";
@@ -718,9 +718,10 @@ JENS_ACTOR_2 = "Lexicon_JENS_WolfensteinSS";
 JENS_ACTOR_3 = "Lexicon_JENS_BossBrain";
 JENS_MAPSET_AUTHORS = "Jimmy";
 JENS_MAPSET_CUSTOM = "Y";
-JENS_MAPSET_DATE = "2011";
+JENS_MAPSET_DATE = "200";
 JENS_MAPSET_MAPS = "32";
 JENS_MAPSET_TITLE = "Jenesis";
+JENS_MAPSET_PACK = "BASE";
 
 // Jiffy Bag
 JFBG_ACTOR_1 = "Lexicon_JFBG_SpiderMastermind";
@@ -730,6 +731,7 @@ JFBG_MAPSET_CUSTOM = "Y";
 JFBG_MAPSET_DATE = "2019";
 JFBG_MAPSET_MAPS = "32";
 JFBG_MAPSET_TITLE = "Jiffy Bag";
+JFBG_MAPSET_PACK = "BASE";
 
 // Japanese Community Project
 JPCP_MAPSET_AUTHORS = "JPCP Team, MAP11 coop fix by BLOODWOLF";
@@ -737,6 +739,7 @@ JPCP_MAPSET_CUSTOM = "N";
 JPCP_MAPSET_DATE = "2016";
 JPCP_MAPSET_MAPS = "32";
 JPCP_MAPSET_TITLE = "Japanese Community Project";
+JPCP_MAPSET_PACK = "BASE";
 
 // Kama Sutra
 KSUT_MAPSET_AUTHORS = "Adolf "Gusta" Vojta, Jakub "_Method_" Razak";
@@ -744,6 +747,7 @@ KSUT_MAPSET_CUSTOM = "N";
 KSUT_MAPSET_DATE = "2005";
 KSUT_MAPSET_MAPS = "32";
 KSUT_MAPSET_TITLE = "Kama Sutra";
+KSUT_MAPSET_PACK = "BASE";
 
 // Khorus' Speedy Shit
 KSHT_MAPSET_AUTHORS = "Adam Woodmansey";
@@ -751,6 +755,7 @@ KSHT_MAPSET_CUSTOM = "N";
 KSHT_MAPSET_DATE = "2011";
 KSHT_MAPSET_MAPS = "32";
 KSHT_MAPSET_TITLE = "Khorus' Speedy Shit";
+KSHT_MAPSET_PACK = "BASE";
 
 // Last Day on Earth
 LDOE_MAPSET_AUTHORS = "Laurent Remy, LDOE Team";
@@ -758,6 +763,7 @@ LDOE_MAPSET_CUSTOM = "N";
 LDOE_MAPSET_DATE = "2000";
 LDOE_MAPSET_MAPS = "11";
 LDOE_MAPSET_TITLE = "Last Day on Earth";
+LDOE_MAPSET_PACK = "BASE";
 
 // Mars War
 MSWR_ACTOR_1 = "Lexicon_MSWR_BossEye";
@@ -767,6 +773,7 @@ MSWR_MAPSET_CUSTOM = "Y";
 MSWR_MAPSET_DATE = "1998";
 MSWR_MAPSET_MAPS = "32";
 MSWR_MAPSET_TITLE = "Mars War";
+MSWR_MAPSET_PACK = "BASE";
 
 // Memento Mori 1
 MM10_MAPSET_AUTHORS = "The Innocent Crew, Memento Mori Crew, coop fixes by BLOODWOLF and Lil_Ruff";
@@ -774,6 +781,7 @@ MM10_MAPSET_CUSTOM = "N";
 MM10_MAPSET_DATE = "1996";
 MM10_MAPSET_MAPS = "32";
 MM10_MAPSET_TITLE = "Memento Mori";
+MM10_MAPSET_PACK = "BASE";
 
 // Memento Mori 2
 MM20_MAPSET_AUTHORS = "The Innocent Crew, Memento Mori Crew, coop fixes by BLOODWOLF";
@@ -781,15 +789,7 @@ MM20_MAPSET_CUSTOM = "N";
 MM20_MAPSET_DATE = "1996";
 MM20_MAPSET_MAPS = "32";
 MM20_MAPSET_TITLE = "Memento Mori 2";
-
-// Mars War
-MSWR_ACTOR_1 = "Lexicon_MSWR_BossEye";
-MSWR_ACTORALT_1 = "BossEye";
-MSWR_MAPSET_AUTHORS = "Nathan Lineback";
-MSWR_MAPSET_CUSTOM = "Y";
-MSWR_MAPSET_DATE = "1998";
-MSWR_MAPSET_MAPS = "32";
-MSWR_MAPSET_TITLE = "Mars War";
+MM20_MAPSET_PACK = "BASE";
 
 // NeoDoom: Vaccinated Edition
 NEOD_ACTOR_1 = "Lexicon_NEOD_GibbedMarineExtra_ND";
@@ -818,6 +818,7 @@ NEOD_MAPSET_CUSTOM = "Y";
 NEOD_MAPSET_DATE = "2006";
 NEOD_MAPSET_MAPS = "32";
 NEOD_MAPSET_TITLE = "NeoDoom: Vaccinated Edition";
+NEOD_MAPSET_PACK = "BASE";
 
 // NOVA: The Birth
 NOV1_MAPSET_AUTHORS = "TeamNOVA";
@@ -825,6 +826,7 @@ NOV1_MAPSET_CUSTOM = "N";
 NOV1_MAPSET_DATE = "2014";
 NOV1_MAPSET_MAPS = "32";
 NOV1_MAPSET_TITLE = "NOVA: The Birth";
+NOV1_MAPSET_PACK = "BASE";
 
 // Perdition's Gate
 PDGT_ACTOR_1 = "Lexicon_PDGT_WolfensteinSS";
@@ -834,6 +836,7 @@ PDGT_MAPSET_CUSTOM = "Y";
 PDGT_MAPSET_DATE = "1996";
 PDGT_MAPSET_MAPS = "32";
 PDGT_MAPSET_TITLE = "Perdition's Gate";
+PDGT_MAPSET_PACK = "BASE";
 
 // Requiem
 REQU_MAPSET_AUTHORS = "Chris Thornton, Requiem Team";
@@ -841,6 +844,7 @@ REQU_MAPSET_CUSTOM = "N";
 REQU_MAPSET_DATE = "1997";
 REQU_MAPSET_MAPS = "32";
 REQU_MAPSET_TITLE = "Requiem";
+REQU_MAPSET_PACK = "BASE";
 
 // Rise of the Triangles
 ROTR_ACTOR_1 = "Lexicon_ROTR_ShotgunGuy";
@@ -929,6 +933,7 @@ ROTR_MAPSET_CUSTOM = "Y";
 ROTR_MAPSET_DATE = "2024";
 ROTR_MAPSET_MAPS = "23";
 ROTR_MAPSET_TITLE = "Rise of the Triangles";
+ROTR_MAPSET_PACK = "BASE";
 
 // Scythe
 SCY1_MAPSET_AUTHORS = "Erik Alm";
@@ -936,6 +941,7 @@ SCY1_MAPSET_CUSTOM = "N";
 SCY1_MAPSET_DATE = "2003";
 SCY1_MAPSET_MAPS = "32";
 SCY1_MAPSET_TITLE = "Scythe";
+SCY1_MAPSET_PACK = "BASE";
 
 // Scythe 2
 SCY2_ACTOR_1 = "Lexicon_SCY2_CommanderKeen";
@@ -950,6 +956,7 @@ SCY2_MAPSET_CUSTOM = "Y";
 SCY2_MAPSET_DATE = "2005";
 SCY2_MAPSET_MAPS = "32";
 SCY2_MAPSET_TITLE = "Scythe 2";
+SCY2_MAPSET_PACK = "BASE";
 
 // Speed of Doom
 SPOD_MAPSET_AUTHORS = "Josh Sealy, Darkwave0000";
@@ -957,6 +964,7 @@ SPOD_MAPSET_CUSTOM = "N";
 SPOD_MAPSET_DATE = "2010";
 SPOD_MAPSET_MAPS = "33";
 SPOD_MAPSET_TITLE = "Speed of Doom";
+SPOD_MAPSET_PACK = "BASE";
 
 // Stardate 20X6
 SDX6_ACTOR_1 = "Lexicon_SDX6_Arachnotron";
@@ -984,6 +992,7 @@ SDX6_MAPSET_CUSTOM = "Y";
 SDX6_MAPSET_DATE = "2013";
 SDX6_MAPSET_MAPS = "8";
 SDX6_MAPSET_TITLE = "Stardate 20X6";
+SDX6_MAPSET_PACK = "BASE";
 
 // Stardate 20X7
 SDX7_ACTOR_1 = "Lexicon_SDX7_CommanderKeen";
@@ -1036,6 +1045,7 @@ SDX7_MAPSET_CUSTOM = "Y";
 SDX7_MAPSET_DATE = "2017";
 SDX7_MAPSET_MAPS = "11";
 SDX7_MAPSET_TITLE = "Stardate 20X7";
+SDX7_MAPSET_PACK = "BASE";
 
 // Sunlust
 SNLU_ACTOR_1 = "Lexicon_SNLU_TallGreenColumn";
@@ -1049,6 +1059,7 @@ SNLU_MAPSET_CUSTOM = "Y";
 SNLU_MAPSET_DATE = "2015";
 SNLU_MAPSET_MAPS = "32";
 SNLU_MAPSET_TITLE = "Sunlust";
+SNLU_MAPSET_PACK = "BASE";
 
 // Super MAYhem 17
 MY17_ACTOR_1 = "Lexicon_MY17_RedCard";
@@ -1128,6 +1139,7 @@ MY17_MAPSET_CUSTOM = "Y";
 MY17_MAPSET_DATE = "2017";
 MY17_MAPSET_MAPS = "28";
 MY17_MAPSET_TITLE = "Super MAYhem 17";
+MY17_MAPSET_PACK = "BASE";
 MY17_OB_BOWSER = "%o fell before King Koopa's might.";
 MY17_TAG_BOWSER = "King Koopa";
 
@@ -1137,6 +1149,7 @@ SWDH_MAPSET_CUSTOM = "N";
 SWDH_MAPSET_DATE = "2015";
 SWDH_MAPSET_MAPS = "32";
 SWDH_MAPSET_TITLE = "Swift Death";
+SWDH_MAPSET_PACK = "BASE";
 
 // Swim With The Whales
 SWTW_MAPSET_AUTHORS = "Zach Stephens";
@@ -1144,6 +1157,7 @@ SWTW_MAPSET_CUSTOM = "Y";
 SWTW_MAPSET_DATE = "2015";
 SWTW_MAPSET_MAPS = "4";
 SWTW_MAPSET_TITLE = "Swim With The Whales";
+SWTW_MAPSET_PACK = "BASE";
 
 // Team Rocket: Blasting Off at the Speed of Mapping
 TMR1_ACTOR_1 = "Lexicon_TMR1_TallGreenColumn";
@@ -1162,6 +1176,7 @@ TMR1_MAPSET_CUSTOM = "Y";
 TMR1_MAPSET_DATE = "2018";
 TMR1_MAPSET_MAPS = "34";
 TMR1_MAPSET_TITLE = "Team Rocket: Blasting Off at the Speed of Mapping";
+TMR1_MAPSET_PACK = "BASE";
 
 // Team Rocket 2: Looks Like We're Blasting Off Again
 TMR2_ACTOR_1 = "Lexicon_TMR1_TallGreenColumn";
@@ -1180,6 +1195,7 @@ TMR2_MAPSET_CUSTOM = "Y";
 TMR2_MAPSET_DATE = "2020";
 TMR2_MAPSET_MAPS = "34";
 TMR2_MAPSET_TITLE = "Team Rocket 2: Looks Like We're Blasting Off Again";
+TMR2_MAPSET_PACK = "BASE";
 
 // UAC Ultra
 UACU_ACTOR_1 = "Lexicon_UACU_BlueCard";
@@ -1213,6 +1229,7 @@ UACU_MAPSET_CUSTOM = "Y";
 UACU_MAPSET_DATE = "2010";
 UACU_MAPSET_MAPS = "11";
 UACU_MAPSET_TITLE = "UAC Ultra";
+UACU_MAPSET_PACK = "BASE";
 
 // Unholy Realms
 UHRN_ACTOR_1 = "Lexicon_UHRN_SpiderMastermind";
@@ -1222,6 +1239,7 @@ UHRN_MAPSET_CUSTOM = "N";
 UHRN_MAPSET_DATE = "2013";
 UHRN_MAPSET_MAPS = "32";
 UHRN_MAPSET_TITLE = "Unholy Realms";
+UHRN_MAPSET_PACK = "BASE";
 
 // Revolution!
 TVRV_ACTOR_1 = "Lexicon_TVRV_ShortRedColumn";
@@ -1245,6 +1263,7 @@ TVRV_MAPSET_CUSTOM = "Y";
 TVRV_MAPSET_DATE = "2001";
 TVRV_MAPSET_MAPS = "32";
 TVRV_MAPSET_TITLE = "Revolution!";
+TVRV_MAPSET_PACK = "BASE";
 
 // Valiant: Vaccinated Edition
 VLNT_ACTOR_1 = "Lexicon_VLNT_Arachnotron";
@@ -1264,6 +1283,7 @@ VLNT_MAPSET_CUSTOM = "N";
 VLNT_MAPSET_DATE = "2015";
 VLNT_MAPSET_MAPS = "32";
 VLNT_MAPSET_TITLE = "Valiant: Vaccinated Edition";
+VLNT_MAPSET_PACK = "BASE";
 
 // Vanguard
 VNGD_MAPSET_AUTHORS = "Paul DeBruyne";
@@ -1271,6 +1291,7 @@ VNGD_MAPSET_CUSTOM = "N";
 VNGD_MAPSET_DATE = "2011";
 VNGD_MAPSET_MAPS = "13";
 VNGD_MAPSET_TITLE = "Vanguard";
+VNGD_MAPSET_PACK = "BASE";
 
 // Vile Flesh
 VLFL_MAPSET_AUTHORS = "Gwyn Williams";
@@ -1278,6 +1299,7 @@ VLFL_MAPSET_CUSTOM = "N";
 VLFL_MAPSET_DATE = "2004";
 VLFL_MAPSET_MAPS = "32";
 VLFL_MAPSET_TITLE = "Vile Flesh";
+VLFL_MAPSET_PACK = "BASE";
 
 // Whispers of Satan
 WSPS_MAPSET_AUTHORS = "Paul Corfiatis, Kristian Aro";
@@ -1285,6 +1307,7 @@ WSPS_MAPSET_CUSTOM = "Y";
 WSPS_MAPSET_DATE = "2009";
 WSPS_MAPSET_MAPS = "35";
 WSPS_MAPSET_TITLE = "Whispers of Satan";
+WSPS_MAPSET_PACK = "BASE";
 
 // Zone 300
 ZN30_MAPSET_AUTHORS = "Paul Corfiatis";
@@ -1292,6 +1315,7 @@ ZN30_MAPSET_CUSTOM = "N";
 ZN30_MAPSET_DATE = "2012";
 ZN30_MAPSET_MAPS = "32";
 ZN30_MAPSET_TITLE = "Zone 300";
+ZN30_MAPSET_PACK = "BASE";
 
 // Zones of Fear
 ZNOF_MAPSET_AUTHORS = "Damned, Des_arthes, enkeli/Matthias, Jaeden, Klofkac, pipicz";
@@ -1299,3 +1323,4 @@ ZNOF_MAPSET_CUSTOM = "N";
 ZNOF_MAPSET_DATE = "2013";
 ZNOF_MAPSET_MAPS = "32";
 ZNOF_MAPSET_TITLE = "Zones of Fear";
+ZNOF_MAPSET_PACK = "BASE";
