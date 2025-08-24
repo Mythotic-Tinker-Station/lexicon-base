@@ -1,6 +1,5 @@
 [default]
 LEX_BASE_PACKNAME = "Base (Doom 2)";
-LEX_BASE_IWAD = "Doom2";
 LEX_BASE_GAMETYPE = "COOP";
 
 LEX_BASE_1 = "94TU";
