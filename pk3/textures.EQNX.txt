@@ -36,12 +36,6 @@ Texture "EQNX0055", 128, 112
 	Patch "EQNX0350", 124, 0
 	Patch "EQNX0350", -116, 0
 }
-Texture "EQNX0061", 128, 128
-{
-	Patch "EQNX0221", 0, -46
-	Patch "EQNX0257", 64, 77
-	Patch "EQNX0258", 0, 77
-}
 Texture "EQNX0064", 256, 128
 {
 	Patch "EQNX0337", 0, 0
@@ -61,179 +55,19 @@ Texture "EQNX0072", 128, 128
 	Patch "EQNX0259", 64, 0
 	Patch "EQNX0257", 88, 0
 }
-Texture "EQNX0073", 128, 128
-{
-	Patch "EQNX0042", 0, 0
-	Patch "EQNX0085", 16, 0
-	Patch "EQNX0086", 32, 0
-	Patch "EQNX0087", 48, 0
-	Patch "EQNX0085", 64, 0
-	Patch "EQNX0085", 112, -16
-	Patch "EQNX0086", 96, -1
-	Patch "EQNX0085", 80, 0
-}
-Texture "EQNX0075", 128, 128
-{
-	Patch "TP2_1", 0, 0
-	Patch "EQNX0250", 0, 64
-	Patch "EQNX0250", 32, 64
-	Patch "EQNX0250", 64, 64
-	Patch "EQNX0250", 96, 64
-	Patch "WALL05_2", 0, 72
-	Patch "WALL05_2", 64, 72
-	Patch "EQNX0250", 0, 120
-	Patch "EQNX0250", 32, 120
-	Patch "EQNX0250", 64, 120
-	Patch "EQNX0250", 96, 120
-}
-Texture "EQNX0080", 16, 128
-{
-	Patch "W108_2", 0, 0
-	Patch "W108_2", 0, 24
-	Patch "W108_2", 0, 48
-	Patch "W108_2", 0, 72
-	Patch "W108_2", 0, 96
-	Patch "EQNX0250", 0, 120
-}
-Texture "EQNX0081", 16, 128
-{
-	Patch "W108_3", 0, 0
-	Patch "W108_3", 0, 24
-	Patch "W108_3", 0, 48
-	Patch "W108_3", 0, 72
-	Patch "W108_3", 0, 96
-	Patch "EQNX0250", 0, 120
-}
-Texture "EQNX0082", 16, 128
-{
-	Patch "W108_4", 0, 0
-	Patch "W108_4", 0, 24
-	Patch "W108_4", 0, 48
-	Patch "W108_4", 0, 72
-	Patch "W108_4", 0, 96
-	Patch "EQNX0250", 0, 120
-}
-Texture "EQNX0083", 64, 128
-{
-	Patch "EQNX0046", 0, 64
-	Patch "EQNX0046", 0, 0
-	Patch "EXIT1", 17, 22
-}
 Texture "EQNX0084", 16, 128
 {
 	Patch "EQNX0309", 0, 0
 	Patch "EQNX0309", 0, 64
 }
-Texture "EQNX0095", 64, 128
-{
-	Patch "EQNX0338", 0, 0
-	Patch "W33_5", 0, 64
-}
-Texture "EQNX0096", 64, 128
-{
-	Patch "EQNX0065", 0, 0
-	Patch "WALL69_9", 0, 64
-	Patch "W67_2", 32, 64
-}
-Texture "EQNX0097", 64, 128
-{
-	Patch "EQNX0067", 0, 0
-	Patch "EQNX0339", 0, 64
-}
-Texture "EQNX0098", 64, 128
-{
-	Patch "EQNX0336", 0, 0
-	Patch "W32_4", 0, 64
-}
-Texture "EQNX0099", 64, 128
-{
-	Patch "W67_1", 0, 0
-	Patch "W67_2", 63, 64
-	Patch "EQNX0337", 28, 64
-	Patch "W67_2", -1, 64
-}
 Texture "EQNX0104", 128, 128
 {
 	Patch "EQNX0322", 0, -1
-}
-Texture "EQNX0107", 64, 64
-{
-	Patch "RW43_1", 0, 0
-}
-Texture "EQNX0109", 128, 128
-{
-	Patch "EQNX0326", 0, 0
-	Patch "EQNX0324", 16, 0
-	Patch "EQNX0325", 32, 0
-	Patch "WALL04_2", 48, 0
-	Patch "WALL04_2", 64, 0
-	Patch "EQNX0325", 96, 32
-	Patch "EQNX0326", 80, 0
-	Patch "EQNX0325", 112, 0
-	Patch "WALL04_7", 96, 0
-	Patch "NUKEDGE", 0, 104
-	Patch "NUKEDGE", 64, 104
-	Patch "EQNX0325", 112, 32
-	Patch "EQNX0326", 0, 33
-	Patch "EQNX0324", 16, 33
-	Patch "EQNX0325", 32, 33
-	Patch "WALL04_2", 48, 33
-	Patch "WALL04_2", 64, 33
-	Patch "EQNX0326", 80, 33
-}
-Texture "EQNX0110", 128, 128
-{
-	Patch "EQNX0326", 0, 0
-	Patch "EQNX0324", 16, 0
-	Patch "EQNX0325", 32, 0
-	Patch "WALL04_2", 48, 0
-	Patch "NUKEDGE", 0, 104
-	Patch "EQNX0326", 0, 33
-	Patch "EQNX0324", 16, 33
-	Patch "EQNX0325", 32, 33
-	Patch "WALL04_2", 48, 33
-	Patch "PS20A0", 0, 69
-	Patch "WALL04_2", 64, 0
-	Patch "EQNX0326", 80, 0
-	Patch "EQNX0324", 112, 0
-	Patch "WALL04_7", 96, 0
-	Patch "WALL04_2", 112, 72
-	Patch "EQNX0326", 96, 72
-	Patch "EQNX0324", 80, 72
-	Patch "EQNX0325", 64, 64
-	Patch "NUKEDGE", 64, 105
 }
 Texture "EQNX0113", 256, 128
 {
 	Patch "EQNX0236", 0, 0
 	Patch "EQNX0237", 128, 0
-}
-Texture "EQNX0121", 64, 72
-{
-	Patch "SNAK7_1", 0, 0
-}
-Texture "EQNX0124", 1024, 128
-{
-	Patch "EQNX0323", 0, 0
-	Patch "EQNX0323", 624, 0
-	Patch "EQNX0323", 771, 0
-	Patch "EQNX0324", 423, 0
-	Patch "EQNX0325", 171, 0
-	Patch "EQNX0326", -16, -1
-}
-Texture "EQNX0125", 64, 128
-{
-	Patch "EQNX0127", 0, 0
-	Patch "PS20A0", 1, 49
-}
-Texture "EQNX0126", 64, 128
-{
-	Patch "EQNX0127", 0, 0
-	Patch "SW2_2", 21, 65
-}
-Texture "EQNX0133", 128, 16
-{
-	Patch "TP2_1", 0, -56
 }
 Texture "EQNX0135", 32, 16
 {
@@ -250,93 +84,10 @@ Texture "EQNX0138", 32, 16
 	Patch "EQNX0251", 0, 8
 	Patch "EQNX0250", 0, 0
 }
-Texture "EQNX0141", 256, 128
-{
-	Patch "EQNX0309", 0, 0
-	Patch "WALL01_2", 16, 0
-	Patch "WALL01_3", 32, 0
-	Patch "WALL01_4", 48, 0
-	Patch "EQNX0088", 64, 0
-	Patch "WALL01_6", 80, 0
-	Patch "WALL01_7", 96, 0
-	Patch "WALL01_8", 112, 0
-	Patch "WALL01_9", 128, 0
-	Patch "EQNX0089", 144, 0
-	Patch "WALL01_B", 160, 0
-	Patch "WALL01_C", 176, 0
-	Patch "WALL01_3", 192, 0
-	Patch "EQNX0309", 208, 0
-	Patch "WALL01_6", 224, 0
-	Patch "EQNX0089", 240, 0
-	Patch "EQNX0309", 0, 72
-	Patch "WALL01_2", 16, 72
-	Patch "WALL01_3", 32, 72
-	Patch "WALL01_4", 48, 72
-	Patch "EQNX0088", 64, 72
-	Patch "WALL01_6", 80, 72
-	Patch "WALL01_7", 96, 72
-	Patch "WALL01_8", 112, 72
-	Patch "WALL01_9", 128, 72
-	Patch "EQNX0089", 144, 72
-	Patch "WALL01_B", 160, 72
-	Patch "WALL01_C", 176, 72
-	Patch "WALL01_3", 192, 72
-	Patch "EQNX0309", 208, 72
-	Patch "WALL01_6", 224, 72
-	Patch "EQNX0089", 240, 72
-	Patch "W33_8", 0, 64
-	Patch "W33_8", 64, 64
-	Patch "W33_8", 128, 64
-	Patch "W33_8", 192, 64
-	Patch "W33_8", 0, 120
-	Patch "W33_8", 64, 120
-	Patch "W33_8", 128, 120
-	Patch "W33_8", 192, 120
-}
-Texture "EQNX0142", 128, 128
-{
-	Patch "EQNX0046", 0, 64
-	Patch "EQNX0046", 64, 0
-	Patch "W28_5", 0, 0
-	Patch "W28_5", 64, 64
-}
-Texture "EQNX0143", 128, 128
-{
-	Patch "EQNX0045", 0, 0
-	Patch "W28_6", 0, 64
-	Patch "EQNX0045", 64, 64
-	Patch "W28_6", 64, 0
-}
 Texture "EQNX0145", 64, 128
 {
 	Patch "AG128_1", 0, 0
 	Patch "EQNX0262", 19, 60
-}
-Texture "EQNX0146", 128, 128
-{
-	Patch "EQNX0074", 0, 0
-	Patch "EQNX0262", 48, 72
-}
-Texture "EQNX0148", 128, 128
-{
-	Patch "EQNX0074", 0, 0
-	Patch "EQNX0262", 48, 72
-}
-Texture "EQNX0149", 64, 128
-{
-	Patch "EQNX0258", 0, 56
-	Patch "EQNX0258", 0, 0
-	Patch "EQNX0329", 20, 79
-}
-Texture "EQNX0150", 64, 128
-{
-	Patch "WALL62_2", 0, 0
-	Patch "EQNX0329", 20, 80
-}
-Texture "EQNX0151", 128, 128
-{
-	Patch "EQNX0074", 0, 0
-	Patch "EQNX0285", 48, 72
 }
 Texture "EQNX0152", 64, 128
 {
@@ -349,157 +100,20 @@ Texture "EQNX0153", 64, 72
 	Patch "W13_1", 0, 0
 	Patch "EQNX0262", 15, 18
 }
-Texture "EQNX0154", 64, 128
-{
-	Patch "EQNX0086", 32, 0
-	Patch "EQNX0085", 16, 0
-	Patch "EQNX0262", 16, 20
-	Patch "EQNX0085", 0, -16
-	Patch "EQNX0086", 48, 0
-}
 Texture "EQNX0155", 64, 128
 {
 	Patch "EQNX0076", 0, 0
 	Patch "EQNX0329", 15, 60
-}
-Texture "EQNX0156", 32, 128
-{
-	Patch "WALL42_6", -1, 0
-}
-Texture "EQNX0157", 64, 128
-{
-	Patch "W31_1", 0, 64
-	Patch "W31_1", 0, 0
-	Patch "EQNX0329", 19, 79
-}
-Texture "EQNX0158", 64, 128
-{
-	Patch "DOOR9_1", -29, 0
-	Patch "EQNX0262", 20, 50
-}
-Texture "EQNX0159", 64, 128
-{
-	Patch "WALL49_1", 0, 0
-	Patch "EQNX0164", 12, 66
-}
-Texture "EQNX0160", 64, 128
-{
-	Patch "MWALL1_1", 0, 0
-	Patch "EQNX0164", 13, 55
 }
 Texture "EQNX0161", 64, 128
 {
 	Patch "RW33_1", 0, 0
 	Patch "EQNX0262", 16, 20
 }
-Texture "EQNX0162", 64, 128
-{
-	Patch "EQNX0322", 0, 0
-	Patch "EQNX0322", 0, 64
-	Patch "EQNX0329", 20, 68
-}
-Texture "EQNX0163", 64, 128
-{
-	Patch "RW31_1", 0, 0
-	Patch "EQNX0329", 20, 80
-}
-Texture "EQNX0165", 128, 128
-{
-	Patch "TP2_2", 0, 0
-	Patch "EQNX0284", 48, 76
-}
-Texture "EQNX0166", 64, 128
-{
-	Patch "WOLF3", -2, 0
-	Patch "EQNX0164", 1, 46
-}
-Texture "EQNX0167", 32, 128
-{
-	Patch "WALL42_1", 0, 0
-}
-Texture "EQNX0169", 64, 128
-{
-	Patch "EQNX0127", 0, 0
-	Patch "WARNB0", 24, 73
-}
-Texture "EQNX0170", 128, 128
-{
-	Patch "EQNX0074", 0, 0
-	Patch "EQNX0262", 48, 72
-}
-Texture "EQNX0171", 64, 128
-{
-	Patch "EQNX0046", 0, 64
-	Patch "EQNX0046", 0, 0
-	Patch "EQNX0262", 16, 78
-}
-Texture "EQNX0172", 128, 128
-{
-	Patch "EQNX0074", 0, 0
-	Patch "EQNX0262", 48, 72
-}
-Texture "EQNX0173", 128, 128
-{
-	Patch "EQNX0074", 0, 0
-	Patch "EQNX0262", 48, 72
-}
-Texture "EQNX0174", 64, 128
-{
-	Patch "EQNX0090", 0, 0
-	Patch "SW12_5", 32, 0
-	Patch "EQNX0262", 16, 72
-}
-Texture "EQNX0175", 64, 128
-{
-	Patch "RW37_2", 0, 0
-	Patch "EQNX0329", 20, 79
-}
-Texture "EQNX0176", 64, 128
-{
-	Patch "WALL00_1", 0, -16
-	Patch "W106_1", 0, 0
-	Patch "EQNX0329", 20, 84
-}
-Texture "EQNX0177", 64, 128
-{
-	Patch "WALL40_2", -64, 0
-	Patch "EQNX0164", 14, 66
-}
-Texture "EQNX0178", 64, 128
-{
-	Patch "RW20_1", 0, 0
-	Patch "EQNX0164", 16, 66
-}
 Texture "EQNX0179", 64, 128
 {
 	Patch "AG128_1", 0, 0
 	Patch "EQNX0263", 19, 60
-}
-Texture "EQNX0180", 128, 128
-{
-	Patch "EQNX0074", 0, 0
-	Patch "EQNX0263", 48, 72
-}
-Texture "EQNX0182", 128, 128
-{
-	Patch "EQNX0074", 0, 0
-	Patch "EQNX0263", 48, 72
-}
-Texture "EQNX0183", 64, 128
-{
-	Patch "EQNX0258", 0, 56
-	Patch "EQNX0258", 0, 0
-	Patch "EQNX0330", 20, 79
-}
-Texture "EQNX0184", 64, 128
-{
-	Patch "WALL62_2", 0, 0
-	Patch "EQNX0330", 20, 80
-}
-Texture "EQNX0185", 128, 128
-{
-	Patch "EQNX0074", 0, 0
-	Patch "EQNX0284", 48, 72
 }
 Texture "EQNX0186", 64, 128
 {
@@ -512,124 +126,13 @@ Texture "EQNX0187", 64, 72
 	Patch "W13_1", 0, 0
 	Patch "EQNX0263", 15, 18
 }
-Texture "EQNX0188", 64, 128
-{
-	Patch "EQNX0087", 48, 0
-	Patch "EQNX0086", 32, 0
-	Patch "EQNX0085", 16, 0
-	Patch "EQNX0042", 0, -1
-	Patch "EQNX0263", 16, 20
-}
 Texture "EQNX0189", 64, 128
 {
 	Patch "EQNX0076", 0, 0
 	Patch "EQNX0330", 15, 60
 }
-Texture "EQNX0190", 32, 128
-{
-	Patch "WALL47_5", -1, 0
-}
-Texture "EQNX0191", 64, 128
-{
-	Patch "W31_1", 0, 64
-	Patch "W31_1", 0, 0
-	Patch "EQNX0330", 19, 79
-}
-Texture "EQNX0192", 64, 23
-{
-	Patch "DOOR9_1", -36, -52
-	Patch "EQNX0198", -1, -9
-}
-Texture "EQNX0193", 64, 128
-{
-	Patch "WALL49_1", 0, 0
-	Patch "EQNX0198", 12, 66
-}
-Texture "EQNX0194", 64, 128
-{
-	Patch "MWALL1_1", 0, 0
-	Patch "EQNX0198", 13, 55
-}
 Texture "EQNX0195", 64, 128
 {
 	Patch "RW33_1", 0, 0
 	Patch "EQNX0263", 16, 20
-}
-Texture "EQNX0196", 64, 128
-{
-	Patch "EQNX0322", 0, 0
-	Patch "EQNX0322", 0, 64
-	Patch "EQNX0330", 20, 68
-}
-Texture "EQNX0197", 64, 128
-{
-	Patch "RW31_1", 0, 0
-	Patch "EQNX0330", 20, 80
-}
-Texture "EQNX0199", 128, 128
-{
-	Patch "TP2_2", 0, 0
-	Patch "EQNX0285", 48, 76
-}
-Texture "EQNX0200", 64, 128
-{
-	Patch "EQNX0114", 0, 0
-	Patch "EQNX0198", 14, 66
-}
-Texture "EQNX0201", 32, 128
-{
-	Patch "WALL47_3", -5, 0
-}
-Texture "EQNX0203", 64, 128
-{
-	Patch "EQNX0127", 0, 0
-	Patch "WARNA0", 24, 73
-}
-Texture "EQNX0204", 128, 128
-{
-	Patch "EQNX0074", 0, 0
-	Patch "EQNX0263", 48, 72
-}
-Texture "EQNX0205", 64, 128
-{
-	Patch "EQNX0046", 0, 64
-	Patch "EQNX0046", 0, 0
-	Patch "EQNX0263", 16, 78
-}
-Texture "EQNX0206", 128, 128
-{
-	Patch "EQNX0074", 0, 0
-	Patch "EQNX0263", 48, 72
-}
-Texture "EQNX0207", 128, 128
-{
-	Patch "EQNX0074", 0, 0
-	Patch "EQNX0263", 48, 72
-}
-Texture "EQNX0208", 64, 128
-{
-	Patch "EQNX0090", 0, 0
-	Patch "SW12_5", 32, 0
-	Patch "EQNX0263", 16, 72
-}
-Texture "EQNX0209", 64, 128
-{
-	Patch "RW37_2", 0, 0
-	Patch "EQNX0330", 20, 79
-}
-Texture "EQNX0210", 64, 128
-{
-	Patch "WALL00_1", 0, -16
-	Patch "W106_1", 0, 0
-	Patch "EQNX0330", 20, 84
-}
-Texture "EQNX0211", 64, 128
-{
-	Patch "WALL40_2", -64, 0
-	Patch "EQNX0198", 14, 66
-}
-Texture "EQNX0212", 64, 128
-{
-	Patch "RW20_1", 0, 0
-	Patch "EQNX0198", 16, 66
 }

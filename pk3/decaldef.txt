@@ -53,6 +53,7 @@ generator Lexicon_EQNX_Rocket	Scorch
 generator Lexicon_EQNX_ArachnotronPlasma	ArachnotronScorch
 generator Lexicon_EQNX_BaronBall			BaronScorch
 generator Lexicon_EQNX_CacodemonBall		CacoScorch
+generator Lexicon_EQNX_RevenantTracer	RevenantScorch
 generator Lexicon_EQNX_DoomImpBall		DoomImpScorch
 generator Lexicon_EQNX_FatShot			Scorch
 generator Lexicon_EQNX_ZombieMan	BulletChip

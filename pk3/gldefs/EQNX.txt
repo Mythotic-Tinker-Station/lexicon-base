@@ -90,6 +90,16 @@ object Lexicon_EQNX_CacodemonBall
     frame BAL2E { light CACOBALL_X3 }
 }
 
+object Lexicon_EQNX_RevenantTracer
+{
+	frame FATBA { light TRACER    }
+	frame FATBB { light TRACER    }
+
+	frame FBXPA { light TRACER_X1 }
+	frame FBXPB { light TRACER_X2 }
+	frame FBXPC { light TRACER_X3 }
+}
+
 object Lexicon_EQNX_BaronBall
 {
     frame BAL7A { light BARONBALL    }
