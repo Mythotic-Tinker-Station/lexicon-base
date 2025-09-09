@@ -9,6 +9,7 @@
 #include "gldefs/HLC2.txt" // Hellcore 2.0
 #include "gldefs/HLTP.txt" // Hell to Pay
 #include "gldefs/NEOD.txt" // NeoDoom: Vaccinated Edition
+#include "gldefs/PDGR.txt" // Perdition's Gate Resurgence
 #include "gldefs/TVRV.txt" // Revolution!
 #include "gldefs/ROTR.txt" // Rise of the Triangles
 #include "gldefs/SDX6.txt" // Stardate 20X6

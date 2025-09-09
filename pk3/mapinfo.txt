@@ -58,6 +58,7 @@ include "mapinfo/MAYHEM17.txt" // mayhem17.wad
 include "mapinfo/NEODOOM.txt" // neodoom-ve4.wad
 include "mapinfo/NOVA1.txt" // nova.wad
 include "mapinfo/PERDITION.txt" // PG-RAW-X.WAD
+include "mapinfo/PGR.txt" // PG-RESURGE.wad
 include "mapinfo/ROTR.txt" // rottriangle.wad
 include "mapinfo/REQUIEM.txt" // REQUIEM.wad
 include "mapinfo/SCYTHE1.txt"// SCYTHE.wad

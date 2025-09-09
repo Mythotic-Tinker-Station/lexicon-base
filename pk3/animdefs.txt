@@ -943,6 +943,18 @@ switch PDGT0106 on pic PDGT0110 tics 0
 switch PDGT0107 on pic PDGT0111 tics 0
 switch PDGT0108 on pic PDGT0112 tics 0
 
+// Perdition's Gate Resurgence
+texture PDGR0146 range PDGR0149 tics 8
+texture PDGR0150 range PDGR0153 tics 8
+texture PDGR0156 range PDGR0158 tics 8
+texture PDGR0293 range PDGR0296 tics 8
+switch PDGR0164 on pic PDGR0173 tics 0
+switch PDGR0165 on pic PDGR0174 tics 0
+switch PDGR0166 on pic PDGR0175 tics 0
+switch PDGR0167 on pic PDGR0176 tics 0
+switch PDGR0168 on pic PDGR0177 tics 0
+switch PDGR0170 on pic PDGR0179 tics 0
+
 // Revolution
 texture TVRV0029 range TVRV0031 tics 8
 texture TVRV0032 range TVRV0034 tics 8
