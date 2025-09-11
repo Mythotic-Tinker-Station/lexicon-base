@@ -26,6 +26,7 @@ DBP01 - Monuments of Mars: Doomer Boards Community
 DBP02 - Circle of Cania: Doomer Boards Community
 DBP03 - Forest Swords: Doomer Boards Community
 DBP04 - Xenomorph Base: Doomer Boards Community
+DBP05 - Coffin Curse: Doomer Boards Community
 Earth: Roger Ritenour
 Endgame: Endgame Team
 Epic: Eternal, coop fixes by BLOODWOLF

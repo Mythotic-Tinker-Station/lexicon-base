@@ -23,6 +23,7 @@ include "mapinfo/DBP01.txt" // DBP01.wad
 include "mapinfo/DBP02.txt" // DBP02.wad
 include "mapinfo/DBP03.txt" // DBP03.wad
 include "mapinfo/DBP04.txt" // DBP04.wad
+include "mapinfo/DBP05.txt" // DBP_05.wad
 include "mapinfo/EARTH.txt" // EarthZD.WAD
 include "mapinfo/ENDGAME.txt" // Endgame.WAD
 include "mapinfo/EPIC.txt" // epic_map02,03,05coopfix.wad

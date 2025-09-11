@@ -512,6 +512,10 @@ flat DB040045 range DB040060 tics 8
 flat DB040061 range DB040064 tics 8
 switch DB040350 on pic DB040390 tics 0
 
+// DBP05: Coffin Curse
+texture DB050253 range DB050256 tics 8
+switch DB050163 on pic DB050168 tics 0
+
 // Doom 2 Redux
 texture D2RX0326 range D2RX0329 tics 8 allowdecals
 texture D2RX0389 range D2RX0392 tics 8
