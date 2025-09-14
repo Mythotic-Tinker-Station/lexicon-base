@@ -1,5 +1,5 @@
 // 400 Minutes of /vr/
-//4MVR/DSBOSSIT				4MVR0001
+4MVR/DSBOSSIT				4MVR0001
 
 // Alien Vendetta
 ALVD/DSBOSSIT				ALVD0001

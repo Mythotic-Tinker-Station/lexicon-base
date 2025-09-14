@@ -3,8 +3,8 @@ include "mapinfo/1024CLAU.txt" // 1024CLAU.wad
 include "mapinfo/1024CLAU2.txt" // 1024cla2.wad
 include "mapinfo/1994TU.txt" // 1994TU.wad
 include "mapinfo/200MINVR.txt" // 200minvr.wad
-//include "mapinfo/300MINVR.txt" // 300minvr.wad
-//include "mapinfo/400MINVR.txt" // 400minvr.wad
+include "mapinfo/300MINVR.txt" // 300minvr.wad
+include "mapinfo/400MINVR.txt" // 400minvr.wad
 include "mapinfo/25YOE.txt" // ph_25yoe.wad
 include "mapinfo/AA.txt" // aaliens_v1_2.wad
 include "mapinfo/AR.txt" // ar.wad

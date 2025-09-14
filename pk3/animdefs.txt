@@ -5,6 +5,52 @@ switch 94TU0007 on pic 94TU0008 tics 0
 switch 94TU0038 on pic 94TU0042 tics 0
 switch 94TU0040 on pic 94TU0044 tics 0
 
+// 300 Minutes of /vr/
+texture 3MVR0011 range 3MVR0014 tics 8
+switch 3MVR0001 on pic 3MVR0006 tics 0
+switch 3MVR0002 on pic 3MVR0007 tics 0
+
+// 400 Minutes of /vr/
+texture 4MVR0189 range 4MVR0190 tics 8
+texture 4MVR0191 range 4MVR0192 tics 8
+texture 4MVR0193 range 4MVR0195 tics 8
+texture 4MVR0196 range 4MVR0198 tics 8
+texture 4MVR0334 range 4MVR0336 tics 8
+texture 4MVR0339 range 4MVR0342 tics 8
+texture 4MVR0361 range 4MVR0363 tics 8
+texture 4MVR0379 range 4MVR0381 tics 8
+texture 4MVR0406 range 4MVR0409 tics 8
+texture 4MVR0536 range 4MVR0538 tics 8
+texture 4MVR0767 range 4MVR0770 tics 8
+texture 4MVR0784 range 4MVR0787 tics 8
+flat 4MVR0009 range 4MVR0012 tics 2
+flat 4MVR0033 range 4MVR0034 tics 8
+flat 4MVR0049 range 4MVR0052 tics 8
+flat 4MVR0053 range 4MVR0056 tics 8
+flat 4MVR0057 range 4MVR0060 tics 8
+flat 4MVR0078 range 4MVR0080 tics 8
+switch 4MVR0669 on pic 4MVR0699 tics 0
+switch 4MVR0670 on pic 4MVR0700 tics 0
+switch 4MVR0672 on pic 4MVR0702 tics 0
+switch 4MVR0673 on pic 4MVR0703 tics 0
+switch 4MVR0675 on pic 4MVR0705 tics 0
+switch 4MVR0676 on pic 4MVR0706 tics 0
+switch 4MVR0677 on pic 4MVR0707 tics 0
+switch 4MVR0679 on pic 4MVR0709 tics 0
+switch 4MVR0680 on pic 4MVR0710 tics 0
+switch 4MVR0681 on pic 4MVR0711 tics 0
+switch 4MVR0682 on pic 4MVR0712 tics 0
+switch 4MVR0683 on pic 4MVR0713 tics 0
+switch 4MVR0685 on pic 4MVR0715 tics 0
+switch 4MVR0686 on pic 4MVR0716 tics 0
+switch 4MVR0687 on pic 4MVR0717 tics 0
+switch 4MVR0690 on pic 4MVR0720 tics 0
+switch 4MVR0692 on pic 4MVR0694 tics 0
+switch 4MVR0696 on pic 4MVR0723 tics 0
+switch 4MVR0697 on pic 4MVR0724 tics 0
+switch 4MVR0698 on pic 4MVR0725 tics 0
+switch 4MVR0813 on pic 4MVR0814 tics 0
+
 // Alien Vendetta
 texture ALVD0746 range ALVD0749 tics 8
 texture ALVD0792 range ALVD0800 tics 8
