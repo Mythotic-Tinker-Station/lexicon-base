@@ -248,7 +248,7 @@ ACTOR Lexicon_AALI_CommanderKeen : CommanderKeen
 		LX51 I 0 A_Jump(128, "HomingMissile3")
 		LX51 I 6 Bright A_CustomMissile("Lexicon_AALI_RevenantTracerDumbfire", 48)
 		Goto EndMissile3
-	HomingMissile:
+	HomingMissile3:
 		LX51 I 6 Bright A_CustomMissile("Lexicon_AALI_RevenantTracerHoming", 48)
 		Goto EndMissile3
 	EndMissile3:

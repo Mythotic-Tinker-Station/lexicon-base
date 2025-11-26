@@ -1291,7 +1291,7 @@ TMR1_MAPSET_AUTHORS = "Team Rocket";
 TMR1_MAPSET_CUSTOM = "Y";
 TMR1_MAPSET_DATE = "2018";
 TMR1_MAPSET_MAPS = "34";
-TMR1_MAPSET_TITLE = "Team Rocket: Blasting Off at the Speed of Mapping";
+TMR1_MAPSET_TITLE = "Team Rocket";
 TMR1_MAPSET_PACK = "BASE";
 
 // Team Rocket 2: Looks Like We're Blasting Off Again
@@ -1310,7 +1310,7 @@ TMR2_MAPSET_AUTHORS = "Team Rocket";
 TMR2_MAPSET_CUSTOM = "Y";
 TMR2_MAPSET_DATE = "2020";
 TMR2_MAPSET_MAPS = "34";
-TMR2_MAPSET_TITLE = "Team Rocket 2: Looks Like We're Blasting Off Again";
+TMR2_MAPSET_TITLE = "Team Rocket 2";
 TMR2_MAPSET_PACK = "BASE";
 
 // UAC Ultra
