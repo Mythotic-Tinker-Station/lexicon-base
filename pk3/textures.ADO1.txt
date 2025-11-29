@@ -1,0 +1,298 @@
+Texture "ADO10063", 128, 128
+{
+	Patch "ADO10316", 0, 0
+	Patch "ADO10316", 64, 0
+}
+Texture "ADO10064", 64, 128
+{
+	Patch "ADO10317", 0, 0
+	Patch "ADO10317", 0, 64
+}
+Texture "ADO10076", 64, 128
+{
+	Patch "ADO10326", 0, 32
+	Patch "ADO10326", 0, -64
+}
+Texture "ADO10077", 64, 128
+{
+	Patch "ADO10329", 0, 0
+	Patch "ADO10329", 0, 44
+	Patch "ADO10329", 0, 88
+}
+Texture "ADO10091", 128, 128
+{
+	Patch "ADO10090", 0, 0
+	Patch "ADO10351", 2, 3
+}
+Texture "ADO10092", 128, 128
+{
+	Patch "ADO10090", 0, 0
+	Patch "ADO10352", 0, 0
+}
+Texture "ADO10098", 128, 128
+{
+	Patch "ADO10097", 0, 0
+	Patch "EXIT1", 59, 54
+}
+Texture "ADO10101", 128, 128
+{
+	Patch "ADO10099", 0, 0
+	Patch "ADO10352", 0, 0
+}
+Texture "ADO10102", 128, 128
+{
+	Patch "ADO10100", 0, 0
+	Patch "ADO10352", 0, 0
+}
+Texture "ADO10103", 128, 128
+{
+	Patch "ADO10099", 0, 0
+	Patch "ADO10351", 2, 3
+}
+Texture "ADO10104", 128, 128
+{
+	Patch "ADO10100", 0, 0
+	Patch "ADO10351", 2, 3
+}
+Texture "ADO10216", 64, 64
+{
+}
+Texture "ADO10280", 16, 128
+{
+}
+Texture "ADO10284", 64, 128
+{
+	Patch "WLA128_1", 0, 0
+	Patch "PS20A0", 0, 62
+}
+Texture "ADO10285", 32, 128
+{
+	Patch "STEP04", 0, 0
+	Patch "STEP04", 0, 8
+	Patch "STEP04", 0, 16
+	Patch "STEP04", 0, 32
+	Patch "STEP04", 0, 24
+	Patch "STEP04", 0, 40
+	Patch "STEP04", 0, 48
+	Patch "STEP04", 0, 56
+	Patch "STEP04", 0, 64
+	Patch "STEP04", 0, 72
+	Patch "STEP04", 0, 80
+	Patch "STEP04", 0, 88
+	Patch "STEP04", 0, 96
+	Patch "STEP04", 0, 104
+	Patch "STEP04", 0, 112
+	Patch "STEP04", 0, 120
+}
+Texture "ADO10286", 32, 128
+{
+	Patch "STEP03", 0, 0
+	Patch "STEP03", 0, 8
+	Patch "STEP03", 0, 16
+	Patch "STEP03", 0, 24
+	Patch "STEP03", 0, 120
+	Patch "STEP03", 0, 112
+	Patch "STEP03", 0, 104
+	Patch "STEP03", 0, 56
+	Patch "STEP03", 0, 64
+	Patch "STEP03", 0, 72
+	Patch "STEP03", 0, 80
+	Patch "STEP03", 0, 88
+	Patch "STEP03", 0, 96
+	Patch "STEP03", 0, 32
+	Patch "STEP03", 0, 40
+	Patch "STEP03", 0, 48
+}
+Texture "ADO10287", 32, 128
+{
+	Patch "STEP05", 0, 0
+	Patch "STEP05", 0, 8
+	Patch "STEP05", 0, 16
+	Patch "STEP05", 0, 24
+	Patch "STEP05", 0, 32
+	Patch "STEP05", 0, 40
+	Patch "STEP05", 0, 48
+	Patch "STEP05", 0, 56
+	Patch "STEP05", 0, 64
+	Patch "STEP05", 0, 72
+	Patch "STEP05", 0, 80
+	Patch "STEP05", 0, 88
+	Patch "STEP05", 0, 96
+	Patch "STEP05", 0, 104
+	Patch "STEP05", 0, 112
+	Patch "STEP05", 0, 120
+}
+Texture "ADO10288", 32, 128
+{
+	Patch "STEP06", 0, 0
+	Patch "STEP06", 0, 8
+	Patch "STEP06", 0, 16
+	Patch "STEP06", 0, 24
+	Patch "STEP06", 0, 32
+	Patch "STEP06", 0, 40
+	Patch "STEP06", 0, 48
+	Patch "STEP06", 0, 56
+	Patch "STEP06", 0, 64
+	Patch "STEP06", 0, 72
+	Patch "STEP06", 0, 80
+	Patch "STEP06", 0, 88
+	Patch "STEP06", 0, 96
+	Patch "STEP06", 0, 104
+	Patch "STEP06", 0, 112
+	Patch "STEP06", 0, 120
+}
+Texture "ADO10289", 32, 128
+{
+	Patch "STEP09", 0, 0
+	Patch "STEP09", 0, 8
+	Patch "STEP09", 0, 16
+	Patch "STEP09", 0, 24
+	Patch "STEP09", 0, 32
+	Patch "STEP09", 0, 40
+	Patch "STEP09", 0, 48
+	Patch "STEP09", 0, 56
+	Patch "STEP09", 0, 64
+	Patch "STEP09", 0, 72
+	Patch "STEP09", 0, 80
+	Patch "STEP09", 0, 88
+	Patch "STEP09", 0, 96
+	Patch "STEP09", 0, 104
+	Patch "STEP09", 0, 112
+	Patch "STEP09", 0, 120
+}
+Texture "ADO10290", 32, 128
+{
+	Patch "STEP10", 0, 8
+	Patch "STEP07", 0, 0
+	Patch "STEP10", 0, 16
+	Patch "STEP07", 0, 24
+	Patch "STEP10", 0, 32
+	Patch "STEP07", 0, 40
+	Patch "STEP10", 0, 48
+	Patch "STEP07", 0, 56
+	Patch "STEP10", 0, 64
+	Patch "STEP07", 0, 72
+	Patch "STEP10", 0, 80
+	Patch "STEP07", 0, 88
+	Patch "STEP10", 0, 96
+	Patch "STEP07", 0, 104
+	Patch "STEP10", 0, 112
+	Patch "STEP07", 0, 120
+}
+Texture "ADO10291", 128, 128
+{
+	Patch "WALL62_1", 0, 0
+	Patch "SW1S0", 48, 72
+}
+Texture "ADO10292", 64, 128
+{
+	Patch "WALL02_2", 0, 56
+	Patch "WALL02_2", 0, 0
+	Patch "SW3S0", 16, 75
+}
+Texture "ADO10293", 128, 128
+{
+	Patch "WALL00_7", 32, 0
+	Patch "WALL00_6", 16, 0
+	Patch "SW1S0", 16, 20
+	Patch "WALL00_6", 0, -16
+	Patch "WALL00_7", 48, 0
+	Patch "ADO10119", 64, 0
+}
+Texture "ADO10294", 128, 128
+{
+	Patch "SW19_3", 64, 0
+	Patch "SW19_4", 0, 0
+	Patch "SW3S0", 48, 76
+}
+Texture "ADO10295", 64, 128
+{
+	Patch "W28_5", 0, 0
+	Patch "W28_8", 0, 64
+	Patch "WARNB0", 24, 73
+}
+Texture "ADO10296", 64, 128
+{
+	Patch "WALL01_1", 0, 0
+	Patch "WALL01_2", 16, 0
+	Patch "WALL01_3", 32, 0
+	Patch "WALL01_4", 48, 0
+	Patch "WALL01_1", 0, 72
+	Patch "WALL01_2", 16, 72
+	Patch "WALL01_3", 32, 72
+	Patch "WALL01_4", 48, 72
+	Patch "W33_8", 0, 64
+	Patch "W33_8", 0, 120
+	Patch "SW1S0", 16, 72
+}
+Texture "ADO10297", 128, 128
+{
+	Patch "SW12_4", 0, 0
+	Patch "SW12_5", 32, 0
+	Patch "SW1S0", 16, 72
+	Patch "SW12_1", 64, 0
+	Patch "SW12_2", 96, 0
+	Patch "SW1S0", 80, 72
+}
+Texture "ADO10298", 128, 128
+{
+	Patch "WALL62_1", 0, 0
+	Patch "SW1S1", 48, 72
+}
+Texture "ADO10299", 64, 128
+{
+	Patch "STEP07", 32, 72
+	Patch "STEP07", 0, 72
+	Patch "WALL02_2", 0, 56
+	Patch "WALL02_2", 0, 0
+	Patch "SW3S1", 16, 75
+}
+Texture "ADO10300", 128, 128
+{
+	Patch "WALL00_8", 48, 0
+	Patch "WALL00_7", 32, 0
+	Patch "WALL00_6", 16, 0
+	Patch "WALL00_5", 0, -1
+	Patch "SW1S1", 16, 20
+	Patch "ADO10118", 64, 0
+}
+Texture "ADO10301", 128, 128
+{
+	Patch "SW19_3", 64, 0
+	Patch "SW19_4", 0, 0
+	Patch "SW3S1", 48, 76
+}
+Texture "ADO10302", 64, 128
+{
+	Patch "W28_8", 0, 64
+	Patch "WARNA0", 24, 73
+	Patch "W28_5", 0, 0
+}
+Texture "ADO10303", 64, 128
+{
+	Patch "WALL01_1", 0, 0
+	Patch "WALL01_2", 16, 0
+	Patch "WALL01_3", 32, 0
+	Patch "WALL01_4", 48, 0
+	Patch "WALL01_1", 0, 72
+	Patch "WALL01_2", 16, 72
+	Patch "WALL01_3", 32, 72
+	Patch "WALL01_4", 48, 72
+	Patch "W33_8", 0, 64
+	Patch "W33_8", 0, 120
+	Patch "SW1S1", 16, 72
+}
+Texture "ADO10304", 128, 128
+{
+	Patch "SW12_4", 0, 0
+	Patch "SW12_5", 32, 0
+	Patch "SW1S1", 16, 72
+	Patch "SW12_2", 96, 0
+	Patch "SW12_1", 64, 0
+	Patch "SW1S1", 80, 72
+}
+Texture "ADO10305", 256, 128
+{
+	Patch "ADO10381", -128, 0
+	Patch "ADO10381", 128, 0
+}
