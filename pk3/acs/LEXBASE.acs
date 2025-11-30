@@ -9,7 +9,6 @@
 Script "Lexicon_BasePack_AddAcronym" OPEN
 {
 	ACS_NamedExecuteWithResult("Lexicon_AddMapSet","BASE",1);
-	ACS_NamedExecuteWithResult("Lexicon_AddMapSet","BAS2",1);
 }
 
 script "LexiconBaseExpansionPackMapScripts" ENTER
