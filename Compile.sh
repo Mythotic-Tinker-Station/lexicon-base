@@ -33,7 +33,7 @@ fi
 
 echo "Step 1: PACK"
 cd pk3 || { echo "Failed to change directory to pk3" >&2; exit 1; }
-7za a -r -ssw -mx9 -tzip  ../${FileName}-New.pk3 *.kvx *.cmp *.x* *.txt *.o *.acs *.png *.wad *.md2 *.md3 *.tga *.mp3 *.pal *.bmp *.map *.lmp *.raw *.mus *.mid *.ogg *.vgz *.wav *.mod *.it *.xm *.s3m *.psm *.pk3 *.gl || { echo "Failed to pack files" >&2; exit 1; }
+7za a -tzip -r -ssw -mx=9 "../${FileName}-New.pk3" .
 
 echo "Step 2: REPLACE"
 cd .. || { echo "Failed to change directory to parent" >&2; exit 1; }
