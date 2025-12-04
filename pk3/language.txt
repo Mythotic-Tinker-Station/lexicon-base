@@ -87,6 +87,7 @@ LEX_BASE_82 = "VLFL";
 LEX_BASE_83 = "WSPS";
 LEX_BASE_84 = "ZN30";
 LEX_BASE_85 = "ZNOF";
+LEX_BASE_86 = "EVLT";
 
 // Custom actors and metadata for Lexicon Base mapsets
 // 1994 Tune-up Community Project
@@ -630,6 +631,14 @@ ETDM_MAPSET_MAPS = "32";
 ETDM_MAPSET_TITLE = "Eternal Doom";
 ETDM_WEAPON_7 = "Lexicon_ETDM_RocketLauncher";
 ETDM_MAPSET_PACK = "BASE";
+
+// Eviltech: Soul Of Megawad
+EVLT_MAPSET_AUTHORS = "Nicolas Monti, MAP32 edited by MegaDoomer";
+EVLT_MAPSET_CUSTOM = "N";
+EVLT_MAPSET_DATE = "2012";
+EVLT_MAPSET_MAPS = "34";
+EVLT_MAPSET_TITLE = "Eviltech: Soul Of Megawad";
+EVLT_MAPSET_PACK = "BASE";
 
 // Fore/vr/ Alone
 FVRA_MAPSET_AUTHORS = "4chan's /vr/ board";

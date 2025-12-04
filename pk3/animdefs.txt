@@ -716,6 +716,14 @@ switch ETDM0941 on pic ETDM0982 tics 0
 switch ETDM0942 on pic ETDM0983 tics 0
 switch ETDM0943 on pic ETDM0984 tics 0
 
+// Eviltech: Soul Of Megawad
+switch EVLT0004 on pic EVLT0005 tics 0
+switch EVLT0033 on pic EVLT0037 tics 0
+switch EVLT0034 on pic EVLT0038 tics 0
+switch EVLT0035 on pic EVLT0039 tics 0
+switch EVLT0036 on pic EVLT0040 tics 0
+texture EVLT0073 range EVLT0076 tics 8
+
 // Fore/vr/ Alone
 switch FVRA3935 on pic FVRA3940 tics 0
 
