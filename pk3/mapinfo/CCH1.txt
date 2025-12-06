@@ -1,0 +1,417 @@
+map CCH101 lookup "pistol panic"
+{
+	titlepatch = "CC1LV00"
+	next = "CCH102"
+	secretnext = "CCH102"
+	ExitPic = "CC1LV32"
+	EnterPic = "CC1LV32"
+	sky1 = "SKY1"
+	music = "D_RUNNIN"
+	nocrouch
+	nojump
+}
+
+map CCH102 lookup "nullth precinct"
+{
+	titlepatch = "CC1LV01"
+	next = "CCH103"
+	secretnext = "CCH103"
+	sky1 = "SKY1"
+	ExitPic = "CC1LV32"
+	EnterPic = "CC1LV32"
+	music = "D_STALKS"
+	nocrouch
+	nojump
+}
+
+map CCH103 lookup "ground floor"
+{
+	titlepatch = "CC1LV02"
+	next = "CCH104"
+	secretnext = "CCH104"
+	ExitPic = "CC1LV32"
+	EnterPic = "CC1LV32"
+	sky1 = "SKY1"
+	music = "D_COUNTD"
+	nocrouch
+	nojump
+}
+
+map CCH104 lookup "outer base"
+{
+	titlepatch = "CC1LV03"
+	next = "CCH105"
+	secretnext = "CCH105"
+	ExitPic = "CC1LV32"
+	EnterPic = "CC1LV32"
+	sky1 = "SKY1"
+	music = "D_BETWEE"
+	nocrouch
+	nojump
+}
+
+map CCH105 lookup "the forgotten prison"
+{
+	titlepatch = "CC1LV04"
+	next = "CCH106"
+	secretnext = "CCH106"
+	ExitPic = "CC1LV32"
+	EnterPic = "CC1LV32"
+	sky1 = "SKY1"
+	music = "D_DOOM"
+	nocrouch
+	nojump
+}
+
+map CCH106 lookup "goin' down"
+{
+	titlepatch = "CC1LV05"
+	next = "CCH107"
+	secretnext = "CCH107"
+	ExitPic = "CC1LV32"
+	EnterPic = "CC1LV32"
+	sky1 = "SKY1"
+	music = "D_THE_DA"
+	nocrouch
+	nojump
+}
+
+map CCH107 lookup "the boardwalk"
+{
+	titlepatch = "CC1LV06"
+	next = "CCH108"
+	secretnext = "CCH108"
+	ExitPic = "CC1LV32"
+	EnterPic = "CC1LV32"
+	sky1 = "SKY1"
+	music = "D_SHAWN"
+	map07special
+	nocrouch
+	nojump
+}
+
+map CCH108 lookup "battery"
+{
+	titlepatch = "CC1LV07"
+	next = "CCH109"
+	secretnext = "CCH109"
+	ExitPic = "CC1LV32"
+	EnterPic = "CC1LV32"
+	sky1 = "SKY1"
+	music = "D_DDTBLU"
+	nocrouch
+	nojump
+}
+
+map CCH109 lookup "flow"
+{
+	titlepatch = "CC1LV08"
+	next = "CCH110"
+	secretnext = "CCH110"
+	ExitPic = "CC1LV32"
+	EnterPic = "CC1LV32"
+	sky1 = "SKY1"
+	music = "D_IN_CIT"
+	nocrouch
+	nojump
+}
+
+map CCH110 lookup "termination center"
+{
+	titlepatch = "CC1LV09"
+	next = "CCH111"
+	secretnext = "CCH111"
+	ExitPic = "CC1LV32"
+	EnterPic = "CC1LV32"
+	sky1 = "SKY1"
+	music = "D_DEAD"
+	nocrouch
+	nojump
+}
+
+map CCH111 lookup "mandrel"
+{
+	titlepatch = "CC1LV10"
+	next = "CCH112"
+	secretnext = "CCH112"
+	ExitPic = "CC1LV32"
+	EnterPic = "CC1LV32"
+	sky1 = "SKY1"
+	music = "D_STLKS2"
+	nocrouch
+	nojump
+}
+
+map CCH112 lookup "no tomorrow"
+{
+	titlepatch = "CC1LV11"
+	next = "CCH113"
+	secretnext = "CCH113"
+	ExitPic = "CC1LV32"
+	EnterPic = "CC1LV32"
+	sky1 = "SKY2"
+	music = "D_THEDA2"
+	nocrouch
+	nojump
+}
+
+map CCH113 lookup "another dead hero"
+{
+	titlepatch = "CC1LV12"
+	next = "CCH114"
+	secretnext = "CCH114"
+	ExitPic = "CC1LV32"
+	EnterPic = "CC1LV32"
+	sky1 = "SKY2"
+	music = "D_DOOM2"
+	nocrouch
+	nojump
+}
+
+map CCH114 lookup "substation"
+{
+	titlepatch = "CC1LV13"
+	next = "CCH115"
+	secretnext = "CCH115"
+	ExitPic = "CC1LV32"
+	EnterPic = "CC1LV32"
+	sky1 = "SKY2"
+	music = "D_DDTBL2"
+	nocrouch
+	nojump
+}
+
+map CCH115 lookup "internal reaches"
+{
+	titlepatch = "CC1LV14"
+	next = "CCH116"
+	secretnext = "CCH131"
+	ExitPic = "CC1LV32"
+	EnterPic = "CC1LV32"
+	sky1 = "SKY2"
+	music = "D_RUNNI2"
+	nocrouch
+	nojump
+}
+
+map CCH116 lookup "methods of fear"
+{
+	titlepatch = "CC1LV15"
+	next = "CCH117"
+	secretnext = "CCH117"
+	ExitPic = "CC1LV32"
+	EnterPic = "CC1LV32"
+	sky1 = "SKY2"
+	music = "D_DEAD2"
+	nocrouch
+	nojump
+}
+
+map CCH117 lookup "infliction of hate"
+{
+	titlepatch = "CC1LV16"
+	next = "CCH118"
+	secretnext = "CCH118"
+	ExitPic = "CC1LV32"
+	EnterPic = "CC1LV32"
+	sky1 = "SKY2"
+	music = "D_STLKS3"
+	nocrouch
+	nojump
+}
+
+map CCH118 lookup "sudden death"
+{
+	titlepatch = "CC1LV17"
+	next = "CCH119"
+	secretnext = "CCH119"
+	ExitPic = "CC1LV32"
+	EnterPic = "CC1LV32"
+	sky1 = "SKY2"
+	music = "D_ROMERO"
+	nocrouch
+	nojump
+}
+
+map CCH119 lookup "monster mansion"
+{
+	titlepatch = "CC1LV18"
+	next = "CCH120"
+	secretnext = "CCH120"
+	ExitPic = "CC1LV32"
+	EnterPic = "CC1LV32"
+	sky1 = "SKY2"
+	music = "D_SHAWN2"
+	nocrouch
+	nojump
+}
+
+map CCH120 lookup "technodrome"
+{
+	titlepatch = "CC1LV19"
+	next = "CCH121"
+	secretnext = "CCH121"
+	ExitPic = "CC1LV32"
+	EnterPic = "CC1LV32"
+	sky1 = "SKY2"
+	music = "D_MESSAG"
+	nocrouch
+	nojump
+}
+
+map CCH121 lookup "avenger"
+{
+	titlepatch = "CC1LV20"
+	next = "CCH122"
+	secretnext = "CCH122"
+	ExitPic = "CC1LV32"
+	EnterPic = "CC1LV32"
+	sky1 = "CCH10232"
+	music = "D_CCH121"
+	nocrouch
+	nojump
+}
+
+map CCH122 lookup "future grave"
+{
+	titlepatch = "CC1LV21"
+	next = "CCH123"
+	secretnext = "CCH123"
+	ExitPic = "CC1LV32"
+	EnterPic = "CC1LV32"
+	sky1 = "CCH10232"
+	music = "D_DDTBL3"
+	nocrouch
+	nojump
+}
+
+map CCH123 lookup "blood runners"
+{
+	titlepatch = "CC1LV22"
+	next = "CCH124"
+	secretnext = "CCH124"
+	ExitPic = "CC1LV32"
+	EnterPic = "CC1LV32"
+	sky1 = "CCH10232"
+	music = "D_CCH123"
+	nocrouch
+	nojump
+}
+
+map CCH124 lookup "bring evil upon thee"
+{
+	titlepatch = "CC1LV23"
+	next = "CCH125"
+	secretnext = "CCH125"
+	ExitPic = "CC1LV32"
+	EnterPic = "CC1LV32"
+	sky1 = "CCH10232"
+	music = "D_CCH124"
+	nocrouch
+	nojump
+}
+
+map CCH125 lookup "blood demesne"
+{
+	titlepatch = "CC1LV24"
+	next = "CCH126"
+	secretnext = "CCH126"
+	ExitPic = "CC1LV32"
+	EnterPic = "CC1LV32"
+	sky1 = "CCH10232"
+	music = "D_CCH125"
+	nocrouch
+	nojump
+}
+
+map CCH126 lookup "breakout"
+{
+	titlepatch = "CC1LV25"
+	next = "CCH127"
+	secretnext = "CCH127"
+	ExitPic = "CC1LV32"
+	EnterPic = "CC1LV32"
+	sky1 = "CCH10232"
+	music = "D_CCH126"
+	nocrouch
+	nojump
+}
+
+map CCH127 lookup "afterlife"
+{
+	titlepatch = "CC1LV26"
+	next = "CCH128"
+	secretnext = "CCH128"
+	ExitPic = "CC1LV32"
+	EnterPic = "CC1LV32"
+	sky1 = "CCH10232"
+	music = "D_CCH127"
+	nocrouch
+	nojump
+}
+
+map CCH128 lookup "necrophobia"
+{
+	titlepatch = "CC1LV27"
+	next = "CCH129"
+	secretnext = "CCH129"
+	ExitPic = "CC1LV32"
+	EnterPic = "CC1LV32"
+	sky1 = "CCH10232"
+	music = "D_TENSE"
+	nocrouch
+	nojump
+}
+
+map CCH129 lookup "citadel at the edge of eternity"
+{
+	titlepatch = "CC1LV28"
+	next = "CCH130"
+	secretnext = "CCH130"
+	ExitPic = "CC1LV32"
+	EnterPic = "CC1LV32"
+	sky1 = "CCH10232"
+	music = "D_SHAWN3"
+	nocrouch
+	nojump
+}
+
+map CCH130 lookup "evil itself"
+{
+	titlepatch = "CC1LV29"
+	next = "VR"
+	secretnext = "VR"
+	sky1 = "CCH10232"
+	ExitPic = "CC1LV33"
+	EnterPic = "CC1LV32"
+	allowmonstertelefrags
+	music = "D_OPENIN"
+	nocrouch
+	nojump
+}
+
+map CCH131 lookup "mt. chaos"
+{
+	titlepatch = "CC1LV30"
+	next = "CCH116"
+	secretnext = "CCH132"
+	ExitPic = "CC1LV32"
+	EnterPic = "CC1LV32"
+	sky1 = "CCH10232"
+	music = "D_EVIL"
+	nocrouch
+	nojump
+}
+
+map CCH132 lookup "the citadel"
+{
+	titlepatch = "CC1LV31"
+	next = "CCH116"
+	secretnext = "CCH116"
+	ExitPic = "CC1LV32"
+	EnterPic = "CC1LV32"
+	sky1 = "CCH10232"
+	music = "D_ULTIMA"
+	nocrouch
+	nojump
+}
