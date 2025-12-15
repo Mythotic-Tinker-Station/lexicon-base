@@ -60,6 +60,8 @@ include "mapinfo/MARSW301.txt" // MARSW301.WAD
 include "mapinfo/MM1.txt" // MM.wad
 include "mapinfo/MM2.txt" // MM2.wad
 include "mapinfo/MAYHEM17.txt" // mayhem17.wad
+include "mapinfo/NDCP1.txt" // ndcp.wad
+include "mapinfo/NDCP2.txt" // ndcp2_fixed.wad
 include "mapinfo/NEODOOM.txt" // neodoom-ve4.wad
 include "mapinfo/NOVA1.txt" // nova.wad
 include "mapinfo/PERDITION.txt" // PG-RAW-X.WAD

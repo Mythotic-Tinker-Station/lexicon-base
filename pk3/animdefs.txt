@@ -1358,3 +1358,41 @@ warp flat WSPS0081
 // Zone 300
 texture ZN300087 range ZN300090 tics 8
 texture ZN300390 range ZN300393 tics 8
+
+// Newdoom Community Project
+texture NDC10093 range NDC10095 tics 8 allowdecals
+texture NDC10288 range NDC10291 tics 8
+switch NDC10066 on pic NDC10071 tics 0
+switch NDC10067 on pic NDC10072 tics 0
+switch NDC10069 on pic NDC10074 tics 0
+
+// Newdoom Community Project 2
+texture NDC20233 range NDC20235 tics 8 allowdecals
+texture NDC20399 range NDC20402 tics 8
+texture NDC20418 range NDC20420 tics 2
+texture NDC20421 range NDC20423 tics 2
+texture NDC20427 range NDC20433 tics 1
+texture NDC20442 range NDC20444 tics 4
+texture NDC20447 range NDC20448 tics 1
+texture NDC20451 range NDC20452 tics 6
+texture NDC20469 range NDC20471 tics 2
+texture NDC20472 range NDC20475 tics 1
+texture NDC20479 range NDC20503 tics 8
+texture NDC20504 range NDC20509 tics 4
+texture NDC20510 range NDC20513 tics 3
+texture NDC20514 range NDC20519 tics 4
+texture NDC20672 range NDC20675 tics 4
+texture NDC20688 range NDC20690 tics 6
+texture NDC20718 range NDC20721 tics 5
+texture NDC20732 range NDC20734 tics 5
+texture NDC20769 range NDC20772 tics 8
+texture NDC20773 range NDC20776 tics 8
+flat NDC20167 range NDC20173 tics 1
+flat NDC20182 range NDC20185 tics 2
+flat NDC20186 range NDC20189 tics 2
+flat NDC20193 range NDC20196 tics 4
+switch NDC20237 on pic NDC20242 tics 0
+switch NDC20238 on pic NDC20243 tics 0
+switch NDC20685 on pic NDC20686 tics 0
+switch NDC20724 on pic NDC20725 tics 0
+switch NDC20726 on pic NDC20727 tics 0
