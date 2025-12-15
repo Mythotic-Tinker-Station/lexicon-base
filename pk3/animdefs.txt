@@ -919,6 +919,60 @@ texture LDOE0077 range LDOE0080 tics 8
 switch LDOE0031 on pic LDOE0066 tics 0
 switch LDOE0065 on pic LDOE0066 tics 0
 
+// Lost Civilization
+texture LSCV0622 range LSCV0625 tics 8 allowdecals
+texture LSCV0760 range LSCV0763 tics 6
+texture LSCV0784 range LSCV0787 tics 6
+texture LSCV0846 range LSCV0851 tics 4
+texture LSCV0852 range LSCV0857 tics 4
+texture LSCV0877 range LSCV0880 tics 6
+texture LSCV0908 range LSCV0911 tics 4
+texture LSCV0993 range LSCV0996 tics 2
+texture LSCV0997 range LSCV1000 tics 2
+texture LSCV1031 range LSCV1034 tics 4
+texture LSCV1035 range LSCV1038 tics 4
+texture LSCV1039 range LSCV1042 tics 4
+texture LSCV1057 range LSCV1062 tics 35
+texture LSCV1121 range LSCV1124 tics 2
+texture LSCV1125 range LSCV1134 tics 2
+texture LSCV1135 range LSCV1144 tics 2
+texture LSCV1151 range LSCV1155 tics 2
+texture LSCV1161 range LSCV1163 tics 1
+texture LSCV1164 range LSCV1166 tics 1
+texture LSCV1167 range LSCV1169 tics 2
+texture LSCV1185 range LSCV1188 tics 4
+texture LSCV1189 range LSCV1190 tics 10
+texture LSCV1213 range LSCV1228 tics 1
+texture LSCV1329 range LSCV1332 tics 10
+texture LSCV1357 range LSCV1420 tics 4
+texture LSCV1551 range LSCV1555 tics 2
+texture LSCV1642 range LSCV1645 tics 4
+texture LSCV1733 range LSCV1735 tics 4
+texture LSCV1736 range LSCV1739 tics 10
+texture LSCV1740 range LSCV1743 tics 8
+texture LSCV1744 range LSCV1747 tics 8
+texture LSCV1748 range LSCV1751 tics 12
+texture LSCV1764 range LSCV1767 tics 8
+texture LSCV1777 range LSCV1779 tics 1
+texture LSCV1905 range LSCV1908 tics 2
+texture LSCV1912 range LSCV1915 tics 4
+texture LSCV2100 range LSCV2101 tics 10
+texture LSCV2125 range LSCV2128 tics 6
+texture LSCV2359 range LSCV2366 tics 3
+texture LSCV2554 range LSCV2560 tics 2
+texture LSCV2584 range LSCV2591 tics 2
+texture LSCV2592 range LSCV2599 tics 2
+texture LSCV2896 range LSCV2899 tics 2
+texture LSCV2943 range LSCV2946 tics 8
+flat LSCV0342 range LSCV0345 tics 2
+flat LSCV0388 range LSCV0391 tics 4
+switch LSCV0653 on pic LSCV0667 tics 0
+switch LSCV0655 on pic LSCV0669 tics 0
+switch LSCV0656 on pic LSCV0670 tics 0
+switch LSCV0657 on pic LSCV0671 tics 0
+switch LSCV0658 on pic LSCV0672 tics 0
+switch LSCV0665 on pic LSCV0679 tics 0
+
 // Mars War
 texture MSWR0083 range MSWR0086 tics 8 allowdecals
 texture MSWR0333 range MSWR0335 tics 8 allowdecals

@@ -54,6 +54,7 @@ include "mapinfo/JENESIS.txt" // jenesis.wad
 include "mapinfo/JIFFY.txt" // jiffybag.wad
 include "mapinfo/JPCP.txt" // jpcp_map11coopfix.wad
 include "mapinfo/LDOE.txt" // LASTEP1.WAD
+include "mapinfo/LOSTCIV.txt" // joi_lstcv15.wad
 include "mapinfo/KSSHT.txt" // kssht.wad
 include "mapinfo/KSUTRA.txt" // ksutra.wad
 include "mapinfo/MARSW301.txt" // MARSW301.WAD
