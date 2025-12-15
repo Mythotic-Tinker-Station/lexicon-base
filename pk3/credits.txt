@@ -62,6 +62,8 @@ Mars War: Nathan Lineback
 Memento Mori 1: The Innocent Crew, Memento Mori Crew, coop fixes by BLOODWOLF and Lil_Ruff
 Memento Mori 2: The Innocent Crew, Memento Mori Crew, coop fixes by BLOODWOLF
 NeoDoom: Vaccinated Edition: Daniel Lemos, Vaccinated Edition by anonymous author
+Newdoom Community Project: Newdoom Community members
+Newdoom Community Project 2: Newdoom Community members, various fixes by anonymous author
 Nova: The Birth: TeamNOVA
 Perdition's Gate: Wraith Corporation, map names from NightFright
 Perdition's Gate Resurgence: PGR Team

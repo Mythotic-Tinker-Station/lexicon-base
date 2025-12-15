@@ -88,6 +88,8 @@ LEX_BASE_83 = "WSPS";
 LEX_BASE_84 = "ZN30";
 LEX_BASE_85 = "ZNOF";
 LEX_BASE_86 = "EVLT";
+LEX_BASE_87 = "NDC1";
+LEX_BASE_88 = "NDC2";
 
 // Custom actors and metadata for Lexicon Base mapsets
 // 1994 Tune-up Community Project
@@ -1449,3 +1451,25 @@ ZNOF_MAPSET_DATE = "2013";
 ZNOF_MAPSET_MAPS = "32";
 ZNOF_MAPSET_TITLE = "Zones of Fear";
 ZNOF_MAPSET_PACK = "BASE";
+
+// Newdoom Community Project
+NDC1_MAPSET_AUTHORS = "Newdoom Community members";
+NDC1_MAPSET_CUSTOM = "N";
+NDC1_MAPSET_DATE = "2006";
+NDC1_MAPSET_MAPS = "32";
+NDC1_MAPSET_TITLE = "Newdoom Community Project";
+NDC1_MAPSET_PACK = "BASE";
+
+// Newdoom Community Project 2
+NDC2_TAG_GUNNER = "Gunner";
+NDC2_OB_GUNNER = "%o was blasted by a gunner.";
+NDC2_TAG_CACOSPLODE = "Cacosplode";
+NDC2_OB_CACOSPLODE = "%o was caught in a Cacosplode's blast radius.";
+NDC2_ACTOR_1 = "Lexicon_NDC2_CommanderKeen";
+NDC2_ACTOR_2 = "Lexicon_NDC2_WolfensteinSS";
+NDC2_MAPSET_AUTHORS = "Newdoom Community members, various fixes by anonymous author";
+NDC2_MAPSET_CUSTOM = "Y";
+NDC2_MAPSET_DATE = "2009";
+NDC2_MAPSET_MAPS = "32";
+NDC2_MAPSET_TITLE = "Newdoom Community Project 2";
+NDC2_MAPSET_PACK = "BASE";
