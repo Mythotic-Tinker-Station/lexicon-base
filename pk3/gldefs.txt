@@ -8,6 +8,7 @@
 #include "gldefs/HLC1.txt" // Hellcore
 #include "gldefs/HLC2.txt" // Hellcore 2.0
 #include "gldefs/HLTP.txt" // Hell to Pay
+#include "gldefs/LSCV.txt" // Lost Civilization
 #include "gldefs/NEOD.txt" // NeoDoom: Vaccinated Edition
 #include "gldefs/PDGR.txt" // Perdition's Gate Resurgence
 #include "gldefs/TVRV.txt" // Revolution!

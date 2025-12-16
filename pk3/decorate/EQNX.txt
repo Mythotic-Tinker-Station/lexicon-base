@@ -514,3 +514,5 @@ Actor Lexicon_EQNX_Zombieman : Zombieman
 
 Actor Lexicon_EQNX_ShotgunGuy : ShotgunGuy  { AttackSound "EQNX/DSSHOTGN" DropItem "Lexicon_EQNX_Shotgun" }
 Actor Lexicon_EQNX_ChaingunGuy : ChaingunGuy  { AttackSound "EQNX/DSSHOTGN" DropItem "Lexicon_EQNX_Chaingun" }
+
+ACTOR Lexicon_EQNX_SpiderMastermind : SpiderMastermind { AttackSound "EQNX/DSSHOTGN" }

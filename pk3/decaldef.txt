@@ -81,6 +81,19 @@ generator Lexicon_JENS_WolfensteinSS	BulletChip
 // Jiffy Bag
 generator Lexicon_JFBG_SpiderMastermind	BulletChip
 
+// Lost Civilization
+generator Lexicon_LSCV_ArachnotronPlasma	ArachnotronScorch
+generator Lexicon_LSCV_PlasmaBall	PlasmaScorch
+generator Lexicon_LSCV_Pistol	BulletChip
+generator Lexicon_LSCV_Shotgun	BulletChip
+generator Lexicon_LSCV_Chaingun	BulletChip
+
+generator Lexicon_LSCV_ZombieMan	BulletChip
+generator Lexicon_LSCV_ShotgunGuy	BulletChip
+generator Lexicon_LSCV_ChaingunGuy	BulletChip
+generator Lexicon_LSCV_WolfensteinSS	BulletChip
+generator Lexicon_LSCV_SpiderMastermind	BulletChip
+
 // Rise of the Triangles
 generator Lexicon_ROTR_ArachnotronPlasma	ArachnotronScorch
 generator Lexicon_ROTR_PlasmaBall	PlasmaScorch
