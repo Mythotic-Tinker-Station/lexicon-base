@@ -75,6 +75,9 @@ generator Lexicon_GDWN_WolfensteinSS	BulletChip
 // Gridlock 64
 generator Lexicon_GD64_ZombieMan	BulletChip
 
+// H2H-Xmas
+generator Lexicon_H2HX_ZombieMan	BulletChip
+
 // Jenesis
 generator Lexicon_JENS_WolfensteinSS	BulletChip
 
