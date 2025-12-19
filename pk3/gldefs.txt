@@ -5,6 +5,7 @@
 #include "gldefs/EQNX.txt" // Equinox
 #include "gldefs/ETDM.txt" // Eternal Doom
 #include "gldefs/GD64.txt" // Gridlock 64
+#include "gldefs/H2HX.txt" // H2H-Xmas
 #include "gldefs/HLC1.txt" // Hellcore
 #include "gldefs/HLC2.txt" // Hellcore 2.0
 #include "gldefs/HLTP.txt" // Hell to Pay
