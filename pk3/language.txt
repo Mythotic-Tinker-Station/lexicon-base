@@ -237,7 +237,7 @@ CCH2_MAPSET_TITLE = "Community Chest 2";
 CCH2_MAPSET_PACK = "BASE";
 
 // Community Chest 3
-CCH3_MAPSET_AUTHORS = "Andy Leaver, CC3 Team, coop fixes by BLOODWOLF, MAP03 slightly modified by cubebert";
+CCH3_MAPSET_AUTHORS = "Andy Leaver, CC3 Team, coop fixes by BLOODWOLF, MAP03 and MAP10 slightly modified by cubebert";
 CCH3_MAPSET_CUSTOM = "N";
 CCH3_MAPSET_DATE = "2007";
 CCH3_MAPSET_MAPS = "32";
