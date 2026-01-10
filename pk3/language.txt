@@ -92,6 +92,7 @@ LEX_BASE_87 = "NDC1";
 LEX_BASE_88 = "NDC2";
 LEX_BASE_89 = "LSCV";
 LEX_BASE_90 = "H2HX";
+LEX_BASE_91 = "VXRL";
 
 // Custom actors and metadata for Lexicon Base mapsets
 // 1994 Tune-up Community Project
@@ -1591,3 +1592,11 @@ H2HX_MAPSET_DATE = "1995";
 H2HX_MAPSET_MAPS = "32";
 H2HX_MAPSET_TITLE = "H2H-Xmas";
 H2HX_MAPSET_PACK = "BASE";
+
+// Vertex Relocation
+VXRL_MAPSET_AUTHORS = "4chan's /vr/ board";
+VXRL_MAPSET_CUSTOM = "N";
+VXRL_MAPSET_DATE = "2025";
+VXRL_MAPSET_MAPS = "33";
+VXRL_MAPSET_TITLE = "Vertex Relocation";
+VXRL_MAPSET_PACK = "BASE";
