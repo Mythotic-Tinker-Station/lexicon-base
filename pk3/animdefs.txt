@@ -1454,3 +1454,15 @@ switch NDC20726 on pic NDC20727 tics 0
 // H2H-Xmas
 texture H2HX0015 range H2HX0018 tics 8
 switch H2HX0005 on pic H2HX0010 tics 0
+
+// Vertex Relocation
+texture VXRL0085 range VXRL0088 tics 8
+texture VXRL0098 range VXRL0100 tics 8
+texture VXRL0119 range VXRL0122 tics 8
+texture VXRL0309 range VXRL0312 tics 8
+flat VXRL0052 range VXRL0055 tics 8
+flat VXRL0060 range VXRL0062 tics 8
+flat VXRL0068 range VXRL0071 tics 2
+switch VXRL0072 on pic VXRL0077 tics 0
+switch VXRL0073 on pic VXRL0078 tics 0
+switch VXRL0300 on pic VXRL0301 tics 0
