@@ -4,10 +4,12 @@ Lexicon Base Authors
 200 Minutes of /vr/: 4chan's /vr/ board
 300 Minutes of /vr/: 4chan's /vr/ board
 400 Minutes of /vr/: 4chan's /vr/ board
+Akeldama: Akeldama Team
 Alien Vendetta: AV Team, MAP20 coop fix by BLOODWOLF
 Ancient Aliens: Paul DeBruyne
 Anomaly Report: Michael Jan Krizik
 ASDOOM][: The Final Countdown: Andy Sheppard
+Bloodspeed: StormCatcher.77, Memfis, Chaingunner, Doom Power forum members
 Chainworm Kommando: Chainworm666
 Claustrophobia 1024: Mechadon, Claustrophobia 1024 Team
 Claustrophobia 1024 2: Jodwin, Claustrophobia 1024 2 Team
@@ -80,8 +82,11 @@ Stardate 20X7: Zach Stephens
 Sunlust: Zach Stephens, Daniel Jakobsson, coop fixes by BLOODWOLF
 Super MAYhem 17: Marcaek, Super MAYhem 17 Team
 Swift Death: franckFRAG, JCD, Memfis
+Switcheroom 2: Various authors
+Switcheroom 2: The Forgotten Maps: Various authors
 Team Rocket: Blasting Off at the Speed of Mapping: Team Rocket
 Team Rocket 2: Looks Like We're Blasting Off Again: Team Rocket
+The Long Trek Back Home: hervoheebo
 UAC Ultra: Jamie Bainbridge, Jon Vail
 Unholy Realms: Brian Knox, Unholy Realms Team
 Valiant: Vaccinated Edition: Paul DeBruyne, coopfixes by BLOODWOLF

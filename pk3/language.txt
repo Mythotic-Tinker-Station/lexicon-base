@@ -93,6 +93,11 @@ LEX_BASE_88 = "NDC2";
 LEX_BASE_89 = "LSCV";
 LEX_BASE_90 = "H2HX";
 LEX_BASE_91 = "VXRL";
+LEX_BASE_92 = "SWR2";
+LEX_BASE_93 = "SWRY";
+LEX_BASE_94 = "BDSP";
+LEX_BASE_95 = "AKDL";
+LEX_BASE_96 = "D2TK";
 
 // Custom actors and metadata for Lexicon Base mapsets
 // 1994 Tune-up Community Project
@@ -1600,3 +1605,46 @@ VXRL_MAPSET_DATE = "2025";
 VXRL_MAPSET_MAPS = "33";
 VXRL_MAPSET_TITLE = "Vertex Relocation";
 VXRL_MAPSET_PACK = "BASE";
+
+// Switcheroom 2
+SWR2_MAPSET_AUTHORS = "Various authors";
+SWR2_MAPSET_CUSTOM = "N";
+SWR2_MAPSET_DATE = "2021";
+SWR2_MAPSET_MAPS = "32";
+SWR2_MAPSET_TITLE = "Switcheroom 2";
+SWR2_MAPSET_PACK = "BASE";
+
+// Switcheroom 2: The Forgotten Maps
+SWRY_MAPSET_AUTHORS = "Various authors";
+SWRY_MAPSET_CUSTOM = "N";
+SWRY_MAPSET_DATE = "2021";
+SWRY_MAPSET_MAPS = "23";
+SWRY_MAPSET_TITLE = "Switcheroom 2: The Forgotten Maps";
+SWRY_MAPSET_PACK = "BASE";
+
+// Bloodspeed
+BDSP_MAPSET_AUTHORS = "StormCatcher.77, Memfis, Chaingunner, Doom Power forum members";
+BDSP_MAPSET_CUSTOM = "N";
+BDSP_MAPSET_DATE = "2018";
+BDSP_MAPSET_MAPS = "33";
+BDSP_MAPSET_TITLE = "Bloodspeed";
+BDSP_MAPSET_PACK = "BASE";
+
+// Akeldama
+AKDL_MAPSET_AUTHORS = "Akeldama Team";
+AKDL_MAPSET_CUSTOM = "N";
+AKDL_MAPSET_DATE = "2020";
+AKDL_MAPSET_MAPS = "32";
+AKDL_MAPSET_TITLE = "Akeldama";
+AKDL_MAPSET_PACK = "BASE";
+
+// The Long Trek Back Home
+D2TK_ACTOR_1 = "Lexicon_D2TK_ColonGibs";
+D2TK_ACTOR_2 = "Lexicon_D2TK_SmallBloodPool";
+D2TK_ACTOR_3 = "Lexicon_D2TK_BrainStem";
+D2TK_MAPSET_AUTHORS = "hervoheebo";
+D2TK_MAPSET_CUSTOM = "Y";
+D2TK_MAPSET_DATE = "2021";
+D2TK_MAPSET_MAPS = "32";
+D2TK_MAPSET_TITLE = "The Long Trek Back Home";
+D2TK_MAPSET_PACK = "BASE";

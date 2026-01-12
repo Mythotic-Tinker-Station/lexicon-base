@@ -302,6 +302,20 @@ switch AALI6650 on pic AALI6649 tics 0
 switch YYYY0016 on pic YYYY0017 tics 0
 switch YYYY0317 on pic YYYY0318 tics 0
 
+// Akeldama
+texture AKDL0066 range AKDL0069 tics 8
+texture AKDL0257 range AKDL0260 tics 8 allowdecals
+switch AKDL0046 on pic AKDL0056 tics 0
+switch AKDL0047 on pic AKDL0057 tics 0
+switch AKDL0048 on pic AKDL0058 tics 0
+switch AKDL0049 on pic AKDL0059 tics 0
+switch AKDL0050 on pic AKDL0060 tics 0
+switch AKDL0051 on pic AKDL0061 tics 0
+switch AKDL0052 on pic AKDL0062 tics 0
+switch AKDL0053 on pic AKDL0063 tics 0
+switch AKDL0054 on pic AKDL0064 tics 0
+switch AKDL0055 on pic AKDL0065 tics 0
+
 // Anomaly Report
 texture ANRP0044 range ANRP0047 tics 8 allowdecals
 texture ANRP0048 range ANRP0051 tics 8
@@ -318,6 +332,28 @@ switch ANRP0152 on pic ANRP0156 tics 0
 switch ANRP0153 on pic ANRP0157 tics 0
 switch ANRP0446 on pic ANRP0450 tics 0
 switch ANRP0447 on pic ANRP0451 tics 0
+
+// Bloodspeed
+texture BDSP0365 range BDSP0368 tics 8
+texture BDSP0796 range BDSP0799 tics 8
+texture BDSP0832 range BDSP0834 tics 8 allowdecals
+flat BDSP0168 range BDSP0171 tics 8
+switch BDSP0237 on pic BDSP0252 tics 0
+switch BDSP0239 on pic BDSP0254 tics 0
+switch BDSP0240 on pic BDSP0772 tics 0
+switch BDSP0241 on pic BDSP0256 tics 0
+switch BDSP0242 on pic BDSP0257 tics 0
+switch BDSP0244 on pic BDSP0259 tics 0
+switch BDSP0247 on pic BDSP0262 tics 0
+switch BDSP0250 on pic BDSP0265 tics 0
+switch BDSP0251 on pic BDSP0266 tics 0
+switch BDSP0715 on pic BDSP0716 tics 0
+switch BDSP0765 on pic BDSP0770 tics 0
+switch BDSP0823 on pic BDSP0824 tics 0
+switch BDSP0830 on pic BDSP0844 tics 0
+switch BDSP0835 on pic BDSP0836 tics 0
+switch BDSP0839 on pic BDSP0842 tics 0
+switch BDSP0840 on pic BDSP0841 tics 0
 
 // Chainworm Kommando
 texture	CWKM0098 range CWKM0101 tics 8
@@ -1466,3 +1502,8 @@ flat VXRL0068 range VXRL0071 tics 2
 switch VXRL0072 on pic VXRL0077 tics 0
 switch VXRL0073 on pic VXRL0078 tics 0
 switch VXRL0300 on pic VXRL0301 tics 0
+
+// Switcheroom 2
+texture SWR20001 range SWR20004 tics 8
+switch SWR20005 on pic SWR20010 tics 0
+switch SWR20006 on pic SWR20011 tics 0
