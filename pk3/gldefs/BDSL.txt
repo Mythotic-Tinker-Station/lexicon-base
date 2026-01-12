@@ -1,0 +1,22 @@
+pointlight Lexicon_BDSL_BLUEARMOR1
+{
+    color 0.6 0.0 0.0
+    size 48
+}
+
+pointlight Lexicon_BDSL_BLUEARMOR2
+{
+    color 0.6 0.0 0.0
+    size 32
+}
+
+object Lexicon_BDSL_BlueArmor
+{
+	frame LX67K { light Lexicon_BDSL_BLUEARMOR1 }
+	frame LX67L { light Lexicon_BDSL_BLUEARMOR2 }
+}
+
+object Lexicon_BDSL_Column
+{
+    frame LX67 { light LAMP }
+}

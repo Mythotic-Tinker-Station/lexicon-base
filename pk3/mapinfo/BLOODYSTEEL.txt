@@ -1,0 +1,128 @@
+// Bloody Steel Mapinfo
+
+defaultmap
+{
+	nojump
+	nocrouch
+}
+
+map BDSL01 "Slume"
+{
+	titlepatch = "BDSLV00"
+	next = "BDSL02"
+	secretnext = "BDSL02"
+	sky1 = "BDSL0175"
+	music = "D_BDSL01"
+	intermusic = "D_BDSLIN"
+	ExitPic = "BDSLINT"
+	EnterPic = "BDSLINT"
+}
+
+map BDSL02 "Underground factory"
+{
+	titlepatch = "BDSLV01"
+	next = "BDSL03"
+	secretnext = "BDSL03"
+	sky1 = "BDSL0175"
+	music = "D_BDSL02"
+	intermusic = "D_BDSLIN"
+	ExitPic = "BDSLINT"
+	EnterPic = "BDSLINT"
+}
+
+map BDSL03 "Blast furnace"
+{
+	titlepatch = "BDSLV02"
+	next = "BDSL04"
+	secretnext = "BDSL04"
+	sky1 = "BDSL0175"
+	music = "D_BDSL03"
+	intermusic = "D_BDSLIN"
+	ExitPic = "BDSLINT"
+	EnterPic = "BDSLINT"
+}
+
+map BDSL04 "Alarm at factory"
+{
+	titlepatch = "BDSLV03"
+	next = "BDSL05"
+	secretnext = "BDSL05"
+	sky1 = "BDSL0175"
+	music = "D_BDSL04"
+	intermusic = "D_BDSLIN"
+	ExitPic = "BDSLINT"
+	EnterPic = "BDSLINT"
+}
+
+map BDSL05 "Horror in the mine"
+{
+	titlepatch = "BDSLV04"
+	next = "BDSL06"
+	secretnext = "BDSL06"
+	sky1 = "BDSL0175"
+	music = "D_BDSL05"
+	intermusic = "D_BDSLIN"
+	ExitPic = "BDSLINT"
+	EnterPic = "BDSLINT"
+}
+
+map BDSL06 "Mixture of ages 1 part. 18th century"
+{
+	titlepatch = "BDSLV05"
+	next = "BDSL07"
+	secretnext = "BDSL07"
+	sky1 = "BDSL0175"
+	music = "D_BDSL06"
+	intermusic = "D_BDSLIN"
+	ExitPic = "BDSLINT"
+	EnterPic = "BDSLINT"
+}
+
+map BDSL07 "Mixture of ages 2 part. 3th century"
+{
+	titlepatch = "BDSLV06"
+	next = "BDSL08"
+	secretnext = "BDSL08"
+	sky1 = "BDSL0175"
+	music = "D_BDSL07"
+	intermusic = "D_BDSLIN"
+	ExitPic = "BDSLINT"
+	EnterPic = "BDSLINT"
+	Map07Special
+}
+
+map BDSL08 "The white sea"
+{
+	titlepatch = "BDSLV07"
+	next = "BDSL09"
+	secretnext = "BDSL09"
+	sky1 = "BDSL0175"
+	music = "D_BDSL08"
+	intermusic = "D_BDSLIN"
+	ExitPic = "BDSLINT"
+	EnterPic = "BDSLINT"
+}
+
+map BDSL09 "The end of Bloody Steel"
+{
+	titlepatch = "BDSLV08"
+	next = "BDSL10"
+	secretnext = "BDSL10"
+	sky1 = "BDSL0175"
+	music = "D_BDSL09"
+	intermusic = "D_BDSLIN"
+	ExitPic = "BDSLINT"
+	EnterPic = "BDSLINT"
+}
+
+map BDSL10 "Circle of death (bonus)"
+{
+	titlepatch = "BDSLV09"
+	next = "VR"
+	secretnext = "VR"
+	sky1 = "BDSL0175"
+	music = "D_BDSL10"
+	intermusic = "D_BDSLIN"
+	ExitPic = "BDSLINT"
+	EnterPic = "BDSLINT"
+}

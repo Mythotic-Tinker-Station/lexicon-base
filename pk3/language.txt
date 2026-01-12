@@ -98,6 +98,7 @@ LEX_BASE_93 = "SWRY";
 LEX_BASE_94 = "BDSP";
 LEX_BASE_95 = "AKDL";
 LEX_BASE_96 = "D2TK";
+LEX_BASE_97 = "BDSL";
 
 // Custom actors and metadata for Lexicon Base mapsets
 // 1994 Tune-up Community Project
@@ -1648,3 +1649,30 @@ D2TK_MAPSET_DATE = "2021";
 D2TK_MAPSET_MAPS = "32";
 D2TK_MAPSET_TITLE = "The Long Trek Back Home";
 D2TK_MAPSET_PACK = "BASE";
+
+// Bloody Steel
+BDSL_ACTOR_1 = "Lexicon_BDSL_TallGreenColumn";
+BDSL_ACTOR_2 = "Lexicon_BDSL_ShortGreenColumn";
+BDSL_ACTOR_3 = "Lexicon_BDSL_TallRedColumn";
+BDSL_ACTOR_4 = "Lexicon_BDSL_ShortRedColumn";
+BDSL_ACTOR_5 = "Lexicon_BDSL_HeartColumn";
+BDSL_ACTOR_6 = "Lexicon_BDSL_SkullColumn";
+BDSL_ACTOR_7 = "Lexicon_BDSL_YellowSkull";
+BDSL_ACTOR_8 = "Lexicon_BDSL_EvilEye";
+BDSL_ACTOR_9 = "Lexicon_BDSL_TorchTree";
+BDSL_ACTOR_10 = "Lexicon_BDSL_BloodyTwitch";
+BDSL_ACTOR_11 = "Lexicon_BDSL_BigTree";
+BDSL_ACTOR_12 = "Lexicon_BDSL_NonsolidTwitch";
+BDSL_ACTOR_13 = "Lexicon_BDSL_CommanderKeen";
+BDSL_ACTOR_14 = "Lexicon_BDSL_TechLamp2";
+BDSL_ACTOR_15 = "Lexicon_BDSL_BossBrain";
+BDSL_ACTOR_16 = "Lexicon_BDSL_BlueArmor";
+BDSL_ACTORALT_16 = "BlueArmor";
+BDSL_ACTOR_17 = "Lexicon_BDSL_Column";
+BDSL_MSG_YELWSKUL = "Picked up an old yellow key.";
+BDSL_MAPSET_AUTHORS = "Big Memka";
+BDSL_MAPSET_CUSTOM = "Y";
+BDSL_MAPSET_DATE = "2014";
+BDSL_MAPSET_MAPS = "10";
+BDSL_MAPSET_TITLE = "Bloody Steel";
+BDSL_MAPSET_PACK = "BASE";

@@ -1,0 +1,497 @@
+Texture "BDSL0166", 544, 128
+{
+	Patch "RP2_1", 0, 0
+	Patch "BDSL0721", 32, 0
+	Patch "BDSL0711", 96, 0
+	Patch "BDSL0901", 160, 0
+	Patch "BDSL0786", 224, 0
+	Patch "BDSL0782", 288, 0
+	Patch "BDSL0742", 416, 0
+	Patch "BDSL0714", 480, 0
+}
+Texture "BDSL0167", 544, 128
+{
+	Patch "RP2_2", 0, 0
+	Patch "BDSL0722", 32, 0
+	Patch "BDSL0712", 96, 0
+	Patch "BDSL0902", 160, 0
+	Patch "BDSL0787", 224, 0
+	Patch "BDSL0783", 288, 0
+	Patch "BDSL0743", 416, 0
+	Patch "BDSL0715", 480, 0
+}
+Texture "BDSL0168", 544, 128
+{
+	Patch "RP2_3", 0, 0
+	Patch "BDSL0723", 32, 0
+	Patch "BDSL0713", 96, 0
+	Patch "BDSL0903", 160, 0
+	Patch "BDSL0788", 224, 0
+	Patch "BDSL0784", 288, 0
+	Patch "BDSL0744", 416, 0
+	Patch "BDSL0714", 480, 0
+}
+Texture "BDSL0169", 544, 128
+{
+	Patch "RP2_4", 0, 0
+	Patch "BDSL0724", 32, 0
+	Patch "BDSL0713", 96, 0
+	Patch "BDSL0904", 160, 0
+	Patch "BDSL0781", 224, 0
+	Patch "BDSL0785", 288, 0
+	Patch "BDSL0741", 416, 0
+	Patch "BDSL0714", 480, 0
+}
+Texture "BDSL0176", 128, 128
+{
+	Patch "WALL62_1", 0, 0
+	Patch "SW1S0", 48, 72
+}
+Texture "BDSL0177", 128, 128
+{
+	Patch "WALL62_1", 0, 0
+	Patch "SW1S0", 48, 72
+}
+Texture "BDSL0178", 128, 72
+{
+	Patch "W13_1", 0, 0
+	Patch "SW1S0", 15, 18
+	Patch "W13_1", 64, 0
+	Patch "BDSL0597", 79, 18
+}
+Texture "BDSL0179", 64, 72
+{
+	Patch "W32_4", 0, 0
+	Patch "SW2S0", 0, 16
+	Patch "W33_8", 0, 64
+	Patch "BDSL0595", 32, 16
+}
+Texture "BDSL0180", 128, 128
+{
+	Patch "WALL49_1", 0, 0
+	Patch "SW2_7", 12, 66
+	Patch "BDSL0550", 64, 0
+	Patch "BDSL0599", 78, 64
+}
+Texture "BDSL0181", 128, 128
+{
+	Patch "HELL6_3", 0, 0
+	Patch "SW2_5", 0, 59
+	Patch "WALL47_2", 64, 0
+	Patch "BDSL0950", 80, 48
+}
+Texture "BDSL0182", 128, 128
+{
+	Patch "RW48_4", 0, 0
+	Patch "BDSL0593", 64, 64
+	Patch "BDSL0593", 64, 0
+}
+Texture "BDSL0183", 128, 128
+{
+	Patch "WLA128_1", 0, 0
+	Patch "WARNB0", 24, 73
+	Patch "BDSL0356", 64, 0
+	Patch "WARNB0", 88, 72
+}
+Texture "BDSL0184", 128, 128
+{
+	Patch "WALL62_1", 0, 0
+	Patch "SW1S0", 48, 72
+}
+Texture "BDSL0185", 128, 128
+{
+	Patch "W28_8", 0, 64
+	Patch "W28_8", 0, 0
+	Patch "SW1S0", 16, 78
+	Patch "BDSL0246", 64, 0
+	Patch "SW1S0", 80, 64
+}
+Texture "BDSL0186", 128, 128
+{
+	Patch "WALL62_1", 0, 0
+	Patch "SW1S0", 48, 72
+}
+Texture "BDSL0187", 128, 128
+{
+	Patch "WALL62_1", 0, 0
+	Patch "SW1S0", 48, 72
+}
+Texture "BDSL0188", 128, 128
+{
+	Patch "WALL62_1", 0, 0
+	Patch "SW1S1", 48, 72
+}
+Texture "BDSL0189", 128, 128
+{
+	Patch "WALL62_1", 0, 0
+	Patch "SW1S1", 48, 72
+}
+Texture "BDSL0190", 128, 72
+{
+	Patch "W13_1", 0, 0
+	Patch "SW1S1", 15, 18
+	Patch "W13_1", 64, 0
+	Patch "BDSL0598", 79, 18
+}
+Texture "BDSL0191", 64, 72
+{
+	Patch "W32_4", 0, 0
+	Patch "SW2S1", 0, 16
+	Patch "W33_8", 0, 64
+	Patch "BDSL0596", 32, 16
+}
+Texture "BDSL0192", 128, 128
+{
+	Patch "WALL49_1", 0, 0
+	Patch "SW2_8", 12, 66
+	Patch "BDSL0550", 64, 0
+	Patch "BDSL0600", 78, 66
+}
+Texture "BDSL0193", 128, 128
+{
+	Patch "HELL6_3", 0, 0
+	Patch "SW2_6", 0, 59
+	Patch "WALL47_2", 64, 0
+	Patch "BDSL0949", 80, 48
+}
+Texture "BDSL0194", 128, 128
+{
+	Patch "RW48_2", 0, 0
+	Patch "BDSL0594", 64, 64
+	Patch "BDSL0594", 64, 0
+}
+Texture "BDSL0195", 128, 128
+{
+	Patch "WLA128_1", 0, 0
+	Patch "WARNA0", 24, 73
+	Patch "BDSL0356", 64, 0
+	Patch "WARNA0", 88, 72
+}
+Texture "BDSL0196", 128, 128
+{
+	Patch "WALL62_1", 0, 0
+	Patch "SW1S1", 48, 72
+}
+Texture "BDSL0197", 128, 128
+{
+	Patch "W28_8", 0, 64
+	Patch "W28_8", 0, 0
+	Patch "SW1S1", 16, 78
+	Patch "BDSL0246", 64, 0
+	Patch "SW1S1", 80, 64
+}
+Texture "BDSL0198", 128, 128
+{
+	Patch "WALL62_1", 0, 0
+	Patch "SW1S1", 48, 72
+}
+Texture "BDSL0199", 128, 128
+{
+	Patch "WALL62_1", 0, 0
+	Patch "SW1S1", 48, 72
+}
+Texture "BDSL0288", 128, 256
+{
+	Patch "BDSL1268", 0, 0
+	Patch "BDSL1268", 0, 128
+}
+Texture "BDSL0304", 39, 46
+{
+	Patch "BDSL1284", 0, 0
+	Patch "BDSL0305", 0, 23
+}
+Texture "BDSL0438", 64, 128
+{
+	Patch "BDSL1418", 0, 0
+	Patch "BDSL1418", 0, 64
+}
+Texture "BDSL0439", 128, 256
+{
+	Patch "BDSL1419", 0, 0
+	Patch "BDSL1419", 0, 128
+}
+Texture "BDSL0458", 64, 128
+{
+	Patch "BDSL1438", 0, 0
+	Patch "BDSL0461", 0, 96
+}
+Texture "BDSL0660", 32, 46
+{
+	Patch "BDSL1649", 0, 0
+}
+Texture "BDSL0725", 128, 128
+{
+	Patch "BDSL0252", 0, 0
+	Patch "BDSL0675", 32, 32
+}
+Texture "BDSL0726", 32, 128
+{
+	Patch "TTALL1_2", 12, 0
+	Patch "BDSL0376", 0, 0
+}
+Texture "BDSL0727", 24, 128
+{
+	Patch "TTALL1_2", 8, 0
+	Patch "BDSL0376", -104, 0
+}
+Texture "BDSL0728", 32, 128
+{
+	Patch "BDSL0240", 0, 0
+	Patch "BDSL0376", 0, 24
+}
+Texture "BDSL0729", 48, 128
+{
+	Patch "BDSL0240", 0, 0
+	Patch "BDSL0241", 32, 0
+	Patch "BDSL0376", -192, 24
+}
+Texture "BDSL0730", 64, 128
+{
+	Patch "BDSL0246", 0, 0
+	Patch "BDSL0675", 0, 32
+	Patch "STEP08", 32, 120
+	Patch "STEP08", 0, 120
+	Patch "STEP08", 0, 0
+	Patch "STEP08", 32, 0
+}
+Texture "BDSL0731", 64, 128
+{
+	Patch "BDSL0246", 0, 0
+	Patch "STEP09", 0, 0
+	Patch "STEP09", 32, 120
+	Patch "STEP09", 0, 120
+	Patch "STEP09", 32, 0
+}
+Texture "BDSL0732", 32, 64
+{
+	Patch "BDSL0241", 0, 0
+	Patch "BDSL0241", 16, 0
+	Patch "RW34_2", -16, 16
+}
+Texture "BDSL0733", 64, 64
+{
+	Patch "RW10_1", 0, 0
+	Patch "RW34_2", 0, 16
+}
+Texture "BDSL0734", 64, 128
+{
+	Patch "BDSL0354", 0, 0
+	Patch "RW34_2", 0, 32
+	Patch "RW34_2", 64, 32
+}
+Texture "BDSL0735", 128, 256
+{
+	Patch "BDSL0620", 0, 128
+	Patch "BDSL0615", 0, 0
+}
+Texture "BDSL0736", 64, 144
+{
+	Patch "BDSL0542", 0, 0
+	Patch "BDSL0542", 0, 64
+	Patch "BDSL0543", 0, 80
+}
+Texture "BDSL0737", 128, 128
+{
+	Patch "BDSL0685", 0, 0
+	Patch "BDSL0564", 6, 26
+}
+Texture "BDSL0738", 128, 128
+{
+	Patch "BDSL0613", 0, 0
+	Patch "BDSL0453", 0, 40
+	Patch "BDSL0454", 56, 16
+	Patch "BDSL0455", 28, 48
+}
+Texture "BDSL0739", 64, 256
+{
+	Patch "BDSL0521", 0, 0
+	Patch "BDSL0521", 0, 112
+	Patch "BDSL0521", 0, 128
+}
+Texture "BDSL0740", 128, 128
+{
+	Patch "BDSL0521", 0, 0
+	Patch "BDSL0521", 64, 0
+	Patch "BDSL0562", 0, 32
+}
+Texture "BDSL0750", 128, 320
+{
+	Patch "BDSL0631", 0, 192
+	Patch "BDSL0627", 0, 64
+	Patch "BDSL0623", 0, 64
+	Patch "BDSL0623", 0, 0
+}
+Texture "BDSL0761", 33, 49
+{
+	Patch "BDSL1134", 0, 0
+}
+Texture "BDSL0763", 36, 47
+{
+	Patch "BDSL1142", 0, 0
+}
+Texture "BDSL0764", 38, 49
+{
+	Patch "BDSL1133", 0, 0
+}
+Texture "BDSL0796", 128, 384
+{
+	Patch "BDSL0285", 0, 256
+	Patch "BDSL0285", 64, 256
+	Patch "BDSL0472", 0, 0
+	Patch "BDSL0472", 64, 0
+	Patch "BDSL0472", 0, 128
+	Patch "BDSL0472", 64, 128
+	Patch "BDSL0487", 0, -112
+}
+Texture "BDSL0797", 64, 16
+{
+	Patch "BDSL0591", 0, 0
+}
+Texture "BDSL0798", 64, 16
+{
+	Patch "BDSL0319", 0, -108
+}
+Texture "BDSL0799", 64, 400
+{
+	Patch "BDSL0348", 0, 0
+	Patch "BDSL0422", 0, 256
+	Patch "BDSL0348", 0, 104
+	Patch "BDSL0422", 0, 384
+	Patch "BDSL0348", 0, 128
+}
+Texture "BDSL0800", 128, 400
+{
+	Patch "BDSL0348", 0, 0
+	Patch "BDSL0348", 0, 104
+	Patch "BDSL0348", 0, 128
+	Patch "BDSL0423", 0, 256
+	Patch "BDSL0348", 64, 0
+	Patch "BDSL0348", 64, 104
+	Patch "BDSL0348", 64, 128
+	Patch "BDSL0423", 0, 384
+}
+Texture "BDSL0801", 64, 400
+{
+	Patch "BDSL0349", 0, 0
+	Patch "BDSL0348", 0, 112
+	Patch "BDSL0349", 0, 128
+	Patch "BDSL0422", 0, 256
+	Patch "BDSL0422", 0, 384
+}
+Texture "BDSL0802", 64, 400
+{
+	Patch "BDSL0349", 0, 0
+	Patch "BDSL0346", 0, 112
+	Patch "BDSL0345", 0, 128
+	Patch "BDSL0422", 0, 256
+	Patch "BDSL0422", 0, 384
+}
+Texture "BDSL0803", 128, 384
+{
+	Patch "BDSL0341", 0, 0
+	Patch "RW34_1", 0, 64
+	Patch "RW34_1", 64, 64
+	Patch "RW34_1", 0, 128
+	Patch "RW34_1", 64, 128
+	Patch "RW34_1", 0, 256
+	Patch "RW34_1", 64, 256
+}
+Texture "BDSL0888", 64, 160
+{
+	Patch "BDSL0319", 0, 0
+	Patch "BDSL0887", 4, 16
+	Patch "BDSL0896", 0, 108
+}
+Texture "BDSL0897", 64, 192
+{
+	Patch "BDSL0895", 0, 0
+	Patch "BDSL0896", 0, 128
+	Patch "BDSL0887", 4, 34
+}
+Texture "BDSL0898", 64, 160
+{
+	Patch "BDSL0319", 0, 0
+	Patch "BDSL0896", 0, 108
+}
+Texture "BDSL0899", 64, 192
+{
+	Patch "BDSL0895", 0, 0
+	Patch "BDSL0896", 0, 128
+}
+Texture "BDSL0918", 128, 256
+{
+	Patch "BDSL0914", 0, 0
+	Patch "BDSL0914", 64, 0
+	Patch "BDSL0912", 0, 0
+	Patch "BDSL0913", 64, 128
+	Patch "BDSL0913", 0, 128
+}
+Texture "BDSL0919", 128, 256
+{
+	Patch "BDSL0914", 0, 0
+	Patch "BDSL0914", 64, 0
+	Patch "BDSL0887", 36, 32
+	Patch "BDSL0912", 0, 0
+	Patch "BDSL0913", 0, 128
+	Patch "BDSL0913", 64, 128
+}
+Texture "BDSL0928", 256, 128
+{
+	Patch "BDSL0891", 0, 0
+	Patch "BDSL0927", 0, 0
+	Patch "BDSL0927", 64, 0
+	Patch "BDSL0927", 128, 0
+	Patch "BDSL0927", 192, 0
+}
+Texture "BDSL0930", 256, 256
+{
+	Patch "BDSL0891", 0, 0
+	Patch "BDSL0927", 0, 0
+	Patch "BDSL0927", 64, 0
+	Patch "BDSL0927", 128, 0
+	Patch "BDSL0927", 192, 0
+	Patch "BDSL0929", 0, 0
+	Patch "BDSL0929", 128, 0
+	Patch "BDSL0891", 0, 128
+	Patch "BDSL0927", 0, 128
+	Patch "BDSL0927", 64, 128
+	Patch "BDSL0927", 128, 128
+	Patch "BDSL0927", 192, 128
+}
+Texture "BDSL0937", 128, 256
+{
+	Patch "BDSL0931", 0, 128
+	Patch "BDSL0917", 0, 0
+}
+Texture "BDSL0938", 128, 256
+{
+	Patch "BDSL0931", 0, 128
+	Patch "BDSL0917", 0, 0
+	Patch "BDSL0932", 16, 32
+	Patch "BDSL0932", 78, 32
+}
+Texture "BDSL0939", 128, 256
+{
+	Patch "BDSL0933", 64, 128
+	Patch "BDSL0933", 0, 128
+	Patch "BDSL0917", 0, 0
+}
+Texture "BDSL0951", 96, 64
+{
+	Patch "BDSL0241", 0, 0
+	Patch "BDSL0241", 16, 0
+	Patch "BDSL0241", 32, 0
+	Patch "BDSL0241", 48, 0
+	Patch "BDSL0241", 64, 0
+	Patch "BDSL0241", 80, 0
+	Patch "RW34_2", -16, 24
+	Patch "RW34_2", 48, 24
+	Patch "BDSL0665", 0, 40
+}
+Texture "BDSL0967", 128, 256
+{
+	Patch "BDSL0620", 0, 128
+	Patch "BDSL0615", 0, 0
+	Patch "BDSL0695", 38, 24
+	Patch "BDSL0695", 38, 112
+}
