@@ -7,9 +7,11 @@ include "mapinfo/300MINVR.txt" // 300minvr.wad
 include "mapinfo/400MINVR.txt" // 400minvr.wad
 include "mapinfo/25YOE.txt" // ph_25yoe.wad
 include "mapinfo/AA.txt" // aaliens_v1_2.wad
+include "mapinfo/AKELDAMA.txt" // akeldama.wad
 include "mapinfo/AR.txt" // ar.wad
 include "mapinfo/ASDOOM2.txt" // ASD2.WAD
 include "mapinfo/AV.txt" // av_map20coopfix.wad
+include "mapinfo/BLOODSPEED.txt" // bdsp.wad
 include "mapinfo/CCHEST1.txt" // cchest_map15coopfix.wad
 include "mapinfo/CCHEST2.txt" // cchest2_map05,22,32coopfix.wad
 include "mapinfo/CCHEST3.txt" // cchest3_map07,15,17,24,31coopfix.wad
@@ -55,6 +57,7 @@ include "mapinfo/JENESIS.txt" // jenesis.wad
 include "mapinfo/JIFFY.txt" // jiffybag.wad
 include "mapinfo/JPCP.txt" // jpcp_map11coopfix.wad
 include "mapinfo/LDOE.txt" // LASTEP1.WAD
+include "mapinfo/LONGTREK.txt" // longtrek.wad
 include "mapinfo/LOSTCIV.txt" // joi_lstcv15.wad
 include "mapinfo/KSSHT.txt" // kssht.wad
 include "mapinfo/KSUTRA.txt" // ksutra.wad
@@ -77,6 +80,8 @@ include "mapinfo/SD20X6.txt" // stardate20x6.wad
 include "mapinfo/SD20X7.txt" // sd20x7.wad
 include "mapinfo/SUNLUST.txt" // sunlust_map27coopfix.wad
 include "mapinfo/SWIDEATH.txt" // swideath.wad
+include "mapinfo/SWITCHEROOM2.txt" // swtchrm2.wad
+include "mapinfo/SWITCHEROOM2X.txt" // SRForgotten2.wad
 include "mapinfo/TEAMROCKET1.txt" // trocket.wad
 include "mapinfo/TEAMROCKET2.txt" // trocket2-b1.wad
 include "mapinfo/TVR.txt" // TVR!.WAD

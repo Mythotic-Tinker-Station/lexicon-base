@@ -3,6 +3,11 @@
 //D_AALI01
 //D_AALI40
 
+// Bloodspeed
+BDSP33
+1 D_BDSP33
+2 D_BDSP34
+
 // Fore/vr/ Alone
 FVRA12
 1 D_FVRA40

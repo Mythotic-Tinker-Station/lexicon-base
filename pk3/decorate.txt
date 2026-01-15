@@ -36,6 +36,7 @@
 #include "decorate/SNLU.txt" // Sunlust
 #include "decorate/MY17.txt" // Super MAYhem 17
 #include "decorate/TMR1.txt" // Team Rocket: Blasting Off at the Speed of Mapping
+#include "decorate/D2TK.txt" // The Long Trek Back Home
 #include "decorate/UACU.txt" // UAC Ultra
 #include "decorate/UHRN.txt" // Unholy Realms
 #include "decorate/VLNT.txt" // Valiant: Vaccinated Edition
