@@ -355,20 +355,6 @@ switch BDSP0835 on pic BDSP0836 tics 0
 switch BDSP0839 on pic BDSP0842 tics 0
 switch BDSP0840 on pic BDSP0841 tics 0
 
-// Bloody Steel
-texture BDSL0162 range BDSL0165 tics 8
-texture BDSL0166 range BDSL0169 tics 8 allowdecals
-texture BDSL0170 range BDSL0172 tics 8
-texture BDSL0717 range BDSL0720 tics 8
-texture BDSL0721 range BDSL0724 tics 8
-switch BDSL0178 on pic BDSL0190 tics 0
-switch BDSL0179 on pic BDSL0191 tics 0
-switch BDSL0180 on pic BDSL0192 tics 0
-switch BDSL0181 on pic BDSL0193 tics 0
-switch BDSL0182 on pic BDSL0594 tics 0
-switch BDSL0183 on pic BDSL0195 tics 0
-switch BDSL0185 on pic BDSL0197 tics 0
-
 // Chainworm Kommando
 texture	CWKM0098 range CWKM0101 tics 8
 texture CWKM0130 range CWKM0132 tics 4

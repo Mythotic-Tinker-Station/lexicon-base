@@ -1,7 +1,6 @@
 #include "decorate/4MVR.txt" // 400 Minutes of /vr/
 #include "decorate/ALVD.txt" // Alien Vendetta
 #include "decorate/AALI.txt" // Ancient Aliens
-#include "decorate/BDSL.txt" // Bloody Steel
 #include "decorate/C241.txt" // Congestion 1024
 #include "decorate/D2RL.txt" // Doom 2 Reloaded
 #include "decorate/D2WD.txt" // Doom 2 the Way id Did
