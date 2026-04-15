@@ -1,12 +1,4 @@
-# Lexicon Base Map Pack
-This Repo contains the main map pack to be used for lexicon. This set will only contain a subset of mapsets. This file is required to run along side lexicon itself
+# ATTENTION
+## This repository has been deprecated in favor of using the main repo: https://github.com/Mythotic-Tinker-Station/lexicon
 
-## How to build the pk3?
-Will put info later
-
-## Where can I play this?
-Will put info later
-
-## Credits
-
-Insert credits here
+# THIS REPO IS OUTDATED AND SHOULD NOT BE USED ANYMORE!
